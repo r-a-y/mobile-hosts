@@ -26,7 +26,7 @@ foreach ( $lists as $name => $list ) {
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
 		// Skip filter if matches the following:
-		if ( false === strpos( $filter, '^' ) ) {
+		if ( false === strpos( $filter, '.' ) ) {
 			continue;
 		}
 		if ( false !== strpos( $filter, '*' ) ) {
@@ -36,6 +36,9 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 		if ( false !== strpos( $filter, '=' ) ) {
+			continue;
+		}
+		if ( false !== strpos( $filter, '#' ) ) {
 			continue;
 		}
 
