@@ -6,7 +6,10 @@ $lists = array(
 	'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
 
 	// Mobile Tracking + Spyware
-	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt'
+	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
+
+	// Disconnect Tracking
+	'DisconnectTracking' => 'https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt',
 );
 
 foreach ( $lists as $name => $list ) {
