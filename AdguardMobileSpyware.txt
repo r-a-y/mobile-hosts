@@ -1,9 +1,11 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Mon, 10 Jul 2017 00:40:07 +0100
+# Last converted - Thu, 13 Jul 2017 00:35:11 +0100
 #
 
+0.0.0.0 sync.adotmob.com
+0.0.0.0 tracker.adotmob.com
 0.0.0.0 measuread.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 app.roximity.com
