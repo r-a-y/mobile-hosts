@@ -44,6 +44,9 @@ foreach ( $lists as $name => $list ) {
 		if ( false !== strpos( $filter, '#' ) ) {
 			continue;
 		}
+		if ( false !== strpos( $filter, ' ' ) ) {
+			continue;
+		}
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party and $popup?
