@@ -1,6 +1,6 @@
 ## Mobile HOSTS
 
-HOSTS files converted from various mobile filter lists to prevent ads and tracking.
+HOSTS files converted or sourced from various mobile filter lists to prevent ads and tracking.
 
 Currently includes:
 - [Adguard Mobile Ads](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardMobileAds.txt) (from [Adguard](https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/adservers.txt))
@@ -8,6 +8,10 @@ Currently includes:
 - [Disconnect Tracking](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/DisconnectTracking.txt) (from [Disconnect](https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt))
 
 These lists will be updated from time-to-time.  To update them yourself, the repo includes a PHP-CLI script (`converter.php`) that converts ad filter lists into HOSTS files.  View the source for more details.  Send a pull request if you want me to add a specific filter list.
+
+#### Other good HOSTS files
+- [YHosts English](https://raw.githubusercontent.com/vokins/yhosts/master/data/union/en.txt) ([Source](https://github.com/vokins/yhosts/blob/master/data/union/en.txt))
+- [10ZiN iOS Ads](https://raw.githubusercontent.com/10ZiN/10ZiN.github.io/master/downloads/iOSAds.txt) ([Source](https://github.com/10ZiN/10ZiN.github.io/blob/master/downloads/iOSAds.txt))
 
 #### How to use?
 
