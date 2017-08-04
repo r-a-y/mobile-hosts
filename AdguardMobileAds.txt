@@ -1,11 +1,24 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Mon, 31 Jul 2017 16:52:27 +0100
+# Last converted - Fri, 04 Aug 2017 20:37:49 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 sync.mobojoy.baidu.com
+0.0.0.0 api.mobojoy.baidu.com
+0.0.0.0 js.mobojoy.baidu.com
+0.0.0.0 ufz.doesxyz.com
+0.0.0.0 id1.cn
+0.0.0.0 xdrig.com
+0.0.0.0 usp1.baidu.com
+0.0.0.0 i2.myapkcdn.in
+0.0.0.0 admin.appnext.com
+0.0.0.0 c3.myapkcdn.in
+0.0.0.0 54.222.186.106
+0.0.0.0 plugin.mobopay.baidu.com
+0.0.0.0 mo.freeindoapp.com
 0.0.0.0 holder.com.ua
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 ad.period-calendar.com
