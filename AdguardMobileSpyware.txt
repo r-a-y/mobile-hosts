@@ -1,9 +1,10 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Mon, 31 Jul 2017 16:52:27 +0100
+# Last converted - Fri, 04 Aug 2017 20:37:50 +0100
 #
 
+0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 logger.cloudmobi.net
