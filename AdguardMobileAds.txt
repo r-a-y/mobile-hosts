@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 04 Aug 2017 20:37:49 +0100
+# Last converted - Mon, 28 Aug 2017 18:40:30 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -19,6 +19,13 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 recreativ.ru
+0.0.0.0 xz15801.com
+0.0.0.0 023hysj.com
+0.0.0.0 lxqcgj.com
+0.0.0.0 inclk.com
+0.0.0.0 betsonsport.ru
+0.0.0.0 m.mrsasharingspace.com
 0.0.0.0 holder.com.ua
 0.0.0.0 crosspromotion-us.avosapps.us
 0.0.0.0 ad.period-calendar.com
@@ -531,7 +538,6 @@
 0.0.0.0 mobile.mng-ads.com
 0.0.0.0 mobile333.com
 0.0.0.0 mobileads.msn.com
-0.0.0.0 mobileapptracking.com
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 moboland.net
@@ -620,7 +626,6 @@
 0.0.0.0 r7mediar.com
 0.0.0.0 rbnt.org
 0.0.0.0 reate.info
-0.0.0.0 recreativ.ru
 0.0.0.0 rek.mobi
 0.0.0.0 reklamz.com
 0.0.0.0 relap.io
