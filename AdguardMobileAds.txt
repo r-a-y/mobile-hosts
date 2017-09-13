@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Mon, 28 Aug 2017 18:40:30 +0100
+# Last converted - Wed, 13 Sep 2017 22:57:47 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -20,6 +20,11 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
+0.0.0.0 hqsjc.com
+0.0.0.0 api.ad-locus.com
+0.0.0.0 m.nbhaosheng168.com
+0.0.0.0 m.jakc0.com
+0.0.0.0 s.nvrentao8.com
 0.0.0.0 xz15801.com
 0.0.0.0 023hysj.com
 0.0.0.0 lxqcgj.com
@@ -437,7 +442,6 @@
 0.0.0.0 gwallet.com
 0.0.0.0 h12-media.com
 0.0.0.0 ha-api.pushwoosh.com
-0.0.0.0 hastrk1.com
 0.0.0.0 heyzap.com
 0.0.0.0 himediads.com
 0.0.0.0 hormebets.info
