@@ -7,6 +7,9 @@ $lists = array(
 
 	// Mobile Tracking + Spyware
 	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
+
+	// Adguard Apps
+	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
 );
 
 foreach ( $lists as $name => $list ) {
