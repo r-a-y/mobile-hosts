@@ -1,9 +1,10 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Mon, 28 Aug 2017 18:40:31 +0100
+# Last converted - Wed, 13 Sep 2017 22:57:47 +0100
 #
 
+0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 track.adform.net
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 api.miui.security.xiaomi.com
