@@ -1,9 +1,10 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Mon, 25 Sep 2017 19:13:21 +0100
+# Last converted - Wed, 04 Oct 2017 18:58:32 +0100
 #
 
+0.0.0.0 wzrkt.com
 0.0.0.0 e.apsalar.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
