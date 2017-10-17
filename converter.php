@@ -50,7 +50,7 @@ foreach ( $lists as $name => $list ) {
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party and $popup?
-		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$popup' ), '', $filter );
+		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$popup', '$empty' ), '', $filter );
 		$hosts .= "0.0.0.0 {$filter}\n";
 	}
 
