@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Tue, 17 Oct 2017 18:46:26 +0100
+# Last converted - Wed, 01 Nov 2017 17:22:56 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -21,6 +21,11 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
+0.0.0.0 upsight-api.com
+0.0.0.0 gdn.bigfishgames.com
+0.0.0.0 883.engine.mobileapptracking.com
+0.0.0.0 adops.cricbuzz.com
+0.0.0.0 ad.daum.net
 0.0.0.0 etcodes.com
 0.0.0.0 onedrive.su
 0.0.0.0 cdn.hdat.xyz
