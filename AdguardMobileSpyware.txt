@@ -1,10 +1,19 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Tue, 17 Oct 2017 18:46:26 +0100
+# Last converted - Wed, 08 Nov 2017 00:58:43 +0000
 #
 
 0.0.0.0 app.adjust.com
+0.0.0.0 android.bugly.qq.com
+0.0.0.0 astat.bugly.qq.com
+0.0.0.0 ios.bugly.qq.com
+0.0.0.0 fdplttrk.com
+0.0.0.0 tracking.trnox.com
+0.0.0.0 rts.mobula.sdk.duapps.com
+0.0.0.0 aftonbladetnya.sc.omtrdc.net
+0.0.0.0 omni-ads.omni.news
+0.0.0.0 npario-inc.net
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 wzrkt.com
