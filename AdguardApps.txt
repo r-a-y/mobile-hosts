@@ -1,9 +1,10 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Wed, 13 Sep 2017 22:57:47 +0100
+# Last converted - Wed, 08 Nov 2017 00:58:44 +0000
 #
 
+0.0.0.0 tkmftc.aotter.net
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adpush.goforandroid.com
@@ -22,7 +23,6 @@
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 banners.etermax.com
 0.0.0.0 d27tpsznug51gz.cloudfront.net
-0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 adeventtracker.spotify.com
