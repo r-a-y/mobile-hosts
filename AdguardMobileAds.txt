@@ -1,11 +1,19 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 01 Nov 2017 17:22:56 +0000
+# Last converted - Wed, 08 Nov 2017 00:58:43 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 api.mobula.ds.duapps.com
+0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 noxagile.duapp.com
+0.0.0.0 common.duapps.com
+0.0.0.0 pasta.esfile.duapps.com
+0.0.0.0 api.mobula.sdk.duapps.com
+0.0.0.0 mobula.ssl2.duapps.com
+0.0.0.0 ad.duapps.com
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 api.mobojoy.baidu.com
 0.0.0.0 js.mobojoy.baidu.com
@@ -21,9 +29,12 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
+0.0.0.0 d32z5ni8t5127x.cloudfront.net
+0.0.0.0 sumatoad.com
 0.0.0.0 upsight-api.com
 0.0.0.0 gdn.bigfishgames.com
 0.0.0.0 883.engine.mobileapptracking.com
+0.0.0.0 ads.cricbuzz.com
 0.0.0.0 adops.cricbuzz.com
 0.0.0.0 ad.daum.net
 0.0.0.0 etcodes.com
