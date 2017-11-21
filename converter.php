@@ -10,6 +10,9 @@ $lists = array(
 
 	// Adguard Apps
 	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
+
+	// Adguard DNS
+	'AdguardDNS' => 'https://filters.adtidy.org/extension/chromium/filters/15.txt',
 );
 
 foreach ( $lists as $name => $list ) {
