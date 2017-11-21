@@ -1,10 +1,12 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Wed, 08 Nov 2017 00:58:43 +0000
+# Last converted - Tue, 21 Nov 2017 23:32:46 +0000
 #
 
 0.0.0.0 app.adjust.com
+0.0.0.0 tktracker.aotter.net
+0.0.0.0 tkrecorder.aotter.net
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 astat.bugly.qq.com
 0.0.0.0 ios.bugly.qq.com
