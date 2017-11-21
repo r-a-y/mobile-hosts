@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 08 Nov 2017 00:58:43 +0000
+# Last converted - Tue, 21 Nov 2017 23:32:46 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -29,6 +29,8 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
+0.0.0.0 us.3zs0.date
+0.0.0.0 tkmftc.aotter.net
 0.0.0.0 d32z5ni8t5127x.cloudfront.net
 0.0.0.0 sumatoad.com
 0.0.0.0 upsight-api.com
