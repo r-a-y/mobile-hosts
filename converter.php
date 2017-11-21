@@ -48,6 +48,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Skip exception rules.
+		if ( false !== strpos( $filter, '@@' ) ) {
+			continue;
+		}
+
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party and $popup?
 		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$popup', '$empty' ), '', $filter );
