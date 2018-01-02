@@ -1,10 +1,11 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Thu, 21 Dec 2017 08:25:08 +0000
+# Last converted - Tue, 02 Jan 2018 21:59:57 +0000
 #
 
 0.0.0.0 app.adjust.com
+0.0.0.0 sts.batmobi.net
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 event.allnews.uodoo.com
 0.0.0.0 tktracker.aotter.net
@@ -183,7 +184,6 @@
 0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nrc.tapas.net
 0.0.0.0 oc.umeng.com
-0.0.0.0 onelink.me
 0.0.0.0 online-metrix.net
 0.0.0.0 openstat.net
 0.0.0.0 ping.taplytics.com
