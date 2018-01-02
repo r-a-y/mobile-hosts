@@ -1,9 +1,11 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Tue, 21 Nov 2017 23:32:47 +0000
+# Last converted - Tue, 02 Jan 2018 21:59:58 +0000
 #
 
+0.0.0.0 crosspromotion.weplayer.cc
+0.0.0.0 ad.weplayer.cc
 0.0.0.0 mobile-campaigns.avast.com
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adpush.goforandroid.com
