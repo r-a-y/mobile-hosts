@@ -1,9 +1,19 @@
 # AdguardDNS
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last converted - Mon, 08 Jan 2018 20:06:40 +0000
+# Last converted - Mon, 15 Jan 2018 18:03:59 +0000
 #
 
+0.0.0.0 cpm.wargaming.net
+0.0.0.0 cubicmedia.net
+0.0.0.0 visiweb.top
+0.0.0.0 gcuter.ru
+0.0.0.0 autonewspron.me
+0.0.0.0 degotmo.ru
+0.0.0.0 kdiso.ru
+0.0.0.0 newsportal1.com
+0.0.0.0 pacode.org
+0.0.0.0 tgsmtdata4.pro
 0.0.0.0 gegmanu.info
 0.0.0.0 fnbmlwip.biz
 0.0.0.0 pifvfovy.biz
@@ -1028,7 +1038,6 @@
 0.0.0.0 cpazilla.ru
 0.0.0.0 cpgweb.net
 0.0.0.0 cpl1.ru
-0.0.0.0 cpm.wargaming.net
 0.0.0.0 cpm.worldoftanks.com
 0.0.0.0 cpmsolution.ru
 0.0.0.0 cppgf.com
@@ -3005,6 +3014,7 @@
 0.0.0.0 ztmol.club
 0.0.0.0 zxrtn.com
 0.0.0.0 zycvyudt.com
+0.0.0.0 box.rus.porn
 0.0.0.0 t.xtubetv.net
 0.0.0.0 ad.4ertik.porn
 0.0.0.0 xml.adbetnet.com
@@ -3083,6 +3093,19 @@
 0.0.0.0 tiz.miladynews.ru
 0.0.0.0 tizer.rupornophoto.com
 0.0.0.0 ts2.hockey-talks.com
+0.0.0.0 servicer.mgid.com
+0.0.0.0 tjfot.com
+0.0.0.0 fqsbi.com
+0.0.0.0 zharezhi.info
+0.0.0.0 befirstcdn.com
+0.0.0.0 bleua.ecefibwja.xyz
+0.0.0.0 cebadu.com
+0.0.0.0 roxedltd.co.id
+0.0.0.0 recallen.info
+0.0.0.0 earnco.in
+0.0.0.0 d1qk9ujrmkucbl.cloudfront.net
+0.0.0.0 ssraju3n.com
+0.0.0.0 top-games.me
 0.0.0.0 m73lae5cpmgrv38.com
 0.0.0.0 smartclick.net
 0.0.0.0 3l4r8d61yz.com
@@ -4062,6 +4085,11 @@
 0.0.0.0 js.bulkhentai.com
 0.0.0.0 script.hqpass.com
 0.0.0.0 d2t2on23g4lty1.cloudfront.net
+0.0.0.0 ads.dogusdigital.com
+0.0.0.0 static-ads.akamaized.net
+0.0.0.0 ivr.com.tr
+0.0.0.0 xpornoizlee.com
+0.0.0.0 adzbaba.com
 0.0.0.0 adeko.mobi
 0.0.0.0 hev2ev.com
 0.0.0.0 yebadu.com
@@ -4267,6 +4295,8 @@
 0.0.0.0 webcontadores.com
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
+0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 api.mobula.sdk.duapps.com
 0.0.0.0 noxagile.duapp.com
@@ -4288,6 +4318,11 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 hqsjc.com
+0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 rtb.kds.media
+0.0.0.0 splicky.com
+0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 adn.insight.ucweb.com
 0.0.0.0 us.3zs0.date
@@ -6235,6 +6270,7 @@
 0.0.0.0 cointraffic.in
 0.0.0.0 cointraffic.io
 0.0.0.0 coinzilla.io
+0.0.0.0 colleable.info
 0.0.0.0 collection-day.com
 0.0.0.0 collective-media.net
 0.0.0.0 colliersads.com
@@ -6544,6 +6580,7 @@
 0.0.0.0 electosake.com
 0.0.0.0 elefantsearch.com
 0.0.0.0 elvate.net
+0.0.0.0 ematicsolutions.com
 0.0.0.0 emberads.com
 0.0.0.0 embraceablemidpointcinnabar.com
 0.0.0.0 emediate.ch
@@ -7889,6 +7926,7 @@
 0.0.0.0 predictad.com
 0.0.0.0 predictiondisplay.com
 0.0.0.0 predictivadnetwork.com
+0.0.0.0 predictivadvertising.com
 0.0.0.0 prestadsng.com
 0.0.0.0 prexista.com
 0.0.0.0 prf.hn
@@ -8776,6 +8814,7 @@
 0.0.0.0 wafmedia3.com
 0.0.0.0 wafmedia5.com
 0.0.0.0 wafmedia6.com
+0.0.0.0 waframedia20.com
 0.0.0.0 waframedia3.com
 0.0.0.0 waframedia5.com
 0.0.0.0 waframedia7.com
@@ -8813,6 +8852,7 @@
 0.0.0.0 weborama.fr
 0.0.0.0 weborama.io
 0.0.0.0 webseeds.com
+0.0.0.0 webtradehub.com
 0.0.0.0 webtraffic.ttinet.com
 0.0.0.0 webusersurvey.com
 0.0.0.0 wegetpaid.net
@@ -8859,6 +8899,7 @@
 0.0.0.0 wwv4ez0n.com
 0.0.0.0 wwwadcntr.com
 0.0.0.0 wwwp.link
+0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.mochiads.com
 0.0.0.0 x107nqa.com
 0.0.0.0 x4300tiz.com
@@ -9973,6 +10014,7 @@
 0.0.0.0 urahor9u.com
 0.0.0.0 viuboin4.com
 0.0.0.0 yie4zooseif.info
+0.0.0.0 .bid
 0.0.0.0 aadbobwqgmzi.com
 0.0.0.0 aanvxbvkdxph.com
 0.0.0.0 aaqpajztftqw.com
@@ -10240,6 +10282,7 @@
 0.0.0.0 cyxagtpeggjv.com
 0.0.0.0 czcbkaptwfmv.com
 0.0.0.0 czcyppdffuhh.com
+0.0.0.0 czfavkwdmmpp.bid
 0.0.0.0 czgeitdowtlv.com
 0.0.0.0 czoivochvduv.com
 0.0.0.0 czppmlbidjdx.com
@@ -10585,6 +10628,7 @@
 0.0.0.0 hbbwlhxfnbpq.com
 0.0.0.0 hbedvoyluzmq.com
 0.0.0.0 hbrbtmjyvdsy.com
+0.0.0.0 hbrsqluft.bid
 0.0.0.0 hbvnnwtoonhh.com
 0.0.0.0 hbzzkwsuaooc.com
 0.0.0.0 hcggkyhzxzsv.com
@@ -10701,6 +10745,7 @@
 0.0.0.0 iknctklddhoh.com
 0.0.0.0 ikvfgsftmyhn.com
 0.0.0.0 ikvltjooosqh.com
+0.0.0.0 ikvuvztmvvro.bid
 0.0.0.0 ilrxikdjozlk.com
 0.0.0.0 ilsivrexvpyv.com
 0.0.0.0 ilvibsabwuza.com
@@ -10810,6 +10855,7 @@
 0.0.0.0 joqpatxugyug.com
 0.0.0.0 jorndvyzchaq.com
 0.0.0.0 jovepjufhmmw.com
+0.0.0.0 joxocqrbxe.bid
 0.0.0.0 jpflmmxdflmm.com
 0.0.0.0 jpncpftyxliq.com
 0.0.0.0 jpuiucicqwan.com
@@ -10887,6 +10933,7 @@
 0.0.0.0 klfqffhvdpkd.com
 0.0.0.0 klmvharqoxdq.com
 0.0.0.0 klrdsagmuepg.com
+0.0.0.0 kmdwifcjtbk.bid
 0.0.0.0 kmtubsbmwdep.com
 0.0.0.0 kmveerigfvyy.com
 0.0.0.0 kmvupiadkzdn.com
@@ -11144,6 +11191,7 @@
 0.0.0.0 nefczemmdcqi.com
 0.0.0.0 nefxtwxk.com
 0.0.0.0 negdrvgo.com
+0.0.0.0 nemzdfjnyqy.bid
 0.0.0.0 nfdntqlqrgwc.com
 0.0.0.0 nfniziqm.com
 0.0.0.0 nfnssadfhxov.com
@@ -11247,6 +11295,7 @@
 0.0.0.0 okgfvcourjeb.com
 0.0.0.0 okmuxdbq.com
 0.0.0.0 oknmanswftcd.com
+0.0.0.0 okvfijgdmqton.bid
 0.0.0.0 okvmsjyrremu.com
 0.0.0.0 olctpejrnnfh.com
 0.0.0.0 olthlikechgq.com
@@ -11347,6 +11396,8 @@
 0.0.0.0 ppxrlfhsouac.com
 0.0.0.0 ppzfvypsurty.com
 0.0.0.0 pqdysthxgrpz.com
+0.0.0.0 pqncneoumiibc.bid
+0.0.0.0 pqowedazx.bid
 0.0.0.0 pqoznetbeeza.com
 0.0.0.0 pqwaaocbzrob.com
 0.0.0.0 praeicwgzapf.com
@@ -11655,6 +11706,7 @@
 0.0.0.0 tevrhhgzzutw.com
 0.0.0.0 teyuzyrjmrdi.com
 0.0.0.0 tfbzzigqzbax.com
+0.0.0.0 tflmiurze.bid
 0.0.0.0 tfqzkesrzttj.com
 0.0.0.0 tftsbqbeuthh.com
 0.0.0.0 tftwmyrkbzkf.com
@@ -12113,6 +12165,7 @@
 0.0.0.0 ylksuifuyryt.com
 0.0.0.0 ylqezcnlzfsj.com
 0.0.0.0 ymlbuooxppzt.com
+0.0.0.0 ymuhtjftw.bid
 0.0.0.0 ynlrfiwj.com
 0.0.0.0 ynrbxyxmvihoydoduefogolpzgdlpnejalxldwjlnsolmismqd.com
 0.0.0.0 ynxrrzgfkuih.com
@@ -12741,8 +12794,10 @@
 0.0.0.0 a.zorbikala.com
 0.0.0.0 a.zortinah.com
 0.0.0.0 voodoo.com
+0.0.0.0 medialogger.ru
+0.0.0.0 log.aliyuncs.com
+0.0.0.0 rtbanalytics.com
 0.0.0.0 waust.at
-0.0.0.0 t2.hulu.com
 0.0.0.0 168logger.com
 0.0.0.0 isterra.ru
 0.0.0.0 user-clicks.com
@@ -12795,7 +12850,6 @@
 0.0.0.0 px.reactrmod.com
 0.0.0.0 dep-x.com
 0.0.0.0 ns336739.ip-37-187-249.eu
-0.0.0.0 popin.cc
 0.0.0.0 w1jesu6.package12.com
 0.0.0.0 quantcount.com
 0.0.0.0 fandommetrics.com
@@ -15925,6 +15979,9 @@
 0.0.0.0 wirecomic.com
 0.0.0.0 xovq5nemr.com
 0.0.0.0 zbwp6ghm.com
+0.0.0.0 felix.data.tm-awx.com
+0.0.0.0 collect.data.tm-awx.com
+0.0.0.0 t2.hulu.com
 0.0.0.0 analytics-ingress.bitmovin.com
 0.0.0.0 analytics.rotapost.ru
 0.0.0.0 t.premii.com
