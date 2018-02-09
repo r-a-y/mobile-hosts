@@ -1,9 +1,10 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Mon, 15 Jan 2018 18:03:58 +0000
+# Last converted - Fri, 09 Feb 2018 19:05:54 +0000
 #
 
+0.0.0.0 m.yap.yahoo.com
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 mobile-campaigns.avast.com
@@ -20,7 +21,6 @@
 0.0.0.0 mtag.mman.kr
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 api.ads.watchabc.go.com
-0.0.0.0 banners.etermax.com
 0.0.0.0 d27tpsznug51gz.cloudfront.net
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad2play.ftv-publicite.fr
