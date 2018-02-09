@@ -1,10 +1,11 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Tue, 02 Jan 2018 21:59:57 +0000
+# Last converted - Fri, 09 Feb 2018 19:05:52 +0000
 #
 
 0.0.0.0 app.adjust.com
+0.0.0.0 api.instabug.com
 0.0.0.0 sts.batmobi.net
 0.0.0.0 pps-log.op-mobile.opera.com
 0.0.0.0 event.allnews.uodoo.com
@@ -22,7 +23,6 @@
 0.0.0.0 engine.mobileapptracking.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 wzrkt.com
-0.0.0.0 e.apsalar.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 collector-axa.cloud.ca.com
@@ -152,7 +152,6 @@
 0.0.0.0 demdex.net
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 ep.xone.com
-0.0.0.0 etl.tindersparks.com
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 events.lbesecapi.com
 0.0.0.0 fcanr.tracking.miui.com
