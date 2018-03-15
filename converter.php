@@ -57,8 +57,24 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Replace filter syntax with HOSTS syntax.
-		// @todo Perhaps skip $third-party and $popup?
-		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$popup', '$empty' ), '', $filter );
+		// @todo Perhaps skip $third-party, $image and $popup?
+		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$image', ',image', ',script', ',object', '$popup', '$empty' ), '', $filter );
+
+		// Skip rules matching 'xmlhttprequest' for now.
+		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
+			continue;
+		}
+
+		// Skip exclusion rules.
+		if ( false !== strpos( $filter, '~' ) ) {
+			continue;
+		}
+
+		// If starting or ending with '.', skip.
+		if ( '.' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
+			continue;
+		}
+
 		$hosts .= "0.0.0.0 {$filter}\n";
 	}
 
