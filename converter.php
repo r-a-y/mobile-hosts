@@ -13,6 +13,9 @@ $lists = array(
 
 	// Adguard DNS
 	'AdguardDNS' => 'https://filters.adtidy.org/extension/chromium/filters/15.txt',
+
+	// EasyPrivacy Specific
+	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
 );
 
 foreach ( $lists as $name => $list ) {
