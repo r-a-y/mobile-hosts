@@ -1,10 +1,12 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Mon, 19 Mar 2018 17:06:57 +0000
+# Last converted - Fri, 23 Mar 2018 20:37:55 +0000
 #
 
 0.0.0.0 app.adjust.com
+0.0.0.0 alog.umeng.co
+0.0.0.0 oc.umeng.co
 0.0.0.0 m.vpadn.com
 0.0.0.0 api.instabug.com
 0.0.0.0 sts.batmobi.net
