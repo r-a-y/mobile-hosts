@@ -16,6 +16,9 @@ $lists = array(
 
 	// EasyPrivacy Specific
 	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
+
+	// EasyPrivacy Third-Party
+	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
 );
 
 foreach ( $lists as $name => $list ) {
