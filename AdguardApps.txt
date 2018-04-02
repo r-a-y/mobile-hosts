@@ -1,33 +1,10 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Thu, 15 Mar 2018 16:52:24 +0000
+# Last converted - Mon, 02 Apr 2018 21:34:18 +0100
 #
 
-0.0.0.0 behacdn.ksmobile.net
-0.0.0.0 cmdts.ksmobile.com
-0.0.0.0 p-behacdn.ksmobile.net
-0.0.0.0 m.yap.yahoo.com
-0.0.0.0 crosspromotion.weplayer.cc
-0.0.0.0 ad.weplayer.cc
-0.0.0.0 mobile-campaigns.avast.com
-0.0.0.0 advs2sonline.goforandroid.com
-0.0.0.0 adpush.goforandroid.com
-0.0.0.0 advonline.goforandroid.com
-0.0.0.0 dzpu6za66svjl.cloudfront.net
-0.0.0.0 ad.api.kaffnet.com
-0.0.0.0 ad.flipboard.com
-0.0.0.0 abroad-ad.kingsoft-office-service.com
-0.0.0.0 adserver.shadow.snapads.com
-0.0.0.0 ads-chunks.prod.ihrhls.com
 0.0.0.0 afreeca-tag.ad-mapps.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 etl.tindersparks.com
-0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 d27tpsznug51gz.cloudfront.net
-0.0.0.0 ad.prismamediadigital.com
-0.0.0.0 ad2play.ftv-publicite.fr
-0.0.0.0 adeventtracker.spotify.com
-0.0.0.0 do-not-tracker.org
-0.0.0.0 eviltracker.net
-0.0.0.0 trackersimulator.org
