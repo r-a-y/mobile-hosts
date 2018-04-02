@@ -1,13 +1,31 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 23 Mar 2018 20:37:54 +0000
+# Last converted - Mon, 02 Apr 2018 21:34:13 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
+0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 cmdts.ksmobile.com
+0.0.0.0 p-behacdn.ksmobile.net
+0.0.0.0 m.yap.yahoo.com
+0.0.0.0 crosspromotion.weplayer.cc
+0.0.0.0 ad.weplayer.cc
+0.0.0.0 mobile-campaigns.avast.com
+0.0.0.0 advs2sonline.goforandroid.com
+0.0.0.0 adpush.goforandroid.com
+0.0.0.0 advonline.goforandroid.com
+0.0.0.0 dzpu6za66svjl.cloudfront.net
+0.0.0.0 ad.api.kaffnet.com
+0.0.0.0 ad.flipboard.com
+0.0.0.0 adserver.shadow.snapads.com
+0.0.0.0 ads-chunks.prod.ihrhls.com
+0.0.0.0 api.ads.watchabc.go.com
+0.0.0.0 ad.prismamediadigital.com
+0.0.0.0 ad2play.ftv-publicite.fr
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 noxagile.duapp.com
@@ -31,6 +49,8 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
+0.0.0.0 abroad-ad.kingsoft-office-service.com
+0.0.0.0 cdn.adbert.info
 0.0.0.0 agent.tamedia.com.tw
 0.0.0.0 www.adbert.com.tw
 0.0.0.0 tw.api.vpon.com
