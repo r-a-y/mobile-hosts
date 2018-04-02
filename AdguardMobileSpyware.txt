@@ -1,10 +1,19 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Fri, 23 Mar 2018 20:37:55 +0000
+# Last converted - Mon, 02 Apr 2018 21:34:17 +0100
 #
 
+0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 do-not-tracker.org
+0.0.0.0 eviltracker.net
+0.0.0.0 trackersimulator.org
 0.0.0.0 app.adjust.com
+0.0.0.0 analytics.any.do
+0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 oc.umeng.co
 0.0.0.0 m.vpadn.com
