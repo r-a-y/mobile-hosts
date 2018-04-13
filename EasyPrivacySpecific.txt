@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 06 Apr 2018 23:50:19 +0100
+# Last converted - Fri, 13 Apr 2018 22:58:37 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -212,9 +212,6 @@
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 felitb.rightinthebox.com
-0.0.0.0 fls-eu.amazon.co.uk
-0.0.0.0 fls-eu.amazon.com
-0.0.0.0 fls-na.amazon.ca
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
@@ -469,6 +466,7 @@
 0.0.0.0 ssl-stats.wordpress.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
+0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 statistics.crowdynews.com
@@ -689,4 +687,5 @@
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 piti.bplaced.net
+0.0.0.0 video.videos.vidto.me
 0.0.0.0 worker.salon.com
