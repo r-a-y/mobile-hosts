@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last converted - Tue, 01 May 2018 16:49:53 +0100
+# Last converted - Thu, 03 May 2018 17:42:23 +0100
 #
 
+0.0.0.0 harolmo.ru
+0.0.0.0 native.ext.media
 0.0.0.0 tle.ru
 0.0.0.0 bearsandfish.com
 0.0.0.0 pelicansource.com
@@ -4398,6 +4400,7 @@
 0.0.0.0 js.bulkhentai.com
 0.0.0.0 script.hqpass.com
 0.0.0.0 d2t2on23g4lty1.cloudfront.net
+0.0.0.0 ucretsiz-indirin.online
 0.0.0.0 whatsapp-chat.xyz
 0.0.0.0 whatsappsohbetet.com
 0.0.0.0 installads.org
@@ -4573,6 +4576,7 @@
 0.0.0.0 winaffiliates.com
 0.0.0.0 xpornoizlex.net
 0.0.0.0 xyztanitim.com
+0.0.0.0 campaign.nmobs.com
 0.0.0.0 bultenler.klscdn.com
 0.0.0.0 kos.interseek.si
 0.0.0.0 eotech-yoqblou5gqrdrn.netdna-ssl.com
@@ -4659,6 +4663,7 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 hqsjc.com
+0.0.0.0 init.startappservice.com
 0.0.0.0 valshara.com
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 abroad-ad.kingsoft-office-service.com
@@ -7251,6 +7256,7 @@
 0.0.0.0 geovisite.com
 0.0.0.0 germarked.info
 0.0.0.0 gestionpub.com
+0.0.0.0 get.com
 0.0.0.0 getfuneta.info
 0.0.0.0 getgamers.eu
 0.0.0.0 getgscfree.com
@@ -10546,6 +10552,7 @@
 0.0.0.0 1elllwrite.com
 0.0.0.0 2delllwrite.com
 0.0.0.0 2el-2el-fie.com
+0.0.0.0 4dtrk.com
 0.0.0.0 bandelcot.com
 0.0.0.0 belwrite.com
 0.0.0.0 bip-bip-blip.com
@@ -10555,6 +10562,7 @@
 0.0.0.0 bobblewrite.com
 0.0.0.0 bororango.com
 0.0.0.0 cap-cap-pop.com
+0.0.0.0 cash-ca-ching.com
 0.0.0.0 catwrite.com
 0.0.0.0 centwrite.com
 0.0.0.0 cold-cold-freezing.com
@@ -10590,6 +10598,7 @@
 0.0.0.0 razwrite.com
 0.0.0.0 rick-rick-rob.com
 0.0.0.0 sel-sel-fie.com
+0.0.0.0 selwrite.com
 0.0.0.0 tek-tek-trek.com
 0.0.0.0 tel-tel-fie.com
 0.0.0.0 tic-tic-bam.com
@@ -10600,6 +10609,7 @@
 0.0.0.0 toodlepork.com
 0.0.0.0 tororango.com
 0.0.0.0 torpsol.com
+0.0.0.0 torrango.com
 0.0.0.0 totifiquo.com
 0.0.0.0 tur-tur-key.com
 0.0.0.0 uel-uel-fie.com
@@ -10608,7 +10618,9 @@
 0.0.0.0 vacwrite.com
 0.0.0.0 vip-vip-vup.com
 0.0.0.0 wel-wel-fie.com
+0.0.0.0 welllwrite.com
 0.0.0.0 wrierville.com
+0.0.0.0 xel-xel-fie.com
 0.0.0.0 xelllwrite.com
 0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 zel-zel-fie.com
@@ -11065,6 +11077,7 @@
 0.0.0.0 cuguwxkasghy.com
 0.0.0.0 cuhicevdjsfey.com
 0.0.0.0 cvffhevoebnz.com
+0.0.0.0 cwdnbhhmdnm.com
 0.0.0.0 cwliihvsjckn.com
 0.0.0.0 cwmycjoddoq.com
 0.0.0.0 cwofongvtbsi.com
@@ -11327,6 +11340,7 @@
 0.0.0.0 evlvaulglzpu.com
 0.0.0.0 evszxlad.com
 0.0.0.0 evtfjieqjhvf.com
+0.0.0.0 ewbejjirdygik.com
 0.0.0.0 ewgtanybkkch.com
 0.0.0.0 ewpqmptpavn.com
 0.0.0.0 ewsawnbf.com
@@ -11998,6 +12012,7 @@
 0.0.0.0 jryywrczwcfmw.com
 0.0.0.0 jseewggtkfrs.com
 0.0.0.0 jshjrozmwmyj.com
+0.0.0.0 jtbmxdoadktnm.com
 0.0.0.0 jtumenosmrte.com
 0.0.0.0 jtypnunbjzma.com
 0.0.0.0 jtzlsdmbmfms.com
@@ -12268,6 +12283,7 @@
 0.0.0.0 lstkfdmmxbmv.com
 0.0.0.0 ltedbswmryh.com
 0.0.0.0 ltfroezjyyhv.com
+0.0.0.0 ltnfhltuksarpq.com
 0.0.0.0 lttsvesujmry.com
 0.0.0.0 ltwlxoedrydz.com
 0.0.0.0 luhqeqaypvmc.com
@@ -12431,6 +12447,7 @@
 0.0.0.0 mwzutiypqyyx.com
 0.0.0.0 mxsuikhqaggf.com
 0.0.0.0 mxtcafifuufp.com
+0.0.0.0 mxvvvoqbgzdq.com
 0.0.0.0 myawrthcsjc.com
 0.0.0.0 myfrvfxqeimp.com
 0.0.0.0 mzbetmhucxih.com
@@ -12535,6 +12552,7 @@
 0.0.0.0 nselnhbwlm.com
 0.0.0.0 nsnfokcikwf.com
 0.0.0.0 ntbftkhrsrh.com
+0.0.0.0 ntduattgboduk.com
 0.0.0.0 ntndubuzxyfz.com
 0.0.0.0 ntnlawgchgds.com
 0.0.0.0 nuayfpthqlkq.com
@@ -12555,6 +12573,7 @@
 0.0.0.0 nxcxithvcoeh.com
 0.0.0.0 nybpurpgexoe.com
 0.0.0.0 nyqogyaflmln.com
+0.0.0.0 nyzncfurdrdxfi.com
 0.0.0.0 nzcpdaboaayv.com
 0.0.0.0 nzxriltfmrpl.com
 0.0.0.0 oaadkiypttok.com
@@ -12798,6 +12817,7 @@
 0.0.0.0 pxarwmerpavfmomfyjwuuinxaipktnanwlkvbmuldgimposwzm.com
 0.0.0.0 pxgkuwybzuqz.com
 0.0.0.0 pxktkwmrribg.com
+0.0.0.0 pycvhwxtqhknb.com
 0.0.0.0 pydpcqjenhjx.com
 0.0.0.0 pzcpotzdkfyn.com
 0.0.0.0 pzgchrjikhfyueumavkqiccvsdqhdjpljgwhbcobsnjrjfidpq.com
@@ -12844,6 +12864,7 @@
 0.0.0.0 qgraprebabxo.com
 0.0.0.0 qgtbxtex.com
 0.0.0.0 qhqofqeivtno.com
+0.0.0.0 qicggmagur.com
 0.0.0.0 qijffgqsbkii.com
 0.0.0.0 qiktwikahncl.com
 0.0.0.0 qinsmmxvacuh.com
@@ -12906,6 +12927,7 @@
 0.0.0.0 qttmjwno.com
 0.0.0.0 quaizzywzluk.com
 0.0.0.0 qudpdpkxffzt.com
+0.0.0.0 qulsqiqrev.com
 0.0.0.0 qumzxkpexf.com
 0.0.0.0 quqyiobevrc.com
 0.0.0.0 qveuxmbhbhmg.com
@@ -12932,6 +12954,7 @@
 0.0.0.0 rbmjeyiyazcpe.com
 0.0.0.0 rbppnzuxoatx.com
 0.0.0.0 rbrbvedkazkr.com
+0.0.0.0 rbrxrcikro.com
 0.0.0.0 rbsfglbipyfs.com
 0.0.0.0 rbuowrinsjsx.com
 0.0.0.0 rbvfibdsouqz.com
@@ -12984,6 +13007,7 @@
 0.0.0.0 rkvpcjiuumbk.com
 0.0.0.0 rlaiomvkwz.com
 0.0.0.0 rllvjujeyeuy.com
+0.0.0.0 rlpabnhvtu.com
 0.0.0.0 rlqvyqgjkxgx.com
 0.0.0.0 rlszkjkcmjxd.com
 0.0.0.0 rlxmbkwcyw.com
@@ -13065,6 +13089,7 @@
 0.0.0.0 sbdedksgqu.com
 0.0.0.0 sbftffngpzwt.com
 0.0.0.0 sbhnftwdlpbo.com
+0.0.0.0 sbxzvllyahzn.com
 0.0.0.0 scbnvzfscfmn.com
 0.0.0.0 scbywuiojqvh.com
 0.0.0.0 sceuexzmiwrf.com
@@ -13538,6 +13563,7 @@
 0.0.0.0 vwxskpufgwww.com
 0.0.0.0 vxbphudphg.com
 0.0.0.0 vxbtrsqjnjpq.com
+0.0.0.0 vxgplvhuilp.com
 0.0.0.0 vxlpefsjnmws.com
 0.0.0.0 vxncdkrggd.com
 0.0.0.0 vxqhchlyijwu.com
@@ -13630,7 +13656,9 @@
 0.0.0.0 wmgtkgravimge.com
 0.0.0.0 wmhksxycucxb.com
 0.0.0.0 wmjdnluokizo.com
+0.0.0.0 wmmnhcmkhglhl.com
 0.0.0.0 wmvcxgpdgdkz.com
+0.0.0.0 wmvnyunntuuz.com
 0.0.0.0 wmwkwubufart.com
 0.0.0.0 wmxeexfle.com
 0.0.0.0 wnzxwgatxjuf.com
@@ -13678,6 +13706,7 @@
 0.0.0.0 wwgjtcge.com
 0.0.0.0 wwnlyzbedeum.com
 0.0.0.0 wwyblltamlcr.com
+0.0.0.0 wwznjjvkfqnyvy.com
 0.0.0.0 wxdtvssnezam.com
 0.0.0.0 wxjqyqvagefw.com
 0.0.0.0 wxonmzkkldhu.com
@@ -13828,6 +13857,7 @@
 0.0.0.0 ycojhxdobkrd.com
 0.0.0.0 ycpepqbyhvtb.com
 0.0.0.0 yctquwjbbkfa.com
+0.0.0.0 ydthazdza.com
 0.0.0.0 ydxzdniz.com
 0.0.0.0 yehazsnxdevr.com
 0.0.0.0 yejkuusxijvzz.com
@@ -13892,6 +13922,7 @@
 0.0.0.0 yqqxrfhtgcbxz.com
 0.0.0.0 yqrsfisvrilz.com
 0.0.0.0 yqtzhigbiame.com
+0.0.0.0 yqucllrbg.com
 0.0.0.0 yqutkbvrgvar.com
 0.0.0.0 yrfrvrbmipzb.com
 0.0.0.0 yrgnouqinylg.com
@@ -13927,6 +13958,7 @@
 0.0.0.0 yzlwuuzzehjh.com
 0.0.0.0 yzreywobobmw.com
 0.0.0.0 yzsiwyvmgftjuqfoejhypwkmdawtwlpvawzewtrrrdfykqhccq.com
+0.0.0.0 yzuezvrahok.com
 0.0.0.0 yzygkqjhedpw.com
 0.0.0.0 yzzmcxnlvyymt.com
 0.0.0.0 zacbwfgqvxan.com
@@ -13990,6 +14022,7 @@
 0.0.0.0 znfnwozd.com
 0.0.0.0 znmrgzozlohe.com
 0.0.0.0 znnmzggbw.com
+0.0.0.0 znsqykdmcjh.com
 0.0.0.0 znvctmolksaj.com
 0.0.0.0 zohaqnxwkvyt.com
 0.0.0.0 zoileyozfexv.com
@@ -14958,6 +14991,7 @@
 0.0.0.0 zieltracker.de
 0.0.0.0 zyxwvutsrqponmlkjihgfedcbazyxwvutsrqponmlkjihgfedcbazyxwvutsrqp.de
 0.0.0.0 avault.net
+0.0.0.0 recognified.net
 0.0.0.0 bestes-produkt-vong-kaufen-her.de
 0.0.0.0 connor-kauft.de
 0.0.0.0 da-shoppe-ich-gerne.de
@@ -14967,6 +15001,7 @@
 0.0.0.0 i-bims-ein-shopper.de
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 meinelieblingsprodukte.de
+0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 dircont3.com
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 track.omgpl.com
@@ -18525,6 +18560,7 @@
 0.0.0.0 do-not-tracker.org
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
+0.0.0.0 imp.startappservice.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
 0.0.0.0 urbanairship.com
