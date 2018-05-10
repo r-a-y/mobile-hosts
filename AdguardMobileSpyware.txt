@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Thu, 03 May 2018 17:42:21 +0100
+# Last converted - Thu, 10 May 2018 01:47:48 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -142,6 +142,7 @@
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 ar.umeng.com
 0.0.0.0 beacon.carfax.com
