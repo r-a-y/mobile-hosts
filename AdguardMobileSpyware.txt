@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Thu, 10 May 2018 01:47:48 +0100
+# Last converted - Sat, 12 May 2018 07:50:37 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -9,6 +9,11 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
 0.0.0.0 app.adjust.com
+0.0.0.0 sdk.stats-locations.com
+0.0.0.0 config.safedk.com
+0.0.0.0 api.safedk.com
+0.0.0.0 elephantdata.net
+0.0.0.0 sdks.stats-locations.com
 0.0.0.0 imp.startappservice.com
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 storeconfig.mistat.intl.xiaomi.com
