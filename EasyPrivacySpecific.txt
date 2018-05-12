@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 26 Apr 2018 17:01:14 +0100
+# Last converted - Sat, 12 May 2018 07:50:43 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -327,6 +327,7 @@
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 mint.boingboing.net
+0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
 0.0.0.0 mms.cleveland.com
