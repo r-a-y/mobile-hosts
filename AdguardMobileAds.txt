@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 12 May 2018 07:50:36 +0100
+# Last converted - Wed, 16 May 2018 04:14:05 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -49,6 +49,8 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 recreativ.ru
 0.0.0.0 hqsjc.com
+0.0.0.0 deloton.com
+0.0.0.0 oclasrv.com
 0.0.0.0 m-shes.ru
 0.0.0.0 init.startappservice.com
 0.0.0.0 valshara.com
