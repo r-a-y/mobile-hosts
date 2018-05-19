@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 12 May 2018 07:50:43 +0100
+# Last converted - Sat, 19 May 2018 03:27:15 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -195,6 +195,7 @@
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
+0.0.0.0 era.easyvoyage.com
 0.0.0.0 es.puritan.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
@@ -379,11 +380,13 @@
 0.0.0.0 pi.feedsportal.com
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.hungama.com
+0.0.0.0 ping.tvmaze.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
+0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.facebook.com
@@ -793,6 +796,7 @@
 0.0.0.0 wzus1.thesaurus.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
+0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
 0.0.0.0 support.2giga.link
 0.0.0.0 video.videos.vidto.me
