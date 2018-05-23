@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 19 May 2018 03:27:15 +0100
+# Last converted - Thu, 24 May 2018 00:24:44 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -45,6 +45,7 @@
 0.0.0.0 analytics.gorillanation.com
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.iraiser.eu
+0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.mindjolt.com
@@ -117,6 +118,7 @@
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cd.musicmass.com
 0.0.0.0 cdnstats.tube8.com
+0.0.0.0 cem.hotelsapi.io
 0.0.0.0 chkpt.zdnet.com
 0.0.0.0 chunk.bustle.com
 0.0.0.0 cl.expedia.com
@@ -151,6 +153,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
+0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.shopstream.co
 0.0.0.0 collector.shorte.st
 0.0.0.0 collector.statowl.com
@@ -262,6 +265,7 @@
 0.0.0.0 heartbeat.flickr.com
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hitweb2.chosun.com
+0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ibs.indiatimes.com
 0.0.0.0 id.allegisgroup.com
@@ -357,6 +361,7 @@
 0.0.0.0 navlog.channel4.com
 0.0.0.0 nb.myspace.com
 0.0.0.0 ned.itv.com
+0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 oimg.m.cnbc.com
@@ -671,6 +676,7 @@
 0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
+0.0.0.0 tkpi.delta.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
 0.0.0.0 total.shanghaidaily.com
