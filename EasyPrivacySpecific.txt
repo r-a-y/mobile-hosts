@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 24 May 2018 00:24:44 +0100
+# Last converted - Tue, 29 May 2018 00:41:13 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -140,6 +140,7 @@
 0.0.0.0 clog.go.com
 0.0.0.0 cls.ichotelsgroup.com
 0.0.0.0 clvk.viki.io
+0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cnt.nicemix.com
@@ -198,7 +199,6 @@
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
-0.0.0.0 era.easyvoyage.com
 0.0.0.0 es.puritan.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
