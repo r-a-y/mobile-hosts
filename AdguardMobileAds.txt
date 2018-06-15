@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 09 Jun 2018 00:54:17 +0100
+# Last converted - Fri, 15 Jun 2018 07:34:43 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -550,6 +550,7 @@
 0.0.0.0 infolinks.com
 0.0.0.0 inmobi.com
 0.0.0.0 inmobi.net
+0.0.0.0 inmobi.cn
 0.0.0.0 inmobicdn.net
 0.0.0.0 inmobisdk-a.akamaihd.net
 0.0.0.0 inner-active.com
