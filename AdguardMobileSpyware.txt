@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Sat, 09 Jun 2018 00:54:18 +0100
+# Last converted - Fri, 15 Jun 2018 07:34:43 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -10,6 +10,8 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 app.adjust.com
 0.0.0.0 adj.st
+0.0.0.0 mobileapptracking.com
+0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 ilyonanalytics.herokuapp.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 kaffnet.com
@@ -69,7 +71,6 @@
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 app.roximity.com
 0.0.0.0 dc.webtrends.com
-0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 api.oneaudience.com
 0.0.0.0 api.gameofwhales.com
 0.0.0.0 geoplugin.net
