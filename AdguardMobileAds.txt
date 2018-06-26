@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 15 Jun 2018 07:34:43 +0100
+# Last converted - Tue, 26 Jun 2018 19:06:46 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -47,6 +47,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 tnkfactory.com
 0.0.0.0 iqzone.com
 0.0.0.0 postitial.com
 0.0.0.0 pssvc.iqzone.com
