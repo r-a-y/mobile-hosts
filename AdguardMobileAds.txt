@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Tue, 26 Jun 2018 19:06:46 +0100
+# Last converted - Thu, 05 Jul 2018 21:47:46 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -47,6 +47,13 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 tkcatwalk.aotter.net
+0.0.0.0 tkmedia.aotter.net
+0.0.0.0 tkmedia-cache.aotter.net
+0.0.0.0 tkportal.aotter.net
+0.0.0.0 client.midosoo.com
+0.0.0.0 sc.smardroid.com
+0.0.0.0 ap.smardroid.com
 0.0.0.0 tnkfactory.com
 0.0.0.0 iqzone.com
 0.0.0.0 postitial.com
