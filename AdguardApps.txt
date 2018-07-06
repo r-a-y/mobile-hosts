@@ -1,9 +1,11 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Mon, 02 Apr 2018 21:34:18 +0100
+# Last converted - Thu, 05 Jul 2018 21:47:48 +0100
 #
 
+0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 newad.ifeng.com
 0.0.0.0 afreeca-tag.ad-mapps.com
 0.0.0.0 mtag.mman.kr
 0.0.0.0 etl.tindersparks.com
