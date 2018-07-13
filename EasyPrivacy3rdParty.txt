@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 05 Jul 2018 21:47:51 +0100
+# Last converted - Fri, 13 Jul 2018 22:24:44 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -116,6 +116,7 @@
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
+0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 analyzer.qmerce.com
@@ -534,6 +535,7 @@
 0.0.0.0 m.addthisedge.com
 0.0.0.0 m.trb.com
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
+0.0.0.0 marketing.net.jumia.com.ng
 0.0.0.0 marketinghub.hp.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mc.yandex.ru
@@ -954,6 +956,7 @@
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.maxcdn.com
 0.0.0.0 tracking.musixmatch.com
+0.0.0.0 tracking.pacharge.com
 0.0.0.0 tracking.performgroup.com
 0.0.0.0 tracking.plattformad.com
 0.0.0.0 tracking.plinga.de
