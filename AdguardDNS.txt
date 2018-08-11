@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://filters.adtidy.org/extension/chromium/filters/15.txt
-# Last converted - Mon, 06 Aug 2018 05:04:24 +0100
+# Last converted - Sat, 11 Aug 2018 01:28:14 +0100
 #
 
+0.0.0.0 prgmh.com
+0.0.0.0 ejdbebdeghajgdicadc.ru
 0.0.0.0 focuscoat.com
 0.0.0.0 et-cod.com
 0.0.0.0 mypictures-onlinegood.info
@@ -3364,6 +3366,14 @@
 0.0.0.0 tiz.miladynews.ru
 0.0.0.0 tizer.rupornophoto.com
 0.0.0.0 ts2.hockey-talks.com
+0.0.0.0 wz7a23kicq.online
+0.0.0.0 widgets.cryptopicture.com
+0.0.0.0 hiug862dj0.com
+0.0.0.0 4f2sm1y1ss.com
+0.0.0.0 7s08gpbp39.com
+0.0.0.0 afgmyvid.com
+0.0.0.0 curriculture.com
+0.0.0.0 h5tjj3loy2.com
 0.0.0.0 dtprofit.com
 0.0.0.0 o4uxrk33.com
 0.0.0.0 runmewivel.com
@@ -4470,6 +4480,7 @@
 0.0.0.0 zedo.com
 0.0.0.0 zeti.com
 0.0.0.0 zptncsir.com
+0.0.0.0 d3pvcolmug0tz6.cloudfront.net
 0.0.0.0 secure.iqmining.com
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 apps2.ctnetpass2.com
@@ -7224,7 +7235,6 @@
 0.0.0.0 connexity.net
 0.0.0.0 connexplace.com
 0.0.0.0 connextra.com
-0.0.0.0 consciouschairs.com
 0.0.0.0 consivenu.com
 0.0.0.0 constintptr.com
 0.0.0.0 construment.com
@@ -9797,6 +9807,7 @@
 0.0.0.0 undousun.com
 0.0.0.0 unhardward.com
 0.0.0.0 unicast.com
+0.0.0.0 unifini.de
 0.0.0.0 unitethecows.com
 0.0.0.0 universityofinternetscience.com
 0.0.0.0 unlockr.com
@@ -11304,8 +11315,12 @@
 0.0.0.0 alkagrkgvltzlk.com
 0.0.0.0 ayyxveilslz.com
 0.0.0.0 bbxaumvpzqpunx.com
+0.0.0.0 birslhmnnc.com
 0.0.0.0 bpnjigwalqjho.com
+0.0.0.0 bvcddoyb.com
+0.0.0.0 caucqpoeg.com
 0.0.0.0 crvvrxfgsvohiy.com
+0.0.0.0 cttnlnsnwdokqb.com
 0.0.0.0 degitlwfezpe.com
 0.0.0.0 dmrqnwtyttd.com
 0.0.0.0 dwvfccxbj.com
@@ -11315,11 +11330,16 @@
 0.0.0.0 enynwkvdb.com
 0.0.0.0 ewopxadcn.com
 0.0.0.0 fxdglnldbnyq.com
+0.0.0.0 fzccvcrsbtb.com
+0.0.0.0 ghjlhnbc.com
 0.0.0.0 gmeomlvmqlmu.com
 0.0.0.0 gsjhehtqvin.com
+0.0.0.0 hkhotpewfxr.com
 0.0.0.0 imnsmvmjrdiwwr.com
 0.0.0.0 jbcadlpdfsxsfe.com
+0.0.0.0 jnhjvkapqf.com
 0.0.0.0 jpxevzab.com
+0.0.0.0 lbaybxwiklnfe.com
 0.0.0.0 ltvrdftgr.com
 0.0.0.0 msoiqafieh.com
 0.0.0.0 ngptxgpbdnutvi.com
@@ -11327,21 +11347,27 @@
 0.0.0.0 qczvjjdbaj.com
 0.0.0.0 qevmzohvwxesrd.com
 0.0.0.0 rcumwyqkv.com
+0.0.0.0 ropkrhilt.com
+0.0.0.0 runwtxeisppmt.com
 0.0.0.0 rwugdvqdpxfz.com
 0.0.0.0 rwugglxboxgw.com
 0.0.0.0 ryybhoklizmuew.com
 0.0.0.0 symydvmqjjp.com
+0.0.0.0 tfqexqeldxjvet.com
 0.0.0.0 tjdrxdsto.com
 0.0.0.0 tktyinaabq.com
 0.0.0.0 tufpmrcdc.com
 0.0.0.0 uclylhzwg.com
+0.0.0.0 uqemcyylvcdrgs.com
 0.0.0.0 usfmwydo.com
+0.0.0.0 uzylpwfamhcb.com
 0.0.0.0 veoujrnenng.com
 0.0.0.0 vsrpztnxdejo.com
 0.0.0.0 vsxjjmyz.com
 0.0.0.0 vtmkgqcvzvlsdt.com
 0.0.0.0 vyjwsifvybc.com
 0.0.0.0 wduygininqbu.com
+0.0.0.0 widpzvyx.com
 0.0.0.0 wjgddzpvx.com
 0.0.0.0 wmqdgaptep.com
 0.0.0.0 wzismevwhqixlq.com
@@ -11349,6 +11375,7 @@
 0.0.0.0 yaikleyabl.com
 0.0.0.0 ydolseawnutnf.com
 0.0.0.0 yjijmpezje.com
+0.0.0.0 yvlmcehqt.com
 0.0.0.0 yxbglezas.com
 0.0.0.0 zlgokeby.com
 0.0.0.0 zplvjgpxvh.com
@@ -16433,6 +16460,7 @@
 0.0.0.0 banners4clicks.de
 0.0.0.0 bannertrade.eu
 0.0.0.0 batilo.de
+0.0.0.0 bauernative.com
 0.0.0.0 biallo1.de
 0.0.0.0 biallo2.de
 0.0.0.0 biallo3.de
@@ -16750,6 +16778,7 @@
 0.0.0.0 i-bims-ein-shopper.de
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 meinelieblingsprodukte.de
+0.0.0.0 dcmn.com
 0.0.0.0 bouncyproperty.com
 0.0.0.0 adnz.co
 0.0.0.0 cloud.roistat.com
@@ -19497,6 +19526,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 screechingfurniture.com
 0.0.0.0 raresummer.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 ariseboundary.com
@@ -19614,6 +19644,8 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 tracking.deluxe-marketing.com
+0.0.0.0 logs.ntvplus.tv
 0.0.0.0 alb.reddit.com
 0.0.0.0 p.vtracy.de
 0.0.0.0 tracker.brainsins.com
@@ -20417,6 +20449,8 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 geo.go2s.co
+0.0.0.0 log.go2s.co
 0.0.0.0 batsavcdn.ksmobile.net
 0.0.0.0 cfg.cml.ksmobile.com
 0.0.0.0 tealand.cmcm.com
