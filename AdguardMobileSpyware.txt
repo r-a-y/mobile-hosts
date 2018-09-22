@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Tue, 04 Sep 2018 17:31:38 +0100
+# Last converted - Sat, 22 Sep 2018 21:55:01 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -16,6 +16,7 @@
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
 0.0.0.0 adj.st
+0.0.0.0 tr.snapchat.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 geo.go2s.co
