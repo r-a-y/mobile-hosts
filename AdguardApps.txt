@@ -1,9 +1,10 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Thu, 05 Jul 2018 21:47:48 +0100
+# Last converted - Sat, 22 Sep 2018 21:55:03 +0100
 #
 
+0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 newad.ifeng.com
 0.0.0.0 afreeca-tag.ad-mapps.com
