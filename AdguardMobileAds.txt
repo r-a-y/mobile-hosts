@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 29 Sep 2018 00:19:45 +0100
+# Last converted - Sat, 06 Oct 2018 01:23:15 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -48,6 +48,10 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 ade.clmbtech.com
+0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
+0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 look.kfiopkln.com
 0.0.0.0 studcat.infra.systems
 0.0.0.0 adplex.co.kr
