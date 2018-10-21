@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 13 Oct 2018 02:34:15 +0100
+# Last converted - Sun, 21 Oct 2018 18:21:15 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -102,6 +102,7 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.search.yahoo.com
+0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.toyota.co.jp
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
@@ -340,6 +341,7 @@
 0.0.0.0 metrics.tbliab.net
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.washingtonpost.com
+0.0.0.0 metrigo.zalan.do
 0.0.0.0 mint.boingboing.net
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
