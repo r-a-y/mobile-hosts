@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 21 Oct 2018 18:21:15 +0100
+# Last converted - Mon, 29 Oct 2018 10:21:16 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -201,6 +201,7 @@
 0.0.0.0 dw.cnet.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
 0.0.0.0 edw.edmunds.com
+0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 entry-stats.huffingtonpost.com
@@ -233,7 +234,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
-0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com|
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -395,6 +396,7 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 performances.bestofmedia.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 phar.gu-web.net
 0.0.0.0 pi.feedsportal.com
 0.0.0.0 pictures.zooplus.com
 0.0.0.0 ping.buto.tv
@@ -452,7 +454,6 @@
 0.0.0.0 roll.bankofamerica.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
-0.0.0.0 rt.rakuten.co.jp
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
@@ -478,6 +479,7 @@
 0.0.0.0 sidebar.issuu.com
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 sixpack.udimg.com
+0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 snowplow-collector.sugarops.com
@@ -822,6 +824,7 @@
 0.0.0.0 wzus1.thesaurus.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
+0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
 0.0.0.0 play.estream.nu
