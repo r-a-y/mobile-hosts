@@ -81,6 +81,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Strip trailing |.
+		if ( '|' === substr( $filter, -1 ) ) {
+			$filter = str_replace( '|', '', $filter );
+		}
+
 		$hosts .= "0.0.0.0 {$filter}\n";
 	}
 
