@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Sat, 13 Oct 2018 02:34:12 +0100
+# Last converted - Sat, 03 Nov 2018 07:34:01 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -9,6 +9,7 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
 0.0.0.0 app.adjust.com
+0.0.0.0 tracker.rqmob.com
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 fraudmetrix.cn
