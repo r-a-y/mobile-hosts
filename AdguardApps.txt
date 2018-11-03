@@ -1,9 +1,14 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Sat, 22 Sep 2018 21:55:03 +0100
+# Last converted - Sat, 03 Nov 2018 07:34:04 +0000
 #
 
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 preitem.wshareit.com
+0.0.0.0 mobimagic.com
+0.0.0.0 adywind.com
+0.0.0.0 hasmobi.net
 0.0.0.0 api-a.op-mobile.opera.com
 0.0.0.0 promotion.polarisoffice.com
 0.0.0.0 newad.ifeng.com
