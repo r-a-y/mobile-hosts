@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Mon, 03 Dec 2018 03:47:09 +0000
+# Last converted - Sat, 08 Dec 2018 07:04:04 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -869,6 +869,7 @@
 0.0.0.0 west.bidtellect.com
 0.0.0.0 widespace.com
 0.0.0.0 wordego.com
+0.0.0.0 presage.io
 0.0.0.0 wtraff.com
 0.0.0.0 ximad.com
 0.0.0.0 yandexadexchange.net
