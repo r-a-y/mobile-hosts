@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 03 Dec 2018 03:47:17 +0000
+# Last converted - Mon, 17 Dec 2018 05:15:58 +0000
 #
 
 0.0.0.0 188.225.25.145
@@ -108,6 +108,7 @@
 0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
+0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tribeca.vidavee.com
@@ -318,6 +319,7 @@
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d23p9gffjvre9v.cloudfront.net
 0.0.0.0 d23pi6hvdpcc5i.cloudfront.net
+0.0.0.0 d24cze5sab2jwg.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2gfdmu30u15x7.cloudfront.net
@@ -444,6 +446,7 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
+0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 g.delivery.net
@@ -482,6 +485,7 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hpr.outbrain.com
 0.0.0.0 i-stats.ieurop.net
+0.0.0.0 i.viafoura.co
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 ihstats.cloudapp.net
@@ -521,6 +525,7 @@
 0.0.0.0 link.huffingtonpost.com
 0.0.0.0 link.informer.com
 0.0.0.0 link.tym.cool
+0.0.0.0 links.voyeurweb.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.adap.tv$object-subrequest
@@ -557,6 +562,9 @@
 0.0.0.0 marketing.net.jumia.com.ng
 0.0.0.0 marketinghub.hp.com
 0.0.0.0 mas.nth.ch
+0.0.0.0 mc.webvisor.com
+0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.webvisor.ru
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mediametrics.mpsa.com
@@ -859,6 +867,7 @@
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 target.fark.com
