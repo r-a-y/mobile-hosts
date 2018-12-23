@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 17 Dec 2018 05:15:56 +0000
+# Last converted - Sun, 23 Dec 2018 16:53:22 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -300,6 +300,7 @@
 0.0.0.0 live-audience.dailymotion.com
 0.0.0.0 live.philips.com
 0.0.0.0 localads-statistics.maps.me
+0.0.0.0 log.china.cn
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 log.go.com
