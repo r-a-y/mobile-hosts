@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 23 Dec 2018 16:53:22 +0000
+# Last converted - Fri, 04 Jan 2019 09:09:07 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -40,6 +40,7 @@
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.femalefirst.co.uk
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
@@ -118,6 +119,7 @@
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.microsoft.com
 0.0.0.0 c.newsinc.com
+0.0.0.0 c.paypal.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cbs.wondershare.com
@@ -246,6 +248,7 @@
 0.0.0.0 geo.play.it
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -628,6 +631,7 @@
 0.0.0.0 stats.ibtimes.co.uk
 0.0.0.0 stats.macmillanusa.com
 0.0.0.0 stats.mehrnews.com
+0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
 0.0.0.0 stats.pandora.com
@@ -703,6 +707,7 @@
 0.0.0.0 top.wn.com
 0.0.0.0 total.shanghaidaily.com
 0.0.0.0 tp.ranker.com
+0.0.0.0 tr.snapchat.com
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 tracer.perezhilton.com
 0.0.0.0 track.briskfile.com
@@ -720,6 +725,7 @@
 0.0.0.0 track.ning.com
 0.0.0.0 track.promptfile.com
 0.0.0.0 track.pushbullet.com
+0.0.0.0 track.rediff.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.ugamezone.com
