@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 19 Jan 2019 15:24:51 +0000
+# Last converted - Sat, 26 Jan 2019 23:05:16 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -201,6 +201,7 @@
 0.0.0.0 diet.rodale.com
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmeserv.newsinc.com
+0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dw.cnet.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
@@ -288,6 +289,7 @@
 0.0.0.0 imgtrack.domainmarket.com
 0.0.0.0 immassets.s3.amazonaws.com
 0.0.0.0 imonitor.dhgate.com
+0.0.0.0 imp-media-lab.thenewslens.com
 0.0.0.0 imx.comedycentral.com
 0.0.0.0 influxer.onion.com
 0.0.0.0 ingest.onion.com
