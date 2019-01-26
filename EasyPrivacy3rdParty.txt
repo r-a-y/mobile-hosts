@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 19 Jan 2019 15:24:52 +0000
+# Last converted - Sat, 26 Jan 2019 23:05:17 +0000
 #
 
 0.0.0.0 188.225.25.145
@@ -334,6 +334,7 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
+0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
@@ -767,6 +768,7 @@
 0.0.0.0 stat.easydate.biz
 0.0.0.0 stat.ed.cupidplc.com
 0.0.0.0 stat.itp-nyc.com
+0.0.0.0 stat.mixi.media
 0.0.0.0 stat.php-d.com
 0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.segitek.hu
@@ -1041,6 +1043,7 @@
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trax.dirxion.com
+0.0.0.0 trc.pushnami.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tremorhub.com
 0.0.0.0 trf.intuitwebsites.com
