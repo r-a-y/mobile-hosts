@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 12 Jan 2019 03:07:39 +0000
+# Last converted - Sat, 26 Jan 2019 23:05:10 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -334,7 +334,7 @@
 0.0.0.0 adonly.com
 0.0.0.0 adotsolution.com
 0.0.0.0 adotube.com
-0.0.0.0 adplay.vm5apis.com
+0.0.0.0 vm5apis.com
 0.0.0.0 adprotected.com
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adquota.com
