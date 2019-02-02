@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Sat, 26 Jan 2019 23:05:11 +0000
+# Last converted - Sat, 02 Feb 2019 22:24:11 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -56,7 +56,6 @@
 0.0.0.0 an.batmobi.net
 0.0.0.0 ustat.batmobi.net
 0.0.0.0 analytics.any.do
-0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
