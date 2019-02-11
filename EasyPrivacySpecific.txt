@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 26 Jan 2019 23:05:16 +0000
+# Last converted - Mon, 11 Feb 2019 18:32:35 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -45,13 +45,13 @@
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
 0.0.0.0 analytics.gorillanation.com
+0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.mindjolt.com
-0.0.0.0 analytics.msnbc.msn.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
@@ -222,6 +222,7 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.secureserver.net
 0.0.0.0 events.turbosquid.com
 0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 evisit.exeter.ac.uk
@@ -299,6 +300,7 @@
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 jack.allday.com
+0.0.0.0 kg.aws.mashable.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 l.5min.com
 0.0.0.0 lh.secure.yahoo.com
@@ -385,6 +387,7 @@
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
 0.0.0.0 om.cbsi.com
