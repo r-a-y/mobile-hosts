@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 25 Feb 2019 19:04:27 +0000
+# Last converted - Wed, 13 Mar 2019 16:30:43 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -250,7 +250,6 @@
 0.0.0.0 geo.play.it
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 geo.yahoo.com
-0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -323,6 +322,7 @@
 0.0.0.0 log.webnovel.com
 0.0.0.0 log1.24liveplus.com
 0.0.0.0 logdev.openload.co
+0.0.0.0 logg.kiwi.com
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.viki.io
@@ -334,6 +334,7 @@
 0.0.0.0 lsam.research.microsoft.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 marketing.alibaba.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 merlin.abc.go.com
