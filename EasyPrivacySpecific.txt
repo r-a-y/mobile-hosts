@@ -1,9 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 13 Mar 2019 16:30:43 +0000
+# Last converted - Mon, 18 Mar 2019 23:19:05 +0000
 #
 
+0.0.0.0 3rdeye.spankbang.com
 0.0.0.0 a.jango.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -184,6 +185,7 @@
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
+0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -306,6 +308,7 @@
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 live-audience.dailymotion.com
 0.0.0.0 live.philips.com
+0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
 0.0.0.0 log.china.cn
 0.0.0.0 log.data.disney.com
@@ -809,7 +812,6 @@
 0.0.0.0 urchin-tracker.bigpoint.net
 0.0.0.0 urlcheck.hulu.com
 0.0.0.0 userfly.com
-0.0.0.0 usmetric.rediff.com
 0.0.0.0 ut.ratepoint.com
 0.0.0.0 vertical-stats.huffingtonpost.com
 0.0.0.0 video-stats.video.google.com
