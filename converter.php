@@ -76,6 +76,9 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Trim whitespace.
+		$filter = trim( $filter );
+
 		// If starting or ending with '.', skip.
 		if ( '.' === substr( $filter, 0, 1 ) || '.' === substr( $filter, -1 ) ) {
 			continue;
