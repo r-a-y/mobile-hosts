@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 23 Mar 2019 18:24:26 +0000
+# Last converted - Sun, 31 Mar 2019 20:02:57 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -194,6 +194,8 @@
 0.0.0.0 data.ryanair.com
 0.0.0.0 data.younow.com
 0.0.0.0 datacollector.coin.scribol.com
+0.0.0.0 dc.banggood.com
+0.0.0.0 dccss.banggood.com
 0.0.0.0 dcs.mattel.com
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 debug-vp.webmd.com
