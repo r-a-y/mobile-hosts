@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 31 Mar 2019 20:02:57 +0100
+# Last converted - Sun, 07 Apr 2019 01:18:23 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -68,6 +68,7 @@
 0.0.0.0 analytics.thenewslens.com
 0.0.0.0 analytics.thetab.com
 0.0.0.0 analytics.thevideo.me
+0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.upworthy.com
 0.0.0.0 analytics.us.archive.org
