@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 12 Apr 2019 21:29:06 +0100
+# Last converted - Sat, 27 Apr 2019 17:24:43 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -40,6 +40,7 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticapi.pho.fm
 0.0.0.0 analyticcdn.globalmailer.com
+0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -708,6 +709,7 @@
 0.0.0.0 postpixel.vindicosuite.com
 0.0.0.0 powersearch.us.com
 0.0.0.0 pr.blogflux.com
+0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 production-eqbc.lvp.llnw.net
 0.0.0.0 production-mcs.lvp.llnw.net
 0.0.0.0 production.mcs.delve.cust.lldns.net
@@ -871,6 +873,7 @@
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 statsadv.dadapro.com
 0.0.0.0 statsapi.screen9.com
+0.0.0.0 statsd.zmags.com
 0.0.0.0 statsdev.treesd.com
 0.0.0.0 statsrv.451.com
 0.0.0.0 statt-collect.herokuapp.com
