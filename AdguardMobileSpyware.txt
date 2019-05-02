@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Fri, 12 Apr 2019 21:29:02 +0100
+# Last converted - Thu, 02 May 2019 21:09:47 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -206,7 +206,6 @@
 0.0.0.0 config2.mparticle.com
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 crasheye.cn
-0.0.0.0 e.crashlytics.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
