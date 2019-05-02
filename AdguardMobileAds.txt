@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 18 Apr 2019 00:44:29 +0100
+# Last converted - Thu, 02 May 2019 21:09:47 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -27,6 +27,9 @@
 0.0.0.0 api.ads.watchabc.go.com
 0.0.0.0 ad.prismamediadigital.com
 0.0.0.0 ad2play.ftv-publicite.fr
+0.0.0.0 socdm.com
+0.0.0.0 criteo.com
+0.0.0.0 criteo.net
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 noxagile.duapp.com
