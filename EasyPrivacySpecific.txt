@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 07 May 2019 19:48:43 +0100
+# Last converted - Mon, 13 May 2019 17:03:39 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -226,6 +226,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
@@ -322,6 +323,7 @@
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 log.go.com
+0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
@@ -628,6 +630,7 @@
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.kbs.co.kr
+0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.ruvr.ru
 0.0.0.0 stat.torrentbar.com
 0.0.0.0 stat.xhamsterpremium.com
