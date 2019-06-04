@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 20 May 2019 22:10:50 +0100
+# Last converted - Tue, 04 Jun 2019 12:22:06 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -61,6 +61,7 @@
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.spankbang.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
@@ -226,6 +227,7 @@
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
 0.0.0.0 events.privy.com
@@ -437,6 +439,7 @@
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
+0.0.0.0 pixel.dorehernowi.pro
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.klout.com
@@ -487,6 +490,7 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
+0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogr.am
 0.0.0.0 s.infogram.com
 0.0.0.0 s.youtube.com
@@ -628,6 +632,7 @@
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssl-stats.wordpress.com
 0.0.0.0 st.arte.tv
+0.0.0.0 stan.xing.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.kbs.co.kr
@@ -652,7 +657,6 @@
 0.0.0.0 stats.europe.newsweek.com
 0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.farfetch.com
-0.0.0.0 stats.firedrive.com
 0.0.0.0 stats.harpercollins.com
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
@@ -709,6 +713,7 @@
 0.0.0.0 t.cinemablend.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.eharmony.com
+0.0.0.0 t.indeed.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.my.jobs
 0.0.0.0 t.paypal.com
@@ -726,6 +731,7 @@
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 ted1.metro.co.uk
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 tempo.inc.com
 0.0.0.0 timeslogtn.timesnow.tv
 0.0.0.0 timestrends.indiatimes.com
 0.0.0.0 timestrends.timesnow.tv
@@ -869,5 +875,4 @@
 0.0.0.0 play.estream.to
 0.0.0.0 play.estream.xyz
 0.0.0.0 support.2giga.link
-0.0.0.0 video.videos.vidto.me
 0.0.0.0 worker.salon.com
