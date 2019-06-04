@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 02 May 2019 21:09:47 +0100
+# Last converted - Tue, 04 Jun 2019 12:22:00 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -51,6 +51,12 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 activity.browser.intl.miui.com
+0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.newsfeed.intl.miui.com
+0.0.0.0 huangye.miui.com
+0.0.0.0 file.market.xiaomi.com
+0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 zhfosenghtr.com
 0.0.0.0 ads.edadeal.ru
 0.0.0.0 adsrvr.io
@@ -331,7 +337,6 @@
 0.0.0.0 adkmob.com
 0.0.0.0 adleads.com
 0.0.0.0 adlibr.com
-0.0.0.0 admail.am
 0.0.0.0 adman.gr
 0.0.0.0 admarketing.yahoo.net
 0.0.0.0 admarvel.s3.amazonaws.com
