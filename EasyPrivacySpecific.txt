@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 04 Jun 2019 12:22:06 +0100
+# Last converted - Thu, 13 Jun 2019 04:36:18 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -410,6 +410,7 @@
 0.0.0.0 omni.nine.com.au
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
+0.0.0.0 oms.expedia.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.guardian.co.uk
 0.0.0.0 ophan.theguardian.com
@@ -431,6 +432,7 @@
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.hungama.com
 0.0.0.0 ping.tvmaze.com
+0.0.0.0 pingback.issuu.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
 0.0.0.0 pix.eads.com
@@ -876,3 +878,4 @@
 0.0.0.0 play.estream.xyz
 0.0.0.0 support.2giga.link
 0.0.0.0 worker.salon.com
+0.0.0.0 event-analytics.yesware.com
