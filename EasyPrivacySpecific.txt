@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 20 Jun 2019 08:12:11 +0100
+# Last converted - Sat, 29 Jun 2019 14:59:48 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -176,8 +176,6 @@
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
-0.0.0.0 collector.xhamster.com
-0.0.0.0 collector1.xhamster.com
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 contadores.bolsamania.com
@@ -362,6 +360,7 @@
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.aws.sitepoint.com
+0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.cnn.com
@@ -740,6 +739,7 @@
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
+0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
 0.0.0.0 total.shanghaidaily.com
@@ -759,7 +759,6 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.ning.com
-0.0.0.0 track.promptfile.com
 0.0.0.0 track.pushbullet.com
 0.0.0.0 track.rediff.com
 0.0.0.0 track.slideshare.net
@@ -811,6 +810,7 @@
 0.0.0.0 tracking.resumecompanion.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.softwareprojects.com
+0.0.0.0 tracking.teamskeet.com
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 tracking.times247.com
 0.0.0.0 tracking.ukwm.co.uk
@@ -874,9 +874,7 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
-0.0.0.0 play.estream.nu
 0.0.0.0 play.estream.to
-0.0.0.0 play.estream.xyz
 0.0.0.0 support.2giga.link
 0.0.0.0 worker.salon.com
 0.0.0.0 event-analytics.yesware.com
