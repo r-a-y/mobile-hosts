@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 19 Jul 2019 19:39:02 +0100
+# Last converted - Thu, 25 Jul 2019 19:49:31 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -44,6 +44,7 @@
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.femalefirst.co.uk
+0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.go.com
 0.0.0.0 analytics.gorillanation.com
@@ -193,6 +194,7 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 ct.buzzfeed.com
+0.0.0.0 d-engine.spankbang.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -224,6 +226,7 @@
 0.0.0.0 es.puritan.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
+0.0.0.0 eu.groupondata.com
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 ev.kck.st
 0.0.0.0 event-collector.udsrv.com
@@ -639,6 +642,7 @@
 0.0.0.0 srt.pch.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssl-stats.wordpress.com
+0.0.0.0 sstats.oui.sncf
 0.0.0.0 st.arte.tv
 0.0.0.0 stan.xing.com
 0.0.0.0 stat.alibaba.com
@@ -674,6 +678,7 @@
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
+0.0.0.0 stats.oui.sncf
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.paypal.com
@@ -811,6 +816,7 @@
 0.0.0.0 tracking.mycapture.com
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.olx-st.com
+0.0.0.0 tracking.oui.sncf
 0.0.0.0 tracking.porndoelabs.com
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.realtor.com
@@ -844,6 +850,7 @@
 0.0.0.0 urlcheck.hulu.com
 0.0.0.0 userfly.com
 0.0.0.0 ut.ratepoint.com
+0.0.0.0 v.oui.sncf
 0.0.0.0 vertical-stats.huffingtonpost.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videotracker.washingtonpost.com
@@ -866,6 +873,7 @@
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 weblogger01.data.disney.com
 0.0.0.0 webstats.perfectworld.com
+0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 whoson.smcorp.com
 0.0.0.0 winter.metacafe.com
 0.0.0.0 wla.vivaldi.com
