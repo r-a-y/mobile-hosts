@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 19 Jul 2019 19:39:03 +0100
+# Last converted - Thu, 25 Jul 2019 19:49:32 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -141,6 +141,7 @@
 0.0.0.0 app.insightgrit.com
 0.0.0.0 app.link
 0.0.0.0 apple.www.letv.com
+0.0.0.0 ariane.abtasty.com
 0.0.0.0 aserve.directorym.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -190,6 +191,7 @@
 0.0.0.0 bonsai.internetbrands.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 bright.bncnt.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btn.clickability.com
 0.0.0.0 btrace.video.qq.com
@@ -366,6 +368,7 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
+0.0.0.0 d38nbbai6u794i.cloudfront.net
 0.0.0.0 d396ihyrqc81w.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
@@ -459,7 +462,6 @@
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
 0.0.0.0 events.apester.com
-0.0.0.0 events.bounceexchange.com
 0.0.0.0 events.demoup.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
@@ -473,6 +475,7 @@
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 experience.contextly.com
+0.0.0.0 fast.appcues.com
 0.0.0.0 fastcounter.bcentral.com
 0.0.0.0 fastcounter.onlinehoster.net
 0.0.0.0 fbpixel.network.exchange
@@ -788,6 +791,7 @@
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 shared.65twenty.com
+0.0.0.0 shopnetic.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 sig.gamerdna.com
 0.0.0.0 sitereports.officelive.com
@@ -919,6 +923,7 @@
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.email-attitude.com
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.cdn.circlesix.co
@@ -1012,6 +1017,7 @@
 0.0.0.0 tracker.neon-lab.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.seoboost.net
+0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.streamroot.io
 0.0.0.0 tracker.timesgroup.com
 0.0.0.0 tracker.u-link.me
@@ -1140,3 +1146,4 @@
 0.0.0.0 ys.ddns.me
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 zvsuhljiha-a.akamaihd.net
+0.0.0.0 connatix.com
