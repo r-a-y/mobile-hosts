@@ -12,7 +12,7 @@ $lists = array(
 	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
 
 	// Adguard DNS
-	'AdguardDNS' => 'https://filters.adtidy.org/extension/chromium/filters/15.txt',
+	'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
 	// EasyPrivacy Specific
 	'EasyPrivacySpecific' => 'https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt',
