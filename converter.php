@@ -35,6 +35,8 @@ foreach ( $lists as $name => $list ) {
 	$hosts .= "# Last converted - " . date( 'r' ) . "\n";
 	$hosts .= "#\n\n";
 
+	$exceptions = array();
+
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
 		// Skip filter if matches the following:
@@ -54,11 +56,6 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 		if ( false !== strpos( $filter, ' ' ) ) {
-			continue;
-		}
-
-		// Skip exception rules.
-		if ( false !== strpos( $filter, '@@' ) ) {
 			continue;
 		}
 
@@ -89,7 +86,24 @@ foreach ( $lists as $name => $list ) {
 			$filter = str_replace( '|', '', $filter );
 		}
 
+		// Save exception to parse later.
+		if ( 0 === strpos( $filter, '@@' ) ) {
+			$exceptions[] = str_replace( '@@', '', $filter );
+			continue;
+		}
+
+
 		$hosts .= "0.0.0.0 {$filter}\n";
+	}
+
+	// Remove exceptions.
+	if ( ! empty( $exceptions ) ) {
+		foreach( $exceptions as $ex ) {
+			$find = "0.0.0.0 {$ex}\n";
+			if ( false !== strpos( $hosts, $find ) ) {
+				$hosts = str_replace( $find, '', $hosts );
+			}
+		}
 	}
 
 	// Output the file.
