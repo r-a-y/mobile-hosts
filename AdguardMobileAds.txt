@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 05 Jul 2019 16:44:56 +0100
+# Last converted - Tue, 30 Jul 2019 21:41:53 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -848,7 +848,6 @@
 0.0.0.0 teracreative.com
 0.0.0.0 terraclicks.com
 0.0.0.0 thetrafficstat.net
-0.0.0.0 theylike.org
 0.0.0.0 thoughtleadr.com
 0.0.0.0 thoughtsondance.info
 0.0.0.0 tidaltv.com
