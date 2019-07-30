@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 25 Jul 2019 19:49:31 +0100
+# Last converted - Tue, 30 Jul 2019 21:41:57 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -169,6 +169,7 @@
 0.0.0.0 collection.theaa.com
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
