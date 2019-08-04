@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 30 Jul 2019 21:41:57 +0100
+# Last converted - Sun, 04 Aug 2019 18:30:56 +0100
 #
 
 0.0.0.0 3rdeye.spankbang.com
@@ -791,6 +791,7 @@
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.pandora.com
 0.0.0.0 tracker.pinnaclesports.com
 0.0.0.0 tracker.realclearpolitics.com
 0.0.0.0 tracker.redditmedia.com
