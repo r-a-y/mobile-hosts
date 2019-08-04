@@ -1,9 +1,11 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 30 Jul 2019 21:41:56 +0100
+# Last converted - Sun, 04 Aug 2019 18:30:54 +0100
 #
 
+0.0.0.0 bigdate.biz
+0.0.0.0 antiblock.info
 0.0.0.0 eti-code.com
 0.0.0.0 plyfoni.ru
 0.0.0.0 wpad.farm
@@ -14,6 +16,7 @@
 0.0.0.0 grett.pro
 0.0.0.0 aj1058.online
 0.0.0.0 meqxh.com
+0.0.0.0 milliardytv.ru
 0.0.0.0 content.mql5.com
 0.0.0.0 jojonewwss.pro
 0.0.0.0 img-perli.com
@@ -3400,6 +3403,7 @@
 0.0.0.0 d10g3hyu3zeg91.cloudfront.net
 0.0.0.0 tizer2.kinogo.by
 0.0.0.0 stat.moonwalk.co
+0.0.0.0 info.kinoclub77.ru
 0.0.0.0 an.blogis.org
 0.0.0.0 action.evrikak.ru
 0.0.0.0 ad.4ertik.porn
@@ -3524,6 +3528,16 @@
 0.0.0.0 svitnews.com
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 relapayssia.xyz
+0.0.0.0 erxalim.xyz
+0.0.0.0 nameketathar.pro
+0.0.0.0 deryjobmeetin.info
+0.0.0.0 sylmyar.pw
+0.0.0.0 kenvam.online
+0.0.0.0 wmwloejxww.com
+0.0.0.0 givirsou.net
+0.0.0.0 aud3g.com
+0.0.0.0 adtags.mobi
 0.0.0.0 d0p21g2fep.com
 0.0.0.0 push-tools-system.com
 0.0.0.0 feed.monad-rtb.com
@@ -3826,7 +3840,6 @@
 0.0.0.0 qiralei.xyz
 0.0.0.0 tonsterandhantan.info
 0.0.0.0 newsupdatedepot.info
-0.0.0.0 givirsou.net
 0.0.0.0 pseelrou.net
 0.0.0.0 denetsuk.com
 0.0.0.0 jsfuz.com
@@ -5414,6 +5427,7 @@
 0.0.0.0 adrunnr.com
 0.0.0.0 large-format.net
 0.0.0.0 november-lax.com
+0.0.0.0 d1k3dpebxhgqjc.cloudfront.net
 0.0.0.0 banners.myads.ge
 0.0.0.0 d1b0fk9ns6n0w9.cloudfront.net
 0.0.0.0 smpop.icfcdn.com
@@ -5896,6 +5910,7 @@
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 huangye.miui.com
+0.0.0.0 eihjefbbbbddeiacedb.ru
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 zhfosenghtr.com
@@ -7144,6 +7159,7 @@
 0.0.0.0 adboost.com
 0.0.0.0 adbooth.com
 0.0.0.0 adbooth.net
+0.0.0.0 adbox.lv
 0.0.0.0 adbrite.com
 0.0.0.0 adbroo.com
 0.0.0.0 adbrook.com
@@ -8950,6 +8966,7 @@
 0.0.0.0 gitcdn.pw
 0.0.0.0 gitcdn.site
 0.0.0.0 gitload.site
+0.0.0.0 givemeburg3r.com
 0.0.0.0 gklmedia.com
 0.0.0.0 gleaminist.com
 0.0.0.0 glical.com
@@ -9564,6 +9581,7 @@
 0.0.0.0 matiro.com
 0.0.0.0 mattempte.info
 0.0.0.0 maxcorpmedia.com
+0.0.0.0 maxim.pub
 0.0.0.0 maxserving.com
 0.0.0.0 mb01.com
 0.0.0.0 mb102.com
@@ -10525,6 +10543,7 @@
 0.0.0.0 s2blosh.com
 0.0.0.0 s2d6.com
 0.0.0.0 sa.entireweb.com
+0.0.0.0 saboopiz.net
 0.0.0.0 safeadnetworkdata.net
 0.0.0.0 safecllc.com
 0.0.0.0 safelistextreme.com
@@ -10583,6 +10602,7 @@
 0.0.0.0 selloweb.com
 0.0.0.0 selsin.net
 0.0.0.0 semanticrep.com
+0.0.0.0 semi-cod.com
 0.0.0.0 sendptp.com
 0.0.0.0 sensible-ads.com
 0.0.0.0 sensive.pro
@@ -11564,6 +11584,7 @@
 0.0.0.0 feadrope.net
 0.0.0.0 flix16.com
 0.0.0.0 gdmconvtrck.com
+0.0.0.0 glauvoob.com
 0.0.0.0 hutrcksp.com
 0.0.0.0 iyfnzgb.com
 0.0.0.0 mellodur.net
@@ -24843,9 +24864,13 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
-0.0.0.0 tags.news.com.au
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 candac.iridion.de
+0.0.0.0 cunda.prudsys-rde.de
+0.0.0.0 tr.junaroad.com
+0.0.0.0 tracker.shopclues.com
 0.0.0.0 beacon.itmedia.jp
+0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 tr.snapchat.com
 0.0.0.0 trk.performanceplay.co.kr
@@ -26429,6 +26454,7 @@
 0.0.0.0 airserve.net
 0.0.0.0 albacross.com
 0.0.0.0 alocdn.com
+0.0.0.0 ambienetics.com
 0.0.0.0 amilliamilli.com
 0.0.0.0 amnet.tw
 0.0.0.0 amplitude.com
@@ -26459,6 +26485,7 @@
 0.0.0.0 benchtag2.co
 0.0.0.0 bentonow.com
 0.0.0.0 bettermetrics.co
+0.0.0.0 beusable.net
 0.0.0.0 bfmio.com
 0.0.0.0 bidr.io
 0.0.0.0 bikepasture.com
@@ -26583,6 +26610,7 @@
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 hotdogsandads.com
 0.0.0.0 hsadspixel.net
+0.0.0.0 hscta.net
 0.0.0.0 hubvisor.io
 0.0.0.0 hudb.pl
 0.0.0.0 hybrid.ai
@@ -26767,7 +26795,6 @@
 0.0.0.0 smart-dmp.com
 0.0.0.0 smartocto.com
 0.0.0.0 smartology.co
-0.0.0.0 smartsuppchat.com
 0.0.0.0 smct.co
 0.0.0.0 smrk.io
 0.0.0.0 snapdeal.biz
@@ -26839,6 +26866,7 @@
 0.0.0.0 truconversion.com
 0.0.0.0 truoptik.com
 0.0.0.0 trustedform.com
+0.0.0.0 trysera.com
 0.0.0.0 tunnl.com
 0.0.0.0 tw.cx
 0.0.0.0 txmoadserver.net
@@ -27488,6 +27516,7 @@
 0.0.0.0 frailoffer.com
 0.0.0.0 importedincrease.com
 0.0.0.0 jadeitite.com
+0.0.0.0 levelbehavior.com
 0.0.0.0 magnetairport.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 puffyloss.com
@@ -27507,6 +27536,7 @@
 0.0.0.0 admeira.ch
 0.0.0.0 adquality.ch
 0.0.0.0 adtriba.com
+0.0.0.0 analysis.fi
 0.0.0.0 audiencemanager.de
 0.0.0.0 audienzz.ch
 0.0.0.0 belboon.de
@@ -27529,6 +27559,7 @@
 0.0.0.0 oghub.io
 0.0.0.0 ppro.de
 0.0.0.0 prudsys-rde.de
+0.0.0.0 rawr.at
 0.0.0.0 redretarget.com
 0.0.0.0 reshin.de
 0.0.0.0 roitracking.net
@@ -27539,6 +27570,7 @@
 0.0.0.0 tracdelight.io
 0.0.0.0 trbo.com
 0.0.0.0 txt.eu
+0.0.0.0 uniconsent.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 vtracy.de
 0.0.0.0 7e59f52a58ab3be819c9a90ba53b9ffe.ovh
@@ -27819,6 +27851,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
+0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.abacast.com
@@ -27873,6 +27906,7 @@
 0.0.0.0 analytics.reyrey.net
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.sitewit.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.springboardvideo.com
@@ -28044,6 +28078,7 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
+0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1ksyxj9xozc2j.cloudfront.net
 0.0.0.0 d1r55yzuc1b1bw.cloudfront.net
@@ -28144,6 +28179,7 @@
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
+0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -28902,6 +28938,7 @@
 0.0.0.0 nanostats.nanopress.it
 0.0.0.0 rcsmetrics.it
 0.0.0.0 rd.alice.it
+0.0.0.0 sem.triboomedia.it
 0.0.0.0 shinystat.lvlar.com
 0.0.0.0 stat.acca.it
 0.0.0.0 stat.freetool.it
@@ -29096,6 +29133,7 @@
 0.0.0.0 d2405b0jymm2dk.cloudfront.net
 0.0.0.0 d24afgsm39csxt.cloudfront.net
 0.0.0.0 d2jn12r3o7an7z.cloudfront.net
+0.0.0.0 daero.pw
 0.0.0.0 dafa.io
 0.0.0.0 daftarfun88.com
 0.0.0.0 dairouzy.net
@@ -29111,6 +29149,7 @@
 0.0.0.0 etoads.net
 0.0.0.0 eze99.net
 0.0.0.0 fd7qz88ckd.com
+0.0.0.0 fethungi.com
 0.0.0.0 flexterkita.com
 0.0.0.0 forumiklan.com
 0.0.0.0 frereadayobq.comthird-party
@@ -29187,6 +29226,7 @@
 0.0.0.0 publish.web.id
 0.0.0.0 pusatiklan.com
 0.0.0.0 pushlinck.com
+0.0.0.0 pushqwer.com
 0.0.0.0 ravalynn.pw
 0.0.0.0 realizerecess.com
 0.0.0.0 realwap.net
