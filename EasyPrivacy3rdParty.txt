@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 30 Jul 2019 21:41:58 +0100
+# Last converted - Sun, 04 Aug 2019 18:30:57 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -43,6 +43,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-rhwg.rhcloud.com
+0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics-v2.anvato.com
 0.0.0.0 analytics.30m.com
@@ -109,6 +110,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.sitewit.com
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.springboardvideo.com
@@ -257,7 +259,7 @@
 0.0.0.0 collector.snplow.net
 0.0.0.0 collector.sspinc.io
 0.0.0.0 comet.ibsrv.net
-0.0.0.0 control.adap.tv$object-subrequest
+0.0.0.0 control.adap.tv
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
@@ -314,6 +316,7 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
+0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1cerpgff739r9.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
@@ -487,6 +490,7 @@
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
+0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -527,7 +531,7 @@
 0.0.0.0 ib.adnxs.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 ihstats.cloudapp.net
-0.0.0.0 imagedoll.com$subdocument
+0.0.0.0 imagedoll.com
 0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
@@ -568,7 +572,7 @@
 0.0.0.0 links.voyeurweb.com
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
-0.0.0.0 log.adap.tv$object-subrequest
+0.0.0.0 log.adap.tv
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.ideamelt.com
@@ -747,7 +751,7 @@
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.topspin.net
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
-0.0.0.0 qlog.adap.tv$object-subrequest
+0.0.0.0 qlog.adap.tv
 0.0.0.0 qos.video.yimg.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
