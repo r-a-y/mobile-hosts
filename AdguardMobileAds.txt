@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Tue, 30 Jul 2019 21:41:53 +0100
+# Last converted - Sun, 04 Aug 2019 18:30:51 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -64,6 +64,7 @@
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 huangye.miui.com
+0.0.0.0 eihjefbbbbddeiacedb.ru
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 zhfosenghtr.com
