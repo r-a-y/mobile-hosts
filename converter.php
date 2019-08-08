@@ -81,6 +81,12 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// If starting with '-', skip.
+		// https://github.com/r-a-y/mobile-hosts/issues/5
+		if ( '-' === substr( $filter, 0, 1 ) ) {
+			continue;
+		}
+
 		// Strip trailing |.
 		if ( '|' === substr( $filter, -1 ) ) {
 			$filter = str_replace( '|', '', $filter );
