@@ -1,10 +1,20 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Sun, 04 Aug 2019 18:30:54 +0100
+# Last converted - Thu, 08 Aug 2019 08:42:59 +0100
 #
 
+0.0.0.0 smart-tds.info
+0.0.0.0 cpamedia.info
+0.0.0.0 s.newsportalssl1.top
+0.0.0.0 tirqeso.ru
+0.0.0.0 somuboteso.com
+0.0.0.0 369bd3a861d8c27.com
+0.0.0.0 unixfuture.com
+0.0.0.0 qqmilk.ru
+0.0.0.0 itrigra.ru
 0.0.0.0 bigdate.biz
+0.0.0.0 fadeaibgfihegegjadc.ru
 0.0.0.0 antiblock.info
 0.0.0.0 eti-code.com
 0.0.0.0 plyfoni.ru
@@ -19,6 +29,7 @@
 0.0.0.0 milliardytv.ru
 0.0.0.0 content.mql5.com
 0.0.0.0 jojonewwss.pro
+0.0.0.0 infoguardru.info
 0.0.0.0 img-perli.com
 0.0.0.0 kymirasite.pro
 0.0.0.0 thethi.ru
@@ -3528,7 +3539,15 @@
 0.0.0.0 svitnews.com
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 ailiyou1999.com
+0.0.0.0 snyowx29.com
+0.0.0.0 tuigang1999.com
+0.0.0.0 victory1999.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 osskanger.com
 0.0.0.0 relapayssia.xyz
+0.0.0.0 kepler-37b.com
+0.0.0.0 voluumtlkrnarketing.com
 0.0.0.0 erxalim.xyz
 0.0.0.0 nameketathar.pro
 0.0.0.0 deryjobmeetin.info
@@ -9608,7 +9627,6 @@
 0.0.0.0 media303.com
 0.0.0.0 media970.com
 0.0.0.0 mediaadserver.org
-0.0.0.0 mediaalpha.com
 0.0.0.0 mediaclick.com
 0.0.0.0 mediacpm.com
 0.0.0.0 mediaessence.net
@@ -10652,7 +10670,6 @@
 0.0.0.0 silverads.net
 0.0.0.0 simpio.com
 0.0.0.0 simply.com
-0.0.0.0 simplyhired.com
 0.0.0.0 simvinvo.com
 0.0.0.0 siniature.com
 0.0.0.0 siradsalot.com
@@ -21901,6 +21918,7 @@
 0.0.0.0 ichkaufehierein.de
 0.0.0.0 maria-herzt.de
 0.0.0.0 meinelieblingsprodukte.de
+0.0.0.0 stat.enter-system.com
 0.0.0.0 t.hoood.info
 0.0.0.0 experianmarketingservices.digital
 0.0.0.0 liod1ours.com
@@ -22832,7 +22850,6 @@
 0.0.0.0 enhance.com
 0.0.0.0 enquisite.com
 0.0.0.0 ensighten.com
-0.0.0.0 enter-system.com
 0.0.0.0 enticelabs.com
 0.0.0.0 eperfectdata.com
 0.0.0.0 epilot.com
@@ -24865,6 +24882,7 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 analytics.webgains.io
 0.0.0.0 candac.iridion.de
 0.0.0.0 cunda.prudsys-rde.de
 0.0.0.0 tr.junaroad.com
@@ -26741,6 +26759,7 @@
 0.0.0.0 ptengine.cn
 0.0.0.0 ptengine.jp
 0.0.0.0 ptmind.com
+0.0.0.0 pubplus.com
 0.0.0.0 pubstack.io
 0.0.0.0 pxf.io
 0.0.0.0 qlfsat.co.uk
@@ -27723,6 +27742,7 @@
 0.0.0.0 dawin.tv
 0.0.0.0 oevery.com
 0.0.0.0 tenping.kr
+0.0.0.0 mcloudglobal.com
 0.0.0.0 ppdb.pl
 0.0.0.0 top.lv
 0.0.0.0 wos.lv
@@ -27921,7 +27941,6 @@
 0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
-0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.witglobal.net
@@ -28078,7 +28097,6 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
-0.0.0.0 d1aqhv4sn5kxtx.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1ksyxj9xozc2j.cloudfront.net
 0.0.0.0 d1r55yzuc1b1bw.cloudfront.net
@@ -28838,7 +28856,6 @@
 0.0.0.0 visitping.rossel.be
 0.0.0.0 zebestof.com
 0.0.0.0 analytics.styria.hr
-0.0.0.0 -logging.nextmedia.com
 0.0.0.0 analytics.21cn.com
 0.0.0.0 analytics.meituan.net
 0.0.0.0 atanx.alicdn.com
@@ -29323,8 +29340,10 @@
 0.0.0.0 sp.zalo.me
 0.0.0.0 subiz.com
 0.0.0.0 tracking.playzing.g6.zing.vn
+0.0.0.0 vclick.vn
 0.0.0.0 vietad.vn
 0.0.0.0 vietnamnetad.vn
+0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zalo-ads-td.zadn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 zlog.zingmp3.vn
@@ -29359,6 +29378,7 @@
 0.0.0.0 adt.com.vn
 0.0.0.0 adx.kul.vn
 0.0.0.0 adx.xemvtv.net
+0.0.0.0 affiliate.k4.tinhte.vn
 0.0.0.0 ailamtrieuphu.com
 0.0.0.0 alivar.com.vn
 0.0.0.0 alivar.vn
@@ -29399,7 +29419,6 @@
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vads.net.vn
 0.0.0.0 vads.vn
-0.0.0.0 vclick.vn
 0.0.0.0 vietbuzzad.com
 0.0.0.0 vietdorje.com
 0.0.0.0 vinaads.vn
