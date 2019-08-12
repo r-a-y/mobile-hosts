@@ -1,13 +1,17 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Thu, 08 Aug 2019 08:42:59 +0100
+# Last converted - Mon, 12 Aug 2019 22:16:38 +0100
 #
 
+0.0.0.0 qqjar.ru
+0.0.0.0 qqshoe.ru
+0.0.0.0 rezhiv.ru
 0.0.0.0 smart-tds.info
 0.0.0.0 cpamedia.info
 0.0.0.0 s.newsportalssl1.top
 0.0.0.0 tirqeso.ru
+0.0.0.0 selectroduced.com
 0.0.0.0 somuboteso.com
 0.0.0.0 369bd3a861d8c27.com
 0.0.0.0 unixfuture.com
@@ -3539,6 +3543,11 @@
 0.0.0.0 svitnews.com
 0.0.0.0 vi.bigmir.net
 0.0.0.0 widget.mediastealer.com
+0.0.0.0 superonclick.com
+0.0.0.0 serconmp.com
+0.0.0.0 psoonsod.com
+0.0.0.0 bulletprofit.com
+0.0.0.0 sevootie.com
 0.0.0.0 ailiyou1999.com
 0.0.0.0 snyowx29.com
 0.0.0.0 tuigang1999.com
@@ -7511,6 +7520,7 @@
 0.0.0.0 adsignals.com
 0.0.0.0 adsimilis.com
 0.0.0.0 adsinimages.com
+0.0.0.0 adsinstant.com
 0.0.0.0 adskeeper.co.uk
 0.0.0.0 adslala.com
 0.0.0.0 adslidango.com
@@ -8704,6 +8714,7 @@
 0.0.0.0 encruses.com
 0.0.0.0 engineseeker.com
 0.0.0.0 enlnks.com
+0.0.0.0 enmisindingat.info
 0.0.0.0 enoughts.info
 0.0.0.0 enterads.com
 0.0.0.0 entrecard.com
@@ -8754,6 +8765,7 @@
 0.0.0.0 exerciale.com
 0.0.0.0 exitexplosion.com
 0.0.0.0 exitjunction.com
+0.0.0.0 exoclsodaqs.com
 0.0.0.0 exoneratedresignation.info
 0.0.0.0 exosrv.com
 0.0.0.0 expebtu.com
@@ -8777,6 +8789,7 @@
 0.0.0.0 f7oddtr.com
 0.0.0.0 facebooker.top
 0.0.0.0 faggrim.com
+0.0.0.0 faidoud.com
 0.0.0.0 fairadsnetwork.com
 0.0.0.0 falkag.net
 0.0.0.0 falthouse.info
@@ -9380,6 +9393,7 @@
 0.0.0.0 k9anf8bc.webcam
 0.0.0.0 kanoodle.com
 0.0.0.0 kantarmedia.com
+0.0.0.0 kargo.com
 0.0.0.0 keapeiros.xyz
 0.0.0.0 keewurd.com
 0.0.0.0 kehalim.com
@@ -9545,7 +9559,6 @@
 0.0.0.0 ltassrv.com.s3.amazonaws.com
 0.0.0.0 lucidmedia.com
 0.0.0.0 luckypushh.com
-0.0.0.0 lumberamount.com
 0.0.0.0 lushcrush.com
 0.0.0.0 luxbetaffiliates.com.au
 0.0.0.0 luxup2.ru
@@ -10190,6 +10203,7 @@
 0.0.0.0 polmontventures.com
 0.0.0.0 polydarth.com
 0.0.0.0 pontypriddcrick.com
+0.0.0.0 poolgmsd.com
 0.0.0.0 poolnoodle.tech
 0.0.0.0 pop-rev.com
 0.0.0.0 popclck.net
@@ -11198,6 +11212,7 @@
 0.0.0.0 variablefitness.com
 0.0.0.0 vashoot.com
 0.0.0.0 vastopped.com
+0.0.0.0 vbtrax.com
 0.0.0.0 vcmedia.com
 0.0.0.0 vcommission.com
 0.0.0.0 vdbhe7ti.com
@@ -11606,6 +11621,7 @@
 0.0.0.0 iyfnzgb.com
 0.0.0.0 mellodur.net
 0.0.0.0 oiycak.com
+0.0.0.0 outhulem.net
 0.0.0.0 premium-members.com
 0.0.0.0 redirectgang.com
 0.0.0.0 rsalcdp.com
@@ -13423,6 +13439,7 @@
 0.0.0.0 bvjexgnagddtmu.com
 0.0.0.0 bvnmmdelarn.com
 0.0.0.0 bvobtmbziccr.com
+0.0.0.0 bvrdzbzwa.com
 0.0.0.0 bvrkzhtxlgono.com
 0.0.0.0 bvuficdch.com
 0.0.0.0 bvwkethv.com
@@ -13695,6 +13712,7 @@
 0.0.0.0 cqindhgqi.com
 0.0.0.0 cqjnxsbuplcqri.com
 0.0.0.0 cqoyvpldkmqt.com
+0.0.0.0 cqvkwpulpwfudg.com
 0.0.0.0 cqwqxapujf.com
 0.0.0.0 cqyfjodshwuici.com
 0.0.0.0 cqzqdoqsgxyf.com
@@ -14534,6 +14552,7 @@
 0.0.0.0 fhsohqtif.com
 0.0.0.0 fhtlyoqzyjjof.com
 0.0.0.0 fhylnqzxwsbo.com
+0.0.0.0 fiaehdnnx.com
 0.0.0.0 fiarnvygamgpqf.com
 0.0.0.0 fieejwanbrv.com
 0.0.0.0 fifnonxntvaszg.com
@@ -14652,6 +14671,7 @@
 0.0.0.0 fqufpknrarn.com
 0.0.0.0 frbhjvazapgo.com
 0.0.0.0 frcinpdv.com
+0.0.0.0 frclyody.com
 0.0.0.0 frczfzikturw.com
 0.0.0.0 frcznmfu.com
 0.0.0.0 frddujheozns.com
@@ -15585,6 +15605,7 @@
 0.0.0.0 iluwjbuwm.com
 0.0.0.0 ilvibsabwuza.com
 0.0.0.0 ilxwlsnzhzukj.com
+0.0.0.0 ilzjjdujrgaa.com
 0.0.0.0 ilzwenpgf.com
 0.0.0.0 imayjubge.com
 0.0.0.0 imbbjywwahev.com
@@ -16548,6 +16569,7 @@
 0.0.0.0 liesiotlpfvjm.com
 0.0.0.0 ligabklr.com
 0.0.0.0 lilncsqapikckt.com
+0.0.0.0 liocwxpkakrf.com
 0.0.0.0 liosawitskzd.com
 0.0.0.0 liqbipkfbafq.com
 0.0.0.0 liuduuct.com
@@ -17964,6 +17986,7 @@
 0.0.0.0 pyhtclpgzbe.com
 0.0.0.0 pykexoeeibq.com
 0.0.0.0 pyllxjfkjhpjbq.com
+0.0.0.0 pypkrvtepsha.com
 0.0.0.0 pyqwtxicjodcij.com
 0.0.0.0 pyubjvvdsrja.com
 0.0.0.0 pyzkbxspoon.com
@@ -18738,6 +18761,7 @@
 0.0.0.0 shhngaasah.com
 0.0.0.0 shhrbeffgz.com
 0.0.0.0 shidvvvhi.com
+0.0.0.0 shjmjmds.com
 0.0.0.0 shkfrsif.com
 0.0.0.0 shldethxhl.com
 0.0.0.0 shmpdqwucl.com
@@ -18749,6 +18773,7 @@
 0.0.0.0 shvdvzydgryx.com
 0.0.0.0 shyyyxjw.com
 0.0.0.0 siaiscphvghttd.com
+0.0.0.0 sibatnsryjpcq.com
 0.0.0.0 sicpkohkcmt.com
 0.0.0.0 sicteppojdwr.com
 0.0.0.0 sihciabzm.com
@@ -20871,6 +20896,7 @@
 0.0.0.0 yxngmwzubbaa.com
 0.0.0.0 yxpkzxyajjan.com
 0.0.0.0 yxsyvsqrkbdqym.com
+0.0.0.0 yxvuvzrz.com
 0.0.0.0 yxvxjtupwlee.com
 0.0.0.0 yxwnopnfgctpr.com
 0.0.0.0 yyajvvjrcigf.com
@@ -24712,6 +24738,7 @@
 0.0.0.0 functionalclam.com
 0.0.0.0 symbolizebeast.com
 0.0.0.0 cannontwin.com
+0.0.0.0 lumberamount.com
 0.0.0.0 brothersbucket.com
 0.0.0.0 spottednoise.com
 0.0.0.0 squirrelhands.com
@@ -24881,7 +24908,12 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 count.rtl.de
+0.0.0.0 pixel.4pcdn.de
+0.0.0.0 lexip.4pcdn.de
+0.0.0.0 pebed.dm-event.net
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 counter.pixplug.in
 0.0.0.0 analytics.webgains.io
 0.0.0.0 candac.iridion.de
 0.0.0.0 cunda.prudsys-rde.de
@@ -26496,6 +26528,7 @@
 0.0.0.0 azointel.com
 0.0.0.0 b0e8.com
 0.0.0.0 b1js.com
+0.0.0.0 baremetrics.com
 0.0.0.0 bdash-cloud.com
 0.0.0.0 beampulse.com
 0.0.0.0 beeftransmission.com
@@ -26513,6 +26546,7 @@
 0.0.0.0 bouncepilot.com
 0.0.0.0 brightfunnel.com
 0.0.0.0 bunchbox.co
+0.0.0.0 bytedance.com
 0.0.0.0 c-rings.net
 0.0.0.0 c212.net
 0.0.0.0 callreports.com
@@ -26540,6 +26574,7 @@
 0.0.0.0 clickguardian.co.uk
 0.0.0.0 clicktrkservices.com
 0.0.0.0 clickx.io
+0.0.0.0 clientgear.com
 0.0.0.0 cloud-iq.com
 0.0.0.0 cobaltgroup.com
 0.0.0.0 colossusssp.com
@@ -26559,6 +26594,7 @@
 0.0.0.0 dable.io
 0.0.0.0 datacoral.com
 0.0.0.0 datacoral.io
+0.0.0.0 datasteam.io
 0.0.0.0 dataxpand.com
 0.0.0.0 ddm.io
 0.0.0.0 deep.bi
@@ -26713,6 +26749,7 @@
 0.0.0.0 mooseway.com
 0.0.0.0 mparticle.com
 0.0.0.0 mppapi.io
+0.0.0.0 mql5.com
 0.0.0.0 msecure108.com
 0.0.0.0 msparktrk.com
 0.0.0.0 mstrlytcs.com
@@ -26724,6 +26761,7 @@
 0.0.0.0 nakanohito.jp
 0.0.0.0 natero.com
 0.0.0.0 navigator.io
+0.0.0.0 ncaudienceexchange.com
 0.0.0.0 ndf81.com
 0.0.0.0 nerfherdersolo.com
 0.0.0.0 nero.live
@@ -26792,6 +26830,7 @@
 0.0.0.0 salesmanago.pl
 0.0.0.0 salesviewer.com
 0.0.0.0 salesviewer.org
+0.0.0.0 san-spr-01.net
 0.0.0.0 sc-static.net
 0.0.0.0 scroll.com
 0.0.0.0 selipuquoe.com
@@ -26832,6 +26871,7 @@
 0.0.0.0 stadsvc.com
 0.0.0.0 star-cntr-5.com
 0.0.0.0 stat.social
+0.0.0.0 staticiv.com
 0.0.0.0 stats4u.net
 0.0.0.0 statswebtown.com
 0.0.0.0 storygize.net
@@ -27533,6 +27573,7 @@
 0.0.0.0 familiarfloor.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 frailoffer.com
+0.0.0.0 horsenectar.com
 0.0.0.0 importedincrease.com
 0.0.0.0 jadeitite.com
 0.0.0.0 levelbehavior.com
@@ -27636,6 +27677,7 @@
 0.0.0.0 adop.cc
 0.0.0.0 adskom.com
 0.0.0.0 adxvip.com
+0.0.0.0 affclkr.com
 0.0.0.0 appier.net
 0.0.0.0 baifendian.com
 0.0.0.0 cctvgb.com.cn
@@ -27669,6 +27711,7 @@
 0.0.0.0 tenmax.io
 0.0.0.0 tomonline-inc.com
 0.0.0.0 topsem.com
+0.0.0.0 twcouponcenter.com
 0.0.0.0 vamaker.com
 0.0.0.0 webdissector.com
 0.0.0.0 xtgreat.com
@@ -28696,6 +28739,7 @@
 0.0.0.0 ttdetect.staticimgfarm.com
 0.0.0.0 ttwbs.channelintelligence.com
 0.0.0.0 txn.grabnetworks.com
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
 0.0.0.0 upt.graphiq.com
 0.0.0.0 urc.taboolasyndication.com
@@ -28863,7 +28907,6 @@
 0.0.0.0 cdn.hiido.cn
 0.0.0.0 click.bokecc.com
 0.0.0.0 cms.grandcloud.cn
-0.0.0.0 counter.pixplug.in
 0.0.0.0 csbew.com
 0.0.0.0 css.aliyun.com
 0.0.0.0 d17m68fovwmgxj.cloudfront.net
@@ -29286,23 +29329,24 @@
 0.0.0.0 zy16eoat1w.com
 0.0.0.0 accesstrade.com.vn
 0.0.0.0 accesstrade.vn
+0.0.0.0 ad.org.vn
 0.0.0.0 ad.zing.vn
 0.0.0.0 ad360.vn
 0.0.0.0 admicro.vn
 0.0.0.0 adnetwork.vn
 0.0.0.0 adpia.vn
+0.0.0.0 ads-target.coccoc.com
 0.0.0.0 ads.hosting.vcmedia.vn
 0.0.0.0 ads.zaloapp.com
 0.0.0.0 ads.zdn.vn
 0.0.0.0 adservice.google.com.vn
-0.0.0.0 ads-target.coccoc.com
-0.0.0.0 adtima.vn
-0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-media-td.zadn.vn
+0.0.0.0 adtima-media.zadn.vn
 0.0.0.0 adtima-static.zadn.vn
+0.0.0.0 adtima.vn
 0.0.0.0 ambient-platform.com
-0.0.0.0 ants.vn
 0.0.0.0 anthill.vn
+0.0.0.0 ants.vn
 0.0.0.0 api.sdk.zadn.vn
 0.0.0.0 banners-gallery.coccoc.com
 0.0.0.0 cdn.comedia.coccoc.com
@@ -29322,6 +29366,7 @@
 0.0.0.0 log.sdk.zadn.vn
 0.0.0.0 log.zingmp3.vn
 0.0.0.0 logv2.mp3.zing.vn
+0.0.0.0 mangoads.vn
 0.0.0.0 metrics.coccoc.com
 0.0.0.0 novanet.vn
 0.0.0.0 novaon.asia
@@ -29331,10 +29376,10 @@
 0.0.0.0 nt-cdn.coccoc.com
 0.0.0.0 org.zaloapp.ads.zdn.vn
 0.0.0.0 pinetech.vn
+0.0.0.0 qc-static.coccoc.com
 0.0.0.0 qc.coccoc.com
 0.0.0.0 qc.coccoc.vn
 0.0.0.0 qccoccocmedia.vn
-0.0.0.0 qc-static.coccoc.com
 0.0.0.0 shop.zalo.me
 0.0.0.0 shopping.coccoc.com
 0.0.0.0 sp.zalo.me
@@ -29343,26 +29388,26 @@
 0.0.0.0 vclick.vn
 0.0.0.0 vietad.vn
 0.0.0.0 vietnamnetad.vn
-0.0.0.0 zalo-ads.zadn.vn
+0.0.0.0 younetmedia.com
 0.0.0.0 zalo-ads-td.zadn.vn
+0.0.0.0 zalo-ads.zadn.vn
 0.0.0.0 zaloapp.ads.zdn.vn
 0.0.0.0 zlog.zingmp3.vn
-0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 zplayer-trk.zdn.vn
+0.0.0.0 zplayer.trk.zapps.vn
 0.0.0.0 123c.vn
+0.0.0.0 ad-hcm.24hstatic.com
+0.0.0.0 ad-hn.24hstatic.com
+0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 ad.24h.com.vn
 0.0.0.0 ad.icheck.com.vn
 0.0.0.0 ad.mwork.vn
-0.0.0.0 ad.org.vn
 0.0.0.0 ad.vatgia.com
 0.0.0.0 ad.vietbao.vn
 0.0.0.0 ad.vkool.net
 0.0.0.0 adchoice.com
 0.0.0.0 adchoice.com.vn
 0.0.0.0 adfox.vn
-0.0.0.0 ad-hcm.24hstatic.com
-0.0.0.0 ad-hn.24hstatic.com
-0.0.0.0 ad-img.icheck.com.vn
 0.0.0.0 admedia.com.vn
 0.0.0.0 admin.sothuchi.vn
 0.0.0.0 adnetwork.5imedia.vn
@@ -29385,10 +29430,9 @@
 0.0.0.0 amobi.vn
 0.0.0.0 apinas.nct.vn
 0.0.0.0 app.masoffer.net
-0.0.0.0 appapicached.vtvgo.vn
 0.0.0.0 banner.5giay.vn
+0.0.0.0 clevernet.vn
 0.0.0.0 click.xdeal.vn
-0.0.0.0 client.vads.net.vn
 0.0.0.0 clipbongda.info
 0.0.0.0 clix.vn
 0.0.0.0 delivery.senvangvn.com
@@ -29397,25 +29441,25 @@
 0.0.0.0 img.masoffer.net
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 lrc.nct.nixcdn.com
+0.0.0.0 mepuzz.com
+0.0.0.0 microad.vn
 0.0.0.0 mobilead.vn
 0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 myad.vn
 0.0.0.0 ng-vn-notice.gameitop.com
-0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 phanquang.vn
 0.0.0.0 phimmedia03.com
+0.0.0.0 polyad.galaxypub.vn
 0.0.0.0 qc.yan.vn
 0.0.0.0 quangcao.24h.com.vn
-0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 quangcao.thanhnien.vn
-0.0.0.0 serving.ad.org.vn
+0.0.0.0 quangcao.tuoitre.vn
 0.0.0.0 serving-ad.tv24.vn
-0.0.0.0 static.ad.org.vn
 0.0.0.0 static.masoffer.net
 0.0.0.0 stc-nas.nixcdn.com
-0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 trenddigital.vn
 0.0.0.0 truoctran.com
+0.0.0.0 tvnotice.kg.garena.vn
 0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 vads.net.vn
 0.0.0.0 vads.vn
@@ -29424,17 +29468,22 @@
 0.0.0.0 vinaads.vn
 0.0.0.0 alexajstrack.com
 0.0.0.0 analytics.bkav.com
+0.0.0.0 analytics.easyvideo.vn
 0.0.0.0 analytics.explus.vn
+0.0.0.0 analytics.thethao247.org
 0.0.0.0 analytics.vnreview.vn
 0.0.0.0 collect.ovp.vn
 0.0.0.0 fbuser.ovp.vn
+0.0.0.0 log.anninhthudo.vn
 0.0.0.0 log.baomoi.com
 0.0.0.0 log.batdongsan.com.vn
 0.0.0.0 log.giaoduc.net.vn
+0.0.0.0 log.infonet.vn
 0.0.0.0 log.kienthuc.net.vn
 0.0.0.0 log.sggp.org.vn
-0.0.0.0 log.tienphong.vn
 0.0.0.0 log.thanhnien.vn
+0.0.0.0 log.tienphong.vn
+0.0.0.0 log.vietnamdaily.net.vn
 0.0.0.0 log.vietnamplus.vn
 0.0.0.0 log.vov.vn
 0.0.0.0 log4x.nixcdn.com
@@ -29445,20 +29494,24 @@
 0.0.0.0 s.soha.vn
 0.0.0.0 s.tuoitre.vn
 0.0.0.0 sharefb.cnnd.vn
+0.0.0.0 staticad.thethao247.vn
 0.0.0.0 stats.bizweb.vn
 0.0.0.0 stats.vietnammoi.vn
 0.0.0.0 thongke.24h.com.vn
+0.0.0.0 thongke.baotintuc.vn
+0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 track.icheck.com.vn
 0.0.0.0 track.sendo.vn
 0.0.0.0 track.srv.vietnamnet.vn
 0.0.0.0 track.vatgia.com
 0.0.0.0 tracker.tintucvietnam.vn
 0.0.0.0 tracking.appwifi.com
+0.0.0.0 tracking.vht.com.vn
 0.0.0.0 trackingapi.foody.vn
-0.0.0.0 track-srv.vietnamnet.vn
 0.0.0.0 trending.vn
 0.0.0.0 userstats.shopee.vn
 0.0.0.0 viam.com.vn
+0.0.0.0 vtrack.vht.com.vn
 0.0.0.0 web.f8.pyco.vn
 0.0.0.0 web.stagingf8.pycogroup.com
 0.0.0.0 widget.nhaccuatui.com
