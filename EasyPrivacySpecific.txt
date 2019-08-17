@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 12 Aug 2019 22:16:39 +0100
+# Last converted - Sat, 17 Aug 2019 20:48:04 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -444,6 +444,7 @@
 0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
@@ -458,6 +459,7 @@
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.reddit.com
 0.0.0.0 pixel.redditmedia.com
+0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixels.livingsocial.com
