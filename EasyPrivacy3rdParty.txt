@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 17 Aug 2019 20:48:04 +0100
+# Last converted - Thu, 22 Aug 2019 22:07:34 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -224,7 +224,6 @@
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 chartaca.com.s3.amazonaws.com
-0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.aristotle.net
 0.0.0.0 click.geopaysys.com
@@ -293,6 +292,7 @@
 0.0.0.0 counters.freewebs.com
 0.0.0.0 counters.gigya.com
 0.0.0.0 cr.loszona.com
+0.0.0.0 creator.zmags.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.archant.co.uk
@@ -308,6 +308,7 @@
 0.0.0.0 cts.channelintelligence.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curate.nestedmedia.com
+0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
@@ -1055,6 +1056,7 @@
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.keywee.co
+0.0.0.0 tracking.legacyoffers.com
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.livingsocial.com
@@ -1101,6 +1103,7 @@
 0.0.0.0 triad.technorati.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 trk.bhs4.com
+0.0.0.0 trk.cloudsna.com
 0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.sele.co
@@ -1146,6 +1149,7 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
+0.0.0.0 ws.audioeye.com
 0.0.0.0 wsb.aracert.com
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 wunderloop.aol.co.uk
@@ -1154,4 +1158,5 @@
 0.0.0.0 ys.ddns.me
 0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 zvsuhljiha-a.akamaihd.net
+0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 connatix.com
