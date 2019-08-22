@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 17 Aug 2019 20:48:00 +0100
+# Last converted - Thu, 22 Aug 2019 22:07:26 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -59,6 +59,7 @@
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 buysellads.com
 0.0.0.0 casino-ad-mediation.me2zengame.com
+0.0.0.0 postut.cn
 0.0.0.0 eysmaa.pw
 0.0.0.0 vennala.pw
 0.0.0.0 promoted.soundcloud.com
