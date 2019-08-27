@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 22 Aug 2019 22:07:33 +0100
+# Last converted - Tue, 27 Aug 2019 18:56:44 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -33,6 +33,7 @@
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
 0.0.0.0 alb.reddit.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amp.virginmedia.com
 0.0.0.0 analysis.focalprice.com
 0.0.0.0 analytic.imlive.com
@@ -830,6 +831,7 @@
 0.0.0.0 tracking.tidalhifi.com
 0.0.0.0 tracking.times247.com
 0.0.0.0 tracking.ukwm.co.uk
+0.0.0.0 tracking.unitednaturals.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking.ustream.tv
 0.0.0.0 tracking.yourfilehost.com
@@ -839,6 +841,7 @@
 0.0.0.0 traktr.news.com.au
 0.0.0.0 trax.tvguide.com
 0.0.0.0 trck.sixt.com
+0.0.0.0 trk.flazio.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
