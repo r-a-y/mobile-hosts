@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Tue, 30 Jul 2019 21:41:54 +0100
+# Last converted - Tue, 27 Aug 2019 18:56:41 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -262,7 +262,6 @@
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.unity3d.com
-0.0.0.0 sypi.gpshopper.com
 0.0.0.0 tapjoy.com
 0.0.0.0 tapjoy.net
 0.0.0.0 taurus.iad.appboy.com
