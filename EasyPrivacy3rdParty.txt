@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 27 Aug 2019 18:56:45 +0100
+# Last converted - Wed, 04 Sep 2019 17:52:41 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -193,7 +193,6 @@
 0.0.0.0 bonsai.internetbrands.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 bright.bncnt.com
-0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btn.clickability.com
 0.0.0.0 btrace.video.qq.com
@@ -806,6 +805,7 @@
 0.0.0.0 slidedeck.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
+0.0.0.0 snowplow.swm.digital
 0.0.0.0 spacedust.netmediaeurope.com
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
@@ -959,6 +959,8 @@
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.mailperformance.com
+0.0.0.0 tra.pmdstatic.net
+0.0.0.0 tra.scds.pmdstatic.net
 0.0.0.0 trace.qq.com
 0.0.0.0 track.99acres.com
 0.0.0.0 track.addevent.com
@@ -1035,6 +1037,7 @@
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking.adalyser.com
+0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.allposters.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.bidmizer.com
