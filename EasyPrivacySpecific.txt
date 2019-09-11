@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 04 Sep 2019 17:52:41 +0100
+# Last converted - Wed, 11 Sep 2019 22:04:42 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -160,6 +160,19 @@
 0.0.0.0 cls.ichotelsgroup.com
 0.0.0.0 clvk.viki.io
 0.0.0.0 cmap.alibaba.com
+0.0.0.0 cmp.arnnet.com.au
+0.0.0.0 cmp.cio.com.au
+0.0.0.0 cmp.cmo.com.au
+0.0.0.0 cmp.computerworld.com.au
+0.0.0.0 cmp.cso.com.au
+0.0.0.0 cmp.digitalartsonline.co.uk
+0.0.0.0 cmp.greenbot.com
+0.0.0.0 cmp.macworld.co.uk
+0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.pcworld.co.nz
+0.0.0.0 cmp.pcworld.com
+0.0.0.0 cmp.techadvisor.co.uk
+0.0.0.0 cmp.techhive.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
 0.0.0.0 cnt.nicemix.com
@@ -260,6 +273,7 @@
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gateway.reddit.com
+0.0.0.0 gc.newsweek.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.hltv.org
@@ -515,6 +529,7 @@
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
 0.0.0.0 sayac.hurriyettv.com
 0.0.0.0 sb.vevo.com
+0.0.0.0 sc.cc.com
 0.0.0.0 scluster3.cliphunter.com
 0.0.0.0 scout.lexisnexis.com
 0.0.0.0 scout.rollcall.com
@@ -757,6 +772,7 @@
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
 0.0.0.0 tnla.thenewslens.com
+0.0.0.0 tongji.meizu.com
 0.0.0.0 tools.ranker.com
 0.0.0.0 top.wn.com
 0.0.0.0 total.shanghaidaily.com
@@ -791,6 +807,7 @@
 0.0.0.0 tracker.anandtech.com
 0.0.0.0 tracker.calameo.com
 0.0.0.0 tracker.cpapath.com
+0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.joost.com
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
@@ -856,12 +873,14 @@
 0.0.0.0 uptpro.homestead.com
 0.0.0.0 urchin-tracker.bigpoint.net
 0.0.0.0 urlcheck.hulu.com
+0.0.0.0 user-metrics.onthemarket.com
 0.0.0.0 userfly.com
 0.0.0.0 ut.ratepoint.com
 0.0.0.0 v.oui.sncf
 0.0.0.0 vertical-stats.huffingtonpost.com
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videotracker.washingtonpost.com
+0.0.0.0 visit.asb.co.nz
 0.0.0.0 visit.dealspwn.com
 0.0.0.0 visit.mobot.net
 0.0.0.0 visit.theglobeandmail.com
