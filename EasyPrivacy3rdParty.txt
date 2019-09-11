@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 04 Sep 2019 17:52:41 +0100
+# Last converted - Wed, 11 Sep 2019 22:04:42 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -292,6 +292,7 @@
 0.0.0.0 counters.gigya.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 creator.zmags.com
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.archant.co.uk
@@ -398,6 +399,7 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9lq0o81skkdj.cloudfront.net
+0.0.0.0 dadi.technology
 0.0.0.0 dagda.vilynx.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
@@ -413,6 +415,7 @@
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
+0.0.0.0 deepknow.egoid.me
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 dfanalytics.dealerfire.com
@@ -425,6 +428,7 @@
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dlvkf5067xruv.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -487,6 +491,7 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fluidsurveys-com.fs.cm
+0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 future-fie-assets.co.uk
@@ -581,6 +586,7 @@
 0.0.0.0 log.kibboko.com
 0.0.0.0 log.kukuplay.com
 0.0.0.0 log.liverail.com
+0.0.0.0 log.mediacategory.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
@@ -929,9 +935,11 @@
 0.0.0.0 t2.t2b.click
 0.0.0.0 tag-abe.cartrawler.com
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.email-attitude.com
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
@@ -1065,6 +1073,7 @@
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.maxcdn.com
+0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.pacharge.com
 0.0.0.0 tracking.performgroup.com
