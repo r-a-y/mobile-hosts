@@ -1,7 +1,7 @@
 # AdguardApps
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt
-# Last converted - Sat, 26 Jan 2019 23:05:13 +0000
+# Last converted - Mon, 16 Sep 2019 20:03:37 +0100
 #
 
 0.0.0.0 adcs.rqmob.com
@@ -16,3 +16,10 @@
 0.0.0.0 mtag.mman.kr
 0.0.0.0 etl.tindersparks.com
 0.0.0.0 d27tpsznug51gz.cloudfront.net
+0.0.0.0 analytics.qoqa.ninja
+0.0.0.0 analytics-sprint.qoqa.com
+0.0.0.0 analytics.qoqa.ch
+0.0.0.0 analytics.qoqa.com
+0.0.0.0 sensors.larkplayerapp.com
+0.0.0.0 sensors.snaptubeapp.com
+0.0.0.0 log.kajicam.com
