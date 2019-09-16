@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 11 Sep 2019 22:04:42 +0100
+# Last converted - Mon, 16 Sep 2019 20:03:39 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -71,6 +71,7 @@
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.dev.springboardvideo.com
+0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
@@ -260,6 +261,7 @@
 0.0.0.0 comet.ibsrv.net
 0.0.0.0 control.adap.tv
 0.0.0.0 control.cityofcairns.com
+0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -411,6 +413,7 @@
 0.0.0.0 data.minute.ly
 0.0.0.0 data.queryly.com
 0.0.0.0 data2.gosquared.com
+0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 datam8.co.nz
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
@@ -494,9 +497,11 @@
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
 0.0.0.0 friends.totallynsfw.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
+0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.webdigi.co.uk
@@ -948,6 +953,7 @@
 0.0.0.0 tags.newscgp.com
 0.0.0.0 target.fark.com
 0.0.0.0 target.mixi.media
+0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 targeting.wpdigital.net
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
