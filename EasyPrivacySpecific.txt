@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 11 Sep 2019 22:04:42 +0100
+# Last converted - Mon, 16 Sep 2019 20:03:39 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -29,6 +29,7 @@
 0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
+0.0.0.0 agg.inquisitr.com
 0.0.0.0 aggregator.inquisitr.com
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
@@ -311,6 +312,7 @@
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
 0.0.0.0 heartbeat.flickr.com
+0.0.0.0 hermes.theglobeandmail.com
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hrum.hotelsapi.io
@@ -546,6 +548,7 @@
 0.0.0.0 smetrics.delta.com
 0.0.0.0 snowplow-collector.sugarops.com
 0.0.0.0 somniture.theglobeandmail.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -796,6 +799,7 @@
 0.0.0.0 track.rediff.com
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.totalav.com
 0.0.0.0 track.ugamezone.com
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.webgains.com
@@ -812,6 +816,7 @@
 0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.pandora.com
 0.0.0.0 tracker.pinnaclesports.com
 0.0.0.0 tracker.realclearpolitics.com
