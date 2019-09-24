@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 16 Sep 2019 20:03:39 +0100
+# Last converted - Tue, 24 Sep 2019 14:30:23 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -179,6 +179,7 @@
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
+0.0.0.0 co.hltv.org
 0.0.0.0 collect.sas.com
 0.0.0.0 collect2.sas.com
 0.0.0.0 collection.theaa.com
@@ -194,6 +195,7 @@
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collector.trendmd.com
+0.0.0.0 collector.wallapop.com
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 confirm-referer.glrsales.com
 0.0.0.0 contadores.bolsamania.com
@@ -331,6 +333,7 @@
 0.0.0.0 inquiries.redhat.com
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
+0.0.0.0 intg.snapchat.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 jack.allday.com
@@ -865,6 +868,7 @@
 0.0.0.0 traktr.news.com.au
 0.0.0.0 trax.tvguide.com
 0.0.0.0 trck.sixt.com
+0.0.0.0 trezor.efscle.com
 0.0.0.0 trk.flazio.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trowel.twitch.tv
