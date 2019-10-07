@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 29 Sep 2019 20:36:25 +0100
+# Last converted - Mon, 07 Oct 2019 17:34:22 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -317,6 +317,7 @@
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0 d16xpr36wrmcmk.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
@@ -629,6 +630,7 @@
 0.0.0.0 mediapartner.bigpoint.net
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metric.nwsource.com
+0.0.0.0 metrics-api.dimensions.ai
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
@@ -1020,10 +1022,10 @@
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
 0.0.0.0 track.vscash.com
+0.0.0.0 track.wayin.com
 0.0.0.0 track.written.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
-0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.downdetector.com
