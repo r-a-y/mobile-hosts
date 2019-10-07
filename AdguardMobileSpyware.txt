@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt
-# Last converted - Sun, 29 Sep 2019 20:36:21 +0100
+# Last converted - Mon, 07 Oct 2019 17:34:18 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -19,6 +19,8 @@
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
 0.0.0.0 adj.st
+0.0.0.0 stat.m.360.cn
+0.0.0.0 stats-a.maxthon.com
 0.0.0.0 pgapi.ksmobile.com
 0.0.0.0 helpgrid1.ksmobile.com
 0.0.0.0 gcm.ksmobile.net
