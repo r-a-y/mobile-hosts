@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 29 Sep 2019 20:36:24 +0100
+# Last converted - Mon, 07 Oct 2019 17:34:21 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -357,6 +357,7 @@
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.prezi.com
+0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.vdn.apps.cntv.cn
 0.0.0.0 log.wat.tv
@@ -491,6 +492,7 @@
 0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
 0.0.0.0 ps.ecosia.org
+0.0.0.0 pulsar.ebay.$ping
 0.0.0.0 pulse-analytics-beacon.reutersmedia.net
 0.0.0.0 pvstat.china.cn
 0.0.0.0 px.mvfglobal.com
@@ -800,6 +802,7 @@
 0.0.0.0 track.ning.com
 0.0.0.0 track.pushbullet.com
 0.0.0.0 track.rediff.com
+0.0.0.0 track.searchiq.co
 0.0.0.0 track.slideshare.net
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.totalav.com
