@@ -1,13 +1,24 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 11 Sep 2019 22:04:37 +0100
+# Last converted - Mon, 07 Oct 2019 17:34:18 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
+0.0.0.0 ads.go2reach.com
+0.0.0.0 mimicromax.com
+0.0.0.0 feed.4wnet.com
+0.0.0.0 bi.yeshen.com
+0.0.0.0 launcher.us.yeshen.com
+0.0.0.0 search.adcaffe.com
+0.0.0.0 monitor.adcaffe.com
+0.0.0.0 ad-api.ehawk.com
+0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
+0.0.0.0 mobotoolpush.moboapps.io
+0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 bu1.duba.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 cmdts.ksmobile.com
@@ -30,6 +41,9 @@
 0.0.0.0 socdm.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
+0.0.0.0 banner.hpmdnetwork.ru
+0.0.0.0 hybrid.ai
+0.0.0.0 px.adhigh.net
 0.0.0.0 ad.auditude.com
 0.0.0.0 adfiles.auditude.com
 0.0.0.0 cdn.auditude.com
