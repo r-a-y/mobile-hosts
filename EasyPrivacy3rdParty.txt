@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 07 Oct 2019 17:34:22 +0100
+# Last converted - Mon, 14 Oct 2019 18:40:38 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -146,7 +146,6 @@
 0.0.0.0 apple.www.letv.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 aserve.directorym.com
-0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 attributiontrackingga.googlecode.com
 0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
@@ -730,6 +729,7 @@
 0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.usrsync.com
 0.0.0.0 pixel.vmm-satellite2.com
+0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.xmladfeed.com
 0.0.0.0 pixel.yabidos.com
@@ -757,7 +757,6 @@
 0.0.0.0 pub.sheknows.com
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 px.247inc.net
-0.0.0.0 px.dynamicyield.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.owneriq.net
@@ -822,7 +821,7 @@
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 st.cdnco.us
-0.0.0.0 st.dynamicyield.com
+0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.easydate.biz
 0.0.0.0 stat.ed.cupidplc.com
