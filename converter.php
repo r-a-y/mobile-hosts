@@ -92,6 +92,11 @@ foreach ( $lists as $name => $list ) {
 			$filter = str_replace( '|', '', $filter );
 		}
 
+		// Skip file extensions
+		if ( '.jpg' === substr( $filter, -4 ) || '.gif' === substr( $filter, -4 ) ) {
+			continue;
+		}
+
 		// Save exception to parse later.
 		if ( 0 === strpos( $filter, '@@' ) ) {
 			$exceptions[] = str_replace( '@@', '', $filter );
