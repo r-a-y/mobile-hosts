@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 14 Oct 2019 18:40:38 +0100
+# Last converted - Sun, 20 Oct 2019 22:23:02 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -26,7 +26,6 @@
 0.0.0.0 affiliates.londonmarketing.com
 0.0.0.0 affiliates.mozy.com
 0.0.0.0 affiliates.myfax.com
-0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 agg.inquisitr.com
@@ -809,6 +808,7 @@
 0.0.0.0 track.totalav.com
 0.0.0.0 track.ugamezone.com
 0.0.0.0 track.ultimate-guitar.com
+0.0.0.0 track.wattpad.com
 0.0.0.0 track.webgains.com
 0.0.0.0 track.websiteceo.com
 0.0.0.0 track.wildblue.com
