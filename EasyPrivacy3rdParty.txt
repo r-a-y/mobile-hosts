@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 14 Oct 2019 18:40:38 +0100
+# Last converted - Sun, 20 Oct 2019 22:23:03 +0100
 #
 
 0.0.0.0 188.225.25.145
@@ -25,6 +25,7 @@
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
+0.0.0.0 affiliates.purevpn.com
 0.0.0.0 affiliates.spark.net
 0.0.0.0 affiliates.swappernet.com
 0.0.0.0 affl.sucuri.net
@@ -358,7 +359,6 @@
 0.0.0.0 d2kmrmwhq7wkvs.cloudfront.net
 0.0.0.0 d2kyy9hvbrzkgn.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
-0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2pxb4n3f9klsc.cloudfront.net
@@ -372,7 +372,6 @@
 0.0.0.0 d3135glefggiep.cloudfront.net
 0.0.0.0 d33im0067v833a.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
-0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d38nbbai6u794i.cloudfront.net
@@ -461,6 +460,9 @@
 0.0.0.0 eservicesanalytics.com.au
 0.0.0.0 et.grabnetworks.com
 0.0.0.0 etc.grab.com
+0.0.0.0 event-api.contactatonce.co.uk
+0.0.0.0 event-api.contactatonce.com.au
+0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
@@ -583,6 +585,7 @@
 0.0.0.0 livecounter.theyosh.nl
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.aimtell.com
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.ideamelt.com
 0.0.0.0 log.invodo.com
@@ -638,6 +641,7 @@
 0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.loomia.com
+0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.seenon.com
 0.0.0.0 metrics.sonymusicd2c.com
@@ -1025,6 +1029,7 @@
 0.0.0.0 track.written.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
+0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.beezup.com
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.downdetector.com
