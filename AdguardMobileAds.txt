@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Mon, 14 Oct 2019 18:40:35 +0100
+# Last converted - Sun, 20 Oct 2019 22:22:54 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -74,6 +74,9 @@
 0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
+0.0.0.0 nsjpu.com
+0.0.0.0 nbvcb.xyz
+0.0.0.0 ad999.biz
 0.0.0.0 cafe-latte.myshoplus.com
 0.0.0.0 luckyforworlds.com
 0.0.0.0 cdn-adn.rayjump.com
