@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 20 Oct 2019 22:23:02 +0100
+# Last converted - Fri, 25 Oct 2019 20:01:26 +0100
 #
 
 0.0.0.0 a.jango.com
@@ -55,6 +55,7 @@
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.jabong.com
+0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.newsinc.com
@@ -649,6 +650,7 @@
 0.0.0.0 sp.thetimesherald.com
 0.0.0.0 sp.thetowntalk.com
 0.0.0.0 sp.timesrecordnews.com
+0.0.0.0 sp.tinymce.com
 0.0.0.0 sp.udimg.com
 0.0.0.0 sp.usatoday.com
 0.0.0.0 sp.vcstar.com
@@ -691,6 +693,7 @@
 0.0.0.0 stats.cheddar.com
 0.0.0.0 stats.christianpost.com
 0.0.0.0 stats.clear-media.com
+0.0.0.0 stats.digg.com
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.ebay.com
 0.0.0.0 stats.europe.newsweek.com
