@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sun, 20 Oct 2019 22:22:54 +0100
+# Last converted - Fri, 25 Oct 2019 20:01:23 +0100
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -71,6 +71,13 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 m.wangliqin.top
+0.0.0.0 m.yangzhenpeng.top
+0.0.0.0 adpriv.nikkei.com
+0.0.0.0 nkis.nikkei.com
+0.0.0.0 gameanalysis.appcpi.net
+0.0.0.0 ads.bulldogcpi.com
+0.0.0.0 other.appcpi.net
 0.0.0.0 92kyxiz5xg.execute-api.us-west-2.amazonaws.com
 0.0.0.0 0jkro0unul.execute-api.us-west-2.amazonaws.com
 0.0.0.0 d19xf4taj229i8.cloudfront.net
@@ -149,7 +156,6 @@
 0.0.0.0 speee-ad.akamaized.net
 0.0.0.0 config.unityads.unity3d.com
 0.0.0.0 m-shes.ru
-0.0.0.0 init.startappservice.com
 0.0.0.0 valshara.com
 0.0.0.0 theship.club
 0.0.0.0 ads.jianchiapp.com
@@ -197,7 +203,6 @@
 0.0.0.0 et-code.ru
 0.0.0.0 gocdn.ru
 0.0.0.0 gynax.com
-0.0.0.0 m.mixadvert.com
 0.0.0.0 nasdfg.com
 0.0.0.0 fastmap33.com
 0.0.0.0 avazunativeads.com
@@ -315,7 +320,6 @@
 0.0.0.0 ad.cauly.co.kr
 0.0.0.0 config.appjolt.com
 0.0.0.0 rtb.platform.glispa.com
-0.0.0.0 ads.yemonisoni.com
 0.0.0.0 adflake.com
 0.0.0.0 ads.aitype.net
 0.0.0.0 ero-advertising.com
@@ -394,14 +398,12 @@
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adquota.com
 0.0.0.0 ads.ad2iction.com
-0.0.0.0 ads.admarvel.com
 0.0.0.0 ads.admoda.com
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.fotoable.com
 0.0.0.0 ads.glispa.com
 0.0.0.0 ads.marvel.com
 0.0.0.0 ads.matomymobile.com
-0.0.0.0 ads.mdotm.com
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
@@ -434,7 +436,6 @@
 0.0.0.0 adspynet.com
 0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.org
-0.0.0.0 adsx.greystripe.com
 0.0.0.0 adsymptotic.com
 0.0.0.0 adtaily.pl
 0.0.0.0 adtech.de
@@ -446,7 +447,6 @@
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
 0.0.0.0 advertise.com
-0.0.0.0 advertiser.fyber.com
 0.0.0.0 advertising.com
 0.0.0.0 advertur.ru
 0.0.0.0 advombat.ru
@@ -467,7 +467,6 @@
 0.0.0.0 amoad.com
 0.0.0.0 amobee.com
 0.0.0.0 andomedia.com
-0.0.0.0 api.adflake.com
 0.0.0.0 api.appfireworks.com
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.kiip.me
@@ -506,7 +505,6 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 bannerwall.herewetest.com
 0.0.0.0 bannerwall.s3.appcnt.com
-0.0.0.0 base-cdn.admarvel.com
 0.0.0.0 bayctrk.com
 0.0.0.0 bcfads.com
 0.0.0.0 beatchucknorris.com
@@ -630,7 +628,6 @@
 0.0.0.0 i-mobile.co.jp
 0.0.0.0 i-vengo.com
 0.0.0.0 i.skimresources.com
-0.0.0.0 i.tapit.com
 0.0.0.0 iad.appboy.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iamediaserve.com
@@ -733,12 +730,10 @@
 0.0.0.0 mojiva.com
 0.0.0.0 mologiq.net
 0.0.0.0 mookie1.com
-0.0.0.0 mopub.web107-east.manage.com
 0.0.0.0 morgdm.ru
 0.0.0.0 mprezchc.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 msads.net
-0.0.0.0 msntest.serving-sys.com
 0.0.0.0 mtburn.com
 0.0.0.0 mtburn.jp
 0.0.0.0 mtrcss.com
@@ -820,7 +815,6 @@
 0.0.0.0 rtb.nexage.com
 0.0.0.0 rtbpop.com
 0.0.0.0 rubiconproject.com
-0.0.0.0 s.innovid.com
 0.0.0.0 sas816.ujikdd041o.cn
 0.0.0.0 saymedia.com
 0.0.0.0 scorecardresearch.com
@@ -832,7 +826,6 @@
 0.0.0.0 serving-sys.com
 0.0.0.0 sessionm.com
 0.0.0.0 shareasale.com
-0.0.0.0 shared.iad.appboy.com
 0.0.0.0 sharethrough.com
 0.0.0.0 show.niqiu99.org
 0.0.0.0 silvermob.com
