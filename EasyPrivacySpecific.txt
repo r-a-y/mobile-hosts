@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 25 Oct 2019 20:01:26 +0100
+# Last converted - Sun, 03 Nov 2019 02:42:37 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -235,6 +235,7 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dw.cnet.com
 0.0.0.0 ec2-prod-tracker.babelgum.com
+0.0.0.0 edmunds.com
 0.0.0.0 edw.edmunds.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
