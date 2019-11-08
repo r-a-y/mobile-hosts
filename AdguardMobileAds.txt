@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 25 Oct 2019 20:01:23 +0100
+# Last converted - Fri, 08 Nov 2019 22:13:46 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -71,6 +71,24 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 ads-brand-postback.unityads.unity3d.com
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
+0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-creatives-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-akamai-prd.unityads.unity3d.com
+0.0.0.0 cdn-store-icons-highwinds-prd.unityads.unity3d.com
+0.0.0.0 cdn-webview-pge.unityads.unity3d.com
+0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 china-cdn3.unityads.unity3d.com
+0.0.0.0 data-optout-service.uca.cloud.unity3d.com
+0.0.0.0 dsp-endscreens.unityads.unity3d.com
+0.0.0.0 geocdn.unityads.unity3d.com
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+0.0.0.0 pge.unityads.unity3d.com
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 gop1.co
 0.0.0.0 m.wangliqin.top
 0.0.0.0 m.yangzhenpeng.top
 0.0.0.0 adpriv.nikkei.com
