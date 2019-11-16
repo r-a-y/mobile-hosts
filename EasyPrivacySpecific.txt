@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 08 Nov 2019 22:13:50 +0000
+# Last converted - Sat, 16 Nov 2019 05:01:22 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -167,6 +167,7 @@
 0.0.0.0 cmp.cmo.com.au
 0.0.0.0 cmp.computerworld.com.au
 0.0.0.0 cmp.cso.com.au
+0.0.0.0 cmp.csoonline.com
 0.0.0.0 cmp.digitalartsonline.co.uk
 0.0.0.0 cmp.greenbot.com
 0.0.0.0 cmp.macworld.co.uk
@@ -887,6 +888,8 @@
 0.0.0.0 trowel.twitch.tv
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 trx.smdatalabs.com
+0.0.0.0 ttauri.tomsguide.com
+0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 tw.i.hulu.com
 0.0.0.0 txn.thenewsroom.com
 0.0.0.0 unid.go.com
