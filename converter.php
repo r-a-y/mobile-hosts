@@ -6,7 +6,7 @@ $lists = array(
 	'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt',
 
 	// Mobile Tracking + Spyware
-	'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/spyware.txt',
+	'AdguardMobileSpyware' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/SpywareFilter/sections/mobile.txt',
 
 	// Adguard Apps
 	'AdguardApps' => 'https://github.com/AdguardTeam/AdguardFilters/raw/master/MobileFilter/sections/specific_app.txt',
