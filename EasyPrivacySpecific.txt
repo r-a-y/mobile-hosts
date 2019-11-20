@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 16 Nov 2019 05:01:22 +0000
+# Last converted - Wed, 20 Nov 2019 06:24:51 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -265,6 +265,7 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
+0.0.0.0 extra.tvmaze.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 felitb.rightinthebox.com
@@ -411,6 +412,7 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 mms.coachmag.co.uk
 0.0.0.0 mms.deadspin.com
+0.0.0.0 mms.expertreviews.co.uk
 0.0.0.0 mms.gizmodo.com
 0.0.0.0 mms.gulflive.com
 0.0.0.0 mms.jalopnik.com
@@ -437,6 +439,7 @@
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 nozem.tvmaze.com
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
@@ -857,7 +860,6 @@
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.koego.com
 0.0.0.0 tracking.military.com
-0.0.0.0 tracking.moneyam.com
 0.0.0.0 tracking.mycapture.com
 0.0.0.0 tracking.nextdoor.com
 0.0.0.0 tracking.olx-st.com
@@ -939,6 +941,7 @@
 0.0.0.0 wzus1.thesaurus.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
+0.0.0.0 zeus.slader.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
