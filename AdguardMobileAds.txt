@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 08 Nov 2019 22:13:46 +0000
+# Last converted - Wed, 20 Nov 2019 06:24:45 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -31,7 +31,6 @@
 0.0.0.0 adpush.goforandroid.com
 0.0.0.0 advonline.goforandroid.com
 0.0.0.0 dzpu6za66svjl.cloudfront.net
-0.0.0.0 ad.api.kaffnet.com
 0.0.0.0 ad.flipboard.com
 0.0.0.0 adserver.shadow.snapads.com
 0.0.0.0 ads-chunks.prod.ihrhls.com
@@ -71,6 +70,8 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 tccbanner.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 cdn-creatives-akamai-prd.unityads.unity3d.com
@@ -167,7 +168,7 @@
 0.0.0.0 postitial.com
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 cdn-cf.postitial.com
-0.0.0.0 ad.adapter.kaffnet.com
+0.0.0.0 kaffnet.com
 0.0.0.0 opt8.co
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 sexpennyauctions.com
@@ -823,7 +824,6 @@
 0.0.0.0 reate.info
 0.0.0.0 rek.mobi
 0.0.0.0 reklamz.com
-0.0.0.0 relap.io
 0.0.0.0 reporo.net
 0.0.0.0 revcontent.com
 0.0.0.0 revmob.com
