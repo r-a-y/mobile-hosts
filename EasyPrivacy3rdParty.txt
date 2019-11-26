@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 20 Nov 2019 06:24:52 +0000
+# Last converted - Tue, 26 Nov 2019 15:44:12 +0000
 #
 
 0.0.0.0 188.225.25.145
@@ -293,6 +293,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.freewebs.com
 0.0.0.0 counters.gigya.com
+0.0.0.0 country.yepshare.com
 0.0.0.0 cr.loszona.com
 0.0.0.0 creator.zmags.com
 0.0.0.0 crta.dailymail.co.uk
@@ -316,6 +317,7 @@
 0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
+0.0.0.0 d10gj7yjsfriaj.cloudfront.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d11a2fzhgzqe7i.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
@@ -330,6 +332,7 @@
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1hi41nc56pmug.cloudfront.net
+0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d1ksyxj9xozc2j.cloudfront.net
 0.0.0.0 d1lm7kd3bd3yo9.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -1126,7 +1129,6 @@
 0.0.0.0 traffic.prod.cobaltgroup.com
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
-0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trax.dirxion.com
 0.0.0.0 trc.pushnami.com
