@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 20 Nov 2019 06:24:45 +0000
+# Last converted - Tue, 26 Nov 2019 15:44:05 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -70,6 +70,19 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 qienews.cn
+0.0.0.0 fowpq.top
+0.0.0.0 ktionz.com
+0.0.0.0 pv.dakawm.cc
+0.0.0.0 zhongwangmy.cn
+0.0.0.0 xn-2qux23confgml.club
+0.0.0.0 cwmlm.com
+0.0.0.0 mvo.g45td.xyz
+0.0.0.0 eco.2t4fe.xyz
+0.0.0.0 nvmsa.top
+0.0.0.0 haorun.pw
+0.0.0.0 pochengweiyuan.com
+0.0.0.0 ts166.net
 0.0.0.0 imrworldwide.com
 0.0.0.0 tccbanner.com
 0.0.0.0 ads-brand-postback.unityads.unity3d.com
