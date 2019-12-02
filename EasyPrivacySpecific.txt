@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 26 Nov 2019 15:44:11 +0000
+# Last converted - Mon, 02 Dec 2019 08:30:04 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -248,7 +248,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 eu.groupondata.com
-0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 ev.kck.st
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
@@ -371,7 +371,6 @@
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
 0.0.0.0 log1.24liveplus.com
-0.0.0.0 logdev.openload.co
 0.0.0.0 logg.kiwi.com
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.nerdwallet.com
@@ -389,6 +388,7 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 mcdp-sadc1.outbrain.com
+0.0.0.0 mdn.neowin.net
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.gstatic.com
@@ -947,10 +947,14 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 6pal.consobaby.com
+0.0.0.0 ch0p.darty.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 dt.nrjmobile.fr
 0.0.0.0 ea.auchantelecom.fr
 0.0.0.0 ea.aujourdhui.com
+0.0.0.0 ea.celio.com
+0.0.0.0 ea.ciblo.net
+0.0.0.0 ea.clubic.com
 0.0.0.0 ea.deguisetoi.fr
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
@@ -958,13 +962,18 @@
 0.0.0.0 ea.histoiredor.com
 0.0.0.0 ea.hofmann.pt
 0.0.0.0 ea.homair.com
+0.0.0.0 ea.jeuxvideopc.com
 0.0.0.0 ea.lafrancedunordausud.fr
+0.0.0.0 ea.lexpress.fr
 0.0.0.0 ea.melijoe.com
 0.0.0.0 ea.millet-mountain.com
 0.0.0.0 ea.millet.fr
+0.0.0.0 ea.monsieurmanuel.com
 0.0.0.0 ea.natiloo.com
 0.0.0.0 ea.rentacar.fr
+0.0.0.0 ea.rueducommerce.fr
 0.0.0.0 ea.venta-unica.com
+0.0.0.0 ea.vente-unique.be
 0.0.0.0 ea.vente-unique.ch
 0.0.0.0 ea.vente-unique.com
 0.0.0.0 ea.warnerbros.fr
@@ -972,6 +981,9 @@
 0.0.0.0 et.unclejeans.com
 0.0.0.0 eulerian.brandalley.fr
 0.0.0.0 eulerian.mathon.fr
+0.0.0.0 eulerian.sarenza.com
+0.0.0.0 eulerian.splendia.com
+0.0.0.0 eultech.fnac.com
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
@@ -979,6 +991,8 @@
 0.0.0.0 mo.moonpig.com
 0.0.0.0 mva1.maeva.com
 0.0.0.0 ncx2.voyage-prive.it
+0.0.0.0 netc.sfr.fr
+0.0.0.0 noa0.compteczam.fr
 0.0.0.0 oal2.destinia.co.uk
 0.0.0.0 ojm4.palladiumhotelgroup.com
 0.0.0.0 pbox.photobox.de
