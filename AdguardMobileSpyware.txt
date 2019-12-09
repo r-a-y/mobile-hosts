@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 20 Nov 2019 06:33:48 +0000
+# Last converted - Mon, 09 Dec 2019 09:06:47 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -26,6 +26,7 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 analytics.metrix.ir
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 installtracker.unityads.unity3d.com
@@ -171,7 +172,6 @@
 0.0.0.0 stats.umsns.com
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 iapp-cp.nuggad.net
-0.0.0.0 2o7.net
 0.0.0.0 4seeresults.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 ad-analytics-bootstrap.metaps.com
@@ -297,7 +297,6 @@
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 xiti.com
 0.0.0.0 xlmc.sec.miui.com
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
