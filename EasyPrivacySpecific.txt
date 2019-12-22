@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 16 Dec 2019 08:59:16 +0000
+# Last converted - Sun, 22 Dec 2019 00:41:15 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -344,6 +344,7 @@
 0.0.0.0 live.philips.com
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
+0.0.0.0 location.bloomberg.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.data.disney.com
 0.0.0.0 log.deutschegrammophon.com
@@ -369,6 +370,7 @@
 0.0.0.0 loglady.publicbroadcasting.net
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
+0.0.0.0 logs.hotstar.com
 0.0.0.0 lsam.research.microsoft.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 marketing.alibaba.com
@@ -963,7 +965,14 @@
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
+0.0.0.0 0sbm.consobaby.co.uk
+0.0.0.0 319dn.dieti-natura.com
+0.0.0.0 6ddc.tartine-et-chocolat.com
 0.0.0.0 6pal.consobaby.com
+0.0.0.0 7lbd4.armandthiery.fr
+0.0.0.0 7mx.eider.com
+0.0.0.0 913nd.dieti-natura.es
+0.0.0.0 a8ht.hipp.fr
 0.0.0.0 ch0p.darty.com
 0.0.0.0 cse3.chausport.com
 0.0.0.0 dt.nrjmobile.fr
@@ -973,13 +982,16 @@
 0.0.0.0 ea.ciblo.net
 0.0.0.0 ea.clubic.com
 0.0.0.0 ea.deguisetoi.fr
+0.0.0.0 ea.diamant-unique.com
 0.0.0.0 ea.fleurancenature.fr
 0.0.0.0 ea.greenweez.com
 0.0.0.0 ea.habitat.fr
 0.0.0.0 ea.histoiredor.com
+0.0.0.0 ea.hofmann.es
 0.0.0.0 ea.hofmann.pt
 0.0.0.0 ea.homair.com
 0.0.0.0 ea.jeuxvideopc.com
+0.0.0.0 ea.kauf-unique.at
 0.0.0.0 ea.lafrancedunordausud.fr
 0.0.0.0 ea.lexpress.fr
 0.0.0.0 ea.melijoe.com
@@ -995,12 +1007,15 @@
 0.0.0.0 ea.vente-unique.com
 0.0.0.0 ea.warnerbros.fr
 0.0.0.0 ef.futuroscope.com
+0.0.0.0 ek8.voyage-prive.com
 0.0.0.0 et.unclejeans.com
 0.0.0.0 eulerian.brandalley.fr
+0.0.0.0 eulerian.madeindesign.com
 0.0.0.0 eulerian.mathon.fr
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eulerian.splendia.com
 0.0.0.0 eultech.fnac.com
+0.0.0.0 exd4.destinia.com.au
 0.0.0.0 f7ds.liberation.fr
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
@@ -1029,7 +1044,11 @@
 0.0.0.0 vgo.vegaoo.es
 0.0.0.0 vgo.vegaoo.nl
 0.0.0.0 vgo.vegaooparty.com
+0.0.0.0 vnf4.belleetbio.com
+0.0.0.0 vnl1.voyage-prive.nl
+0.0.0.0 vpf4.euskaltelofertas.com
 0.0.0.0 vry9.destinia.com
+0.0.0.0 vtf2f.banque-casino.fr
 0.0.0.0 we.wecanimal.pt
 0.0.0.0 xy33.smallable.com
 0.0.0.0 yoc.younited-credit.com
@@ -1037,5 +1056,4 @@
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
 0.0.0.0 play.estream.to
-0.0.0.0 worker.salon.com
 0.0.0.0 event-analytics.yesware.com
