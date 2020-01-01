@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 27 Dec 2019 18:38:31 +0000
+# Last converted - Wed, 01 Jan 2020 18:11:03 +0000
 #
 
 0.0.0.0 a.jango.com
@@ -60,6 +60,7 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.mindjolt.com
+0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.newsinc.com
 0.0.0.0 analytics.ngfiles.com
 0.0.0.0 analytics.plex.tv
@@ -275,6 +276,7 @@
 0.0.0.0 gc.newsweek.com
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
+0.0.0.0 geo.battle.net
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
@@ -1038,6 +1040,7 @@
 0.0.0.0 tdf1.admyjob.com
 0.0.0.0 tpa7.iahorro.com
 0.0.0.0 tsj0.madeindesign.com
+0.0.0.0 upz1.destinia.lt
 0.0.0.0 uue2.destinia.ir
 0.0.0.0 vbe.voyage-prive.be
 0.0.0.0 vch.voyage-prive.ch
@@ -1053,6 +1056,9 @@
 0.0.0.0 vry9.destinia.com
 0.0.0.0 vtf2f.banque-casino.fr
 0.0.0.0 we.wecanimal.pt
+0.0.0.0 wph2.destinia.us
+0.0.0.0 xay5o.toscane-boutique.fr
+0.0.0.0 xfn6.monaco.edu
 0.0.0.0 xy33.smallable.com
 0.0.0.0 yoc.younited-credit.com
 0.0.0.0 cdn1.pebx.pl
