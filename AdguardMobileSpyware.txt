@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 27 Dec 2019 18:38:26 +0000
+# Last converted - Mon, 13 Jan 2020 19:20:56 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -111,7 +111,6 @@
 0.0.0.0 omni-ads.omni.news
 0.0.0.0 npario-inc.net
 0.0.0.0 engine.mobileapptracking.com
-0.0.0.0 open.oneplus.net
 0.0.0.0 wzrkt.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
