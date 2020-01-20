@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 13 Jan 2020 19:21:00 +0000
+# Last converted - Mon, 20 Jan 2020 04:43:49 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -29,11 +29,11 @@
 0.0.0.0 aggregator.inquisitr.com
 0.0.0.0 ai.inmdata.io
 0.0.0.0 ai.iol.io
+0.0.0.0 airnewzealand.eu
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 analytic.imlive.com
 0.0.0.0 analytics.adfreetime.com
-0.0.0.0 analytics.amplitude.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.brave.com
@@ -179,6 +179,7 @@
 0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dw.cnet.com
+0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 edmunds.com
 0.0.0.0 edw.edmunds.com
 0.0.0.0 ekg.riotgames.com
@@ -211,6 +212,7 @@
 0.0.0.0 fast.forbes.com
 0.0.0.0 fathom.hakibenita.com
 0.0.0.0 felitb.rightinthebox.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
@@ -313,25 +315,20 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 mcdp-sadc1.outbrain.com
-0.0.0.0 measure.office.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
-0.0.0.0 metric.gstatic.com
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
-0.0.0.0 metrics.aws.sitepoint.com
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.cnn.com
-0.0.0.0 metrics.dailymotion.com
 0.0.0.0 metrics.ee.co.uk
 0.0.0.0 metrics.extremetech.com
 0.0.0.0 metrics.tbliab.net
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metrigo.zalan.do
-0.0.0.0 mint.boingboing.net
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
@@ -358,10 +355,7 @@
 0.0.0.0 mms.splinternews.com
 0.0.0.0 mms.syracuse.com
 0.0.0.0 mms.theroot.com
-0.0.0.0 mp.twitch.tv
-0.0.0.0 mtoza.vzaar.com
 0.0.0.0 mts-ws.rueducommerce.fr
-0.0.0.0 navlog.channel4.com
 0.0.0.0 nb.myspace.com
 0.0.0.0 ned.itv.com
 0.0.0.0 net.haier.com
@@ -394,10 +388,8 @@
 0.0.0.0 pf.newegg.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 pi.feedsportal.com
-0.0.0.0 pictures.zooplus.com
-0.0.0.0 ping.buto.tv
 0.0.0.0 ping.hungama.com
-0.0.0.0 ping.tvmaze.com
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
@@ -407,51 +399,39 @@
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.anyclip.com
-0.0.0.0 pixel.buzzfeed.com
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.dorehernowi.pro
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
-0.0.0.0 pixel.klout.com
 0.0.0.0 pixel.naij.com
 0.0.0.0 pixel.newscgp.com
 0.0.0.0 pixel.newsdiscover.com.au
 0.0.0.0 pixel.pcworld.com
 0.0.0.0 pixel.propublica.org
 0.0.0.0 pixel.reddit.com
-0.0.0.0 pixel.redditmedia.com
 0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel.staging.tree.com
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixels.livingsocial.com
 0.0.0.0 pixiedust.buzzfeed.com
-0.0.0.0 pong.gannettdigital.com
-0.0.0.0 pound.buzzfeed.com
 0.0.0.0 presentationtracking.netflix.com
 0.0.0.0 proac.nationwide.com
 0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
 0.0.0.0 ps.ecosia.org
-0.0.0.0 pulse-analytics-beacon.reutersmedia.net
 0.0.0.0 pvstat.china.cn
 0.0.0.0 px.mvfglobal.com
 0.0.0.0 px.wayfair.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
-0.0.0.0 rainbow-uk.mythings.com
-0.0.0.0 rd.meebo.com
 0.0.0.0 reco.hardsextube.com
 0.0.0.0 recommendation.24.com
 0.0.0.0 redeye.williamhill.com
-0.0.0.0 refer.evine.com
 0.0.0.0 rel.msn.com
 0.0.0.0 relatable.inquisitr.com
 0.0.0.0 report-zt.allmusic.com
-0.0.0.0 report.shell.com
 0.0.0.0 reporting.flymonarch.com
-0.0.0.0 reporting.onthebeach.co.uk
 0.0.0.0 reporting.theonion.com
-0.0.0.0 reporting.wilkinsonplus.com
 0.0.0.0 request.issuu.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
@@ -513,6 +493,7 @@
 0.0.0.0 sp.desmoinesregister.com
 0.0.0.0 sp.detroitnews.com
 0.0.0.0 sp.dnj.com
+0.0.0.0 sp.fanatical.com
 0.0.0.0 sp.fdlreporter.com
 0.0.0.0 sp.floridatoday.com
 0.0.0.0 sp.freep.com
@@ -672,6 +653,7 @@
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
+0.0.0.0 t.wizaly.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 tags.msnbc.com
@@ -680,6 +662,7 @@
 0.0.0.0 tck.bangbros.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
+0.0.0.0 telegraph.api.hbo.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempo.inc.com
 0.0.0.0 timeslogtn.timesnow.tv
@@ -805,6 +788,7 @@
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
+0.0.0.0 zion.api.cnn.io
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 cmp.arnnet.com.au
 0.0.0.0 cmp.cio.com.au
@@ -830,6 +814,7 @@
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
@@ -892,6 +877,7 @@
 0.0.0.0 fsz1.francoisesaget.com
 0.0.0.0 gdm1.toner.fr
 0.0.0.0 guq9.vente-unique.it
+0.0.0.0 mj23.eulerian.com
 0.0.0.0 mo.moonpig.com
 0.0.0.0 mva1.maeva.com
 0.0.0.0 ncx2.voyage-prive.it
@@ -932,5 +918,4 @@
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
-0.0.0.0 play.estream.to
 0.0.0.0 event-analytics.yesware.com
