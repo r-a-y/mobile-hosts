@@ -1,9 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 27 Jan 2020 06:01:37 +0000
+# Last converted - Mon, 03 Feb 2020 03:30:20 +0000
 #
 
+0.0.0.0 a-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -16,6 +17,7 @@
 0.0.0.0 adc.nine.com.au
 0.0.0.0 adv.drtuber.com
 0.0.0.0 advancedtracker.appspot.com
+0.0.0.0 aeon.spankbang.com
 0.0.0.0 affiliate.mercola.com
 0.0.0.0 affiliate.resellerclub.com
 0.0.0.0 affiliates.genealogybank.com
@@ -62,6 +64,7 @@
 0.0.0.0 analytics.sketchup.com
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.slashdotmedia.com
+0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics.sportybet.com
 0.0.0.0 analytics.teespring.com
@@ -171,6 +174,7 @@
 0.0.0.0 dc.banggood.com
 0.0.0.0 dccss.banggood.com
 0.0.0.0 debug-vp.webmd.com
+0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
@@ -223,6 +227,7 @@
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
 0.0.0.0 ga.nsimg.net
+0.0.0.0 gak.webtoons.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gateway.reddit.com
 0.0.0.0 gc.newsweek.com
@@ -900,7 +905,6 @@
 0.0.0.0 ef.futuroscope.com
 0.0.0.0 ef.futuroscope.mobi
 0.0.0.0 ek8.voyage-prive.com
-0.0.0.0 era.easyvoyage.com
 0.0.0.0 et.unclejeans.com
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 eulerian.belambra.fr
