@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Mon, 17 Feb 2020 07:12:14 +0000
+# Last converted - Sun, 23 Feb 2020 04:10:45 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -40,6 +40,10 @@
 0.0.0.0 socdm.com
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
+0.0.0.0 appodeal.com
+0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
+0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
+0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 hybrid.ai
 0.0.0.0 px.adhigh.net
@@ -79,7 +83,6 @@
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 adxcorp.kr
 0.0.0.0 adsmobila.com
-0.0.0.0 a.4ee395e5b8a076c7bd8592851ff8cad.com
 0.0.0.0 tw-api.vpon.com
 0.0.0.0 haorun.pw
 0.0.0.0 pochengweiyuan.com
@@ -146,7 +149,6 @@
 0.0.0.0 adsnative.com
 0.0.0.0 liftoff.io
 0.0.0.0 tapdaq-adverts.global.ssl.fastly.net
-0.0.0.0 a.6d47c1118927cf53ba9654931df80e8d.com
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 ade.clmbtech.com
@@ -513,7 +515,6 @@
 0.0.0.0 applift.comempty
 0.0.0.0 applovin.com
 0.0.0.0 appnext-a.akamaihd.net
-0.0.0.0 appodeal.com
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
 0.0.0.0 appserver-cp.com
