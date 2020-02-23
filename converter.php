@@ -97,6 +97,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Strip port numbers.
+		if ( false !== strpos( $filter, ':' ) ) {
+			$filter = substr( $filter, 0, strpos( $filter, ':' ) );
+		}
+
 		// Save exception to parse later.
 		if ( 0 === strpos( $filter, '@@' ) ) {
 			$exceptions[] = str_replace( '@@', '', $filter );
