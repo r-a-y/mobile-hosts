@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 17 Feb 2020 07:12:18 +0000
+# Last converted - Sun, 23 Feb 2020 04:10:46 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -184,6 +184,7 @@
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 edmunds.com
 0.0.0.0 edw.edmunds.com
+0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 emarketing.rmauctions.com
 0.0.0.0 engagefront.theweathernetwork.com
@@ -793,6 +794,7 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.arnnet.com.au
@@ -813,18 +815,25 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
+0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
+0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
 0.0.0.0 h-bid.com
+0.0.0.0 heraldscotland-gb.heraldscotland.com
 0.0.0.0 isgprivacy.cbsi.com
 0.0.0.0 mdn.neowin.net
+0.0.0.0 mms.gocomics.com
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
+0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
+0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
+0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
 0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
 0.0.0.0 0sbm.consobaby.co.uk
