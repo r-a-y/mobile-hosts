@@ -102,6 +102,11 @@ foreach ( $lists as $name => $list ) {
 			$filter = substr( $filter, 0, strpos( $filter, ':' ) );
 		}
 
+		// Convert internationalized domain names to punycode.
+		if ( function_exists( 'idn_to_ascii' ) && false === mb_check_encoding( $filter, 'ASCII' ) ) {
+			$filter = idn_to_ascii( $filter );
+		}
+
 		// Save exception to parse later.
 		if ( 0 === strpos( $filter, '@@' ) ) {
 			$exceptions[] = str_replace( '@@', '', $filter );
