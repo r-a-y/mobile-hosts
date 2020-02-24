@@ -103,7 +103,7 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Convert internationalized domain names to punycode.
-		if ( function_exists( 'idn_to_ascii' ) && false === mb_check_encoding( $filter, 'ASCII' ) ) {
+		if ( function_exists( 'idn_to_ascii' ) && preg_match( "//u", $filter ) ) {
 			$filter = idn_to_ascii( $filter );
 		}
 
