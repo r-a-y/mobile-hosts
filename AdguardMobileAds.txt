@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sun, 23 Feb 2020 04:10:45 +0000
+# Last converted - Sun, 01 Mar 2020 21:21:57 +0000
 #
 
 0.0.0.0 banners-slb.mobile.yandex.net
@@ -74,6 +74,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 config.88-f.net
 0.0.0.0 monetengine-d.openx.net
 0.0.0.0 cdn.88-f.net
