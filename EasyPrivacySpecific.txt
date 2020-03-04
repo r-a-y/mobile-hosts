@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 01 Mar 2020 21:22:01 +0000
+# Last converted - Wed, 04 Mar 2020 05:32:15 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -318,7 +318,6 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
-0.0.0.0 mcdp-sadc1.outbrain.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.inetcore.com
@@ -824,7 +823,6 @@
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
-0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 thenational-gb.thenational.scot
