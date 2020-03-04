@@ -35,7 +35,7 @@ foreach ( $lists as $name => $list ) {
 	$hosts .= "# Last converted - " . date( 'r' ) . "\n";
 	$hosts .= "#\n\n";
 
-	$exceptions = array();
+	$domains = $exceptions = array();
 
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
@@ -109,22 +109,25 @@ foreach ( $lists as $name => $list ) {
 
 		// Save exception to parse later.
 		if ( 0 === strpos( $filter, '@@' ) ) {
-			$exceptions[] = str_replace( '@@', '', $filter );
+			$exceptions[] = '0.0.0.0 ' . str_replace( '@@', '', $filter );
 			continue;
 		}
 
-
-		$hosts .= "0.0.0.0 {$filter}\n";
+		$domains[] = "0.0.0.0 {$filter}";
 	}
 
-	// Remove exceptions.
-	if ( ! empty( $exceptions ) ) {
-		foreach( $exceptions as $ex ) {
-			$find = "0.0.0.0 {$ex}\n";
-			if ( false !== strpos( $hosts, $find ) ) {
-				$hosts = str_replace( $find, '', $hosts );
-			}
+	// Generate the hosts list.
+	if ( ! empty( $domains ) ) {
+		// Filter out duplicates.
+		$domains = array_unique( $domains );
+
+		// Remove exceptions.
+		if ( ! empty( $exceptions ) ) {
+			$domains = array_diff( $domains, $exceptions );
 		}
+
+		$hosts .= implode( "\n", $domains );
+		unset( $domains );
 	}
 
 	// Output the file.
