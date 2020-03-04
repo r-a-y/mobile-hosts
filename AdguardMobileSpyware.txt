@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://github.com/AdguardTeam/AdguardFilters/raw/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 27 Jan 2020 06:01:34 +0000
+# Last converted - Wed, 04 Mar 2020 05:32:12 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -35,7 +35,6 @@
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 dsp-tracking.unityads.unity3d.com
 0.0.0.0 installtracker.unityads.unity3d.com
-0.0.0.0 issuetracker.unity3d.com
 0.0.0.0 tracking.adsx.unityads.unity3d.com
 0.0.0.0 tracking.prd.mz.internal.unity3d.com
 0.0.0.0 publisher-event.ads.prd.ie.internal.unity3d.com
