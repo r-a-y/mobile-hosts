@@ -1,9 +1,14 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 04 Mar 2020 05:32:12 +0000
+# Last converted - Fri, 06 Mar 2020 21:22:35 +0000
 #
 
+0.0.0.0 admin.appnext.com
+0.0.0.0 global.appnext.com
+0.0.0.0 cdn.appnext.com
+0.0.0.0 api.appnxt.net
+0.0.0.0 apis.appnxt.net
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 coinhive.com
@@ -69,11 +74,11 @@
 0.0.0.0 xdrig.com
 0.0.0.0 usp1.baidu.com
 0.0.0.0 i2.myapkcdn.in
-0.0.0.0 admin.appnext.com
 0.0.0.0 c3.myapkcdn.in
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 ssp.otm-r.com
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 config.88-f.net
 0.0.0.0 monetengine-d.openx.net
