@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 11 Mar 2020 21:04:27 +0000
+# Last converted - Sat, 14 Mar 2020 03:52:00 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -145,6 +145,7 @@
 0.0.0.0 co.hltv.org
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
@@ -180,6 +181,7 @@
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dp.shoprunner.com
 0.0.0.0 dw.cnet.com
 0.0.0.0 dwh-tracking.it.auth0.com
 0.0.0.0 edmunds.com
@@ -202,6 +204,7 @@
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jora.com
+0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
@@ -643,6 +646,7 @@
 0.0.0.0 surveys.cnet.com
 0.0.0.0 t-ak.hulu.com
 0.0.0.0 t.9gag.com
+0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blinkist.com
@@ -651,10 +655,12 @@
 0.0.0.0 t.eharmony.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t.jossandmain.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
 0.0.0.0 t.regionsjob.com
+0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.wizaly.com
@@ -675,6 +681,8 @@
 0.0.0.0 timestrends.timesnow.tv
 0.0.0.0 tk.kargo.com
 0.0.0.0 tkpi.delta.com
+0.0.0.0 tms.eharmony.ca
+0.0.0.0 tms.eharmony.co.uk
 0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tongji.meizu.com
 0.0.0.0 tools.ranker.com
