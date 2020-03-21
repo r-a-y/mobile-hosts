@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 14 Mar 2020 03:52:00 +0000
+# Last converted - Sat, 21 Mar 2020 19:24:42 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -465,6 +465,7 @@
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 servicetick.com
 0.0.0.0 session-tracker.badcreditloans.com
+0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sidebar.issuu.com
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 slipstream.skyscanner.net
@@ -666,6 +667,7 @@
 0.0.0.0 t.wizaly.com
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
+0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 taglocker.target.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
@@ -814,6 +816,7 @@
 0.0.0.0 cmp.greenbot.com
 0.0.0.0 cmp.macworld.co.uk
 0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.osano.com
 0.0.0.0 cmp.pcworld.co.nz
 0.0.0.0 cmp.pcworld.com
 0.0.0.0 cmp.pcworld.idg.com.au
@@ -823,6 +826,7 @@
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
 0.0.0.0 eurogamer-uk.eurogamer.net
+0.0.0.0 fuse.forbes.com
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
