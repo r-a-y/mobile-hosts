@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 18 Mar 2020 18:50:57 +0000
+# Last converted - Sat, 21 Mar 2020 19:24:42 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -545,6 +545,7 @@
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
+0.0.0.0 metric.ipv6test.net
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
@@ -605,7 +606,6 @@
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
-0.0.0.0 ping.idocdn.com
 0.0.0.0 ping.smyte.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
