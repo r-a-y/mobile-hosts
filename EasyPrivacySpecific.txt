@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 21 Mar 2020 19:24:42 +0000
+# Last converted - Wed, 25 Mar 2020 21:38:23 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -825,6 +825,7 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
+0.0.0.0 ep00.epimg.net
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 fuse.forbes.com
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
