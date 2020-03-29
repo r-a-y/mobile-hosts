@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 25 Mar 2020 21:38:23 +0000
+# Last converted - Sun, 29 Mar 2020 02:30:23 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -166,6 +166,7 @@
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
+0.0.0.0 customeriomail.codecademy.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -292,6 +293,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 link2.strawberrynet.com
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
@@ -318,6 +320,7 @@
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lslmetrics.djlmgdigital.com
+0.0.0.0 mailing.enews.extremetech.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
@@ -610,6 +613,7 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.digg.com
 0.0.0.0 stats.dnaindia.com
+0.0.0.0 stats.extremetech.com
 0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.harpercollins.com
@@ -843,6 +847,7 @@
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
+0.0.0.0 theargus-gb.theargus.co.uk
 0.0.0.0 thenational-gb.thenational.scot
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.livescience.com
