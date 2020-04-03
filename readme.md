@@ -15,8 +15,7 @@ These lists will be updated from time-to-time.  To update them yourself, the rep
 FWIW, I personally just use Adguard Mobile Ads and Adguard Mobile Tracking and Spyware on my mobile devices.
 
 #### Other good HOSTS files
-- [YHosts English](https://raw.githubusercontent.com/vokins/yhosts/master/data/union/en.txt) ([Source](https://github.com/vokins/yhosts/blob/master/data/union/en.txt))
-- [10ZiN iOS Ads](https://raw.githubusercontent.com/10ZiN/10ZiN.github.io/master/downloads/iOSAds.txt) ([Source](https://github.com/10ZiN/10ZiN.github.io/blob/master/downloads/iOSAds.txt))
+- [Eulaurarien First-Party Trackers](https://hostfiles.frogeye.fr/firstparty-trackers-hosts.txt) ([Source](https://git.frogeye.fr/geoffrey/eulaurarien/))
 
 #### How to use?
 
@@ -24,6 +23,9 @@ Copy one of the above URLs into any HOSTS app that allows adding URLs as a sourc
 
 Originally created for use with Android.  For unrooted devices, use DNS66.  For rooted devices, try AdAway.
 
+#### Sources
+- Adguard filters are licensed under the GPLv3 [(1)](https://github.com/AdguardTeam/AdguardFilters/blob/master/LICENSE) [(2)](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/LICENSE)
+- EasyPrivacy is dual-licensed under the GPLv3 and Creative Commons Attribution-ShareAlike 3.0 Unported license [(1)](https://easylist.to/pages/licence.html)
 
 #### License
 
