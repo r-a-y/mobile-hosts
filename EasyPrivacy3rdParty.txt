@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 01 Apr 2020 21:42:02 +0100
+# Last converted - Sat, 04 Apr 2020 22:48:10 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -87,6 +87,7 @@
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.optilead.co.uk
 0.0.0.0 analytics.orenshmu.com
+0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.performable.com
 0.0.0.0 analytics.photorank.me
@@ -398,7 +399,6 @@
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
 0.0.0.0 edge.sqweb.com
-0.0.0.0 engage.wixapps.net
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 et.grabnetworks.com
@@ -414,6 +414,7 @@
 0.0.0.0 events.air.tv
 0.0.0.0 events.antenna.is
 0.0.0.0 events.apester.com
+0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
@@ -995,6 +996,9 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 go.techtarget.com
+0.0.0.0 trk.techtarget.com
+0.0.0.0 users.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
