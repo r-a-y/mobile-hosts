@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 29 Mar 2020 02:30:23 +0100
+# Last converted - Sat, 04 Apr 2020 22:48:10 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -40,6 +40,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.eip.telegraph.co.uk
+0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.gorillanation.com
@@ -754,6 +755,7 @@
 0.0.0.0 tracking.porndoelabs.com
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.resumecompanion.com
+0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.shoptogether.buy.com
 0.0.0.0 tracking.softwareprojects.com
 0.0.0.0 tracking.teamskeet.com
@@ -832,6 +834,7 @@
 0.0.0.0 ep00.epimg.net
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 fuse.forbes.com
+0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 gazette-news-gb.gazette-news.co.uk
 0.0.0.0 glasgowtimes-gb.glasgowtimes.co.uk
 0.0.0.0 greenocktelegraph-gb.greenocktelegraph.co.uk
@@ -845,6 +848,7 @@
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
+0.0.0.0 sm.pcmag.com
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 swindonadvertiser-gb.swindonadvertiser.co.uk
 0.0.0.0 theargus-gb.theargus.co.uk
@@ -853,6 +857,7 @@
 0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
+0.0.0.0 ttauri.whathifi.com
 0.0.0.0 wiltshiretimes-gb.wiltshiretimes.co.uk
 0.0.0.0 worcesternews-gb.worcesternews.co.uk
 0.0.0.0 yourlocalguardian-gb.yourlocalguardian.co.uk
