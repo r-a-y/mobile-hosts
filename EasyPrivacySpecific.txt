@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
-# Converted from - https://github.com/easylist/easylist/raw/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 08 Apr 2020 19:21:07 +0100
+# Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
+# Last converted - Sat, 11 Apr 2020 20:02:55 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -168,6 +168,7 @@
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
 0.0.0.0 customeriomail.codecademy.com
+0.0.0.0 d.ghostery.com
 0.0.0.0 d1.abtshield.com
 0.0.0.0 da.virginmedia.com
 0.0.0.0 data.mic.com
@@ -241,6 +242,7 @@
 0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
+0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobeacon.ign.com
@@ -294,6 +296,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
 0.0.0.0 lilb2.shutterstock.com
+0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
