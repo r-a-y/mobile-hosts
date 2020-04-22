@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 19 Apr 2020 03:38:34 +0100
+# Last converted - Wed, 22 Apr 2020 23:57:39 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -708,6 +708,7 @@
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 secure.ifbyphone.com
+0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segments.adap.tv
 0.0.0.0 session.timecommerce.net
@@ -1015,8 +1016,10 @@
 0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 howsmyssl.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 seal.godaddy.com
+0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widgets.trustedshops.com
