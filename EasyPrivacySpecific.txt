@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 22 Apr 2020 23:57:39 +0100
+# Last converted - Sat, 25 Apr 2020 22:05:07 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -222,6 +222,7 @@
 0.0.0.0 fathom.hakibenita.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 fp.measure.office.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
@@ -251,6 +252,8 @@
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.cleveland.com
 0.0.0.0 geoip.gulflive.com
+0.0.0.0 geoip.hmageo.com
+0.0.0.0 geoip.ifunny.co
 0.0.0.0 geoip.inquirer.net
 0.0.0.0 geoip.lehighvalleylive.com
 0.0.0.0 geoip.masslive.com
@@ -264,7 +267,6 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
-0.0.0.0 glean.pop6.com
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.theregister.com
@@ -462,6 +464,7 @@
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa135.macworld.co.uk
+0.0.0.0 sa135.wsbtv.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
 0.0.0.0 sayac.hurriyettv.com
 0.0.0.0 sc.cc.com
@@ -657,6 +660,7 @@
 0.0.0.0 t.9gag.com
 0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.av.st
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blinkist.com
 0.0.0.0 t.cinemablend.com
