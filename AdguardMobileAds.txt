@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Wed, 22 Apr 2020 23:57:35 +0100
+# Last converted - Wed, 29 Apr 2020 20:46:29 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -78,6 +78,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 a.f590906c3e6c07bb5f80801f2dfc4295.com
+0.0.0.0 a.eed1729eebe45b8cd49e10f2dd80e297.com
+0.0.0.0 ad.doublemax.net
 0.0.0.0 yovoads.com
 0.0.0.0 restartad.com
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
@@ -151,7 +154,6 @@
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 huangye.miui.com
 0.0.0.0 eihjefbbbbddeiacedb.ru
-0.0.0.0 file.market.xiaomi.com
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 zhfosenghtr.com
 0.0.0.0 adsrvr.io
