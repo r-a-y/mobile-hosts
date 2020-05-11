@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 03 May 2020 21:16:53 +0100
+# Last converted - Mon, 11 May 2020 20:10:31 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -145,7 +145,6 @@
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
-0.0.0.0 co.hltv.org
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -242,7 +241,6 @@
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.battle.net
-0.0.0.0 geo.hltv.org
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.nbcsports.com
@@ -863,6 +861,7 @@
 0.0.0.0 mmm.carbuyer.co.uk
 0.0.0.0 mms.blick.ch
 0.0.0.0 mms.gocomics.com
+0.0.0.0 mms.itpro.co.uk
 0.0.0.0 orionis.techradar.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
