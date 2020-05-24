@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 21 May 2020 19:59:33 +0100
+# Last converted - Sun, 24 May 2020 21:49:36 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -21,7 +21,7 @@
 0.0.0.0 search.adcaffe.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 ad-api.ehawk.com
-0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
+0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 bu1.duba.com
