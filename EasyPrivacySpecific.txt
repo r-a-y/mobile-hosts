@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 May 2020 00:11:03 +0100
+# Last converted - Fri, 29 May 2020 00:13:07 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -15,7 +15,6 @@
 0.0.0.0 adc.nine.com.au
 0.0.0.0 adv.drtuber.com
 0.0.0.0 advancedtracker.appspot.com
-0.0.0.0 affiliate.mercola.com
 0.0.0.0 affiliate.resellerclub.com
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 affiliates.londonmarketing.com
@@ -89,7 +88,6 @@
 0.0.0.0 atrack.art.com
 0.0.0.0 audit.macworld.co.uk
 0.0.0.0 audit.pcadvisor.co.uk
-0.0.0.0 b-aws.techcrunch.com
 0.0.0.0 b.imwx.com
 0.0.0.0 b.myspace.com
 0.0.0.0 bat.adforum.com
@@ -126,8 +124,6 @@
 0.0.0.0 clck.yandex.ru
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.engage.xbox.com
-0.0.0.0 click.jasmin.com
-0.0.0.0 click.livejasmin.com
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click2.cafepress.com
@@ -219,7 +215,6 @@
 0.0.0.0 extra.tvmaze.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
-0.0.0.0 fathom.hakibenita.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
@@ -279,7 +274,6 @@
 0.0.0.0 i.pokernews.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 ibs.indiatimes.com
-0.0.0.0 id.localsearch.ch
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 imgtrack.domainmarket.com
 0.0.0.0 immassets.s3.amazonaws.com
@@ -340,7 +334,6 @@
 0.0.0.0 metrics.cnn.com
 0.0.0.0 metrics.ee.co.uk
 0.0.0.0 metrics.extremetech.com
-0.0.0.0 metrics.tbliab.net
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metrigo.zalan.do
@@ -393,7 +386,6 @@
 0.0.0.0 origin.chron.com
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pageinfo.motorsport.com
-0.0.0.0 partner.worldoftanks.com
 0.0.0.0 partners.badongo.com
 0.0.0.0 partners.mysavings.com
 0.0.0.0 pclick.europe.yahoo.com
@@ -620,7 +612,6 @@
 0.0.0.0 stats.digg.com
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.extremetech.com
-0.0.0.0 stats.eyeviewdigital.com
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.harpercollins.com
 0.0.0.0 stats.ibtimes.co.in
@@ -706,7 +697,6 @@
 0.0.0.0 track.briskfile.com
 0.0.0.0 track.catalogs.com
 0.0.0.0 track.cbs.com
-0.0.0.0 track.collegehumor.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.engagesciences.com
 0.0.0.0 track.fxstreet.com
@@ -725,14 +715,12 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 track.websiteceo.com
 0.0.0.0 track.wildblue.com
-0.0.0.0 track.workablemetro.com
 0.0.0.0 track.zomato.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.anandtech.com
 0.0.0.0 tracker.calameo.com
 0.0.0.0 tracker.cpapath.com
 0.0.0.0 tracker.jawcloud.co
-0.0.0.0 tracker.lolalytics.com
 0.0.0.0 tracker.mattel.com
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.nitropay.com
@@ -779,7 +767,6 @@
 0.0.0.0 trueffect.underarmour.com
 0.0.0.0 trx.smdatalabs.com
 0.0.0.0 tw.i.hulu.com
-0.0.0.0 txn.thenewsroom.com
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 up.boston.com
 0.0.0.0 up.nytimes.com
@@ -807,7 +794,6 @@
 0.0.0.0 web-t.9gag.com
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 webstats.thesoul-publishing.com
-0.0.0.0 whoson.smcorp.com
 0.0.0.0 wla.vivaldi.com
 0.0.0.0 ws.yellowpages.ca
 0.0.0.0 wstats.e-wok.tv
@@ -942,7 +928,6 @@
 0.0.0.0 ea.odalys-vacation-rental.com
 0.0.0.0 ea.officedepot.fr
 0.0.0.0 ea.pixmania.de
-0.0.0.0 ea.pixmania.dk
 0.0.0.0 ea.pixmania.fi
 0.0.0.0 ea.pixmania.ie
 0.0.0.0 ea.pixmania.it
