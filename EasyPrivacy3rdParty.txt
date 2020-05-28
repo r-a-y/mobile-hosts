@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 24 May 2020 21:49:40 +0100
+# Last converted - Fri, 29 May 2020 00:13:07 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -66,7 +66,6 @@
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
-0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.groupe-seb.com
@@ -95,7 +94,6 @@
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.prezly.com
 0.0.0.0 analytics.prod.aws.ecnext.net
-0.0.0.0 analytics.r17.com
 0.0.0.0 analytics.radiatemedia.com
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.reyrey.net
@@ -110,7 +108,6 @@
 0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
-0.0.0.0 analytics.suggestv.io
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.tiktok.com
@@ -223,7 +220,6 @@
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.tahono.com
-0.0.0.0 clk.onet.pl
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 cnt.3dmy.net
@@ -236,7 +232,6 @@
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.contentexchange.me
 0.0.0.0 collector.mazeberry.com
-0.0.0.0 collector.nextguide.tv
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 comet.ibsrv.net
@@ -257,7 +252,6 @@
 0.0.0.0 counter.hyipexplorer.com
 0.0.0.0 counter.maases.com
 0.0.0.0 counter.packa2.cz
-0.0.0.0 counter.pagesview.com
 0.0.0.0 counter.powweb.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.scribblelive.com
@@ -347,7 +341,6 @@
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
-0.0.0.0 d3ojzyhbolvoi5.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -400,7 +393,6 @@
 0.0.0.0 dxwgpw0lkcum5.cloudfront.net
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dymlo6ffhj97l.cloudfront.net
-0.0.0.0 dzmxze7hxwn6b.cloudfront.net
 0.0.0.0 ebay.northernhost.com
 0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
@@ -408,7 +400,6 @@
 0.0.0.0 edge.sqweb.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
-0.0.0.0 et.grabnetworks.com
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com.au
 0.0.0.0 event-api.contactatonce.com
@@ -474,7 +465,6 @@
 0.0.0.0 heals.msgfocus.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
-0.0.0.0 hit-pool.upscore.io
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.informer.com
 0.0.0.0 hm.baidu.com
@@ -569,14 +559,12 @@
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
-0.0.0.0 metric.ipv6test.net
 0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.el-mundo.net
-0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.seenon.com
@@ -589,7 +577,6 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mqs.ioam.de
-0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
@@ -620,9 +607,7 @@
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
 0.0.0.0 partner.cynapse.com
-0.0.0.0 partner.permutive.app
 0.0.0.0 partners.etoro.com
-0.0.0.0 passport.pfn.bz
 0.0.0.0 pebed.dm.gg
 0.0.0.0 perf.dugout.com
 0.0.0.0 performance.typekit.net
@@ -647,7 +632,6 @@
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
 0.0.0.0 pixel.newscred.com
-0.0.0.0 pixel.parsely.com
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.solvemedia.com
@@ -676,7 +660,6 @@
 0.0.0.0 ptracker.nurturehq.com
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 pub.sheknows.com
-0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 px.excitedigitalmedia.com
 0.0.0.0 px.marchex.io
@@ -686,11 +669,9 @@
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.msn.com
-0.0.0.0 ra.ripple6.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 recs.atgsvcs.com
-0.0.0.0 redir.widdit.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
@@ -751,7 +732,6 @@
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
-0.0.0.0 stats.cdn.pfn.bz
 0.0.0.0 stats.clickability.com
 0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
@@ -846,7 +826,6 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
 0.0.0.0 top-fwz1.mail.ru
-0.0.0.0 tower.moviepilot.com
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.connatix.com
@@ -862,7 +841,6 @@
 0.0.0.0 track.bannedcelebs.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
-0.0.0.0 track.did-it.com
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.leadin.com
@@ -979,7 +957,6 @@
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts.tradetracker.net
 0.0.0.0 ttdetect.staticimgfarm.com
-0.0.0.0 txn.grabnetworks.com
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
@@ -992,7 +969,6 @@
 0.0.0.0 visit.geocities.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
-0.0.0.0 voss.collegehumor.com
 0.0.0.0 vtracking.in.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
@@ -1003,8 +979,6 @@
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 wf.taboola.com
-0.0.0.0 wibiya-actions.conduit-data.com
-0.0.0.0 wibiya-june-new-log.conduit-data.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
