@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 29 May 2020 00:13:07 +0100
+# Last converted - Wed, 03 Jun 2020 21:58:06 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -230,6 +230,7 @@
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector.automote.co.nz
+0.0.0.0 collector.clareity.net
 0.0.0.0 collector.contentexchange.me
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.roistat.com
@@ -455,6 +456,7 @@
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
 0.0.0.0 go.toutapp.com
+0.0.0.0 go.trouter.skype.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gtrk.s3.amazonaws.com
@@ -986,9 +988,12 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
+0.0.0.0 ref.dealerinspire.com
+0.0.0.0 risk.clearbit.com
+0.0.0.0 targeting.voxus.tv
 0.0.0.0 go.techtarget.com
 0.0.0.0 trk.techtarget.com
-0.0.0.0 users.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
