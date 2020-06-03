@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 29 May 2020 00:13:04 +0100
+# Last converted - Wed, 03 Jun 2020 21:58:03 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -19,6 +19,9 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.swiftkey.com
+0.0.0.0 touchtype-fluency.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 events.appsflyer.com
