@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 29 May 2020 00:13:07 +0100
+# Last converted - Wed, 03 Jun 2020 21:58:05 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -219,7 +219,6 @@
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fresh.techdirt.com
-0.0.0.0 frog.wix.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
@@ -240,6 +239,7 @@
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
+0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geoip.al.com
@@ -286,7 +286,6 @@
 0.0.0.0 intg.snapchat.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
-0.0.0.0 kg.aws.mashable.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
