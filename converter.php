@@ -37,6 +37,8 @@ foreach ( $lists as $name => $list ) {
 
 	$domains = $exceptions = array();
 
+	$idn_to_ascii = function_exists( 'idn_to_ascii' );
+
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
 		// Skip filter if matches the following:
@@ -103,7 +105,7 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Convert internationalized domain names to punycode.
-		if ( function_exists( 'idn_to_ascii' ) && preg_match( "//u", $filter ) ) {
+		if ( $idn_to_ascii && preg_match( "//u", $filter ) ) {
 			$filter = idn_to_ascii( $filter );
 		}
 
