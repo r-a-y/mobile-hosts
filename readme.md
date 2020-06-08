@@ -9,7 +9,9 @@ Currently includes:
 - [AdGuard Specific Apps](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardApps.txt) (from [AdGuard](https://github.com/AdguardTeam/AdguardFilters/blob/master/MobileFilter/sections/specific_app.txt))
 - [EasyPrivacy 3rd-Party](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacy3rdParty.txt) (from [EasyList](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_thirdparty.txt))
 - [EasyPrivacy Specific](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/EasyPrivacySpecific.txt) (from [EasyList](https://github.com/easylist/easylist/blob/master/easyprivacy/easyprivacy_specific.txt))
-- [AdGuard DNS](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt) (from [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt)) (Includes simplified version of AdGuard English filter, Social media filter, Spyware filter, Mobile ads filter, plus EasyList and EasyPrivacy) (Recommended for desktops only)
+- [AdGuard DNS](https://raw.githubusercontent.com/r-a-y/mobile-hosts/master/AdguardDNS.txt) (from [AdGuard](https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt))
+
+    AdGuard DNS is a simplified filter list made for DNS-level blocking. It [includes various lists](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/configuration.json) from AdGuard (Base, Mobile Ads, Tracking Protection, Cryptomining, French, Japanese, Russian, Spanish/Portuguses, Turkish), EasyList (Base, China, Germany, Italy), EasyPrivacy and Adblock Plus (Indonesia). Due to the size of the list, it is recommended for desktops only or in cases where you don't trust your users.
 
 These lists will be updated from time-to-time. To update them yourself, the repo includes a PHP-CLI script (`converter.php`) that converts ad filter lists into HOSTS files. View the source for more details. Send a pull request if you want me to add a specific filter list.
 
