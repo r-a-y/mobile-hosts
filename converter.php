@@ -21,6 +21,8 @@ $lists = array(
 	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
 );
 
+$idn_to_ascii = function_exists( 'idn_to_ascii' );
+
 foreach ( $lists as $name => $list ) {
 	echo "Converting {$name}...\n";
 
@@ -36,8 +38,6 @@ foreach ( $lists as $name => $list ) {
 	$hosts .= "#\n\n";
 
 	$domains = $exceptions = array();
-
-	$idn_to_ascii = function_exists( 'idn_to_ascii' );
 
 	// Loop through each ad filter.
 	foreach ( $lines as $filter ) {
