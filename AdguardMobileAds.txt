@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 11 Jun 2020 02:38:22 +0100
+# Last converted - Mon, 15 Jun 2020 04:02:46 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -78,6 +78,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 dm.toutiao.com
 0.0.0.0 ads-leaseweb.appsgeyser.com
 0.0.0.0 ads.appsgeyser.com
 0.0.0.0 adtorque.in
@@ -650,7 +651,6 @@
 0.0.0.0 fiksu.com
 0.0.0.0 findbestsolution.net
 0.0.0.0 fizcell.mobi
-0.0.0.0 flashtalking.com
 0.0.0.0 fluentmobile.com
 0.0.0.0 flurry.cachefly.net
 0.0.0.0 flurry.com
