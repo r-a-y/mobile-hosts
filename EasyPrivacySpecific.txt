@@ -1,10 +1,11 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 15 Jun 2020 04:02:48 +0100
+# Last converted - Tue, 23 Jun 2020 06:47:44 +0100
 #
 
 0.0.0.0 aa.avvo.com
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 activity.frequency.com
@@ -309,7 +310,6 @@
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
 0.0.0.0 logg.kiwi.com
-0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logging.goodgamestudios.com
 0.0.0.0 loggly.cheatsheet.com
