@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 26 Jun 2020 20:17:23 +0100
+# Last converted - Wed, 01 Jul 2020 00:56:58 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -261,6 +261,7 @@
 0.0.0.0 geoip.silive.com
 0.0.0.0 geoip.syracuse.com
 0.0.0.0 geoip.viamichelin.com
+0.0.0.0 geolocation.forbes.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmonitor.aliimg.com
