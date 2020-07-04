@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 01 Jul 2020 00:56:58 +0100
+# Last converted - Sat, 04 Jul 2020 20:17:37 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -164,6 +164,7 @@
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 cpt.itv.com
+0.0.0.0 crta.metro.co.uk
 0.0.0.0 customeriomail.codecademy.com
 0.0.0.0 d.ghostery.com
 0.0.0.0 d1.abtshield.com
@@ -262,7 +263,6 @@
 0.0.0.0 geoip.syracuse.com
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geolocation.forbes.com
-0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
@@ -379,7 +379,6 @@
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 oms.expedia.com
-0.0.0.0 oneid.mmstat.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -450,11 +449,13 @@
 0.0.0.0 rta.dailymail.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rtn.thestar.com
+0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogram.com
 0.0.0.0 s.youtube.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
+0.0.0.0 sa135.kiro7.com
 0.0.0.0 sa135.macworld.co.uk
 0.0.0.0 sa135.wsbtv.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
@@ -804,6 +805,8 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 gj.mmstat.com
+0.0.0.0 oneid.mmstat.com
 0.0.0.0 bournemouthecho-gb.bournemouthecho.co.uk
 0.0.0.0 bucksfreepress-gb.bucksfreepress.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
