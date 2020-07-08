@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 11 Jun 2020 02:38:22 +0100
+# Last converted - Wed, 08 Jul 2020 23:23:47 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -21,7 +21,6 @@
 0.0.0.0 logs.supersonic.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.swiftkey.com
-0.0.0.0 touchtype-fluency.com
 0.0.0.0 analytics.qoqa.ninja
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
@@ -34,6 +33,11 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 register.xmpush.xiaomi.com
+0.0.0.0 tunion-api.m.taobao.com
+0.0.0.0 nbsdk-baichuan.taobao.com
+0.0.0.0 amdc.m.taobao.com
+0.0.0.0 amdcopen.m.taobao.com
 0.0.0.0 logsink.zedge.net
 0.0.0.0 consent-manager-events.ogury.io
 0.0.0.0 api.share.mob.com
@@ -158,7 +162,6 @@
 0.0.0.0 uc.ucweb.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 patriot.cs.pp.cn
-0.0.0.0 amdc.m.taobao.com
 0.0.0.0 sdk-orion.appboy.com
 0.0.0.0 pippio.com
 0.0.0.0 io.narrative.io
