@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 04 Jul 2020 20:17:37 +0100
+# Last converted - Sun, 12 Jul 2020 00:23:09 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -215,9 +215,9 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
-0.0.0.0 extra.tvmaze.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
+0.0.0.0 fathom.pixeldrain.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
@@ -636,6 +636,7 @@
 0.0.0.0 stats.uswitch.com
 0.0.0.0 stats.videodelivery.net
 0.0.0.0 stats.visistat.com
+0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.vulture.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwd.com
@@ -644,7 +645,6 @@
 0.0.0.0 stats.zmags.com
 0.0.0.0 stats02.topix.com
 0.0.0.0 statstracker.celebrity-gossip.net
-0.0.0.0 stattrack.0catch.com
 0.0.0.0 stbt.coupons.com
 0.0.0.0 sugar.gameforge.com
 0.0.0.0 surveys.cnet.com
