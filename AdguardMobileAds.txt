@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 04 Jul 2020 20:17:34 +0100
+# Last converted - Sun, 12 Jul 2020 00:23:06 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -89,7 +89,6 @@
 0.0.0.0 s3.ttpsdk.info
 0.0.0.0 api.applovefrom.com
 0.0.0.0 api.adnet.mob.com
-0.0.0.0 snssdk.com
 0.0.0.0 sf3-ttcdn-tos.pstatp.com
 0.0.0.0 iam.datasavannah.com
 0.0.0.0 a.f590906c3e6c07bb5f80801f2dfc4295.com
