@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 12 Jul 2020 00:23:09 +0100
+# Last converted - Thu, 16 Jul 2020 07:51:15 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -126,6 +126,7 @@
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.engage.xbox.com
 0.0.0.0 click.oneplus.com
+0.0.0.0 click.sinx.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click2.cafepress.com
 0.0.0.0 clicks.hurriyet.com.tr
@@ -306,7 +307,6 @@
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.prezi.com
-0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.wat.tv
 0.0.0.0 log.webnovel.com
@@ -443,7 +443,6 @@
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
 0.0.0.0 rok.com.com
-0.0.0.0 roll.bankofamerica.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rta.dailymail.co.uk
@@ -801,6 +800,7 @@
 0.0.0.0 ws.yellowpages.ca
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
+0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
