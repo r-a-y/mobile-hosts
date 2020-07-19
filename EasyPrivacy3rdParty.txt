@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 16 Jul 2020 07:51:15 +0100
+# Last converted - Sun, 19 Jul 2020 22:18:18 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -474,6 +474,7 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hpr.outbrain.com
+0.0.0.0 hspbotdetection.azurewebsites.net
 0.0.0.0 i.compendium.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 iabusprivacy.pmc.com
