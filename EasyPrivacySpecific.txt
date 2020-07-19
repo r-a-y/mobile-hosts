@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 16 Jul 2020 07:51:15 +0100
+# Last converted - Sun, 19 Jul 2020 22:18:17 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -222,6 +222,7 @@
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
+0.0.0.0 fpa-events.arstechnica.com
 0.0.0.0 fresh.techdirt.com
 0.0.0.0 funn.graphiq.com
 0.0.0.0 g.ign.com
