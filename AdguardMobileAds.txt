@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sun, 12 Jul 2020 00:23:06 +0100
+# Last converted - Thu, 23 Jul 2020 20:13:01 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -28,7 +28,6 @@
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 cmdts.ksmobile.com
 0.0.0.0 p-behacdn.ksmobile.net
-0.0.0.0 m.yap.yahoo.com
 0.0.0.0 crosspromotion.weplayer.cc
 0.0.0.0 ad.weplayer.cc
 0.0.0.0 mobile-campaigns.avast.com
