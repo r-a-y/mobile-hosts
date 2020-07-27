@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 23 Jul 2020 20:13:05 +0100
+# Last converted - Mon, 27 Jul 2020 04:17:44 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -127,6 +127,7 @@
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api.wipmania.com
+0.0.0.0 app.launchdarkly.com
 0.0.0.0 app.link
 0.0.0.0 apple.www.letv.com
 0.0.0.0 argos.citruserve.com
@@ -238,7 +239,6 @@
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
-0.0.0.0 convsgmp.taboola.com
 0.0.0.0 cookies.livepartners.com
 0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
@@ -602,7 +602,6 @@
 0.0.0.0 om.rogersmedia.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 open.delivery.net
-0.0.0.0 opps.taboola.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.adbrn.com
@@ -771,6 +770,7 @@
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.twistage.com
+0.0.0.0 stats.varrando.com
 0.0.0.0 stats.viddler.com
 0.0.0.0 stats.webs.com
 0.0.0.0 stats.webstarts.com
@@ -811,6 +811,7 @@
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
+0.0.0.0 t.signalayer.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t2.t2b.click
 0.0.0.0 tag.aticdn.net
@@ -973,7 +974,6 @@
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
 0.0.0.0 upt.graphiq.com
-0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 utle.tech426.com
 0.0.0.0 v.shopify.com
@@ -990,7 +990,6 @@
 0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webtracker.apicasystem.com
-0.0.0.0 wf.taboola.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
@@ -1000,6 +999,11 @@
 0.0.0.0 wstat.wibiya.com
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
+0.0.0.0 convsgmp.taboola.com
+0.0.0.0 la-sync.taboola.com
+0.0.0.0 opps.taboola.com
+0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 wf.taboola.com
 0.0.0.0 frog.wix.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 rc.vtex.com.br
@@ -1025,6 +1029,8 @@
 0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
+0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 websecurity.norton.com
+0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 connatix.com
