@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 27 Jul 2020 04:17:44 +0100
+# Last converted - Fri, 31 Jul 2020 03:28:49 +0100
 #
 
 0.0.0.0 a2-eng.spankbang.com
@@ -223,6 +223,7 @@
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 fathom.pixeldrain.com
+0.0.0.0 fathom.status.im
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
@@ -330,7 +331,6 @@
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
 0.0.0.0 merlin.abc.go.com
-0.0.0.0 metric-agent.i10c.net
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.bangbros.com
@@ -374,7 +374,6 @@
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
-0.0.0.0 nozem.tvmaze.com
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
