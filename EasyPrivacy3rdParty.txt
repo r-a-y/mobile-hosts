@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 31 Jul 2020 03:28:49 +0100
+# Last converted - Tue, 04 Aug 2020 00:51:12 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -63,6 +63,7 @@
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
 0.0.0.0 analytics.edgesuite.net
+0.0.0.0 analytics.erepublic.com
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.groupe-seb.com
@@ -235,6 +236,7 @@
 0.0.0.0 collector.sspinc.io
 0.0.0.0 comet.ibsrv.net
 0.0.0.0 comms.thewhiskyexchange.com
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 cookies.livepartners.com
@@ -643,6 +645,7 @@
 0.0.0.0 pixel.yola.com
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
+0.0.0.0 plumbus.minutemediaservices.com
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 postpixel.vindicosuite.com
 0.0.0.0 powersearch.us.com
