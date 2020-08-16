@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 16 Aug 2020 08:45:10 +0100
+# Last converted - Sun, 16 Aug 2020 08:46:49 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -1015,7 +1015,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 howsmyssl.com
-0.0.0.0 js.trendmd.com,subdocument
+0.0.0.0 js.trendmd.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.networksolutions.com
