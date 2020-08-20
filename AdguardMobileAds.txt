@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 31 Jul 2020 03:28:47 +0100
+# Last converted - Thu, 20 Aug 2020 20:50:29 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -77,6 +77,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 pa.afreecatv.com
 0.0.0.0 matrix.dailyinnovation.biz
 0.0.0.0 view.adjust.com
 0.0.0.0 app.adjust.com
