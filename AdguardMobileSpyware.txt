@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 06 Aug 2020 20:30:34 +0100
+# Last converted - Thu, 20 Aug 2020 20:50:29 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -36,6 +36,7 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 collector1.afreecatv.com
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 log.adtimaserver.vn
