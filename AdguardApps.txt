@@ -1,9 +1,12 @@
 # AdguardApps
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
-# Last converted - Thu, 11 Jun 2020 02:38:23 +0100
+# Last converted - Thu, 27 Aug 2020 21:43:42 +0100
 #
 
+0.0.0.0 ads.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 ads.aws.viber.com
 0.0.0.0 adcs.rqmob.com
 0.0.0.0 preitem.wshareit.com
 0.0.0.0 mobimagic.com
