@@ -1,10 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 24 Aug 2020 16:28:33 +0100
+# Last converted - Thu, 27 Aug 2020 21:43:44 +0100
 #
 
-0.0.0.0 a2-eng.spankbang.com
+0.0.0.0 a2x-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -383,7 +383,6 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 origin-tracking.trulia.com
 0.0.0.0 origin.chron.com
-0.0.0.0 p2-eng.spankbang.com
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pageinfo.motorsport.com
 0.0.0.0 partners.badongo.com
@@ -583,6 +582,7 @@
 0.0.0.0 sp.zanesvilletimesrecorder.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 spankbang.com
 0.0.0.0 speed.wikia.net
 0.0.0.0 spotlight.accuweather.com
 0.0.0.0 srt.pch.com
@@ -959,6 +959,7 @@
 0.0.0.0 ttauri.musicradar.com
 0.0.0.0 ttauri.nexttv.com
 0.0.0.0 ttauri.space.com
+0.0.0.0 ttauri.t3.com
 0.0.0.0 ttauri.tomsguide.com
 0.0.0.0 ttauri.tomshardware.com
 0.0.0.0 ttauri.whathifi.com
