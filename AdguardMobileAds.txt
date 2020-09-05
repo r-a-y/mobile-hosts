@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Thu, 27 Aug 2020 21:43:42 +0100
+# Last converted - Sat, 05 Sep 2020 02:25:30 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -176,7 +176,6 @@
 0.0.0.0 casino-ad-mediation.me2zengame.com
 0.0.0.0 postut.cn
 0.0.0.0 eysmaa.pw
-0.0.0.0 vennala.pw
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
@@ -285,7 +284,6 @@
 0.0.0.0 gocdn.ru
 0.0.0.0 gynax.com
 0.0.0.0 nasdfg.com
-0.0.0.0 fastmap33.com
 0.0.0.0 avazunativeads.com
 0.0.0.0 mobilebanner.ru
 0.0.0.0 api.ad-locus.com
@@ -558,7 +556,6 @@
 0.0.0.0 appclick.net
 0.0.0.0 appintop.com
 0.0.0.0 applifier.com
-0.0.0.0 applift.comempty
 0.0.0.0 applovin.com
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appsdt.com
