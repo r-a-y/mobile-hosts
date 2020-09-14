@@ -1,11 +1,10 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 09 Sep 2020 08:13:08 +0100
+# Last converted - Mon, 14 Sep 2020 21:17:40 +0100
 #
 
 0.0.0.0 100widgets.com
-0.0.0.0 188.225.25.145
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
@@ -175,7 +174,6 @@
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beacon.viewlift.com
 0.0.0.0 beacon2.indieclick.com
-0.0.0.0 beacon2.indieclicktv.com
 0.0.0.0 beacons.brandads.net
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 bento.agoda.com
@@ -220,6 +218,7 @@
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clickthru.lefbc.com
+0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.tahono.com
@@ -439,6 +438,7 @@
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fog.pixual.co
 0.0.0.0 fourmtagservices.appspot.com
+0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
@@ -447,8 +447,6 @@
 0.0.0.0 ga.kvideo.io
 0.0.0.0 ga.webdigi.co.uk
 0.0.0.0 gateway.foresee.com
-0.0.0.0 geo-eu.snigelweb.com
-0.0.0.0 geo-us.snigelweb.com
 0.0.0.0 geo.ertya.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geo.kaloo.ga
@@ -456,6 +454,7 @@
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.ngtv.io
 0.0.0.0 geo.q5media.net
+0.0.0.0 geo.thehindu.com
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoservice.curse.com
@@ -538,7 +537,6 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.seekda.com
-0.0.0.0 log000.goo.ne.jp
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.prefixbox.com
@@ -546,6 +544,7 @@
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
