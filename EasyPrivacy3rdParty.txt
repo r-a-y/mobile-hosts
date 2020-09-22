@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 18 Sep 2020 22:27:41 +0100
+# Last converted - Tue, 22 Sep 2020 19:40:29 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -143,6 +143,7 @@
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
 0.0.0.0 awaps.yandex.net
+0.0.0.0 awesome.section.io
 0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 az693360.vo.msecnd.net
@@ -358,7 +359,6 @@
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 dadi.technology
-0.0.0.0 dagda.vilynx.com
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
 0.0.0.0 data.circulate.com
@@ -413,7 +413,6 @@
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
-0.0.0.0 events.antenna.is
 0.0.0.0 events.apester.com
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
@@ -459,7 +458,6 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 glbdns.microsoft.com
-0.0.0.0 glogger.inspcloud.com
 0.0.0.0 go.optifuze.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
@@ -574,7 +572,6 @@
 0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
-0.0.0.0 metrics.seenon.com
 0.0.0.0 metrics.sonymusicd2c.com
 0.0.0.0 metrics.toptenreviews.com
 0.0.0.0 metrics.wikinvest.com
@@ -621,7 +618,6 @@
 0.0.0.0 pdc.dmleonyc.com
 0.0.0.0 pebed.dm.gg
 0.0.0.0 perf.dugout.com
-0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perso.aws.arc.pub
 0.0.0.0 petitionermaster.appspot.com
@@ -689,6 +685,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
+0.0.0.0 reports-api.sqreen.io
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 res.rbl.ms
 0.0.0.0 researchintel.com
@@ -725,6 +722,7 @@
 0.0.0.0 shopnetic.com
 0.0.0.0 sig.atdmt.com
 0.0.0.0 slidedeck.com
+0.0.0.0 smetrics.centurylink.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
