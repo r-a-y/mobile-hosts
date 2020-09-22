@@ -1,10 +1,9 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 14 Sep 2020 21:17:40 +0100
+# Last converted - Tue, 22 Sep 2020 19:40:29 +0100
 #
 
-0.0.0.0 a2x-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -47,7 +46,6 @@
 0.0.0.0 analytics.ifood.tv
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
-0.0.0.0 analytics.jabong.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.meaww.com
@@ -178,6 +176,7 @@
 0.0.0.0 data.younow.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dccss.banggood.com
+0.0.0.0 dd.nytimes.com
 0.0.0.0 debug-vp.webmd.com
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
@@ -217,7 +216,6 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
-0.0.0.0 events.secureserver.net
 0.0.0.0 events.turbosquid.com
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
@@ -248,7 +246,6 @@
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.nbcsports.com
-0.0.0.0 geo.play.it
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 geoip-lookup.vice.com
@@ -341,7 +338,6 @@
 0.0.0.0 metrics.extremetech.com
 0.0.0.0 metrics.ted.com
 0.0.0.0 metrics.washingtonpost.com
-0.0.0.0 metrigo.zalan.do
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
@@ -430,6 +426,7 @@
 0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
 0.0.0.0 ps.ecosia.org
+0.0.0.0 purr.nytimes.com
 0.0.0.0 pvstat.china.cn
 0.0.0.0 px.mvfglobal.com
 0.0.0.0 px.wayfair.com
@@ -455,7 +452,6 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogram.com
-0.0.0.0 s.youtube.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 sa.squareup.com
 0.0.0.0 sa135.kiro7.com
@@ -747,7 +743,6 @@
 0.0.0.0 tracking.conduit.com
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.eurosport.com
-0.0.0.0 tracking.goodgamestudios.com
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.military.com
 0.0.0.0 tracking.mycapture.com
@@ -943,7 +938,6 @@
 0.0.0.0 southwalesargus-gb.southwalesargus.co.uk
 0.0.0.0 southwalesguardian-gb.southwalesguardian.co.uk
 0.0.0.0 southwestfarmer-gb.southwestfarmer.co.uk
-0.0.0.0 sp.news-journalonline.com
 0.0.0.0 stalbansreview-gb.stalbansreview.co.uk
 0.0.0.0 sthelensstar-gb.sthelensstar.co.uk
 0.0.0.0 stourbridgenews-gb.stourbridgenews.co.uk
@@ -1050,7 +1044,6 @@
 0.0.0.0 ea.pixmania.ie
 0.0.0.0 ea.pixmania.it
 0.0.0.0 ea.pixmania.nl
-0.0.0.0 ea.pixmania.pl
 0.0.0.0 ea.pixmania.se
 0.0.0.0 ea.placedestendances.com
 0.0.0.0 ea.rentacar.fr
