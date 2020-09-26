@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 22 Sep 2020 19:40:29 +0100
+# Last converted - Sat, 26 Sep 2020 20:43:46 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -47,6 +47,7 @@
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.kaggle.io
+0.0.0.0 analytics.linktr.ee
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.mindjolt.com
@@ -271,6 +272,7 @@
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.theregister.com
+0.0.0.0 gql.reddit.com
 0.0.0.0 h.cliphunter.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
@@ -380,6 +382,7 @@
 0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 oms.expedia.com
+0.0.0.0 oops.redditmedia.com
 0.0.0.0 open.mkt1397.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
@@ -704,6 +707,7 @@
 0.0.0.0 track.engagesciences.com
 0.0.0.0 track.fxstreet.com
 0.0.0.0 track.hubspot.com
+0.0.0.0 track.lexico.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.ning.com
 0.0.0.0 track.rediff.com
