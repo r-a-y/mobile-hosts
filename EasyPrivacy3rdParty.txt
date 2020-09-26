@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 22 Sep 2020 19:40:29 +0100
+# Last converted - Sat, 26 Sep 2020 20:43:47 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -433,6 +433,7 @@
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 fkrkkmxsqeb5bj9r.s3.amazonaws.com
 0.0.0.0 fl.a.ki
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 fog.pixual.co
@@ -541,7 +542,6 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
-0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
