@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 26 Sep 2020 20:43:46 +0100
+# Last converted - Thu, 01 Oct 2020 23:43:54 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -272,7 +272,6 @@
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.theregister.com
-0.0.0.0 gql.reddit.com
 0.0.0.0 h.cliphunter.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
@@ -629,7 +628,6 @@
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.piaggio.com
 0.0.0.0 stats.propublica.org
-0.0.0.0 stats.pusher.com
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.searchftps.org
 0.0.0.0 stats.shoppydoo.com
