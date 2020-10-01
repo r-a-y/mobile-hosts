@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Sat, 26 Sep 2020 20:43:41 +0100
+# Last converted - Thu, 01 Oct 2020 23:43:51 +0100
 #
 
 0.0.0.0 admin.appnext.com
@@ -77,6 +77,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 ad.wynk.in
 0.0.0.0 adzfun.info
 0.0.0.0 adzfun.me
 0.0.0.0 painsko.com
