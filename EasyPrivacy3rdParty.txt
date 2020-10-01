@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 26 Sep 2020 20:43:47 +0100
+# Last converted - Thu, 01 Oct 2020 23:43:54 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -419,6 +419,7 @@
 0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
+0.0.0.0 events.matterport.com
 0.0.0.0 events.medio.com
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.realgravity.com
@@ -770,6 +771,7 @@
 0.0.0.0 stats.ozwebsites.biz
 0.0.0.0 stats.phoenix-widget.com
 0.0.0.0 stats.polldaddy.com
+0.0.0.0 stats.pusher.com
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.sawlive.tv
 0.0.0.0 stats.shopify.com
@@ -891,7 +893,9 @@
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 tracker.affiliate.iqoption.com
 0.0.0.0 tracker.affirm.com
+0.0.0.0 tracker.arc.io
 0.0.0.0 tracker.beezup.com
+0.0.0.0 tracker.cdnbye.com
 0.0.0.0 tracker.data-vp.com
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.financialcontent.com
