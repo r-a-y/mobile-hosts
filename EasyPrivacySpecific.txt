@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 11 Oct 2020 03:46:51 +0100
+# Last converted - Fri, 23 Oct 2020 00:46:43 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -685,6 +685,7 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
 0.0.0.0 telegraph.api.hbo.com
+0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempo.inc.com
 0.0.0.0 timeslogtn.timesnow.tv
