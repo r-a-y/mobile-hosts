@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 23 Oct 2020 00:46:40 +0100
+# Last converted - Tue, 27 Oct 2020 00:24:14 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -37,6 +37,10 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 smetrics.cnn.com
+0.0.0.0 metrics.claspws.tv
+0.0.0.0 geolocation.onetrust.com
+0.0.0.0 app-analytics-v2.snapchat.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sensors.snappea.com
