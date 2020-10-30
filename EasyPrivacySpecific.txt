@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 23 Oct 2020 00:46:43 +0100
+# Last converted - Fri, 30 Oct 2020 20:29:15 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -117,6 +117,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
+0.0.0.0 capture.crutchfield.com
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
@@ -331,6 +332,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.kalahari.net
 0.0.0.0 marketing.nodesource.com
+0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
