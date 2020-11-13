@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 23 Oct 2020 00:46:40 +0100
+# Last converted - Fri, 13 Nov 2020 03:59:04 +0000
 #
 
 0.0.0.0 admin.appnext.com
@@ -77,6 +77,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 adservice.tohsoft.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 appboy-images.com
 0.0.0.0 ad.particlenews.com
@@ -93,8 +94,6 @@
 0.0.0.0 adslog.apexinnotech.com
 0.0.0.0 pa.afreecatv.com
 0.0.0.0 matrix.dailyinnovation.biz
-0.0.0.0 view.adjust.com
-0.0.0.0 app.adjust.com
 0.0.0.0 powerlinks.com
 0.0.0.0 adkernel.com
 0.0.0.0 dotomi.com
