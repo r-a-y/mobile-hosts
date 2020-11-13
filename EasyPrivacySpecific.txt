@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 08 Nov 2020 19:16:05 +0000
+# Last converted - Fri, 13 Nov 2020 03:59:06 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -680,7 +680,6 @@
 0.0.0.0 t2.hulu.com
 0.0.0.0 t2.huluim.com
 0.0.0.0 tagger.ope.scmp.com
-0.0.0.0 taglocker.target.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tagx.nytimes.com
@@ -843,6 +842,7 @@
 0.0.0.0 burnhamandhighbridgeweeklynews-gb.burnhamandhighbridgeweeklynews.co.uk
 0.0.0.0 burytimes-gb.burytimes.co.uk
 0.0.0.0 campaignseries-gb.campaignseries.co.uk
+0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 chardandilminsternews-gb.chardandilminsternews.co.uk
 0.0.0.0 chelmsfordweeklynews-gb.chelmsfordweeklynews.co.uk
