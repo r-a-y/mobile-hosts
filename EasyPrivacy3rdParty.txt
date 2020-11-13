@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 08 Nov 2020 19:16:05 +0000
+# Last converted - Fri, 13 Nov 2020 03:59:06 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -418,6 +418,7 @@
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
+0.0.0.0 event.syndigo.cloud
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
@@ -1031,6 +1032,7 @@
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
 0.0.0.0 opps.taboola.com
+0.0.0.0 sync.taboola.com
 0.0.0.0 urc.taboolasyndication.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 frog.wix.com
