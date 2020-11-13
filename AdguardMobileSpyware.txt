@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 03 Nov 2020 22:20:49 +0000
+# Last converted - Fri, 13 Nov 2020 03:59:04 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -347,7 +347,6 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 tu.dxcnd.cn
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 ulink.adjust.com
 0.0.0.0 upalytics.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
