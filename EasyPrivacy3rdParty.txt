@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 16 Nov 2020 20:43:29 +0000
+# Last converted - Tue, 17 Nov 2020 01:29:31 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -1069,6 +1069,7 @@
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 secure.trust-guard.com
+0.0.0.0 siteintercept.allegiancetech.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widget.trustpilot.com
