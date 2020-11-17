@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 13 Nov 2020 03:59:06 +0000
+# Last converted - Tue, 17 Nov 2020 01:29:30 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -104,6 +104,7 @@
 0.0.0.0 beacon.nuskin.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.toyota.co.jp
+0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beacon.www.theguardian.com
 0.0.0.0 beap-bc.yahoo.com
@@ -969,12 +970,14 @@
 0.0.0.0 times-series-gb.times-series.co.uk
 0.0.0.0 ttauri.bikeperfect.com
 0.0.0.0 ttauri.creativebloq.com
+0.0.0.0 ttauri.digitalcameraworld.com
 0.0.0.0 ttauri.guitarworld.com
 0.0.0.0 ttauri.laptopmag.com
 0.0.0.0 ttauri.livescience.com
 0.0.0.0 ttauri.loudersound.com
 0.0.0.0 ttauri.musicradar.com
 0.0.0.0 ttauri.nexttv.com
+0.0.0.0 ttauri.realhomes.com
 0.0.0.0 ttauri.space.com
 0.0.0.0 ttauri.t3.com
 0.0.0.0 ttauri.tomsguide.com
