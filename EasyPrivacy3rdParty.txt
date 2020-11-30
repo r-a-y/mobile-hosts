@@ -1,10 +1,11 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 17 Nov 2020 01:29:31 +0000
+# Last converted - Mon, 30 Nov 2020 22:13:42 +0000
 #
 
 0.0.0.0 100widgets.com
+0.0.0.0 2fuc4clr7gvcn.cloudfront.net
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
@@ -111,6 +112,7 @@
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.supplyframe.com
 0.0.0.0 analytics.themarketiq.com
+0.0.0.0 analytics.threedeepmarketing.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tooso.ai
 0.0.0.0 analytics.tout.com
@@ -336,6 +338,7 @@
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
+0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
@@ -557,6 +560,8 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
+0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.datadoghq.eu
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
@@ -643,6 +648,7 @@
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.smyte.com
+0.0.0.0 ping.staticmoly.me
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pipe-collect.ebu.io
@@ -676,6 +682,7 @@
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prd-collector-auth.playbuzz.com
 0.0.0.0 prism.app-us1.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 production-mcs.lvp.llnw.net
@@ -853,6 +860,7 @@
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.cdn.circlesix.co
+0.0.0.0 tags.creativille.co.uk
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.refinery89.com
@@ -863,6 +871,7 @@
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 thetradedesk-tags.s3.amazonaws.com
 0.0.0.0 tk.storetail.io
 0.0.0.0 tl.tradetracker.net
@@ -1008,6 +1017,7 @@
 0.0.0.0 uim.tifbs.net
 0.0.0.0 units.knotch.it
 0.0.0.0 upt.graphiq.com
+0.0.0.0 userexperience.thehut.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 utle.tech426.com
 0.0.0.0 v.shopify.com
@@ -1027,6 +1037,7 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.quantcast.com
 0.0.0.0 win.staticstuff.net
+0.0.0.0 wren.condenastdigital.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wss.maven.io
