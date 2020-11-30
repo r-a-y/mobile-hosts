@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 17 Nov 2020 01:29:30 +0000
+# Last converted - Mon, 30 Nov 2020 22:13:41 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -32,6 +32,7 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 analytic.imlive.com
 0.0.0.0 analytics.adfreetime.com
+0.0.0.0 analytics.amplitude.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.brave.com
@@ -114,6 +115,7 @@
 0.0.0.0 bn.adultempire.com
 0.0.0.0 boomerang.dell.com
 0.0.0.0 bulb.76.my
+0.0.0.0 c.cdngeek.com
 0.0.0.0 c.ipaddress.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.wort-suche.com
@@ -436,7 +438,6 @@
 0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
 0.0.0.0 ps.ecosia.org
-0.0.0.0 purr.nytimes.com
 0.0.0.0 pvstat.china.cn
 0.0.0.0 px.mvfglobal.com
 0.0.0.0 px.wayfair.com
@@ -618,6 +619,7 @@
 0.0.0.0 stats.binki.es
 0.0.0.0 stats.blogg.se
 0.0.0.0 stats.cardschat.com
+0.0.0.0 stats.cdngeek.com
 0.0.0.0 stats.cheddar.com
 0.0.0.0 stats.christianpost.com
 0.0.0.0 stats.clear-media.com
@@ -626,6 +628,7 @@
 0.0.0.0 stats.extremetech.com
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.harpercollins.com
+0.0.0.0 stats.hfet.org
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
 0.0.0.0 stats.nimiq-network.com
@@ -1165,3 +1168,42 @@
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
 0.0.0.0 event-analytics.yesware.com
+0.0.0.0 3gl.net
+0.0.0.0 babator.com
+0.0.0.0 bluekai.com
+0.0.0.0 chartbeat.com
+0.0.0.0 contentexchange.me
+0.0.0.0 contentspread.net
+0.0.0.0 cpx.to
+0.0.0.0 crwdcntrl.net
+0.0.0.0 cxense.com
+0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 emetriq.de
+0.0.0.0 exactag.com
+0.0.0.0 exelator.com
+0.0.0.0 hotjar.com
+0.0.0.0 hpr.outbrain.com
+0.0.0.0 imrworldwide.com
+0.0.0.0 irqs.ioam.de
+0.0.0.0 log.outbrain.com
+0.0.0.0 meetrics.net
+0.0.0.0 metrics.brightcove.com
+0.0.0.0 mxcdn.net
+0.0.0.0 nuggad.net
+0.0.0.0 optimizely.com
+0.0.0.0 pingdom.net
+0.0.0.0 pippio.com
+0.0.0.0 referrer.disqus.com
+0.0.0.0 rlcdn.com
+0.0.0.0 rqtrk.eu
+0.0.0.0 semasio.net
+0.0.0.0 static.parsely.com
+0.0.0.0 tealiumiq.com
+0.0.0.0 theadex.com
+0.0.0.0 tisoomi-services.com
+0.0.0.0 visualrevenue.com
+0.0.0.0 webtrekk.net
+0.0.0.0 wt-eu02.net
+0.0.0.0 wt-safetag.com
+0.0.0.0 xplosion.de
