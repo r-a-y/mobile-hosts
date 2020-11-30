@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
-# Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
-# Last converted - Fri, 13 Nov 2020 03:59:04 +0000
+# Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
+# Last converted - Mon, 30 Nov 2020 22:13:40 +0000
 #
 
 0.0.0.0 admin.appnext.com
@@ -13,6 +13,7 @@
 0.0.0.0 banners.mobile.yandex.net
 0.0.0.0 coinhive.com
 0.0.0.0 coin-hive.com
+0.0.0.0 m.yap.yahoo.co
 0.0.0.0 ads.go2reach.com
 0.0.0.0 mimicromax.com
 0.0.0.0 feed.4wnet.com
@@ -57,6 +58,7 @@
 0.0.0.0 cdn2.auditude.com
 0.0.0.0 otcdn2.auditude.com
 0.0.0.0 www.auditude.com
+0.0.0.0 manifest.auditude.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 api.mobula.ds.duapps.com
 0.0.0.0 noxagile.duapp.com
@@ -551,7 +553,6 @@
 0.0.0.0 altitude-arena.com
 0.0.0.0 am15.net
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 amoad.com
 0.0.0.0 amobee.com
 0.0.0.0 andomedia.com
 0.0.0.0 api.appfireworks.com
@@ -1032,3 +1033,33 @@
 0.0.0.0 rg.yottos.com
 0.0.0.0 smilered.com
 0.0.0.0 weboohost.com
+0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 bd1.guancha.cn
+0.0.0.0 bd2.guancha.cn
+0.0.0.0 cdn.xiao7cdn.com
+0.0.0.0 alicdn.com
+0.0.0.0 e.z091u.cn
+0.0.0.0 m.sdxlglm.cn
+0.0.0.0 blog-sokuhou.com
+0.0.0.0 filecast.co.kr
+0.0.0.0 m.flowcodeapp.com
+0.0.0.0 m.yanglaopt.net
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 ads.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 preitem.wshareit.com
+0.0.0.0 mobimagic.com
+0.0.0.0 adywind.com
+0.0.0.0 hasmobi.net
+0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 newad.ifeng.com
+0.0.0.0 afreeca-tag.ad-mapps.com
+0.0.0.0 mtag.mman.kr
+0.0.0.0 etl.tindersparks.com
+0.0.0.0 d27tpsznug51gz.cloudfront.net
+0.0.0.0 sensors.larkplayerapp.com
+0.0.0.0 sensors.snaptubeapp.com
+0.0.0.0 log.kajicam.com
