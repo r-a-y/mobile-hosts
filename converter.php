@@ -51,19 +51,26 @@ foreach ( $lists as $name => $list ) {
 		if ( false !== strpos( $filter, '/' ) ) {
 			continue;
 		}
-		if ( false !== strpos( $filter, '=' ) ) {
-			continue;
-		}
 		if ( false !== strpos( $filter, '#' ) ) {
 			continue;
 		}
 		if ( false !== strpos( $filter, ' ' ) ) {
 			continue;
 		}
+		if ( false !== strpos( $filter, 'abp?' ) ) {
+			continue;
+		}
+
+		// For $domain syntax, strip domain rules.
+		if ( false !== strpos( $filter, '$domain' ) && false === strpos( $filter, '@@' ) ) {
+			$filter = substr( $filter, 0, strpos( $filter, '$domain' ) );
+		} elseif ( false !== strpos( $filter, '=' ) ) {
+			continue;
+		}
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party, $image and $popup?
-		$filter = str_replace( array( '||', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', ',object', '$popup', '$empty', '$object-subrequest', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', '$websocket' ), '', $filter );
+		$filter = str_replace( array( '||', '^third-party', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', '$empty', '$object-subrequest', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
@@ -107,6 +114,11 @@ foreach ( $lists as $name => $list ) {
 		// Convert internationalized domain names to punycode.
 		if ( $idn_to_ascii && preg_match( "//u", $filter ) ) {
 			$filter = idn_to_ascii( $filter );
+		}
+
+		// If empty, skip.
+		if( empty( $filter ) ) {
+			continue;
 		}
 
 		// Save exception to parse later.
