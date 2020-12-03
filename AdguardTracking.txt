@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 30 Nov 2020 22:13:41 +0000
+# Last converted - Thu, 03 Dec 2020 20:40:34 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,16 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 telemetry.api.wmcdp.io
+0.0.0.0 logs.psm.wmcdp.io
+0.0.0.0 doubleverify.com
+0.0.0.0 volvelle.tech
+0.0.0.0 audiencemanager.de
+0.0.0.0 emxdgt.com
+0.0.0.0 pixel.tapad.com
+0.0.0.0 event.getblue.io
+0.0.0.0 docodoco.jp
+0.0.0.0 mieru-ca.com
 0.0.0.0 nlog.nethru.io
 0.0.0.0 uc.xddi.ru
 0.0.0.0 events.demoup.com
@@ -3249,6 +3259,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 stiffgame.com
 0.0.0.0 satisfycork.com
 0.0.0.0 placidperson.com
 0.0.0.0 regularplants.com
@@ -4314,6 +4325,8 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
+0.0.0.0 analytics.bi.encuentra24.com
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
 0.0.0.0 hc-analytics.idp.clogin.att.com
 0.0.0.0 p.imgur.com
@@ -5827,7 +5840,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 xlog-va.musical.ly
-0.0.0.0 clck.yandex.ru$other
+0.0.0.0 clck.yandex.ru
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 ty90nwjc8wjt-a.akamaihd.net
 0.0.0.0 af.analytics.elx.cloud
@@ -5912,8 +5925,8 @@
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
 0.0.0.0 trk.freepik.com
-0.0.0.0 exoclick.com$cookie
-0.0.0.0 realsrv.com$cookie
+0.0.0.0 exoclick.com
+0.0.0.0 realsrv.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 analytics.kidoz.net
 0.0.0.0 track.tenjin.com
@@ -5942,6 +5955,8 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 us-tracking.nextdoor.com
+0.0.0.0 us-events.api.iheart.com
 0.0.0.0 notes-analytics-events.apple.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 v-collector.dp.aws.charter.com
