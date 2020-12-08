@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 30 Nov 2020 22:13:40 +0000
+# Last converted - Tue, 08 Dec 2020 04:54:07 +0000
 #
 
 0.0.0.0 admin.appnext.com
@@ -79,6 +79,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 promoted.sndcdn.com
 0.0.0.0 adservice.tohsoft.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 appboy-images.com
