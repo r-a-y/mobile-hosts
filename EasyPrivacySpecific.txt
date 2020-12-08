@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 30 Nov 2020 22:13:41 +0000
+# Last converted - Tue, 08 Dec 2020 04:54:10 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -146,6 +146,7 @@
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
+0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
@@ -310,7 +311,6 @@
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
-0.0.0.0 location.bloomberg.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.go.com
 0.0.0.0 log.hypebeast.com
@@ -631,6 +631,7 @@
 0.0.0.0 stats.hfet.org
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
+0.0.0.0 stats.nctm.org
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
