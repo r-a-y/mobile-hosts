@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 08 Dec 2020 04:54:09 +0000
+# Last converted - Sun, 13 Dec 2020 21:00:04 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 s.srvsynd.com
+0.0.0.0 track.customer.io
+0.0.0.0 lcs.loginfra.com
 0.0.0.0 adblock-analytics.io
 0.0.0.0 aukana.jp
 0.0.0.0 telemetry.api.wmcdp.io
@@ -113,7 +116,6 @@
 0.0.0.0 getstat.net
 0.0.0.0 untidyrice.com
 0.0.0.0 leadfeeder.com
-0.0.0.0 rtb.connatix.com
 0.0.0.0 trk.connatix.com
 0.0.0.0 tr.connatix.com
 0.0.0.0 pbstck.com
@@ -528,7 +530,6 @@
 0.0.0.0 antvoice.com
 0.0.0.0 ownpage.fr
 0.0.0.0 smrtrdrct.com
-0.0.0.0 adblockmetrics.ru
 0.0.0.0 medialogger.ru
 0.0.0.0 rtbanalytics.com
 0.0.0.0 waust.at
@@ -749,7 +750,6 @@
 0.0.0.0 advanced-web-analytics.com
 0.0.0.0 advconversion.com
 0.0.0.0 adyapper.com
-0.0.0.0 adzoe.de
 0.0.0.0 afairweb.com
 0.0.0.0 affilae.com
 0.0.0.0 affiliateedge.eu
@@ -806,7 +806,6 @@
 0.0.0.0 angelfishstats.com
 0.0.0.0 angsrvr.com
 0.0.0.0 announcement.ru
-0.0.0.0 anonymousdmp.com
 0.0.0.0 anormal-tracker.de
 0.0.0.0 anrdoezrs.net
 0.0.0.0 anti-cheat.info
@@ -819,21 +818,17 @@
 0.0.0.0 aprtx.com
 0.0.0.0 aqtracker.com
 0.0.0.0 arcadeweb.com
-0.0.0.0 arch-nicto.com
 0.0.0.0 arena-quantum.co.uk
 0.0.0.0 arkayne.com
 0.0.0.0 arlime.com
-0.0.0.0 arpuonline.com
 0.0.0.0 arpxs.com
 0.0.0.0 arrowpushengine.com
 0.0.0.0 artefact.is
-0.0.0.0 arturtrack.com
 0.0.0.0 assoctrac.com
 0.0.0.0 astro-way.com
 0.0.0.0 atatus.com
 0.0.0.0 atdmt.com
 0.0.0.0 athenainstitute.biz
-0.0.0.0 atoshonetwork.com
 0.0.0.0 atraxio.com
 0.0.0.0 atsfi.de
 0.0.0.0 atticwicket.com
@@ -857,7 +852,6 @@
 0.0.0.0 awasete.com
 0.0.0.0 awesomelytics.com
 0.0.0.0 awin1.com
-0.0.0.0 awmcounter.de
 0.0.0.0 axf8.net
 0.0.0.0 az7t8.com
 0.0.0.0 azalead.com
@@ -868,17 +862,13 @@
 0.0.0.0 backlink-test.de
 0.0.0.0 backlink-umsonst.de
 0.0.0.0 backlinkdino.de
-0.0.0.0 backlinkprofi.info
 0.0.0.0 backlinks.li
-0.0.0.0 backlinktausch.biz
 0.0.0.0 bam-x.com
 0.0.0.0 baptisttop1000.com
 0.0.0.0 barilliance.net
-0.0.0.0 barlive.link
 0.0.0.0 basicstat.com
 0.0.0.0 basilic.io
 0.0.0.0 baynote.net
-0.0.0.0 beanscattering.jp
 0.0.0.0 beanstalkdata.com
 0.0.0.0 beanstock.com
 0.0.0.0 bebj.com
@@ -887,9 +877,7 @@
 0.0.0.0 behavioralengine.com
 0.0.0.0 bekannt-im-web.de
 0.0.0.0 beliebtestewebseite.de
-0.0.0.0 belstat.at
 0.0.0.0 belstat.be
-0.0.0.0 belstat.ch
 0.0.0.0 belstat.com
 0.0.0.0 belstat.de
 0.0.0.0 belstat.fr
@@ -898,7 +886,6 @@
 0.0.0.0 berg-6-82.com
 0.0.0.0 best-top.de
 0.0.0.0 best-top.ro
-0.0.0.0 bestweb2013stat.lk
 0.0.0.0 besucherstats.de
 0.0.0.0 besucherzaehler-counter.de
 0.0.0.0 besucherzaehler-homepage.de
@@ -907,7 +894,6 @@
 0.0.0.0 besucherzahlen.com
 0.0.0.0 betarget.com
 0.0.0.0 betarget.de
-0.0.0.0 betarget.net
 0.0.0.0 bfoleyinteractive.com
 0.0.0.0 bhs4.com
 0.0.0.0 bid.run
@@ -922,7 +908,6 @@
 0.0.0.0 bizspring.net
 0.0.0.0 bkrtx.com
 0.0.0.0 bkvtrack.com
-0.0.0.0 blizzardcheck.com
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockmetrics.com
 0.0.0.0 blog-o-rama.de
@@ -942,9 +927,7 @@
 0.0.0.0 blogsontop.com
 0.0.0.0 blogtoplist.com
 0.0.0.0 blogtraffic.de
-0.0.0.0 blogtraffic.sg
 0.0.0.0 blogtw.net
-0.0.0.0 blogverzeichnis.eu
 0.0.0.0 blueconic.net
 0.0.0.0 bluecounter.de
 0.0.0.0 bluekai.com
@@ -956,7 +939,6 @@
 0.0.0.0 bnc.lt
 0.0.0.0 bonitrust.de
 0.0.0.0 bonuscounter.de
-0.0.0.0 bookforest.biz
 0.0.0.0 boomerang.com.au
 0.0.0.0 boomtrain.com
 0.0.0.0 botscanner.com
@@ -972,7 +954,6 @@
 0.0.0.0 browser-statistik.de
 0.0.0.0 browser-update.org
 0.0.0.0 brsrvr.com
-0.0.0.0 bstk.co
 0.0.0.0 bstn-14-ma.com
 0.0.0.0 btbuckets.com
 0.0.0.0 btstatic.com
@@ -985,7 +966,6 @@
 0.0.0.0 buzzdeck.com
 0.0.0.0 bytemgdd.com
 0.0.0.0 c-o-u-n-t.com
-0.0.0.0 c-webstats.de
 0.0.0.0 c1exchange.com
 0.0.0.0 c3metrics.com
 0.0.0.0 c3tag.com
@@ -1104,7 +1084,6 @@
 0.0.0.0 confirmational.com
 0.0.0.0 confirmit.com
 0.0.0.0 contactmonkey.com
-0.0.0.0 contadordevisitas.es
 0.0.0.0 contadorgratis.com
 0.0.0.0 contadorgratis.es
 0.0.0.0 contadorweb.com
@@ -1679,7 +1658,6 @@
 0.0.0.0 hyperactivate.com
 0.0.0.0 hypestat.com
 0.0.0.0 i-stats.com
-0.0.0.0 iadvize.com
 0.0.0.0 ib-ibi.com
 0.0.0.0 ibillboard.com
 0.0.0.0 ibpxl.com
@@ -2517,7 +2495,6 @@
 0.0.0.0 rs0.co.uk
 0.0.0.0 rs6.net
 0.0.0.0 rsvpgenius.com
-0.0.0.0 rtbauction.com
 0.0.0.0 rtfn.net
 0.0.0.0 rtoaster.jp
 0.0.0.0 rtrk.co.nz
@@ -2594,7 +2571,6 @@
 0.0.0.0 serious-partners.com
 0.0.0.0 servedbyopenx.com
 0.0.0.0 servestats.com
-0.0.0.0 servinator.pw
 0.0.0.0 servingtrkid.com
 0.0.0.0 servustats.com
 0.0.0.0 sessioncam.com
@@ -2619,7 +2595,6 @@
 0.0.0.0 simplycast.us
 0.0.0.0 simplymeasured.com
 0.0.0.0 singlefeed.com
-0.0.0.0 singleice.link
 0.0.0.0 site-submit.com.ua
 0.0.0.0 site24x7rum.com
 0.0.0.0 siteapps.com
@@ -2826,7 +2801,6 @@
 0.0.0.0 tds348bf.us
 0.0.0.0 tdstats.com
 0.0.0.0 tealiumiq.com
-0.0.0.0 telemetrytaxonomy.net
 0.0.0.0 telize.com
 0.0.0.0 teljari.is
 0.0.0.0 tellapart.com
@@ -2835,7 +2809,6 @@
 0.0.0.0 tendatta.com
 0.0.0.0 tentaculos.net
 0.0.0.0 terabytemedia.com
-0.0.0.0 teriotracker.de
 0.0.0.0 tetigi.com
 0.0.0.0 tetoolbox.com
 0.0.0.0 theadex.com
@@ -2904,7 +2877,6 @@
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
 0.0.0.0 trackfeed.com
-0.0.0.0 trackfreundlich.de
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
@@ -2955,7 +2927,6 @@
 0.0.0.0 tru.am
 0.0.0.0 truehits.in.th
 0.0.0.0 truehits.net
-0.0.0.0 tscapeplay.com
 0.0.0.0 tscounter.com
 0.0.0.0 tsk4.com
 0.0.0.0 tsk5.com
@@ -2987,7 +2958,6 @@
 0.0.0.0 upalytics.com
 0.0.0.0 upstats.ru
 0.0.0.0 uptime.monitorus.ru
-0.0.0.0 uptimeviewer.com
 0.0.0.0 uptracs.com
 0.0.0.0 uriuridfg.com
 0.0.0.0 urlbrief.com
@@ -3261,6 +3231,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 puffypaste.com
 0.0.0.0 stiffgame.com
 0.0.0.0 satisfycork.com
 0.0.0.0 placidperson.com
@@ -3353,7 +3324,6 @@
 0.0.0.0 scintillatingspace.com
 0.0.0.0 sugarcurtain.com
 0.0.0.0 teethfan.com
-0.0.0.0 similarsabine.com
 0.0.0.0 faultyfowl.com
 0.0.0.0 ultraoranges.com
 0.0.0.0 aheadday.com
@@ -3361,7 +3331,6 @@
 0.0.0.0 sharppatch.com
 0.0.0.0 sailsuit.com
 0.0.0.0 spirebaboon.com
-0.0.0.0 knifeoctopus.com
 0.0.0.0 dancemistake.com
 0.0.0.0 whiskyqueue.com
 0.0.0.0 readingguilt.com
@@ -3370,7 +3339,6 @@
 0.0.0.0 aromamirror.com
 0.0.0.0 archswimming.com
 0.0.0.0 gondolagnome.com
-0.0.0.0 errortablet.com
 0.0.0.0 farethief.com
 0.0.0.0 readingopera.com
 0.0.0.0 elderlytown.com
@@ -3919,7 +3887,6 @@
 0.0.0.0 meatydime.com
 0.0.0.0 paintplantation.com
 0.0.0.0 aquaticalarm.com
-0.0.0.0 alleyarm.com
 0.0.0.0 plainrequest.com
 0.0.0.0 squeamishspot.com
 0.0.0.0 detailedkitten.com
@@ -4078,8 +4045,6 @@
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 6ldu6qa.com
 0.0.0.0 82o9v830.com
-0.0.0.0 abandonedclover.com
-0.0.0.0 abashedangle.com
 0.0.0.0 abruptroad.com
 0.0.0.0 actuallysheep.com
 0.0.0.0 actuallysnake.com
@@ -4090,26 +4055,20 @@
 0.0.0.0 ariseboundary.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticalley.com
-0.0.0.0 balancebreath.com
 0.0.0.0 balloontexture.com
 0.0.0.0 basketballbelieve.com
 0.0.0.0 baskettexture.com
 0.0.0.0 bawdybeast.com
 0.0.0.0 beamincrease.com
-0.0.0.0 beamkite.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boredcrown.com
-0.0.0.0 brassrule.com
 0.0.0.0 broadboundary.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 bulbbait.com
 0.0.0.0 butterburst.com
 0.0.0.0 calculatorcamera.com
 0.0.0.0 calmfoot.com
-0.0.0.0 cherrythread.com
 0.0.0.0 chickensstation.com
-0.0.0.0 chiefcurrent.com
-0.0.0.0 chinchickens.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commandwalk.com
 0.0.0.0 concernrain.com
@@ -4327,6 +4286,8 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 gak.webtoons.com
+0.0.0.0 s.news.naver.com
 0.0.0.0 jtrackern.joins.com
 0.0.0.0 analytics.cinematoday.jp
 0.0.0.0 log.cinematoday.jp
@@ -5962,6 +5923,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 tracker.departapp.com
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -5969,7 +5931,6 @@
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 metrics.claspws.tv
-0.0.0.0 geolocation.onetrust.com
 0.0.0.0 logs.gaaana.com
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sensors.snappea.com
