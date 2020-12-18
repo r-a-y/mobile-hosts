@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 13 Dec 2020 21:00:04 +0000
+# Last converted - Fri, 18 Dec 2020 02:14:24 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,11 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 polarbyte.com
+0.0.0.0 revcatch.com
+0.0.0.0 revprotect.com
+0.0.0.0 protectsubrev.com
+0.0.0.0 protectcrev.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 track.customer.io
 0.0.0.0 lcs.loginfra.com
@@ -4286,6 +4291,12 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 counter.adguard.com
+0.0.0.0 l.www.naver.com
+0.0.0.0 metrics.makemytrip.com
+0.0.0.0 tracking.shopback.com
+0.0.0.0 logger.cbs.co.kr
+0.0.0.0 gather.donga.com
 0.0.0.0 gak.webtoons.com
 0.0.0.0 s.news.naver.com
 0.0.0.0 jtrackern.joins.com
@@ -5923,6 +5934,8 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 trk2.pinterest.com
+0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us-events.api.iheart.com
