@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 13 Dec 2020 21:00:04 +0000
+# Last converted - Fri, 18 Dec 2020 02:14:25 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -297,6 +297,7 @@
 0.0.0.0 imp-media-lab.thenewslens.com
 0.0.0.0 imx.comedycentral.com
 0.0.0.0 inquiries.redhat.com
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
 0.0.0.0 intg.snapchat.com
@@ -328,6 +329,7 @@
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.hotstar.com
+0.0.0.0 logs.naukri.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 ma.redhat.com
@@ -692,7 +694,6 @@
 0.0.0.0 tck.bangbros.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
-0.0.0.0 telegraph.api.hbo.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempo.inc.com
@@ -703,6 +704,7 @@
 0.0.0.0 tkpi.delta.com
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.eharmony.co.uk
+0.0.0.0 tnaflix.com
 0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tongji.meizu.com
 0.0.0.0 tools.ranker.com
