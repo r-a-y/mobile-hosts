@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 18 Dec 2020 02:14:24 +0000
+# Last converted - Mon, 28 Dec 2020 07:26:05 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,11 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.mbga.jp
+0.0.0.0 herald.loginside.co.kr
+0.0.0.0 110.93.143.144
+0.0.0.0 log002.commutil.kr
+0.0.0.0 analy1.dtnnetwork.be
 0.0.0.0 polarbyte.com
 0.0.0.0 revcatch.com
 0.0.0.0 revprotect.com
@@ -4291,6 +4296,14 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 check.tadapi.info
+0.0.0.0 count.munhwa.com
+0.0.0.0 geo.mattel163.com
+0.0.0.0 tc-log.mattel163.com
+0.0.0.0 bilanx.dcard.tw
+0.0.0.0 events.emogi.com
+0.0.0.0 log.ohmynews.com
+0.0.0.0 analytics2.tvreport.co.kr
 0.0.0.0 counter.adguard.com
 0.0.0.0 l.www.naver.com
 0.0.0.0 metrics.makemytrip.com
@@ -4409,7 +4422,6 @@
 0.0.0.0 e2e.mashable.com
 0.0.0.0 stats-dev.brid.tv
 0.0.0.0 videostats.kakao.com
-0.0.0.0 stat.tiara.daum.net
 0.0.0.0 webid.ad.daum.net
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 pixelzirkus.gameforge.com
@@ -5802,7 +5814,6 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tr.datanyze.com
 0.0.0.0 track.dictionary.com
-0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.tooplay.com
 0.0.0.0 tracking.adactioninteractive.com
 0.0.0.0 tracking.rtl.de
@@ -5819,6 +5830,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 xlog-va.musical.ly
+0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 clck.yandex.ru
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 ty90nwjc8wjt-a.akamaihd.net
