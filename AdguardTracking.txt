@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 28 Dec 2020 07:26:05 +0000
+# Last converted - Sat, 02 Jan 2021 02:19:58 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -105,6 +105,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 log.propermessage.io
 0.0.0.0 hit.acstat.com
+0.0.0.0 code.acstat.com
 0.0.0.0 fhits.xyz
 0.0.0.0 intelligenceretarget.com
 0.0.0.0 stpmgo.com
@@ -2178,7 +2179,6 @@
 0.0.0.0 omgpm.com
 0.0.0.0 omguk.com
 0.0.0.0 omkt.co
-0.0.0.0 omnitagjs.com
 0.0.0.0 on-line.lv
 0.0.0.0 onefeed.co.uk
 0.0.0.0 onelink-translations.com
