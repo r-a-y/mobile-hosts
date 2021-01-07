@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 18 Dec 2020 02:14:22 +0000
+# Last converted - Thu, 07 Jan 2021 20:57:14 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -19,6 +19,15 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 datacollector-drru.dt.hicloud.com
+0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 metrics.spbtv.com
+0.0.0.0 sas53netbynet.visualon.info
+0.0.0.0 android-stat.acestream.net
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 usage.influxdata.com
+0.0.0.0 stats.grafana.org
+0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 analytics.qoqa.ninja
@@ -37,6 +46,14 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 analytics.prod.mybuddy.ai
+0.0.0.0 logs.amap.com
+0.0.0.0 edmanalytics.pandahall.com
+0.0.0.0 applogs.pixelfederation.com
+0.0.0.0 applogs-v2.pixelfederation.com
+0.0.0.0 analytics.dns-shop.ru
+0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 tracker.departapp.com
