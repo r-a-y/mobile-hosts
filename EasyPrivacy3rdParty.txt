@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 02 Jan 2021 02:19:59 +0000
+# Last converted - Thu, 07 Jan 2021 20:57:16 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -334,7 +334,9 @@
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
 0.0.0.0 d2as12kgjg8gw5.cloudfront.net
+0.0.0.0 d2axgrpnciinw7.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
+0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
@@ -358,6 +360,7 @@
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
+0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
@@ -429,6 +432,7 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
 0.0.0.0 event.syndigo.cloud
+0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlog.inspsearchapi.com
@@ -483,6 +487,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 glbdns.microsoft.com
+0.0.0.0 gleam.io
 0.0.0.0 go.optifuze.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
@@ -517,6 +522,7 @@
 0.0.0.0 ingest.sentry.io
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.rapid7.com
+0.0.0.0 insights.algolia.io
 0.0.0.0 insights.plista.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
@@ -525,12 +531,14 @@
 0.0.0.0 ipapi.tmbi.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 itracking.fccinteractive.com
+0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 keyword.daumdn.com
+0.0.0.0 keywords.complex.com
 0.0.0.0 klarnaservices.com
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ooyala.com
@@ -610,6 +618,7 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mqs.ioam.de
+0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 0.0.0.0 mv.treehousei.com
 0.0.0.0 mx.technolutions.net
@@ -880,6 +889,8 @@
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 te.supportfreecontent.com
+0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
@@ -1079,22 +1090,30 @@
 0.0.0.0 sgphctileh-a.akamaihd.net
 0.0.0.0 uhytajrtpo-a.akamaihd.net
 0.0.0.0 zvsuhljiha-a.akamaihd.net
+0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
+0.0.0.0 beyondsecurity.com
 0.0.0.0 cyveillance.com
 0.0.0.0 howsmyssl.com
 0.0.0.0 js.trendmd.com
+0.0.0.0 medals.bizrate.com
 0.0.0.0 nsg.symantec.com
 0.0.0.0 popup.laybuy.com
 0.0.0.0 privacy-policy.truste.com
+0.0.0.0 scanverify.com
+0.0.0.0 seal.digicert.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.networksolutions.com
+0.0.0.0 seal.qualys.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sealserver.trustwave.com
 0.0.0.0 secure.trust-guard.com
+0.0.0.0 securitymetrics.com
 0.0.0.0 shopperapproved.com
 0.0.0.0 siteintercept.allegiancetech.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 verify.authorize.net
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.trustedshops.com
