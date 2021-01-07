@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 02 Jan 2021 02:19:58 +0000
+# Last converted - Thu, 07 Jan 2021 20:57:15 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 log.perfecttitspics.com
 0.0.0.0 analytics.mbga.jp
 0.0.0.0 herald.loginside.co.kr
 0.0.0.0 110.93.143.144
@@ -4296,6 +4297,9 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 prod-collector.bigbasket.com
+0.0.0.0 tracking.game8.jp
+0.0.0.0 lcs.modoo.at
 0.0.0.0 check.tadapi.info
 0.0.0.0 count.munhwa.com
 0.0.0.0 geo.mattel163.com
@@ -4317,7 +4321,6 @@
 0.0.0.0 log.cinematoday.jp
 0.0.0.0 et.nytimes.com
 0.0.0.0 adlog.shopping.naver.com
-0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
 0.0.0.0 analytics.bi.encuentra24.com
 0.0.0.0 sl-h-statistics-ch-1.storeland.ru
 0.0.0.0 hc-analytics.idp.clogin.att.com
@@ -5830,6 +5833,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 xlog-va.musical.ly
+0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
 0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 clck.yandex.ru
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -5930,6 +5934,15 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 datacollector-drru.dt.hicloud.com
+0.0.0.0 app-analytics-ru.huami.com
+0.0.0.0 metrics.spbtv.com
+0.0.0.0 sas53netbynet.visualon.info
+0.0.0.0 android-stat.acestream.net
+0.0.0.0 privatestats.whatsapp.net
+0.0.0.0 usage.influxdata.com
+0.0.0.0 stats.grafana.org
+0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.swiftkey.com
 0.0.0.0 analytics.qoqa.ninja
@@ -5946,6 +5959,14 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 analytics.prod.mybuddy.ai
+0.0.0.0 logs.amap.com
+0.0.0.0 edmanalytics.pandahall.com
+0.0.0.0 applogs.pixelfederation.com
+0.0.0.0 applogs-v2.pixelfederation.com
+0.0.0.0 analytics.dns-shop.ru
+0.0.0.0 smetrics.aem.playstation.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 tracker.departapp.com
