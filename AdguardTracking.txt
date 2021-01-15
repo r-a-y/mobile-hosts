@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 07 Jan 2021 20:57:15 +0000
+# Last converted - Fri, 15 Jan 2021 23:09:27 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -10,12 +10,25 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 visilabs.com
+0.0.0.0 visilabs.net
+0.0.0.0 traceprof.com
+0.0.0.0 livetracker.rfe.pangea-cms.com
+0.0.0.0 trackerhqu.com
+0.0.0.0 kiynew.com
+0.0.0.0 tracker.metricool.com
+0.0.0.0 stats.myangular.life
+0.0.0.0 counter.daara.kr
+0.0.0.0 tr.line.me
+0.0.0.0 log22.makeshop.co.kr
+0.0.0.0 piclick.kr
 0.0.0.0 log.perfecttitspics.com
 0.0.0.0 analytics.mbga.jp
 0.0.0.0 herald.loginside.co.kr
 0.0.0.0 110.93.143.144
 0.0.0.0 log002.commutil.kr
 0.0.0.0 analy1.dtnnetwork.be
+0.0.0.0 cerdmann.com
 0.0.0.0 polarbyte.com
 0.0.0.0 revcatch.com
 0.0.0.0 revprotect.com
@@ -420,7 +433,6 @@
 0.0.0.0 s.clicktex.ru
 0.0.0.0 hitme.pw
 0.0.0.0 tracking.lqm.io
-0.0.0.0 visilabs.net
 0.0.0.0 app.shoptarget.com.br
 0.0.0.0 netdeal.com.br
 0.0.0.0 ibclick.stream
@@ -3020,7 +3032,6 @@
 0.0.0.0 visadd.com
 0.0.0.0 visibility-stats.com
 0.0.0.0 visibli.com
-0.0.0.0 visilabs.com
 0.0.0.0 visioncriticalpanels.com
 0.0.0.0 visistat.com
 0.0.0.0 visit.webhosting.yahoo.com
@@ -4297,6 +4308,11 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 analytics.move.ru
+0.0.0.0 telegraf.detmir-stats.ru
+0.0.0.0 track.tproger.ru
+0.0.0.0 stats.travelask.ru
+0.0.0.0 x.babe.today
 0.0.0.0 prod-collector.bigbasket.com
 0.0.0.0 tracking.game8.jp
 0.0.0.0 lcs.modoo.at
@@ -4304,7 +4320,6 @@
 0.0.0.0 count.munhwa.com
 0.0.0.0 geo.mattel163.com
 0.0.0.0 tc-log.mattel163.com
-0.0.0.0 bilanx.dcard.tw
 0.0.0.0 events.emogi.com
 0.0.0.0 log.ohmynews.com
 0.0.0.0 analytics2.tvreport.co.kr
@@ -5773,7 +5788,6 @@
 0.0.0.0 l.ooyala.com
 0.0.0.0 l.player.ooyala.com
 0.0.0.0 l.sharethis.com
-0.0.0.0 lgr.visilabs.net
 0.0.0.0 log-live.direct.ly
 0.0.0.0 log.adap.tv
 0.0.0.0 log.olark.com
@@ -5796,7 +5810,6 @@
 0.0.0.0 qnajplxtvz-a.akamaihd.net
 0.0.0.0 r.remarketingpixel.com
 0.0.0.0 recs.atgsvcs.com
-0.0.0.0 rt.visilabs.net
 0.0.0.0 s.frida.vse42.ru
 0.0.0.0 saber.srvcs.tumblr.com
 0.0.0.0 segments.adap.tv
@@ -5959,6 +5972,13 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
+0.0.0.0 metrics.happycolor.app
+0.0.0.0 digianalytics.airtel.in
+0.0.0.0 ad-creative.projectcarmen.com
+0.0.0.0 analytics.projectcarmen.com
+0.0.0.0 monitoring-sdk.experimentation.intuit.com
+0.0.0.0 logging.api.intuit.com
 0.0.0.0 analytics.prod.mybuddy.ai
 0.0.0.0 logs.amap.com
 0.0.0.0 edmanalytics.pandahall.com
