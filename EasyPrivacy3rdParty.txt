@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 07 Jan 2021 20:57:16 +0000
+# Last converted - Fri, 15 Jan 2021 23:09:28 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -519,7 +519,6 @@
 0.0.0.0 imprvdosrv.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
-0.0.0.0 ingest.sentry.io
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insights.algolia.io
@@ -607,6 +606,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.el-mundo.net
+0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.sonymusicd2c.com
@@ -724,6 +724,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rc.rlcdn.com
+0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 refer.ccbill.com
 0.0.0.0 referrer.disqus.com
@@ -739,6 +740,7 @@
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rss.tmgrup.com.tr
 0.0.0.0 rt.flix360.com
+0.0.0.0 rtg-endpoint.global.ssl.fastly.net
 0.0.0.0 rtt.campanja.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
@@ -874,6 +876,7 @@
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
+0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
@@ -884,6 +887,7 @@
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.refinery89.com
+0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 tc.airfrance.com
@@ -899,6 +903,7 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
+0.0.0.0 to.getnitropack.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
@@ -1003,6 +1008,7 @@
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
+0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.sokrati.com
 0.0.0.0 tracking.sponsorpay.com
@@ -1103,6 +1109,7 @@
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 scanverify.com
 0.0.0.0 seal.digicert.com
+0.0.0.0 seal.globalsign.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.networksolutions.com
 0.0.0.0 seal.qualys.com
@@ -1113,8 +1120,8 @@
 0.0.0.0 shopperapproved.com
 0.0.0.0 siteintercept.allegiancetech.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 verify.authorize.net
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.trustedshops.com
-0.0.0.0 connatix.com
