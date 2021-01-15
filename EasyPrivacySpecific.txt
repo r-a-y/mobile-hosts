@@ -1,10 +1,9 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 07 Jan 2021 20:57:16 +0000
+# Last converted - Fri, 15 Jan 2021 23:09:27 +0000
 #
 
-0.0.0.0 a3xo-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -185,7 +184,6 @@
 0.0.0.0 data.younow.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dccss.banggood.com
-0.0.0.0 dcf.espn.com
 0.0.0.0 dd.nytimes.com
 0.0.0.0 debug-vp.webmd.com
 0.0.0.0 deliver.oztam.com.au
@@ -491,6 +489,7 @@
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 somniture.theglobeandmail.com
+0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
