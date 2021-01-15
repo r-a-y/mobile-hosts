@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 28 Dec 2020 07:26:03 +0000
+# Last converted - Fri, 15 Jan 2021 23:09:26 +0000
 #
 
 0.0.0.0 sspapi-prd.samsungrs.com
@@ -80,6 +80,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 cl-ad.x-flow.app
 0.0.0.0 soundcloud-pax.pandora.com
 0.0.0.0 emxdgt.com
 0.0.0.0 promoted.sndcdn.com
@@ -535,7 +536,6 @@
 0.0.0.0 adtilt.com
 0.0.0.0 adtrack.king.com
 0.0.0.0 adultadworld.com
-0.0.0.0 adups.com
 0.0.0.0 adv.mxmcdn.net
 0.0.0.0 adversal.com
 0.0.0.0 adverticum.net
