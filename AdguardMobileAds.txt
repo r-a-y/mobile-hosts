@@ -1,9 +1,11 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 15 Jan 2021 23:09:26 +0000
+# Last converted - Wed, 27 Jan 2021 22:01:27 +0000
 #
 
+0.0.0.0 ketchapp.org
+0.0.0.0 cdn-ketchapp.akamaized.net
 0.0.0.0 sspapi-prd.samsungrs.com
 0.0.0.0 admin.appnext.com
 0.0.0.0 global.appnext.com
