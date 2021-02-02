@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 27 Jan 2021 22:01:28 +0000
+# Last converted - Tue, 02 Feb 2021 00:58:59 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,10 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 dataunion.com.br
+0.0.0.0 breathebuds.com
+0.0.0.0 4sqt6jq.de
+0.0.0.0 sprocket-ping.s3.amazonaws.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 tag.goadopt.io
 0.0.0.0 tag.hariken.co
@@ -3038,6 +3042,8 @@
 0.0.0.0 xtremline.com
 0.0.0.0 xxxcounter.com
 0.0.0.0 xyztraffic.com
+0.0.0.0 x.clearbit.com
+0.0.0.0 x.clearbitjs.com
 0.0.0.0 y-track.com
 0.0.0.0 yadro.ru
 0.0.0.0 yamanoha.com
@@ -4134,6 +4140,9 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 pvtag.yahoo.co.jp
+0.0.0.0 stat.adultium.com
+0.0.0.0 c1.wfinterface.com
 0.0.0.0 l.typesquare.com
 0.0.0.0 estat.zum.com
 0.0.0.0 statweb.egloos.com
@@ -4294,6 +4303,7 @@
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 track.berliner-kurier.de
 0.0.0.0 collect.usefathom.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 wwwlog.thebell.co.kr
 0.0.0.0 d1miwkthq39xj8.cloudfront.net
 0.0.0.0 stats1.wpmudev.com
