@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 27 Jan 2021 22:01:29 +0000
+# Last converted - Tue, 02 Feb 2021 00:59:00 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -214,6 +214,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn.trafficexchangelist.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -239,6 +240,7 @@
 0.0.0.0 cod.bitrec.com
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.rewardstyle.com
+0.0.0.0 collect.usefathom.com
 0.0.0.0 collector-api.99designs.com
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.clareity.net
@@ -450,6 +452,7 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.realgravity.com
+0.0.0.0 events.shareably.net
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
@@ -490,6 +493,7 @@
 0.0.0.0 glbdns.microsoft.com
 0.0.0.0 gleam.io
 0.0.0.0 go.optifuze.com
+0.0.0.0 go.pardot.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
@@ -534,6 +538,7 @@
 0.0.0.0 jac.yahoosandbox.com
 0.0.0.0 javascriptcounter.appspot.com
 0.0.0.0 jelly.mdhv.io
+0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
@@ -546,6 +551,7 @@
 0.0.0.0 l.sharethis.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
+0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 licensing.bitmovin.com
@@ -753,6 +759,7 @@
 0.0.0.0 rva.outbrain.com
 0.0.0.0 s-vop.sundaysky.com
 0.0.0.0 s.clickability.com
+0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.sniphub.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
@@ -779,6 +786,7 @@
 0.0.0.0 ssr.streamrail.net
 0.0.0.0 st.cdnco.us
 0.0.0.0 st.linkfire.com
+0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.glaze.ai
