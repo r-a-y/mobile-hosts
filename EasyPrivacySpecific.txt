@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 07 Feb 2021 19:21:34 +0000
+# Last converted - Mon, 15 Feb 2021 09:03:13 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -48,6 +48,7 @@
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.kaggle.io
+0.0.0.0 analytics.kraken.com
 0.0.0.0 analytics.linktr.ee
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.meaww.com
@@ -80,6 +81,7 @@
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 analyzer52.fc2.com
 0.0.0.0 anon-stats.eff.org
+0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atax.gamermetrics.com
 0.0.0.0 atax.teamxbox.com
 0.0.0.0 athenatmpbeacon.theglobeandmail.ca
@@ -236,6 +238,7 @@
 0.0.0.0 fast.forbes.com
 0.0.0.0 fathom.pixeldrain.com
 0.0.0.0 fathom.status.im
+0.0.0.0 fdt.kraken.com
 0.0.0.0 felitb.rightinthebox.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
@@ -841,11 +844,6 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
-0.0.0.0 eu1l.dotabuff.com
-0.0.0.0 eu1l.overbuff.com
-0.0.0.0 eu1l.speedrun.com
-0.0.0.0 eu1l.trackdota.com
-0.0.0.0 eu1l.valorbuff.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 a02342.andoveradvertiser.co.uk
@@ -983,6 +981,7 @@
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
+0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 ep00.epimg.net
 0.0.0.0 fuse.forbes.com
 0.0.0.0 gamesradar-gb.gamesradar.com
