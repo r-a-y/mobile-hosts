@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 07 Feb 2021 19:21:34 +0000
+# Last converted - Mon, 15 Feb 2021 09:03:13 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,11 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 moshimo.com
+0.0.0.0 counter.monkeybanana3.com
+0.0.0.0 analytic-client.playful-fairies.com
+0.0.0.0 tk.promit.ru
+0.0.0.0 ztest1track.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 cws.conviva.com
@@ -3090,6 +3095,8 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 unwieldyhealth.com
+0.0.0.0 wearbasin.com
 0.0.0.0 puffypaste.com
 0.0.0.0 stiffgame.com
 0.0.0.0 satisfycork.com
@@ -4145,6 +4152,9 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 media.fc2.com
+0.0.0.0 metrics-broker.prod.p.tf1.fr
+0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 stat.adguard.com
 0.0.0.0 pvtag.yahoo.co.jp
 0.0.0.0 stat.adultium.com
@@ -5573,7 +5583,6 @@
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
-0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3h1v5cflrhzi4.cloudfront.net
 0.0.0.0 d3hr5gm0wlxm5h.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
