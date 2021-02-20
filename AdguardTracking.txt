@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 15 Feb 2021 09:03:13 +0000
+# Last converted - Sat, 20 Feb 2021 00:59:41 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -1296,7 +1296,6 @@
 0.0.0.0 emetriq.de
 0.0.0.0 emjcd.com
 0.0.0.0 emltrk.com
-0.0.0.0 emsecure.net
 0.0.0.0 enecto.com
 0.0.0.0 engageya.com
 0.0.0.0 engine212.com
@@ -4229,8 +4228,6 @@
 0.0.0.0 asumi.shinobi.jp
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 adj.st
-0.0.0.0 app.adjust.net.in
-0.0.0.0 app.adjust.world
 0.0.0.0 d3nq5jrakcyw1w.cloudfront.net
 0.0.0.0 tracking.netdoktor.at
 0.0.0.0 targeting.tbt.arcpublishing.com
@@ -5840,6 +5837,10 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 analytics.mobilegamestats.com
+0.0.0.0 p.statp.com
+0.0.0.0 api.imqtyik.com
+0.0.0.0 events.claspws.tv
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 metrics.happycolor.app
 0.0.0.0 digianalytics.airtel.in
