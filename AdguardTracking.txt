@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 20 Feb 2021 00:59:41 +0000
+# Last converted - Tue, 23 Feb 2021 20:08:46 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -1547,7 +1547,6 @@
 0.0.0.0 halldata.com
 0.0.0.0 halstats.com
 0.0.0.0 haveamint.com
-0.0.0.0 haymarket.com
 0.0.0.0 heapanalytics.com
 0.0.0.0 heatmap.it
 0.0.0.0 hellosherpa.com
@@ -4151,6 +4150,7 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 media.fc2.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
 0.0.0.0 pappagallu.onefootball.com
