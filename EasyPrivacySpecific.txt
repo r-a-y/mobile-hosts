@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 20 Feb 2021 00:59:41 +0000
+# Last converted - Sun, 28 Feb 2021 00:38:06 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -715,6 +715,7 @@
 0.0.0.0 tkpi.delta.com
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.eharmony.co.uk
+0.0.0.0 tmx.tdbank.com
 0.0.0.0 tnaflix.com
 0.0.0.0 tnla.thenewslens.com
 0.0.0.0 tongji.meizu.com
@@ -843,6 +844,27 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 apollo.plein.be
+0.0.0.0 app1.maatwerkonline.nl
+0.0.0.0 bc.semwerkt.nl
+0.0.0.0 cdn3.lacoquepersonnalisee.fr
+0.0.0.0 cdn4.waisttrainer.co.nz
+0.0.0.0 cms.fyndable.online
+0.0.0.0 ds2.independer.nl
+0.0.0.0 dtch.brunel.nl
+0.0.0.0 erp2.pvc-strokengordijn.nl
+0.0.0.0 ftp.chromeburner.com
+0.0.0.0 host10.hotelissima.fr
+0.0.0.0 host11.vrgh-arena.nl
+0.0.0.0 pc4.boxers.be
+0.0.0.0 pc4.shirts.nl
+0.0.0.0 pc4.sokken.be
+0.0.0.0 pc4.sokken.nl
+0.0.0.0 pc4.zwembroeken.nl
+0.0.0.0 s2.combifit.be
+0.0.0.0 style.onvz.nl
+0.0.0.0 tdep.mijnonlineloket.nl
+0.0.0.0 two.tracedock.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 a02342.andoveradvertiser.co.uk
@@ -981,7 +1003,6 @@
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
 0.0.0.0 d.sourcepoint.capitalfm.com
-0.0.0.0 ep00.epimg.net
 0.0.0.0 fuse.forbes.com
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 h-bid.com
@@ -1016,6 +1037,7 @@
 0.0.0.0 ttauri.toptenreviews.com
 0.0.0.0 ttauri.whathifi.com
 0.0.0.0 twch.20min.ch
+0.0.0.0 klaviyo.map.fastly.net
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 319dn.dieti-natura.com
 0.0.0.0 5ijo.01net.com
