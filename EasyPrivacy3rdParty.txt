@@ -1,11 +1,10 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 23 Feb 2021 20:08:47 +0000
+# Last converted - Sun, 28 Feb 2021 00:38:06 +0000
 #
 
 0.0.0.0 100widgets.com
-0.0.0.0 2fuc4clr7gvcn.cloudfront.net
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
@@ -18,7 +17,6 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.bridgetrack.com
-0.0.0.0 adtrack.calls.net
 0.0.0.0 aevents.izooto.com
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
@@ -54,7 +52,6 @@
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clickpathmedia.com
-0.0.0.0 analytics.cmg.net
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.convertlanguage.com
@@ -256,7 +253,6 @@
 0.0.0.0 control.cityofcairns.com
 0.0.0.0 conversions.genieventures.co.uk
 0.0.0.0 cookies.livepartners.com
-0.0.0.0 cookietracker.cloudapp.net
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 count.asnetworks.de
 0.0.0.0 count.carrierzone.com
@@ -349,7 +345,6 @@
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
-0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -357,14 +352,11 @@
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
-0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
-0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
-0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -391,7 +383,6 @@
 0.0.0.0 data.circulate.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.imakenews.com
-0.0.0.0 data.marketgid.com
 0.0.0.0 data.minute.ly
 0.0.0.0 data.queryly.com
 0.0.0.0 data.studybreakmedia.com
@@ -430,7 +421,6 @@
 0.0.0.0 ecomm.events
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.bredg.com
-0.0.0.0 edge.sqweb.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 event-api.contactatonce.co.uk
@@ -508,7 +498,6 @@
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 happen.spkt.io
-0.0.0.0 harvester.ext.square-enix-europe.com
 0.0.0.0 heals.msgfocus.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
@@ -548,10 +537,10 @@
 0.0.0.0 jelly.mdhv.io
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 js-agent.newrelic.com
+0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 keyword.daumdn.com
-0.0.0.0 keywords.complex.com
 0.0.0.0 klarnaservices.com
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ooyala.com
@@ -585,6 +574,7 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.plinga.de
+0.0.0.0 log.reformal.ru
 0.0.0.0 log.seekda.com
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.carambo.la
@@ -625,16 +615,13 @@
 0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
-0.0.0.0 metrics.sonymusicd2c.com
 0.0.0.0 metrics.toptenreviews.com
-0.0.0.0 metrics.wikinvest.com
 0.0.0.0 metrix.emagister.com
 0.0.0.0 metrixlablw.customers.luna.net
 0.0.0.0 mlweb.dmlab.hu
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mqs.ioam.de
-0.0.0.0 mtrcs.samba.tv
 0.0.0.0 mts.mansion.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mv.treehousei.com
@@ -665,7 +652,6 @@
 0.0.0.0 p.adbrn.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.eyebuydirect-cmr.net
-0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pagesense-collect.zoho.com
@@ -673,7 +659,6 @@
 0.0.0.0 partner.cynapse.com
 0.0.0.0 partners.etoro.com
 0.0.0.0 pdc.dmleonyc.com
-0.0.0.0 pebed.dm.gg
 0.0.0.0 perf.dugout.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perso.aws.arc.pub
@@ -776,7 +761,6 @@
 0.0.0.0 s.srvsynd.com
 0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 sadv.dadapro.com
-0.0.0.0 scout.haymarketmedia.com
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sdrive.skoda-auto.com
@@ -883,7 +867,6 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
-0.0.0.0 t.flux.com
 0.0.0.0 t.kelkoogroup.net
 0.0.0.0 t.menepe.com
 0.0.0.0 t.powerreviews.com
@@ -931,7 +914,6 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
-0.0.0.0 tr.connatix.com
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.webantenna.info
@@ -1034,6 +1016,7 @@
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.sembox.it
 0.0.0.0 tracking.sezzle.com
+0.0.0.0 tracking.sharplink.us
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.sokrati.com
 0.0.0.0 tracking.sponsorpay.com
@@ -1112,6 +1095,13 @@
 0.0.0.0 ref.dealerinspire.com
 0.0.0.0 risk.clearbit.com
 0.0.0.0 targeting.voxus.tv
+0.0.0.0 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
+0.0.0.0 a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com
+0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
+0.0.0.0 a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
+0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
+0.0.0.0 aea50b96a4dca11ea83360ac4ee80f26-253968598.eu-central-1.elb.amazonaws.com
+0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
 0.0.0.0 go.techtarget.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
@@ -1149,6 +1139,7 @@
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 verify.authorize.net
+0.0.0.0 verify.safesigned.com
 0.0.0.0 websecurity.norton.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widgets.trustedshops.com
