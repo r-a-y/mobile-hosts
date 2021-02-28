@@ -1,9 +1,10 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Sat, 20 Feb 2021 00:59:39 +0000
+# Last converted - Sun, 28 Feb 2021 00:38:04 +0000
 #
 
+0.0.0.0 s-adx.op-mobile.opera.com
 0.0.0.0 s.adx.opera.com
 0.0.0.0 ketchapp.org
 0.0.0.0 cdn-ketchapp.akamaized.net
@@ -135,7 +136,6 @@
 0.0.0.0 appgiftwall.oss-us-west-1.aliyuncs.com
 0.0.0.0 appgift.sinaapp.com
 0.0.0.0 ad.mail.ru
-0.0.0.0 video.intl.xiaomi.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 amillionads.com
 0.0.0.0 api.mobshark.net
