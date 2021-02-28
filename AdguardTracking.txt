@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 23 Feb 2021 20:08:46 +0000
+# Last converted - Sun, 28 Feb 2021 00:38:06 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,19 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 adsmetadata.mobileadexchange.net
+0.0.0.0 adsmetadata.startappk8s.com
+0.0.0.0 counter.yandro.ru
+0.0.0.0 track-aws.notsy.io
+0.0.0.0 cdn.notsy.io
+0.0.0.0 cdn-b.notsy.io
+0.0.0.0 track.notsy.io
+0.0.0.0 log.ca.gov.vn
+0.0.0.0 tracking.gpm-rtv.ru
+0.0.0.0 pvk.jp
+0.0.0.0 uncn.jp
+0.0.0.0 ad-spire.net
+0.0.0.0 f-counter.net
 0.0.0.0 moshimo.com
 0.0.0.0 counter.monkeybanana3.com
 0.0.0.0 analytic-client.playful-fairies.com
@@ -4150,6 +4163,21 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 track.libii.cn
+0.0.0.0 track.oasis.magictavern.com
+0.0.0.0 kooappslogs.com
+0.0.0.0 log.zepeto.io
+0.0.0.0 apptracker.gamedock.io
+0.0.0.0 applog.zaycev.net
+0.0.0.0 events.cardsmobile.ru
+0.0.0.0 eventstream.dodopizza.com
+0.0.0.0 analytics.74.ru
+0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 event.chitai-gorod.ru
+0.0.0.0 counter.nv.ua
+0.0.0.0 metrika.myseldon.com
+0.0.0.0 t.lidyana.com
+0.0.0.0 stats.muasamcong.gov.vn
 0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 media.fc2.com
 0.0.0.0 metrics-broker.prod.p.tf1.fr
@@ -5837,6 +5865,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 analytics.jodelapis.com
 0.0.0.0 analytics.mobilegamestats.com
 0.0.0.0 p.statp.com
 0.0.0.0 api.imqtyik.com
@@ -6003,6 +6032,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 tracking.viewster.com
 0.0.0.0 logcollector.viewster.com
+0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 applog.uc.cn
 0.0.0.0 dispatcher.upmc.uc.cn
