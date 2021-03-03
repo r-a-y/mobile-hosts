@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Mar 2021 19:38:14 +0000
+# Last converted - Wed, 03 Mar 2021 19:39:29 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -4177,7 +4177,7 @@
 0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 stat.nate.com
 0.0.0.0 hitweb2.chosun.com
-0.0.0.0 track.clkfly.com$document,popup
+0.0.0.0 track.clkfly.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 sci.intuit.com
 0.0.0.0 bilanx.dcard.tw
