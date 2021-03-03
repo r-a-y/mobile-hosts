@@ -73,7 +73,7 @@ foreach ( $lists as $name => $list ) {
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $third-party, $image and $popup?
-		$filter = str_replace( array( '||', '^third-party', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', '$empty', '$object-subrequest', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
+		$filter = str_replace( array( '||', '^third-party', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
