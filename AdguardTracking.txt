@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 28 Feb 2021 00:38:06 +0000
+# Last converted - Wed, 03 Mar 2021 19:38:14 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,15 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 log.gs3.goo.ne.jp
+0.0.0.0 static.karte.io
+0.0.0.0 wonder-ma.com
+0.0.0.0 sync.ebis.ne.jp
+0.0.0.0 taj1.ebis.ne.jp
+0.0.0.0 taj2.ebis.ne.jp
+0.0.0.0 tracking.adweb.co.kr
+0.0.0.0 tracking02.adweb.co.kr
+0.0.0.0 d-collector.jennifersoft.com
 0.0.0.0 adsmetadata.mobileadexchange.net
 0.0.0.0 adsmetadata.startappk8s.com
 0.0.0.0 counter.yandro.ru
@@ -56,7 +65,6 @@
 0.0.0.0 tracker.metricool.com
 0.0.0.0 stats.myangular.life
 0.0.0.0 counter.daara.kr
-0.0.0.0 tr.line.me
 0.0.0.0 log22.makeshop.co.kr
 0.0.0.0 piclick.kr
 0.0.0.0 log.perfecttitspics.com
@@ -3107,6 +3115,7 @@
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
 0.0.0.0 unwieldyhealth.com
+0.0.0.0 boilingcredit.com
 0.0.0.0 wearbasin.com
 0.0.0.0 puffypaste.com
 0.0.0.0 stiffgame.com
@@ -4135,6 +4144,7 @@
 0.0.0.0 eulerian.belambra.fr
 0.0.0.0 eulerian.belambra.be
 0.0.0.0 omtrdc.net
+0.0.0.0 data.adobedc.net
 0.0.0.0 tagcommander.com
 0.0.0.0 commandersact.com
 0.0.0.0 wizaly.com
@@ -4163,6 +4173,14 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 log.ttbc-hcm.gov.vn
+0.0.0.0 eventapi.afreecatv.com
+0.0.0.0 stat.nate.com
+0.0.0.0 hitweb2.chosun.com
+0.0.0.0 track.clkfly.com$document,popup
+0.0.0.0 pf.intuit.com
+0.0.0.0 sci.intuit.com
+0.0.0.0 bilanx.dcard.tw
 0.0.0.0 track.libii.cn
 0.0.0.0 track.oasis.magictavern.com
 0.0.0.0 kooappslogs.com
@@ -5284,7 +5302,6 @@
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trackingapi.cloudapp.net
 0.0.0.0 tracking2.channeladvisor.com
-0.0.0.0 tracking.adweb.co.kr
 0.0.0.0 tracking.bdi-services.de
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.olx-st.com
@@ -5676,7 +5693,6 @@
 0.0.0.0 geobeacon.ign.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.mynet.com
-0.0.0.0 hitweb2.chosun.com
 0.0.0.0 hrumpoc.hotels.com
 0.0.0.0 ibeat.indiatimes.com
 0.0.0.0 l.ooyala.com
@@ -5740,6 +5756,7 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 frontier.musical.ly
 0.0.0.0 xlog-va.musical.ly
+0.0.0.0 wcs.naver.com
 0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
 0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 clck.yandex.ru
