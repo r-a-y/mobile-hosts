@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 28 Feb 2021 00:38:06 +0000
+# Last converted - Wed, 03 Mar 2021 19:38:14 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -140,6 +140,7 @@
 0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 clicks.traffictrader.net
 0.0.0.0 client-event-reporter.twitch.tv
+0.0.0.0 client-log.box.com
 0.0.0.0 clk.about.com
 0.0.0.0 clkstat.china.cn
 0.0.0.0 clog.go.com
@@ -248,6 +249,7 @@
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
 0.0.0.0 g.msn.com
+0.0.0.0 g.pcmag.com
 0.0.0.0 g.vev.io
 0.0.0.0 g2a-com.newsletter.com.pl
 0.0.0.0 ga.canoe.ca
@@ -286,6 +288,7 @@
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.theregister.com
+0.0.0.0 gurgle.pcmag.com
 0.0.0.0 h.cliphunter.com
 0.0.0.0 harvester.eu.square-enix.com
 0.0.0.0 harvester.hbpl.co.uk
@@ -307,6 +310,7 @@
 0.0.0.0 intelli.ageuk.org.uk
 0.0.0.0 intent.cbsi.com
 0.0.0.0 intg.snapchat.com
+0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 kinesisproxy.hearstlabs.com
@@ -844,6 +848,8 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 dns.whatleaks.com
+0.0.0.0 p0f.whatleaks.com
 0.0.0.0 apollo.plein.be
 0.0.0.0 app1.maatwerkonline.nl
 0.0.0.0 bc.semwerkt.nl
@@ -977,28 +983,6 @@
 0.0.0.0 a02342.yourlocalguardian.co.uk
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
-0.0.0.0 cmp.arnnet.com.au
-0.0.0.0 cmp.cio.com.au
-0.0.0.0 cmp.cio.com
-0.0.0.0 cmp.cmo.com.au
-0.0.0.0 cmp.computerworld.com.au
-0.0.0.0 cmp.cso.com.au
-0.0.0.0 cmp.csoonline.com
-0.0.0.0 cmp.digitalartsonline.co.uk
-0.0.0.0 cmp.greenbot.com
-0.0.0.0 cmp.idginsiderpro.com
-0.0.0.0 cmp.infoworld.com
-0.0.0.0 cmp.javaworld.com
-0.0.0.0 cmp.macworld.co.uk
-0.0.0.0 cmp.macworld.com
-0.0.0.0 cmp.osano.com
-0.0.0.0 cmp.pcworld.co.nz
-0.0.0.0 cmp.pcworld.com
-0.0.0.0 cmp.pcworld.idg.com.au
-0.0.0.0 cmp.tech426.com
-0.0.0.0 cmp.techadvisor.co.uk
-0.0.0.0 cmp.techconnect.com
-0.0.0.0 cmp.techhive.com
 0.0.0.0 commsvc.stern.de
 0.0.0.0 consent.api.osano.com
 0.0.0.0 consent.inm.ie
@@ -1007,15 +991,13 @@
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 h-bid.com
 0.0.0.0 isgprivacy.cbsi.com
-0.0.0.0 mmm.carbuyer.co.uk
+0.0.0.0 itpuk-mms.itpro.co.uk
 0.0.0.0 mms.blick.ch
 0.0.0.0 mms.gocomics.com
-0.0.0.0 mms.itpro.co.uk
 0.0.0.0 mms.wwe.com
 0.0.0.0 orionis.techradar.com
 0.0.0.0 pcgamer-gb.pcgamer.com
 0.0.0.0 services.hmhost.co.uk
-0.0.0.0 sm.pcmag.com
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
@@ -1037,7 +1019,6 @@
 0.0.0.0 ttauri.toptenreviews.com
 0.0.0.0 ttauri.whathifi.com
 0.0.0.0 twch.20min.ch
-0.0.0.0 klaviyo.map.fastly.net
 0.0.0.0 0sbm.consobaby.co.uk
 0.0.0.0 319dn.dieti-natura.com
 0.0.0.0 5ijo.01net.com
