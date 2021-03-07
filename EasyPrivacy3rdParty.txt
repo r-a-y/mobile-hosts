@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 03 Mar 2021 19:38:14 +0000
+# Last converted - Sun, 07 Mar 2021 08:45:01 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -493,6 +493,7 @@
 0.0.0.0 gleam.io
 0.0.0.0 go.optifuze.com
 0.0.0.0 go.pardot.com
+0.0.0.0 go.techtarget.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
@@ -604,7 +605,6 @@
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 measure.refinery89.com
-0.0.0.0 medallia.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metric.nwsource.com
@@ -1047,6 +1047,7 @@
 0.0.0.0 trk.email.dynect.net
 0.0.0.0 trk.pswec.com
 0.0.0.0 trk.sele.co
+0.0.0.0 trk.techtarget.com
 0.0.0.0 trk.vindicosuite.com
 0.0.0.0 tru.webelapp.com
 0.0.0.0 try.abtasty.com
@@ -1096,15 +1097,6 @@
 0.0.0.0 ref.dealerinspire.com
 0.0.0.0 risk.clearbit.com
 0.0.0.0 targeting.voxus.tv
-0.0.0.0 a03674778d27211eabe260a5fac8573f-298900439.eu-central-1.elb.amazonaws.com
-0.0.0.0 a177429ff0a2d11eab4120a5a92844d8-605541764.eu-central-1.elb.amazonaws.com
-0.0.0.0 a351fec2c318c11ea9b9b0a0ae18fb0b-1529426863.eu-central-1.elb.amazonaws.com
-0.0.0.0 a51404801860511eabe260a5fac8573f-308402611.eu-central-1.elb.amazonaws.com
-0.0.0.0 a88045584548111e997c60ac8a4ec150-1610510072.eu-central-1.elb.amazonaws.com
-0.0.0.0 aea50b96a4dca11ea83360ac4ee80f26-253968598.eu-central-1.elb.amazonaws.com
-0.0.0.0 afc4d9aa2a91d11e997c60ac8a4ec150-2082092489.eu-central-1.elb.amazonaws.com
-0.0.0.0 go.techtarget.com
-0.0.0.0 trk.techtarget.com
 0.0.0.0 aksb-a.akamaihd.net
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
