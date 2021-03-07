@@ -21,7 +21,10 @@ $lists = array(
 	'EasyPrivacySpecific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt',
 
 	// EasyPrivacy Third-Party
-	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt'
+	'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
+
+	// EasyPrivacy CNAME
+	'EasyPrivacyCNAME' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt'
 );
 
 $idn_to_ascii = function_exists( 'idn_to_ascii' );
