@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 07 Mar 2021 08:45:00 +0000
+# Last converted - Tue, 09 Mar 2021 02:50:03 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -329,6 +329,7 @@
 0.0.0.0 log.newsvine.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.prezi.com
+0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logg.kiwi.com
