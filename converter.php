@@ -11,6 +11,9 @@ $lists = array(
 	// Adguard DNS
 	'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
+	// Adguard CNAME
+	'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt',
+
 	// Adguard Tracking
 	'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
 
