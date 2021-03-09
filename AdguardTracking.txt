@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 07 Mar 2021 08:45:00 +0000
+# Last converted - Tue, 09 Mar 2021 02:50:03 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,7 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 smart-bdash.com
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 appier.net
 0.0.0.0 depart.trinitymedia.ai
@@ -2762,7 +2763,6 @@
 0.0.0.0 trackeame.com
 0.0.0.0 trackedlink.net
 0.0.0.0 trackedweb.net
-0.0.0.0 trackfeed.com
 0.0.0.0 tracking100.com
 0.0.0.0 tracking202.com
 0.0.0.0 trackinglabs.com
@@ -4184,7 +4184,6 @@
 0.0.0.0 track.clkfly.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 sci.intuit.com
-0.0.0.0 bilanx.dcard.tw
 0.0.0.0 track.libii.cn
 0.0.0.0 track.oasis.magictavern.com
 0.0.0.0 kooappslogs.com
