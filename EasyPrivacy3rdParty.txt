@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 09 Mar 2021 02:50:03 +0000
+# Last converted - Sat, 13 Mar 2021 21:00:19 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -210,6 +210,7 @@
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
+0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 ce.lijit.com
@@ -344,7 +345,6 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
-0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -500,7 +500,6 @@
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 happen.spkt.io
-0.0.0.0 heals.msgfocus.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.mybestpro.com
@@ -595,7 +594,6 @@
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 m.addthisedge.com
-0.0.0.0 m.trb.com
 0.0.0.0 magnify360-cdn.s3.amazonaws.com
 0.0.0.0 make.cohesionapps.com
 0.0.0.0 marketing.net.jumia.com.ng
@@ -612,11 +610,9 @@
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
-0.0.0.0 metrics.el-mundo.net
 0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
-0.0.0.0 metrics.toptenreviews.com
 0.0.0.0 metrix.emagister.com
 0.0.0.0 metrixlablw.customers.luna.net
 0.0.0.0 mlweb.dmlab.hu
@@ -643,7 +639,6 @@
 0.0.0.0 octopart-analytics.com
 0.0.0.0 oda.markitondemand.com
 0.0.0.0 olytics.omeda.com
-0.0.0.0 om.rogersmedia.com
 0.0.0.0 onespot-tracking.herokuapp.com
 0.0.0.0 onetrust.com
 0.0.0.0 open.delivery.net
@@ -753,7 +748,9 @@
 0.0.0.0 rum.conde.io
 0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
+0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
+0.0.0.0 rum.vhwrz.net
 0.0.0.0 rva.outbrain.com
 0.0.0.0 s-vop.sundaysky.com
 0.0.0.0 s.clickability.com
@@ -806,7 +803,6 @@
 0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.datahjaelp.net
-0.0.0.0 stats.dice.com
 0.0.0.0 stats.edicy.com
 0.0.0.0 stats.fomo.com
 0.0.0.0 stats.g.doubleclick.net
@@ -898,7 +894,6 @@
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 targeting.perso.aws.arc.pub
-0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
@@ -929,7 +924,6 @@
 0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.digitalriver.com
-0.0.0.0 track.hubspot.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mycliplister.com
