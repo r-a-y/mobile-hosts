@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 09 Mar 2021 02:50:03 +0000
+# Last converted - Sat, 13 Mar 2021 21:00:18 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,18 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 tracdelight.io
+0.0.0.0 goatcounter.com
+0.0.0.0 gc.zgo.at
+0.0.0.0 fryvzw.com
+0.0.0.0 ttrace.ru
+0.0.0.0 c.dpgmedia.net
+0.0.0.0 brandmetrics.com
+0.0.0.0 adgainersolutions.com
+0.0.0.0 aff.trackinglibrary.prodperfect.com
+0.0.0.0 stat.ustore.bz
+0.0.0.0 logbor.com
+0.0.0.0 click-plus.net
 0.0.0.0 smart-bdash.com
 0.0.0.0 analytics.contents.by-fw.jp
 0.0.0.0 appier.net
@@ -3118,6 +3130,7 @@
 0.0.0.0 zqtk.net
 0.0.0.0 zroitracker.com
 0.0.0.0 functionalclam.com
+0.0.0.0 bawdybalance.com
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 boilingcredit.com
 0.0.0.0 wearbasin.com
@@ -4177,6 +4190,14 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 uep.gaijin.net
+0.0.0.0 event.impression-neo.naver.com
+0.0.0.0 er.search.naver.com
+0.0.0.0 s.search.naver.com
+0.0.0.0 log.tf.co.kr
+0.0.0.0 log.zdnet.co.kr
+0.0.0.0 weblog.zdnet.co.kr
+0.0.0.0 logger.tvchosun.com
 0.0.0.0 log.ttbc-hcm.gov.vn
 0.0.0.0 eventapi.afreecatv.com
 0.0.0.0 stat.nate.com
@@ -4211,7 +4232,6 @@
 0.0.0.0 estat.zum.com
 0.0.0.0 statweb.egloos.com
 0.0.0.0 analytics.tio.ch
-0.0.0.0 d335luupugsy2.cloudfront.net
 0.0.0.0 d1gwclp1pmzk26.cloudfront.net
 0.0.0.0 tracking.bonnier.news
 0.0.0.0 jtp.expressen.se
@@ -4298,7 +4318,6 @@
 0.0.0.0 analytics.zeekit.co
 0.0.0.0 analitik.edevlet.gov.tr
 0.0.0.0 track.lexico.com
-0.0.0.0 stat.ustore.bz
 0.0.0.0 c0.adalyser.com
 0.0.0.0 d3eyd961wi10bl.cloudfront.net
 0.0.0.0 d1daeonbqcq0oh.cloudfront.net
@@ -5600,7 +5619,6 @@
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
 0.0.0.0 d1rgnfh960lz2b.cloudfront.net
 0.0.0.0 d1ros97qkrwjf5.cloudfront.net
-0.0.0.0 d1wscoizcbxzhp.cloudfront.net
 0.0.0.0 d1yu5hbtu8mng9.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
