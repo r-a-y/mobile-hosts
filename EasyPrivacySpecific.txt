@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 09 Mar 2021 02:50:03 +0000
+# Last converted - Sat, 13 Mar 2021 21:00:19 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -354,14 +354,10 @@
 0.0.0.0 metric.inetcore.com
 0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.bangbros.com
-0.0.0.0 metrics.cbn.com
 0.0.0.0 metrics.cbslocal.com
-0.0.0.0 metrics.cnn.com
-0.0.0.0 metrics.ee.co.uk
 0.0.0.0 metrics.extremetech.com
 0.0.0.0 metrics.slite.com
 0.0.0.0 metrics.ted.com
-0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
 0.0.0.0 mms.cbslocal.com
@@ -399,11 +395,7 @@
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 oimg.mobile.cnbc.com
-0.0.0.0 om.cbsi.com
-0.0.0.0 omni.nine.com.au
-0.0.0.0 omniture.stuff.co.nz
 0.0.0.0 omniture.theglobeandmail.com
-0.0.0.0 oms.expedia.com
 0.0.0.0 on.msnbc.com
 0.0.0.0 oops.redditmedia.com
 0.0.0.0 open.mkt1397.com
@@ -503,7 +495,6 @@
 0.0.0.0 smetrics.delta.com
 0.0.0.0 somniture.theglobeandmail.com
 0.0.0.0 sourcepoint.dexerto.com
-0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -619,7 +610,6 @@
 0.0.0.0 srt.pch.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 ssc.api.bbc.com
-0.0.0.0 sstats.oui.sncf
 0.0.0.0 st.arte.tv
 0.0.0.0 stan.xing.com
 0.0.0.0 stat.alibaba.com
@@ -653,7 +643,6 @@
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
-0.0.0.0 stats.oui.sncf
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.piaggio.com
@@ -815,10 +804,8 @@
 0.0.0.0 urs.metacritic.com
 0.0.0.0 user-metrics.onthemarket.com
 0.0.0.0 userfly.com
-0.0.0.0 v.oui.sncf
 0.0.0.0 video-stats.video.google.com
 0.0.0.0 videotracker.washingtonpost.com
-0.0.0.0 visit.asb.co.nz
 0.0.0.0 visit.dealspwn.com
 0.0.0.0 visit.mobot.net
 0.0.0.0 visit.theglobeandmail.com
@@ -826,7 +813,6 @@
 0.0.0.0 vortex.hulu.com
 0.0.0.0 vs.target.com
 0.0.0.0 vstats.digitaltrends.com
-0.0.0.0 wa.metro.co.uk
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wal.wolfram.com
 0.0.0.0 warp.prnewswire.co.uk
@@ -980,6 +966,7 @@
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 ttauri.bikeperfect.com
 0.0.0.0 ttauri.creativebloq.com
 0.0.0.0 ttauri.digitalcameraworld.com
