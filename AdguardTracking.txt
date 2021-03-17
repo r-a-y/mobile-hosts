@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 13 Mar 2021 21:00:18 +0000
+# Last converted - Wed, 17 Mar 2021 19:01:31 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,16 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 px.za.zaloapp.com
+0.0.0.0 jg.wensixuetang.com
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoy.net
+0.0.0.0 logger.eigene.io
+0.0.0.0 receiver.eigene.io
+0.0.0.0 c-rings.net
+0.0.0.0 t.felmat.net
+0.0.0.0 k-analytix.com
+0.0.0.0 i.btg360.com.br
 0.0.0.0 tracdelight.io
 0.0.0.0 goatcounter.com
 0.0.0.0 gc.zgo.at
@@ -4190,6 +4200,9 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 stat.5-tv.ru
+0.0.0.0 log.zingnews.vn
+0.0.0.0 logcol.kyobobook.co.kr
 0.0.0.0 uep.gaijin.net
 0.0.0.0 event.impression-neo.naver.com
 0.0.0.0 er.search.naver.com
@@ -10005,8 +10018,6 @@
 0.0.0.0 statistics.videofarm.daum.net
 0.0.0.0 stats.popcap.com
 0.0.0.0 stats.unity3d.com
-0.0.0.0 tapjoy.com
-0.0.0.0 tapjoy.net
 0.0.0.0 taurus.iad.appboy.com
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 tns.simba.taobao.com
