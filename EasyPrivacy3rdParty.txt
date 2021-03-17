@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 13 Mar 2021 21:00:19 +0000
+# Last converted - Wed, 17 Mar 2021 19:01:32 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -450,6 +450,7 @@
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
+0.0.0.0 events.split.io
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
@@ -702,6 +703,7 @@
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-auth.playbuzz.com
+0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prism.app-us1.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 production-mcs.lvp.llnw.net
@@ -1078,6 +1080,7 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wss.maven.io
 0.0.0.0 wstat.wibiya.com
+0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
 0.0.0.0 zdlogs.sphereup.com
