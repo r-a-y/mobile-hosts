@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 13 Mar 2021 21:00:19 +0000
+# Last converted - Wed, 17 Mar 2021 19:01:31 +0000
 #
 
 0.0.0.0 aa.avvo.com
@@ -198,6 +198,7 @@
 0.0.0.0 desr.fkapi.net
 0.0.0.0 diamond.transfermarkt.de
 0.0.0.0 direct-events-collector.spot.im
+0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dl.meliacloud.com
 0.0.0.0 dmp.marketgid.com
 0.0.0.0 dmtracking2.alibaba.com
@@ -763,6 +764,7 @@
 0.0.0.0 tracking.chacha.com
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.conduit.com
+0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.hsn.com
