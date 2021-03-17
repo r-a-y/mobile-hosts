@@ -1,7 +1,7 @@
 # EasyPrivacyCNAME
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - Sat, 13 Mar 2021 21:00:19 +0000
+# Last converted - Wed, 17 Mar 2021 19:01:32 +0000
 #
 
 0.0.0.0 a8.cyclemarket.jp
@@ -10,6 +10,9 @@
 0.0.0.0 a8clk.xserver.ne.jp
 0.0.0.0 a8cv.amiami.jp
 0.0.0.0 afi.ssl.gmobb.jp
+0.0.0.0 custom.plausible.io
+0.0.0.0 ms.markosaric.com
+0.0.0.0 stats.twhl.xyz
 0.0.0.0 71efe2183b8663ad5bf9d7a9320aeb48.leboncoin.fr
 0.0.0.0 a.20minutes.fr
 0.0.0.0 a.pourquoidocteur.fr
