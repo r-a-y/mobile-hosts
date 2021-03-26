@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 22 Mar 2021 18:28:06 +0000
+# Last converted - Fri, 26 Mar 2021 18:58:16 +0000
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,19 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 heymatic.com
+0.0.0.0 ad-log.dable.io
+0.0.0.0 pensebig.com.br
+0.0.0.0 retargeter.com.br
+0.0.0.0 shotarget.co.uk
+0.0.0.0 shopback.net
+0.0.0.0 shopconvert.com.br
+0.0.0.0 neemu.com
+0.0.0.0 mci1.co.kr
+0.0.0.0 vercel-insights.com
+0.0.0.0 nave.foone.com.br
+0.0.0.0 cdn-ra.rockcontent.com
+0.0.0.0 ra.rockcontent.com
 0.0.0.0 tracker.digitalcamp.co.kr
 0.0.0.0 tracker.adbinead.com
 0.0.0.0 burpee.xyz
@@ -70,6 +83,7 @@
 0.0.0.0 pvk.jp
 0.0.0.0 uncn.jp
 0.0.0.0 ad-spire.net
+0.0.0.0 investingchannel.com
 0.0.0.0 f-counter.net
 0.0.0.0 moshimo.com
 0.0.0.0 counter.monkeybanana3.com
@@ -171,6 +185,7 @@
 0.0.0.0 iesnare.com
 0.0.0.0 lngtd.com
 0.0.0.0 dw-eu.com.com
+0.0.0.0 counter.jdi5.com
 0.0.0.0 indexww.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 adsrvr.org
@@ -525,7 +540,7 @@
 0.0.0.0 s-onetag.com
 0.0.0.0 personaclick.com
 0.0.0.0 noy90o.com
-0.0.0.0 logsss.com
+0.0.0.0 analytics.logsss.com
 0.0.0.0 tnative.ru
 0.0.0.0 redatastore.ru
 0.0.0.0 cinarra.com
@@ -4358,7 +4373,6 @@
 0.0.0.0 pixel.welt.de
 0.0.0.0 pixel.trackverify.com
 0.0.0.0 cdn.contalyze.com
-0.0.0.0 log.news.zing.vn
 0.0.0.0 px.gfycat.com
 0.0.0.0 vhsrwd.aip24.pl
 0.0.0.0 analytics.dpd.com
