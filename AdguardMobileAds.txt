@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 17 Mar 2021 19:01:28 +0000
+# Last converted - Fri, 26 Mar 2021 18:58:12 +0000
 #
 
 0.0.0.0 s-adx.op-mobile.opera.com
@@ -84,6 +84,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 adpopcorn.com
+0.0.0.0 pangle.io
+0.0.0.0 pubnative.info
 0.0.0.0 bifjicdigchgihajabb.ru
 0.0.0.0 ad.leap.app
 0.0.0.0 cl-ad.x-flow.app
