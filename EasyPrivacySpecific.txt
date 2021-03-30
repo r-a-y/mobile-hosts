@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 26 Mar 2021 18:58:16 +0000
+# Last converted - Tue, 30 Mar 2021 22:02:10 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -218,6 +218,7 @@
 0.0.0.0 es.puritan.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 etui.fs.ml.com
+0.0.0.0 etx.indiatimes.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 ev.kck.st
 0.0.0.0 event-api.reverb.com
