@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 30 Mar 2021 22:02:11 +0100
+# Last converted - Fri, 09 Apr 2021 05:31:30 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -119,7 +119,6 @@
 0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
-0.0.0.0 analytics.video.meredithcorp.io
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.websolute.it
 0.0.0.0 analytics.wildtangent.com
@@ -222,7 +221,6 @@
 0.0.0.0 chartaca.com.s3.amazonaws.com
 0.0.0.0 check.ddos-guard.net
 0.0.0.0 click.appinthestore.com
-0.0.0.0 click.aristotle.net
 0.0.0.0 click.rssfwd.com
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicktale.pantherssl.com
@@ -237,7 +235,6 @@
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cod.bitrec.com
-0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.usefathom.com
 0.0.0.0 collector-api.99designs.com
@@ -484,7 +481,6 @@
 0.0.0.0 gemius.mgr.consensu.org
 0.0.0.0 geo.ertya.com
 0.0.0.0 geo.gorillanation.com
-0.0.0.0 geo.kaloo.ga
 0.0.0.0 geo.kontagent.net
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.ngtv.io
@@ -493,9 +489,7 @@
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geoservice.curse.com
-0.0.0.0 glbdns.microsoft.com
 0.0.0.0 gleam.io
-0.0.0.0 go.optifuze.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
@@ -702,7 +696,6 @@
 0.0.0.0 pixels.afcdn.com
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
-0.0.0.0 plumbus.minutemediaservices.com
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 postpixel.vindicosuite.com
 0.0.0.0 powersearch.us.com
@@ -852,7 +845,6 @@
 0.0.0.0 statsadv.dadapro.com
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statsd.zmags.com
-0.0.0.0 statsdev.treesd.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 sts.eccmp.com
@@ -874,7 +866,6 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
-0.0.0.0 t.kelkoogroup.net
 0.0.0.0 t.menepe.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
@@ -971,7 +962,6 @@
 0.0.0.0 tracker.iqnomy.com
 0.0.0.0 tracker.keywordintent.com
 0.0.0.0 tracker.marinsoftware.com
-0.0.0.0 tracker.neon-images.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.timesgroup.com
@@ -996,7 +986,6 @@
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.hivecloud.net
-0.0.0.0 tracking.html5games.com
 0.0.0.0 tracking.interweave.com
 0.0.0.0 tracking.jotform.com
 0.0.0.0 tracking.keywee.co
@@ -1040,6 +1029,7 @@
 0.0.0.0 traffic.shareaholic.com
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trakksocial.googlecode.com
+0.0.0.0 trap.skype.com
 0.0.0.0 trc.pushnami.com
 0.0.0.0 tree-pixel-log.s3.amazonaws.com
 0.0.0.0 tremorhub.com
@@ -1092,7 +1082,6 @@
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
 0.0.0.0 xt.persosa.com
-0.0.0.0 zdlogs.sphereup.com
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
 0.0.0.0 opps.taboola.com
