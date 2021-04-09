@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 30 Mar 2021 22:02:10 +0100
+# Last converted - Fri, 09 Apr 2021 05:31:30 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -159,6 +159,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.ksax.com
 0.0.0.0 collector.kstptv5.com
+0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.statowl.com
 0.0.0.0 collector.tescocompare.com
@@ -190,7 +191,6 @@
 0.0.0.0 dccss.banggood.com
 0.0.0.0 dd.lendup.com
 0.0.0.0 dd.nytimes.com
-0.0.0.0 debug-vp.webmd.com
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 desa.fkapi.net
@@ -263,6 +263,7 @@
 0.0.0.0 gcpdata.telegraph.co.uk
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.battle.net
+0.0.0.0 geo.gfycat.com
 0.0.0.0 geo.homepage-web.com
 0.0.0.0 geo.metronews.ca
 0.0.0.0 geo.nbcsports.com
@@ -315,6 +316,7 @@
 0.0.0.0 ip.breitbart.com
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
+0.0.0.0 jumbo.zomato.com
 0.0.0.0 kinesisproxy.hearstlabs.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lh.secure.yahoo.com
@@ -359,6 +361,7 @@
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.extremetech.com
 0.0.0.0 metrics.slite.com
+0.0.0.0 metrics.spkt.io
 0.0.0.0 metrics.ted.com
 0.0.0.0 mmm.theweek.co.uk
 0.0.0.0 mms.al.com
