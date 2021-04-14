@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 09 Apr 2021 05:31:27 +0100
+# Last converted - Wed, 14 Apr 2021 21:46:19 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -247,7 +247,6 @@
 0.0.0.0 api.ad.xiaomi.com
 0.0.0.0 a.bitmango.com
 0.0.0.0 tracking.directservices.it
-0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 onedrive-collection.device.mobileengagement.windows.net
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
