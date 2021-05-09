@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 04 May 2021 00:41:11 +0100
+# Last converted - Sun, 09 May 2021 21:33:30 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -67,6 +67,7 @@
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics.sportybet.com
+0.0.0.0 analytics.synedat.com
 0.0.0.0 analytics.teespring.com
 0.0.0.0 analytics.thegedsection.com
 0.0.0.0 analytics.thenest.com
@@ -359,7 +360,6 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 merlin.abc.go.com
 0.0.0.0 metric.inetcore.com
-0.0.0.0 metrics.apartments.com
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.cbslocal.com
 0.0.0.0 metrics.extremetech.com
@@ -403,7 +403,6 @@
 0.0.0.0 nmtracking.netflix.com
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
-0.0.0.0 oimg.mobile.cnbc.com
 0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 on.msnbc.com
 0.0.0.0 oops.redditmedia.com
@@ -431,7 +430,6 @@
 0.0.0.0 pings.blip.tv
 0.0.0.0 pipeline.realtime.active.com
 0.0.0.0 pistyll.bleacherreport.com
-0.0.0.0 pix.eads.com
 0.0.0.0 pix.gfycat.com
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 pixel-static.spotify.com
@@ -490,7 +488,6 @@
 0.0.0.0 sa135.wsbtv.com
 0.0.0.0 sana.newsinc.com.s3.amazonaws.com
 0.0.0.0 sayac.hurriyettv.com
-0.0.0.0 sc.cc.com
 0.0.0.0 scluster3.cliphunter.com
 0.0.0.0 scout.lexisnexis.com
 0.0.0.0 scout.rollcall.com
@@ -504,7 +501,6 @@
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.delta.com
-0.0.0.0 somniture.theglobeandmail.com
 0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
@@ -650,7 +646,6 @@
 0.0.0.0 stats.hfet.org
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
-0.0.0.0 stats.nctm.org
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
