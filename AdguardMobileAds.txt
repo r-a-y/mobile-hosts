@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 27 Apr 2021 00:34:24 +0100
+# Last converted - Sun, 09 May 2021 21:33:29 +0100
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -82,6 +82,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 cads.scalemonk.com
+0.0.0.0 adspot.tfgapps.com
+0.0.0.0 analytics.scalemonk.com
 0.0.0.0 vrizead.com
 0.0.0.0 adpopcorn.com
 0.0.0.0 pangle.io
