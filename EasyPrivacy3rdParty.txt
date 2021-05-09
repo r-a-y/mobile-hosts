@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 04 May 2021 00:41:11 +0100
+# Last converted - Sun, 09 May 2021 21:33:31 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -99,6 +99,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.prezly.com
 0.0.0.0 analytics.prod.aws.ecnext.net
+0.0.0.0 analytics.qualityunit.com
 0.0.0.0 analytics.radiatemedia.com
 0.0.0.0 analytics.recruitics.com
 0.0.0.0 analytics.reyrey.net
@@ -121,6 +122,7 @@
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tribeca.vidavee.com
 0.0.0.0 analytics.unibuddy.co
+0.0.0.0 analytics.unilogcorp.com
 0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
 0.0.0.0 analytics.vendemore.com
@@ -129,6 +131,7 @@
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.witglobal.net
 0.0.0.0 analytics.worldtable.co
+0.0.0.0 analytics.yext-static.com
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.ziftsolutions.com
@@ -236,6 +239,7 @@
 0.0.0.0 client.tahono.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 cltgtstor001.blob.core.windows.net
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cod.bitrec.com
@@ -531,6 +535,7 @@
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 ipapi.tmbi.com
+0.0.0.0 iq.sixaxisllc.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 itracking.fccinteractive.com
 0.0.0.0 jac.yahoosandbox.com
@@ -606,7 +611,6 @@
 0.0.0.0 measure.refinery89.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
-0.0.0.0 metric.nwsource.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
@@ -654,6 +658,7 @@
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
+0.0.0.0 pap.qualityunit.com
 0.0.0.0 partner.cynapse.com
 0.0.0.0 partners.etoro.com
 0.0.0.0 pdc.dmleonyc.com
@@ -896,7 +901,6 @@
 0.0.0.0 tags.refinery89.com
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
-0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
@@ -963,6 +967,7 @@
 0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.keywordintent.com
 0.0.0.0 tracker.marinsoftware.com
+0.0.0.0 tracker.mrpfd.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.softcube.com
 0.0.0.0 tracker.timesgroup.com
