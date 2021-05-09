@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 04 May 2021 00:41:11 +0100
+# Last converted - Sun, 09 May 2021 21:33:30 +0100
 #
 
 0.0.0.0 mcs.snssdk.com
@@ -12,6 +12,11 @@
 0.0.0.0 log.snssdk.com
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
+0.0.0.0 logger.co.kr
+0.0.0.0 t.afi-b.com
+0.0.0.0 newrrb.bid
+0.0.0.0 plavxml.com
+0.0.0.0 socketviking.net
 0.0.0.0 analytics.omniscientai.com
 0.0.0.0 omnitag.omniscientai.com
 0.0.0.0 backend.turtlemobile.com.tw
@@ -65,6 +70,7 @@
 0.0.0.0 shopback.net
 0.0.0.0 shopconvert.com.br
 0.0.0.0 neemu.com
+0.0.0.0 ping.staticmoly.me
 0.0.0.0 prod-sb-appanalytics-us1.servicebus.windows.net
 0.0.0.0 mci1.co.kr
 0.0.0.0 analytics.sitewit.com
@@ -327,6 +333,7 @@
 0.0.0.0 omappapi.com
 0.0.0.0 pulsar.xlisting.jp
 0.0.0.0 stats-stats.in.net
+0.0.0.0 lt.logly.co.jp
 0.0.0.0 l.logly.co.jp
 0.0.0.0 tagmanager.alright.network
 0.0.0.0 statad.ru
@@ -4174,6 +4181,13 @@
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 log.shufoo.net
+0.0.0.0 logcollect.totalcms.ncloud.or.kr
+0.0.0.0 discovery.newspic.kr
+0.0.0.0 discovery-script.newspic.kr
+0.0.0.0 rake.11st.co.kr
+0.0.0.0 log.ajunews.com
+0.0.0.0 dsb.yahoo.co.jp
 0.0.0.0 pac.thetimes.co.uk
 0.0.0.0 a-stat.appmifile.com
 0.0.0.0 log.g-enews.com
@@ -4301,7 +4315,6 @@
 0.0.0.0 counter.web.money
 0.0.0.0 stat.videonow.ru
 0.0.0.0 insight.bellmetric.net
-0.0.0.0 t.afi-b.com
 0.0.0.0 tag.cribnotes.jp
 0.0.0.0 metrics.news.com.au
 0.0.0.0 clientlog.midomi.com
@@ -14419,6 +14432,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 usertrack.appcpi.net
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 collect.serious.li
 0.0.0.0 analytics.jodelapis.com
