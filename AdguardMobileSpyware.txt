@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sun, 09 May 2021 21:33:29 +0100
+# Last converted - Fri, 14 May 2021 22:56:37 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -321,6 +321,8 @@
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 crasheye.cn
 0.0.0.0 crwdcntrl.net
+0.0.0.0 data.mistat.india.xiaomi.com
+0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 demdex.net
