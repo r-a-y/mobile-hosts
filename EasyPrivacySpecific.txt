@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 09 May 2021 21:33:30 +0100
+# Last converted - Fri, 14 May 2021 22:56:39 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -31,6 +31,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 analytic.imlive.com
+0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.amplitude.com
 0.0.0.0 analytics.archive.org
@@ -39,6 +40,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.eip.telegraph.co.uk
+0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
@@ -451,6 +453,7 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 presentationtracking.netflix.com
+0.0.0.0 privacy-api.9gag.com
 0.0.0.0 proac.nationwide.com
 0.0.0.0 production.airswap.io
 0.0.0.0 proxypage.msn.com
@@ -465,6 +468,7 @@
 0.0.0.0 redeye.williamhill.com
 0.0.0.0 rel.msn.com
 0.0.0.0 relatable.inquisitr.com
+0.0.0.0 relay.fiverr.com
 0.0.0.0 report-zt.allmusic.com
 0.0.0.0 reporting.flymonarch.com
 0.0.0.0 reporting.theonion.com
@@ -653,6 +657,7 @@
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.piaggio.com
 0.0.0.0 stats.propublica.org
+0.0.0.0 stats.pstream.net
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.searchftps.org
 0.0.0.0 stats.shoppydoo.com
