@@ -1,13 +1,14 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 14 May 2021 22:56:37 +0100
+# Last converted - Thu, 20 May 2021 19:59:44 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
+0.0.0.0 traces.sr.roku.com
 0.0.0.0 analytics.kidoz.net
 0.0.0.0 track.tenjin.com
 0.0.0.0 tracker.mtrtb.com
@@ -46,6 +47,7 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 telemetry.voxeet.com
 0.0.0.0 usertrack.appcpi.net
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 collect.serious.li
