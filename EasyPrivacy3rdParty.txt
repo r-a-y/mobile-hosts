@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 14 May 2021 22:56:40 +0100
+# Last converted - Thu, 20 May 2021 19:59:46 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -30,6 +30,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 analyse.bcovery.com
+0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -52,6 +53,7 @@
 0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.brandcrumb.com
 0.0.0.0 analytics.carambo.la
+0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clickpathmedia.com
 0.0.0.0 analytics.codigo.se
@@ -593,6 +595,7 @@
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
+0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.vmixcore.com
@@ -715,6 +718,7 @@
 0.0.0.0 prd-collector-auth.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prism.app-us1.com
+0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 production-mcs.lvp.llnw.net
 0.0.0.0 production.mcs.delve.cust.lldns.net
