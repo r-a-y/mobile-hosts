@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 14 May 2021 22:56:39 +0100
+# Last converted - Thu, 20 May 2021 19:59:46 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -38,6 +38,7 @@
 0.0.0.0 analytics.bloomberg.com
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
+0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
@@ -176,6 +177,7 @@
 0.0.0.0 count.prx.org
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.entertainmentwise.com
+0.0.0.0 counter.plos.org
 0.0.0.0 counter.sina.com.cn
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.zerohedge.com
@@ -243,6 +245,7 @@
 0.0.0.0 evisit.exeter.ac.uk
 0.0.0.0 expbl2ro.xbox.com
 0.0.0.0 expdb2.msn.com
+0.0.0.0 f.schemeflood.com
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 fathom.pixeldrain.com
@@ -656,6 +659,7 @@
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.piaggio.com
+0.0.0.0 stats.podcastwebsites.com
 0.0.0.0 stats.propublica.org
 0.0.0.0 stats.pstream.net
 0.0.0.0 stats.searchftps.net
