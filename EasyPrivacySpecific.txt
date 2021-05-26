@@ -1,12 +1,13 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 20 May 2021 19:59:46 +0100
+# Last converted - Wed, 26 May 2021 01:26:02 +0100
 #
 
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 ab-machine.forbes.com
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 activity.frequency.com
 0.0.0.0 adc-js.nine.com.au
@@ -63,6 +64,7 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.posttv.com
 0.0.0.0 analytics.productreview.com.au
+0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.schoolwires.com
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.sketchup.com
@@ -131,6 +133,7 @@
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
 0.0.0.0 chkpt.zdnet.com
+0.0.0.0 cl.canva.com
 0.0.0.0 cl.expedia.com
 0.0.0.0 clancy.spiceworks.com
 0.0.0.0 clc.stackoverflow.com
@@ -335,6 +338,7 @@
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
+0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.go.com
 0.0.0.0 log.hypebeast.com
@@ -426,6 +430,7 @@
 0.0.0.0 pclick.yahoo.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performances.bestofmedia.com
+0.0.0.0 pexa.realestate.com.au
 0.0.0.0 pf.newegg.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 pi.feedsportal.com
@@ -850,6 +855,7 @@
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 substation.confection.io
 0.0.0.0 dns.whatleaks.com
 0.0.0.0 p0f.whatleaks.com
 0.0.0.0 gj.mmstat.com
