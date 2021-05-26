@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 20 May 2021 19:59:46 +0100
+# Last converted - Wed, 26 May 2021 01:26:02 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -17,11 +17,11 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 ads.bridgetrack.com
-0.0.0.0 aevents.izooto.com
 0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 affiliates.purevpn.com
+0.0.0.0 air.audioeye.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aktion.esprit-club.com
 0.0.0.0 alexandria.marfeelcdn.com
@@ -129,6 +129,7 @@
 0.0.0.0 analytics.unilogcorp.com
 0.0.0.0 analytics.urx.io
 0.0.0.0 analytics.vanillaforums.com
+0.0.0.0 analytics.vdo.ai
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.websolute.it
@@ -165,6 +166,7 @@
 0.0.0.0 b.bedop.com
 0.0.0.0 bab.frb.io
 0.0.0.0 backstage.funnelenvy.com
+0.0.0.0 bacon.getcarro.com
 0.0.0.0 bacon.section.io
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
@@ -359,6 +361,7 @@
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
+0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
@@ -390,6 +393,7 @@
 0.0.0.0 dadi.technology
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data.alexa.com
+0.0.0.0 data.beop.io
 0.0.0.0 data.circulate.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.imakenews.com
@@ -452,7 +456,6 @@
 0.0.0.0 events.audiate.me
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
-0.0.0.0 events.izooto.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.matterport.com
@@ -467,7 +470,6 @@
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evt.collarity.com
-0.0.0.0 evt.izooto.com
 0.0.0.0 exacttarget.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 fcmatch.google.com
@@ -717,6 +719,7 @@
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd-collector-auth.playbuzz.com
 0.0.0.0 prd-collector-platform.ex.co
+0.0.0.0 prf.vagnt.com
 0.0.0.0 prism.app-us1.com
 0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com
@@ -770,6 +773,7 @@
 0.0.0.0 rum.vhwrz.net
 0.0.0.0 rva.outbrain.com
 0.0.0.0 s-vop.sundaysky.com
+0.0.0.0 s.beop.io
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.sniphub.com
