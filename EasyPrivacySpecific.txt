@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 26 May 2021 01:26:02 +0100
+# Last converted - Mon, 31 May 2021 20:24:00 +0100
 #
 
 0.0.0.0 aa.avvo.com
@@ -483,6 +483,7 @@
 0.0.0.0 request.issuu.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 revsci.tvguide.com
+0.0.0.0 rfk.biglots.com
 0.0.0.0 rok.com.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
@@ -852,6 +853,7 @@
 0.0.0.0 xstats.evoload.io
 0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 ynuf.alibaba.com
+0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
