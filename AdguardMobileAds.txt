@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 31 May 2021 20:23:58 +0100
+# Last converted - Mon, 07 Jun 2021 21:17:38 +0100
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -55,6 +55,7 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 appodeal.com
+0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 hybrid.ai
@@ -83,6 +84,10 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 adcr.naver.com
+0.0.0.0 pr.comet.yahoo.com
+0.0.0.0 tapjoy.com
+0.0.0.0 tapjoy.net
+0.0.0.0 tradplusad.com
 0.0.0.0 ad-channel.wikawika.xyz
 0.0.0.0 cads.scalemonk.com
 0.0.0.0 adspot.tfgapps.com
