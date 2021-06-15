@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 07 Jun 2021 21:17:40 +0100
+# Last converted - Tue, 15 Jun 2021 04:04:44 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -207,7 +207,6 @@
 0.0.0.0 btn.clickability.com
 0.0.0.0 btrace.video.qq.com
 0.0.0.0 business.sharedcount.com
-0.0.0.0 c.cloudwp.io
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.live.com
 0.0.0.0 c.mgid.com
@@ -458,6 +457,7 @@
 0.0.0.0 events.audiate.me
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
+0.0.0.0 events.jokerly.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.matterport.com
@@ -569,7 +569,6 @@
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
-0.0.0.0 licensing.bitmovin.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 link.cosmopolitan.com
 0.0.0.0 link.informer.com
@@ -717,7 +716,9 @@
 0.0.0.0 pixels.afcdn.com
 0.0.0.0 platform.communicatorcorp.com
 0.0.0.0 platform.iteratehq.com
+0.0.0.0 plausibleio.workers.dev
 0.0.0.0 pmetrics.performancing.com
+0.0.0.0 porpoise.azettl.net
 0.0.0.0 postpixel.vindicosuite.com
 0.0.0.0 powersearch.us.com
 0.0.0.0 pr.blogflux.com
@@ -733,6 +734,7 @@
 0.0.0.0 production.mcs.delve.cust.lldns.net
 0.0.0.0 projop.dnsalias.com
 0.0.0.0 providence.voxmedia.com
+0.0.0.0 proxy.dzeio.com
 0.0.0.0 prstats.postrelease.com
 0.0.0.0 pt.crossmediaservices.com
 0.0.0.0 pt.ispot.tv
@@ -793,6 +795,7 @@
 0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 seg.sharethis.com
 0.0.0.0 segments.adap.tv
+0.0.0.0 sentry.arc.io
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 shared.65twenty.com
@@ -827,7 +830,6 @@
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.clickability.com
-0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.edicy.com
@@ -1181,6 +1183,7 @@
 0.0.0.0 shopperapproved.com
 0.0.0.0 siteintercept.allegiancetech.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 smart-widget-assets.ekomiapps.de
 0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 verify.authorize.net
 0.0.0.0 verify.safesigned.com
