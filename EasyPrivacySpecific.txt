@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 15 Jun 2021 04:04:44 +0100
+# Last converted - Mon, 28 Jun 2021 22:20:52 +0100
 #
 
 0.0.0.0 a.electerious.com
@@ -248,6 +248,7 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.santander.co.uk
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.uber.com
 0.0.0.0 evisit.exeter.ac.uk
@@ -349,6 +350,7 @@
 0.0.0.0 localads-statistics.maps.me
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
+0.0.0.0 log.genyt.net
 0.0.0.0 log.go.com
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
