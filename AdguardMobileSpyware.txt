@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 28 Jun 2021 22:20:49 +0100
+# Last converted - Mon, 05 Jul 2021 20:18:03 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -46,6 +46,17 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 costco-adbutler.com
+0.0.0.0 adbutler.costco.com
+0.0.0.0 wompanalytics.azurewebsites.net
+0.0.0.0 analytics.seekxr.com
+0.0.0.0 analytics.robinhood.com
+0.0.0.0 tracking-config-service.glority.com
+0.0.0.0 tracking-service.glority.com
+0.0.0.0 analytics-ingestion.production-public.tubi.io
+0.0.0.0 pingtas.qq.com
+0.0.0.0 alogus.umeng.com
+0.0.0.0 errlogos.umeng.com
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 logupdate.avlyun.sec.miui.com
 0.0.0.0 log.avlyun.sec.intl.miui.com
