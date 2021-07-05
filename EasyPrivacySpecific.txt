@@ -1,11 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Jun 2021 22:20:52 +0100
+# Last converted - Mon, 05 Jul 2021 20:18:06 +0100
 #
 
 0.0.0.0 a.electerious.com
-0.0.0.0 a5xo-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -421,6 +420,7 @@
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 nmtracking.netflix.com
+0.0.0.0 noodle.backmarket.io
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
 0.0.0.0 omniture.theglobeandmail.com
@@ -872,6 +872,7 @@
 0.0.0.0 ws.yellowpages.ca
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
+0.0.0.0 xoxo5-eng.spankbang.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 xtrack.capetown.gov.za
 0.0.0.0 ynuf.alibaba.com
