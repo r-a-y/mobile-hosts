@@ -1,9 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 05 Jul 2021 20:18:06 +0100
+# Last converted - Mon, 12 Jul 2021 20:44:51 +0100
 #
 
+0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -20,7 +21,6 @@
 0.0.0.0 affiliate.resellerclub.com
 0.0.0.0 affiliates.genealogybank.com
 0.0.0.0 affiliates.londonmarketing.com
-0.0.0.0 affiliates.mozy.com
 0.0.0.0 affiliates.myfax.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
@@ -59,7 +59,6 @@
 0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.mindjolt.com
 0.0.0.0 analytics.mouthshut.com
-0.0.0.0 analytics.ngfiles.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
 0.0.0.0 analytics.plex.tv
@@ -122,6 +121,7 @@
 0.0.0.0 bench.uc.cn
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 bi.medscape.com
+0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 bit.ehow.com
 0.0.0.0 bn.adultempire.com
 0.0.0.0 boomerang.dell.com
@@ -135,7 +135,6 @@
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cdnstats.tube8.com
 0.0.0.0 cem.hotelsapi.io
-0.0.0.0 chkpt.zdnet.com
 0.0.0.0 cl.canva.com
 0.0.0.0 cl.expedia.com
 0.0.0.0 clancy.spiceworks.com
@@ -163,7 +162,6 @@
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 collector-cdn.github.com
-0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
@@ -203,7 +201,6 @@
 0.0.0.0 dc.banggood.com
 0.0.0.0 dccss.banggood.com
 0.0.0.0 dd.lendup.com
-0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.oztam.com.au
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 desa.fkapi.net
@@ -258,7 +255,6 @@
 0.0.0.0 f.staticlp.com
 0.0.0.0 fast.forbes.com
 0.0.0.0 fathom.app.silverbeak.com
-0.0.0.0 fathom.pixeldrain.com
 0.0.0.0 fathom.status.im
 0.0.0.0 fathom.tdvm.net
 0.0.0.0 fdt.kraken.com
@@ -296,7 +292,6 @@
 0.0.0.0 geoip.gulflive.com
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
-0.0.0.0 geoip.inquirer.net
 0.0.0.0 geoip.lehighvalleylive.com
 0.0.0.0 geoip.masslive.com
 0.0.0.0 geoip.mlive.com
@@ -423,7 +418,6 @@
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 odin.mic.com
 0.0.0.0 oimg.m.cnbc.com
-0.0.0.0 omniture.theglobeandmail.com
 0.0.0.0 on.msnbc.com
 0.0.0.0 oops.redditmedia.com
 0.0.0.0 open.mkt1397.com
@@ -501,6 +495,7 @@
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rta.dailymail.co.uk
+0.0.0.0 rta2.inews.co.uk
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rtn.thestar.com
@@ -665,7 +660,6 @@
 0.0.0.0 stats.cheddar.com
 0.0.0.0 stats.christianpost.com
 0.0.0.0 stats.clear-media.com
-0.0.0.0 stats.comovee.com
 0.0.0.0 stats.digg.com
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.extremetech.com
@@ -735,7 +729,6 @@
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tags.msnbc.com
 0.0.0.0 tags.news.com.au
-0.0.0.0 tagx.nytimes.com
 0.0.0.0 target.nejm.org
 0.0.0.0 tck.bangbros.com
 0.0.0.0 ted.dailymail.co.uk
@@ -843,7 +836,6 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 up.boston.com
-0.0.0.0 up.nytimes.com
 0.0.0.0 uptpro.homestead.com
 0.0.0.0 urs.metacritic.com
 0.0.0.0 user-metrics.onthemarket.com
