@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 05 Jul 2021 20:18:03 +0100
+# Last converted - Mon, 12 Jul 2021 20:44:49 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -46,6 +46,13 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 events.textme-app.com
+0.0.0.0 stocks-analytics-events.apple.com
+0.0.0.0 stocks-analytics-events.news.apple-dns.net
+0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 books-analytics-events.news.apple-dns.net
+0.0.0.0 us04logfiles.zoom.us
+0.0.0.0 us04logfiles-va.zoom.us
 0.0.0.0 costco-adbutler.com
 0.0.0.0 adbutler.costco.com
 0.0.0.0 wompanalytics.azurewebsites.net
