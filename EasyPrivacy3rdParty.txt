@@ -1,27 +1,21 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 19 Jul 2021 10:23:12 +0100
+# Last converted - Mon, 26 Jul 2021 19:31:00 +0100
 #
 
 0.0.0.0 100widgets.com
+0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 51network.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
-0.0.0.0 abc.hearst.co.uk
-0.0.0.0 acount.alley.ws
-0.0.0.0 activetracker.activehotels.com
-0.0.0.0 activities.niagara.comedycentral.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad.aloodo.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
-0.0.0.0 ads.bridgetrack.com
-0.0.0.0 affiliate.iamplify.com
 0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
-0.0.0.0 affiliates.purevpn.com
 0.0.0.0 air.audioeye.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aktion.esprit-club.com
@@ -136,6 +130,7 @@
 0.0.0.0 analytics.wildtangent.com
 0.0.0.0 analytics.witglobal.net
 0.0.0.0 analytics.worldtable.co
+0.0.0.0 analytics.yahoo.com
 0.0.0.0 analytics.yext-static.com
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
@@ -403,6 +398,7 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.imakenews.com
 0.0.0.0 data.minute.ly
+0.0.0.0 data.nexxt.com
 0.0.0.0 data.queryly.com
 0.0.0.0 data.studybreakmedia.com
 0.0.0.0 data.woosmap.com
@@ -464,6 +460,7 @@
 0.0.0.0 events.jokerly.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
+0.0.0.0 events.mapbox.com
 0.0.0.0 events.matterport.com
 0.0.0.0 events.medio.com
 0.0.0.0 events.ocdn.eu
@@ -476,6 +473,7 @@
 0.0.0.0 events.yourcx.io
 0.0.0.0 eventtracker.videostrip.com
 0.0.0.0 evt.collarity.com
+0.0.0.0 evt.houzz.com
 0.0.0.0 exacttarget.com
 0.0.0.0 experience.contextly.com
 0.0.0.0 f-log-at.grammarly.io
@@ -494,6 +492,7 @@
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 g.delivery.net
+0.0.0.0 g.msn.com
 0.0.0.0 g2insights-cdn.azureedge.net
 0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 ga.kvideo.io
@@ -541,6 +540,7 @@
 0.0.0.0 imprvdosrv.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
+0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 insight.mintel.com
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insights.algolia.io
@@ -572,6 +572,7 @@
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
 0.0.0.0 lciapi.ninthdecimal.com
+0.0.0.0 lcs.naver.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
 0.0.0.0 lift.acquia.com
@@ -586,6 +587,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
+0.0.0.0 log.go.com
 0.0.0.0 log.invodo.com
 0.0.0.0 log.kibboko.com
 0.0.0.0 log.kukuplay.com
@@ -605,7 +607,6 @@
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.datadoghq.com
 0.0.0.0 logs.datadoghq.eu
-0.0.0.0 logs.psm.wmcdp.io
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.viadata.store
@@ -710,6 +711,7 @@
 0.0.0.0 pixel.roymorgan.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.safe-installation.com
+0.0.0.0 pixel.snapsmedia.io
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.tree.com
@@ -762,6 +764,7 @@
 0.0.0.0 recs.atgsvcs.com
 0.0.0.0 refer.ccbill.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports-api.sqreen.io
@@ -769,6 +772,7 @@
 0.0.0.0 res.rbl.ms
 0.0.0.0 researchintel.com
 0.0.0.0 response.pure360.com
+0.0.0.0 rest.wildstar-online.com
 0.0.0.0 rich-agent.s3.amazonaws.com
 0.0.0.0 rlinks.one.in
 0.0.0.0 rs.sinajs.cn
@@ -895,6 +899,7 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
+0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.powerreviews.com
@@ -928,7 +933,6 @@
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
-0.0.0.0 telemetry.api.wmcdp.io
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
