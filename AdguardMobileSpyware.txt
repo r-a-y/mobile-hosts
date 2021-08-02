@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 26 Jul 2021 19:30:58 +0100
+# Last converted - Mon, 02 Aug 2021 19:30:32 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -46,6 +46,17 @@
 0.0.0.0 track.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 analytics.redbubble.com
+0.0.0.0 stats-sg.ganymede.eu
+0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
+0.0.0.0 stats-proto.pandora.com
+0.0.0.0 collector.vhx.tv
+0.0.0.0 analytics-server.gimbal.com
+0.0.0.0 log-tb.sgsnssdk.com
+0.0.0.0 xlog.byteoversea.com
+0.0.0.0 gecko-sg.byteoversea.com
+0.0.0.0 ug-sg.byteoversea.com
+0.0.0.0 log.byteoversea.com
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-collect.dy-api.eu
@@ -295,7 +306,6 @@
 0.0.0.0 metrics.timewarnercable.com
 0.0.0.0 amptrack-dailymail-co-uk.cdn.ampproject.org
 0.0.0.0 metrics-cbslocal-com.cdn.ampproject.org
-0.0.0.0 counter.hdvb.info
 0.0.0.0 tracking-server-prod-1.zenmxapps.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 api.uca.cloud.unity3d.com
@@ -320,7 +330,6 @@
 0.0.0.0 alog.umeng.com
 0.0.0.0 alog.umengcloud.com
 0.0.0.0 amp-error-reporting.appspot.com
-0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.liftoff.io
 0.0.0.0 analytics.mobile.yandex.net
