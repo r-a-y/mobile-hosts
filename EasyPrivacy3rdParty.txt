@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 26 Jul 2021 19:31:00 +0100
+# Last converted - Mon, 02 Aug 2021 19:30:34 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -66,6 +66,7 @@
 0.0.0.0 analytics.facebook.com
 0.0.0.0 analytics.favcy.com
 0.0.0.0 analytics.foresee.com
+0.0.0.0 analytics.google.com
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.humanautomation.ai
@@ -439,6 +440,7 @@
 0.0.0.0 edge.bredg.com
 0.0.0.0 eel.transistor.fm
 0.0.0.0 epl.paypal-communication.com
+0.0.0.0 epnt.ebay.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 event-api.contactatonce.co.uk
 0.0.0.0 event-api.contactatonce.com.au
@@ -507,6 +509,7 @@
 0.0.0.0 geo.q5media.net
 0.0.0.0 geo.thehindu.com
 0.0.0.0 geobar.ziffdavisinternational.com
+0.0.0.0 geoip.cookieyes.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geoservice.curse.com
@@ -547,6 +550,7 @@
 0.0.0.0 insights.plista.com
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
+0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 ipapi.tmbi.com
@@ -672,6 +676,7 @@
 0.0.0.0 p.delivery.net
 0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.yotpo.com
+0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pagesense-collect.zoho.com
 0.0.0.0 pagesocket.glam.com
@@ -705,6 +710,7 @@
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel.fanbridge.com
 0.0.0.0 pixel.glimr.io
+0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.mintigo.com
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.newscred.com
@@ -816,6 +822,7 @@
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 speedtrap.shopdirect.com
+0.0.0.0 ssa.stepstone.com
 0.0.0.0 ssr.streamrail.net
 0.0.0.0 st.cdnco.us
 0.0.0.0 st.linkfire.com
@@ -916,6 +923,7 @@
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.elevaate.io
+0.0.0.0 tag.flagship.io
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
@@ -970,6 +978,7 @@
 0.0.0.0 track.qoof.com
 0.0.0.0 track.realtimeboard.com
 0.0.0.0 track.searchignite.com
+0.0.0.0 track.searchiq.co
 0.0.0.0 track.securedvisit.com
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
@@ -1145,11 +1154,14 @@
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 yandexadexchange.net
+0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
+0.0.0.0 nr-events.taboola.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 sync.taboola.com
 0.0.0.0 urc.taboolasyndication.com
+0.0.0.0 vidstat.taboola.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 mjca-yijws.global.ssl.fastly.net
