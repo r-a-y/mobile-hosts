@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 02 Aug 2021 19:30:34 +0100
+# Last converted - Mon, 09 Aug 2021 19:20:17 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -69,6 +69,7 @@
 0.0.0.0 c.ypcdn.com
 0.0.0.0 cl.canva.com
 0.0.0.0 clancy.spiceworks.com
+0.0.0.0 click.aliexpress.com
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.sinx.com
 0.0.0.0 click.udimg.com
@@ -95,9 +96,11 @@
 0.0.0.0 cpt.itv.com
 0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 crta.metro.co.uk
+0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.skk.moe
 0.0.0.0 data.younow.com
+0.0.0.0 dc.banggood.com
 0.0.0.0 dd.lendup.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 desa.fkapi.net
@@ -124,6 +127,7 @@
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
+0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.santander.co.uk
 0.0.0.0 events.turbosquid.com
@@ -176,6 +180,7 @@
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
 0.0.0.0 log.optimizely.com
+0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logg.kiwi.com
@@ -226,6 +231,7 @@
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
+0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 python.jacksellwood.com
 0.0.0.0 r.bbci.co.uk
@@ -243,7 +249,6 @@
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
-0.0.0.0 s.hoplon.pandora.com
 0.0.0.0 s.infogram.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 shopmetric.rediff.com
@@ -466,6 +471,7 @@
 0.0.0.0 cmp.huffingtonpost.fr
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
+0.0.0.0 cmp.tech426.com
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 commsvc.stern.de
@@ -501,6 +507,7 @@
 0.0.0.0 contentexchange.me
 0.0.0.0 contentspread.net
 0.0.0.0 cpx.to
+0.0.0.0 criteo.com
 0.0.0.0 crwdcntrl.net
 0.0.0.0 cxense.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
