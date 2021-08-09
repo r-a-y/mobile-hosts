@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 02 Aug 2021 19:30:32 +0100
+# Last converted - Mon, 09 Aug 2021 19:20:15 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -44,8 +44,21 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 track.appsflyer.com
+0.0.0.0 mtrace.qq.com
+0.0.0.0 sngmta.qq.com
+0.0.0.0 adstats.tencentmusic.com
+0.0.0.0 monitor.music.qq.com
+0.0.0.0 stat.y.qq.com
 0.0.0.0 relap.io
 0.0.0.0 adj.st
+0.0.0.0 qa-events-schema.viacom.tech
+0.0.0.0 dns-clientinfo.cbsivideo.com
+0.0.0.0 trace.qq.com
+0.0.0.0 events.tvtime.com
+0.0.0.0 smetrics.discover.com
+0.0.0.0 geico.com.ssl.sc.omtrdc.net
+0.0.0.0 sadobeanalytics.geico.com
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 analytics.redbubble.com
 0.0.0.0 stats-sg.ganymede.eu
 0.0.0.0 eventcollectorv2-1131000179.us-east-1.elb.amazonaws.com
