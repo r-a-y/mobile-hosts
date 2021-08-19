@@ -1,9 +1,10 @@
 # EasyPrivacyCNAME
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - Mon, 19 Jul 2021 10:23:12 +0100
+# Last converted - Thu, 19 Aug 2021 19:51:22 +0100
 #
 
+0.0.0.0 clickmail.stubhub.com
 0.0.0.0 a8.01cloud.jp
 0.0.0.0 a8.cyclemarket.jp
 0.0.0.0 a8.denwa-hikari.com
@@ -8728,7 +8729,6 @@
 0.0.0.0 click1.e.thechive.com
 0.0.0.0 click1.mail.paltalkpeople.com
 0.0.0.0 click2.email.ticketmaster.com
-0.0.0.0 clickmail.stubhub.com
 0.0.0.0 clicks-test.info.theiconic.com.au
 0.0.0.0 clicks.6thstreet.com
 0.0.0.0 clicks.burgerking.co.uk
