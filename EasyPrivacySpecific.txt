@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 16 Aug 2021 19:45:00 +0100
+# Last converted - Thu, 19 Aug 2021 19:51:21 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -34,6 +34,7 @@
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
+0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kraken.com
 0.0.0.0 analytics.mouthshut.com
@@ -200,7 +201,6 @@
 0.0.0.0 miao.baidu.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 monitor.channel4.com
-0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
@@ -229,6 +229,7 @@
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 plausible.nuqu.org
 0.0.0.0 player-telemetry.vimeo.com
+0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 pulsar.ebay.com
@@ -460,6 +461,7 @@
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 zap.dw-world.de
+0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 substation.confection.io
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
