@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 19 Aug 2021 19:51:21 +0100
+# Last converted - Mon, 23 Aug 2021 20:09:14 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -164,6 +164,7 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
 0.0.0.0 gurgle.pcmag.com
+0.0.0.0 hanaana.socialblade.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 indmetric.rediff.com
@@ -365,6 +366,7 @@
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.vulkanvegas.com
+0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.cardschat.com
 0.0.0.0 stats.cdngeek.com
 0.0.0.0 stats.clear-media.com
@@ -400,7 +402,6 @@
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
 0.0.0.0 t2.hulu.com
-0.0.0.0 t2.huluim.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.news.com.au
