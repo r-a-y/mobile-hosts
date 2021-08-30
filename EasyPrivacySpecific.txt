@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 23 Aug 2021 20:09:14 +0100
+# Last converted - Mon, 30 Aug 2021 22:14:47 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -498,7 +498,6 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sourcepoint.vice.com
-0.0.0.0 sourcepointcmp.bloomberg.com
 0.0.0.0 twch.20min.ch
 0.0.0.0 twus-mms.theweek.com
 0.0.0.0 cdn1.pebx.pl
