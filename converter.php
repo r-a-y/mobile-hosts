@@ -78,6 +78,14 @@ foreach ( $lists as $name => $list ) {
 		// @todo Perhaps skip $third-party, $image and $popup?
 		$filter = str_replace( array( '||', '^third-party', '^', '$third-party', ',third-party', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
 
+		/*
+		 * Workarounds. Groan.
+		 */
+		// EasyPrivacySpecific. See https://github.com/r-a-y/mobile-hosts/issues/17.
+		if ( 'soundcloud.com' === $filter ) {
+			continue;
+		}
+
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
 			continue;
