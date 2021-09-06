@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 30 Aug 2021 22:14:48 +0100
+# Last converted - Mon, 06 Sep 2021 01:32:26 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -139,7 +139,6 @@
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.ziftsolutions.com
-0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 ape-tagit.timeinc.net
@@ -214,7 +213,6 @@
 0.0.0.0 c.wen.ru
 0.0.0.0 c3metrics.medifast1.com
 0.0.0.0 cache2.delvenetworks.com
-0.0.0.0 cadreon.s3.amazonaws.com
 0.0.0.0 cahf4eed.mooo.com
 0.0.0.0 camel.headfarming.com
 0.0.0.0 canvas-ping.conduit-data.com
@@ -233,7 +231,6 @@
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
 0.0.0.0 chanalytics.merchantadvantage.com
-0.0.0.0 chartaca.com.s3.amazonaws.com
 0.0.0.0 check.ddos-guard.net
 0.0.0.0 check.deadlinefunnel.com
 0.0.0.0 cimage.adobe.com
@@ -241,12 +238,14 @@
 0.0.0.0 click.appinthestore.com
 0.0.0.0 click.rssfwd.com
 0.0.0.0 clicks.dealer.com
+0.0.0.0 clickstream.odysee.com
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.tahono.com
+0.0.0.0 cllctr.roistat.com
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cltgtstor001.blob.core.windows.net
@@ -311,7 +310,6 @@
 0.0.0.0 cts.vresp.com
 0.0.0.0 curated.fieldtest.cc
 0.0.0.0 cws.conviva.com
-0.0.0.0 cx.atdmt.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
 0.0.0.0 d10gj7yjsfriaj.cloudfront.net
@@ -371,7 +369,6 @@
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
-0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
@@ -419,6 +416,7 @@
 0.0.0.0 detect.ergebnis-dienst.de
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 diagnose.igstatic.com
+0.0.0.0 dig.ultimedia.com
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djibeacon.djns.com
@@ -456,6 +454,7 @@
 0.0.0.0 event-listener.air.tv
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
+0.0.0.0 event.instiengage.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
@@ -631,7 +630,6 @@
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 m.addthisedge.com
-0.0.0.0 magnify360-cdn.s3.amazonaws.com
 0.0.0.0 make.cohesionapps.com
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 mas.nth.ch
@@ -791,7 +789,6 @@
 0.0.0.0 researchintel.com
 0.0.0.0 response.pure360.com
 0.0.0.0 rest.wildstar-online.com
-0.0.0.0 rich-agent.s3.amazonaws.com
 0.0.0.0 rlinks.one.in
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rss.tmgrup.com.tr
@@ -801,6 +798,8 @@
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.conde.io
+0.0.0.0 rum.ingress.layer0.co
+0.0.0.0 rum.layer0.co
 0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
@@ -813,7 +812,6 @@
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.sniphub.com
 0.0.0.0 s.srvsynd.com
-0.0.0.0 s3-tracking.synthasite.net.s3.amazonaws.com
 0.0.0.0 sadv.dadapro.com
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scripts.psyma.com
@@ -827,7 +825,6 @@
 0.0.0.0 sftrack.searchforce.net
 0.0.0.0 shared.65twenty.com
 0.0.0.0 shopnetic.com
-0.0.0.0 sig.atdmt.com
 0.0.0.0 slidedeck.com
 0.0.0.0 smetrics.centurylink.com
 0.0.0.0 smrt.as
@@ -1129,7 +1126,6 @@
 0.0.0.0 wren.condenastdigital.com
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
-0.0.0.0 wstat.wibiya.com
 0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
