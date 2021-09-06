@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 06 Sep 2021 01:32:26 +0100
+# Last converted - Mon, 06 Sep 2021 19:02:12 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -198,6 +198,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 metrics.bangbros.com
+0.0.0.0 metrics.hackerrank.com
 0.0.0.0 metrics.spkt.io
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
@@ -360,6 +361,9 @@
 0.0.0.0 sp.zanesvilletimesrecorder.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 squirrel.ethanelientz.com
+0.0.0.0 squirrel.honeysqueeze.app
+0.0.0.0 squirrel.malaynahocker.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 stan.xing.com
@@ -409,6 +413,7 @@
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
