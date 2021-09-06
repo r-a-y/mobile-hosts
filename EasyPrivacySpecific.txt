@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 30 Aug 2021 22:14:47 +0100
+# Last converted - Mon, 06 Sep 2021 01:32:26 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -178,6 +178,7 @@
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
+0.0.0.0 log.ctrl.blog
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
@@ -257,7 +258,6 @@
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.delta.com
-0.0.0.0 soundcloud.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.azcentral.com
@@ -479,26 +479,16 @@
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 commsvc.stern.de
-0.0.0.0 consent.api.osano.com
-0.0.0.0 consent.inm.ie
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 fuse.forbes.com
-0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 h-bid.com
 0.0.0.0 isgprivacy.cbsi.com
-0.0.0.0 itpuk-mms.itpro.co.uk
-0.0.0.0 mms.blick.ch
-0.0.0.0 mms.gocomics.com
 0.0.0.0 mms.wwe.com
-0.0.0.0 orionis.techradar.com
-0.0.0.0 pcgamer-gb.pcgamer.com
 0.0.0.0 services.hmhost.co.uk
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
-0.0.0.0 sourcepoint.vice.com
-0.0.0.0 twch.20min.ch
 0.0.0.0 twus-mms.theweek.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
