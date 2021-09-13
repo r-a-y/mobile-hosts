@@ -67,6 +67,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Skip Adguard HTML filtering syntax.
+		if ( false !== strpos( $filter, '$$' ) ) {
+			continue;
+		}
+
 		// For $domain syntax, strip domain rules.
 		if ( false !== strpos( $filter, '$domain' ) && false === strpos( $filter, '@@' ) ) {
 			$filter = substr( $filter, 0, strpos( $filter, '$domain' ) );
