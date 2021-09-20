@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 13 Sep 2021 19:54:32 +0100
+# Last converted - Mon, 20 Sep 2021 19:00:19 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -51,8 +51,8 @@
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clickpathmedia.com
+0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.codigo.se
-0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cynapse.com
 0.0.0.0 analytics.datahc.com
@@ -195,6 +195,7 @@
 0.0.0.0 bizsolutions.strands.com
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bmrg.reflected.net
+0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 branch.io
 0.0.0.0 bs.yandex.ru
 0.0.0.0 c.imedia.cz
@@ -365,7 +366,10 @@
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
+0.0.0.0 d36u3psykfwy91.cloudfront.net
+0.0.0.0 d36upaw912d02q.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
+0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
@@ -376,6 +380,7 @@
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
+0.0.0.0 d3qfdthu9f51gu.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
 0.0.0.0 d3s7ggfq1s6jlj.cloudfront.net
@@ -408,6 +413,7 @@
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djibeacon.djns.com
@@ -491,6 +497,7 @@
 0.0.0.0 fs-client-logger.herokuapp.com
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
+0.0.0.0 futurehybrid.tech
 0.0.0.0 g.delivery.net
 0.0.0.0 g.msn.com
 0.0.0.0 g2insights-cdn.azureedge.net
@@ -621,11 +628,11 @@
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 m.addthisedge.com
-0.0.0.0 make.cohesionapps.com
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 mas.nth.ch
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 mcs.delvenetworks.com
@@ -633,6 +640,7 @@
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
 0.0.0.0 metrics-api.librato.com
+0.0.0.0 metrics-logger.spot.im
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
@@ -650,7 +658,6 @@
 0.0.0.0 mts.mansion.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mv.treehousei.com
-0.0.0.0 mx.technolutions.net
 0.0.0.0 myscoop-tracking.googlecode.com
 0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
@@ -702,6 +709,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pix.revjet.com
 0.0.0.0 pix.speedbit.com
+0.0.0.0 pix.spot.im
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.ampry.com
 0.0.0.0 pixel.blivenyc.com
@@ -774,6 +782,7 @@
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.ingress.layer0.co
 0.0.0.0 rum.layer0.co
+0.0.0.0 rum.minutemediaservices.com
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
@@ -795,7 +804,6 @@
 0.0.0.0 shared.65twenty.com
 0.0.0.0 shopnetic.com
 0.0.0.0 slidedeck.com
-0.0.0.0 smetrics.centurylink.com
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
@@ -817,6 +825,7 @@
 0.0.0.0 statistics.tattermedia.com
 0.0.0.0 statistics.wibiya.com
 0.0.0.0 statm.the-adult-company.com
+0.0.0.0 stats-bq.stylight.net
 0.0.0.0 stats-messages.gifs.com
 0.0.0.0 stats-newyork1.bloxcms.com
 0.0.0.0 stats.big-boards.com
@@ -933,12 +942,12 @@
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
+0.0.0.0 tr.datatrics.com
 0.0.0.0 tr.interlake.net
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.webantenna.info
 0.0.0.0 tr1.mailperformance.com
 0.0.0.0 traccoon.intellectsoft.net
-0.0.0.0 trace.qq.com
 0.0.0.0 track.99acres.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.atgstores.com
@@ -1001,6 +1010,7 @@
 0.0.0.0 tracking.americaneagle.com
 0.0.0.0 tracking.badgeville.com
 0.0.0.0 tracking.brandmentions.com
+0.0.0.0 tracking.buygoods.com
 0.0.0.0 tracking.cerdmann.com
 0.0.0.0 tracking.customerly.io
 0.0.0.0 tracking.drsfostersmith.com
