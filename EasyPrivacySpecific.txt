@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 13 Sep 2021 19:54:32 +0100
+# Last converted - Mon, 20 Sep 2021 19:00:19 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -109,7 +109,6 @@
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
-0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dumpster.cam4.com
@@ -212,6 +211,7 @@
 0.0.0.0 monitor.channel4.com
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 net.haier.com
+0.0.0.0 netu.wiztube.xyz
 0.0.0.0 nm.newegg.com
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 ophan.theguardian.com
@@ -236,7 +236,7 @@
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com
-0.0.0.0 plausible.nuqu.org
+0.0.0.0 plausible.omgapi.org
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
@@ -265,7 +265,6 @@
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
-0.0.0.0 smetrics.delta.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.azcentral.com
@@ -385,7 +384,6 @@
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.fs.com
 0.0.0.0 stats.ibtimes.co.in
-0.0.0.0 stats.nrcaknights.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.pstream.net
@@ -471,7 +469,7 @@
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
-0.0.0.0 xoxo6-eng.spankbang.com
+0.0.0.0 xoxo8-eng.spankbang.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 zap.dw-world.de
