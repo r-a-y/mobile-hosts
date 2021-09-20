@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 13 Sep 2021 19:57:29 +0100
+# Last converted - Mon, 20 Sep 2021 19:00:16 +0100
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -86,6 +86,9 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 adcr.naver.com
+0.0.0.0 an.facebook.com
+0.0.0.0 live.hyprmx.com
+0.0.0.0 static.hyprmx.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 isnssdk.com
 0.0.0.0 app.adjust.world
@@ -478,7 +481,6 @@
 0.0.0.0 ads.pinger.com
 0.0.0.0 ads.reward.rakuten.jp
 0.0.0.0 ads.taptapnetworks.com
-0.0.0.0 ads.tremorhub.com
 0.0.0.0 ads.xlxtra.com
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.youtube.com
@@ -730,7 +732,6 @@
 0.0.0.0 lgse.com
 0.0.0.0 liftdna.com
 0.0.0.0 ligatus.com
-0.0.0.0 live.hyprmx.com
 0.0.0.0 loopme.me
 0.0.0.0 luxadv.com
 0.0.0.0 luxup.ru
