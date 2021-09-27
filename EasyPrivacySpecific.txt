@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 20 Sep 2021 19:00:19 +0100
+# Last converted - Mon, 27 Sep 2021 19:54:38 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -51,6 +51,7 @@
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
+0.0.0.0 auth1-eng.spankbang.com
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bdt.123rf.com
@@ -469,7 +470,6 @@
 0.0.0.0 weblog.strawberrynet.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
-0.0.0.0 xoxo8-eng.spankbang.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 zap.dw-world.de
@@ -477,6 +477,7 @@
 0.0.0.0 substation.confection.io
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
+0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
