@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 27 Sep 2021 19:54:38 +0100
+# Last converted - Mon, 04 Oct 2021 20:49:48 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -51,7 +51,7 @@
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
-0.0.0.0 auth1-eng.spankbang.com
+0.0.0.0 auth3-eng.spankbang.com
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bdt.123rf.com
@@ -96,6 +96,7 @@
 0.0.0.0 collector.xhamster2.com
 0.0.0.0 colvk.viki.io
 0.0.0.0 confiant.msn.com
+0.0.0.0 contents2.00110.citi.com
 0.0.0.0 count.rin.ru
 0.0.0.0 cpt.itv.com
 0.0.0.0 crayfish.thingelstad.com
@@ -143,6 +144,7 @@
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 g.ign.com
 0.0.0.0 g.mashable.com
@@ -166,6 +168,7 @@
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
+0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 i.pokernews.com
@@ -394,6 +397,7 @@
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
+0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 t.9gag.com
 0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
