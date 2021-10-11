@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 04 Oct 2021 20:49:48 +0100
+# Last converted - Mon, 11 Oct 2021 20:58:20 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -51,7 +51,6 @@
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
-0.0.0.0 auth3-eng.spankbang.com
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bdt.123rf.com
@@ -177,6 +176,7 @@
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.pcworld.idg.com.au
+0.0.0.0 internal-ana.spankbang.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
@@ -496,6 +496,9 @@
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 commsvc.stern.de
 0.0.0.0 d.sourcepoint.capitalfm.com
+0.0.0.0 eurogamer-it.eurogamer.it
+0.0.0.0 eurogamer-pl.eurogamer.pl
+0.0.0.0 eurogamer-pt.eurogamer.pt
 0.0.0.0 fuse.forbes.com
 0.0.0.0 h-bid.com
 0.0.0.0 isgprivacy.cbsi.com
@@ -506,6 +509,7 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 twus-mms.theweek.com
+0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 de-mi-nis-ner2.info
 0.0.0.0 piti.bplaced.net
