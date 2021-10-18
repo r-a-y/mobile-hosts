@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 11 Oct 2021 20:58:20 +0100
+# Last converted - Mon, 18 Oct 2021 22:10:19 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -46,6 +46,7 @@
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bigcommerce.com
+0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.brandcrumb.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.chegg.com
@@ -196,6 +197,8 @@
 0.0.0.0 bmrg.reflected.net
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 branch.io
+0.0.0.0 browser.events.data.microsoft.com
+0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.live.com
@@ -518,6 +521,7 @@
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geoservice.curse.com
+0.0.0.0 gi-client-tracking.goodgamestudios.com
 0.0.0.0 gleam.io
 0.0.0.0 go.toutapp.com
 0.0.0.0 green-griffin-860.appspot.com
@@ -808,6 +812,7 @@
 0.0.0.0 st.linkfire.com
 0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
+0.0.0.0 stat.belonnanotservice.ga
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.mixi.media
@@ -826,6 +831,7 @@
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.clickability.com
+0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.edicy.com
@@ -1085,6 +1091,7 @@
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
 0.0.0.0 wco.crownpeak.com
+0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web1.51.la
 0.0.0.0 weblog.livesport.eu
 0.0.0.0 weblogger-dynamic-lb.playdom.com
