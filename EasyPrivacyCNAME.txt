@@ -1,10 +1,12 @@
 # EasyPrivacyCNAME
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - Mon, 27 Sep 2021 19:54:39 +0100
+# Last converted - Mon, 18 Oct 2021 22:10:19 +0100
 #
 
 0.0.0.0 clickmail.stubhub.com
+0.0.0.0 primate.dmarcdigests.com
+0.0.0.0 kick-lake.ga
 0.0.0.0 a8.01cloud.jp
 0.0.0.0 a8.cyclemarket.jp
 0.0.0.0 a8.denwa-hikari.com
