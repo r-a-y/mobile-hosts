@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 18 Oct 2021 22:10:19 +0100
+# Last converted - Mon, 25 Oct 2021 22:30:50 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -216,6 +216,7 @@
 0.0.0.0 caspionlog.appspot.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
+0.0.0.0 ccpa.psg.nexstardigital.net
 0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.usefathom.com
@@ -226,6 +227,7 @@
 0.0.0.0 chanalytics.merchantadvantage.com
 0.0.0.0 check.ddos-guard.net
 0.0.0.0 check.deadlinefunnel.com
+0.0.0.0 chicoryapp.com
 0.0.0.0 cimage.adobe.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 click.appinthestore.com
@@ -365,6 +367,7 @@
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 d2zjlj1vewrxcj.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
@@ -566,7 +569,6 @@
 0.0.0.0 irqs.ioam.de
 0.0.0.0 jas.indeednps.com
 0.0.0.0 javascriptcounter.appspot.com
-0.0.0.0 jelly.mdhv.io
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 js-agent.newrelic.com
@@ -831,7 +833,6 @@
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.clickability.com
-0.0.0.0 stats.cloudwp.io
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.edicy.com
@@ -1090,8 +1091,8 @@
 0.0.0.0 visit.geocities.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
+0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 wco.crownpeak.com
-0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web1.51.la
 0.0.0.0 weblog.livesport.eu
 0.0.0.0 weblogger-dynamic-lb.playdom.com
