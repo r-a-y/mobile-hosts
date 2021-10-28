@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 25 Oct 2021 22:30:50 +0100
+# Last converted - Fri, 29 Oct 2021 00:51:54 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -242,6 +242,7 @@
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 plausible.mangadex.org
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 prairiedog.hashnode.com
@@ -390,6 +391,7 @@
 0.0.0.0 stats.clear-media.com
 0.0.0.0 stats.dnaindia.com
 0.0.0.0 stats.fs.com
+0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
