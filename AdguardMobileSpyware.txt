@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 01 Nov 2021 22:09:18 +0000
+# Last converted - Mon, 08 Nov 2021 19:08:16 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -67,6 +67,23 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 t.castle.io
+0.0.0.0 bs.nakanohito.jp
+0.0.0.0 tag.karte.io
+0.0.0.0 alogsus.umeng.com
+0.0.0.0 log.pvpgang.com
+0.0.0.0 adash.man.aliyuncs.com
+0.0.0.0 beacon-api.aliyuncs.com
+0.0.0.0 crs-event.line.me
+0.0.0.0 crs-hometab-event.line.me
+0.0.0.0 munchkin.marketo.net
+0.0.0.0 tr.gunosy.com
+0.0.0.0 tr.line.me
+0.0.0.0 gd-stats.jpush.cn
+0.0.0.0 analytics.enjoymobiserver.com
+0.0.0.0 api.reproio.com
+0.0.0.0 b94.yahoo.co.jp
+0.0.0.0 api.smbeat.jp
 0.0.0.0 hibiki-track.logica.bz
 0.0.0.0 log.mmstat.com
 0.0.0.0 msg-intl.qy.net
