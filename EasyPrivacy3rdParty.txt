@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 01 Nov 2021 22:09:20 +0000
+# Last converted - Mon, 08 Nov 2021 19:08:18 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -60,6 +60,7 @@
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
+0.0.0.0 analytics.digitalpfizer.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
@@ -165,6 +166,7 @@
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 b-aws.aol.com
 0.0.0.0 b.bedop.com
+0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 bab.frb.io
 0.0.0.0 backstage.funnelenvy.com
 0.0.0.0 bacon.getcarro.com
@@ -247,6 +249,8 @@
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cod.bitrec.com
+0.0.0.0 collect-ap2.attraqt.io
+0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.iteam-dress.com
 0.0.0.0 collect.rewardstyle.com
@@ -649,6 +653,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.getvitals.io
+0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrix.emagister.com
@@ -763,6 +768,7 @@
 0.0.0.0 pxt.daz3d.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
+0.0.0.0 r.skimresources.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 refer.ccbill.com
@@ -906,11 +912,13 @@
 0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.signalayer.com
+0.0.0.0 t.skimresources.com
 0.0.0.0 t.smile.eu
 0.0.0.0 t.spot.im
 0.0.0.0 t2.t2b.click
 0.0.0.0 tag-manager.playbuzz.com
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.elevaate.io
