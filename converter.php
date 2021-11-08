@@ -68,7 +68,7 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Skip Adguard HTML filtering syntax.
-		if ( false !== strpos( $filter, '$$' ) ) {
+		if ( false !== strpos( $filter, '$$' ) || false !== strpos( $filter, '$@$' ) ) {
 			continue;
 		}
 
