@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 08 Nov 2021 19:08:16 +0000
+# Last converted - Mon, 15 Nov 2021 19:29:58 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -67,6 +67,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 measure.ic.tver.jp
+0.0.0.0 toblog.ctobsnssdk.com
+0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 t.castle.io
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 tag.karte.io
@@ -102,6 +105,10 @@
 0.0.0.0 mgs123.com
 0.0.0.0 metrics.sp0n.io
 0.0.0.0 online-metrix.imars.cloud
+0.0.0.0 adtracker.jpchd.veraxen.com
+0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
+0.0.0.0 adtracker.mkjigsaw.com
+0.0.0.0 stats.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 snowplow-collector.apartmentlist.io
 0.0.0.0 qa-events-schema.viacom.tech
 0.0.0.0 dns-clientinfo.cbsivideo.com
@@ -326,7 +333,6 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 collector-axa.cloud.ca.com
 0.0.0.0 track.adform.net
-0.0.0.0 analytics.ff.avast.com
 0.0.0.0 api.miui.security.xiaomi.com
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 sync.adotmob.com
