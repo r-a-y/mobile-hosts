@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 15 Nov 2021 19:30:01 +0000
+# Last converted - Mon, 22 Nov 2021 19:45:41 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -46,6 +46,7 @@
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.realestate.com.au
+0.0.0.0 analytics.send.cm
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synedat.com
 0.0.0.0 analytics.twitter.com
@@ -64,7 +65,6 @@
 0.0.0.0 beam.giraffe360.com
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 binocule21c.merriam-webster.com
-0.0.0.0 blue.abc27.com
 0.0.0.0 boomerang.dell.com
 0.0.0.0 browser.mi-img.com
 0.0.0.0 c.paypal.com
@@ -107,6 +107,7 @@
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
+0.0.0.0 d.getpocket.com
 0.0.0.0 d.skk.moe
 0.0.0.0 data.younow.com
 0.0.0.0 dc.banggood.com
@@ -118,6 +119,7 @@
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dumpster.cam4.com
+0.0.0.0 e377.thestar.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
@@ -126,12 +128,14 @@
 0.0.0.0 error-collector.ted.com
 0.0.0.0 error.fc2.com
 0.0.0.0 et.nytimes.com
+0.0.0.0 et.tidal.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 euclid.kuula.co
 0.0.0.0 event-api.reverb.com
 0.0.0.0 eventlog.jackpot.de
+0.0.0.0 events-service.coinbase.com
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
@@ -214,6 +218,7 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.hackerrank.com
+0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
@@ -239,6 +244,8 @@
 0.0.0.0 pixel.archive.is
 0.0.0.0 pixel.archive.ph
 0.0.0.0 pixel.archive.vn
+0.0.0.0 pixel.archivecaslytosk.onion
+0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
 0.0.0.0 pixel.convertize.io
 0.0.0.0 pixel.digitalspy.co.uk
 0.0.0.0 pixel.facebook.com
@@ -476,6 +483,7 @@
 0.0.0.0 urs.metacritic.com
 0.0.0.0 userfly.com
 0.0.0.0 usmetric.rediff.com
+0.0.0.0 views.arabnews.com
 0.0.0.0 visit.theglobeandmail.com
 0.0.0.0 visitors.sourcingmap.com
 0.0.0.0 vortex.hulu.com
@@ -520,7 +528,6 @@
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
-0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 twus-mms.theweek.com
 0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 cdn1.pebx.pl
