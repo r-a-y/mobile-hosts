@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 22 Nov 2021 19:45:41 +0000
+# Last converted - Mon, 29 Nov 2021 23:49:44 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -57,6 +57,7 @@
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bdt.123rf.com
+0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.shutterfly.com
 0.0.0.0 beacon.walmart.com
@@ -192,6 +193,7 @@
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
 0.0.0.0 isharemetric.rediff.com
+0.0.0.0 j927.statnews.com
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
@@ -201,6 +203,7 @@
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
+0.0.0.0 log.mgtv.com
 0.0.0.0 log.optimizely.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
