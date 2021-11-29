@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 22 Nov 2021 19:45:38 +0000
+# Last converted - Mon, 29 Nov 2021 23:49:41 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -20,6 +20,8 @@
 0.0.0.0 plbslog.umeng.com
 0.0.0.0 analysys.cn
 0.0.0.0 logs.supersonic.com
+0.0.0.0 ntracker-collector.naver.com
+0.0.0.0 ace.naver.com
 0.0.0.0 app-analytics-ru.huami.com
 0.0.0.0 metrics.spbtv.com
 0.0.0.0 android-stat.acestream.net
@@ -67,6 +69,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 statclick.nate.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 psi.lbesecapi.com
