@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 29 Nov 2021 23:49:41 +0000
+# Last converted - Mon, 06 Dec 2021 21:57:19 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -14,7 +14,6 @@
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 tracker.rqmob.com
-0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 analysis.polarisoffice.com
 0.0.0.0 fraudmetrix.cn
 0.0.0.0 plbslog.umeng.com
@@ -69,6 +68,12 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 uts-front.line-apps.com
+0.0.0.0 nelo2-col.linecorp.com
+0.0.0.0 msga.cupid.iqiyi.com
+0.0.0.0 ndct-data.video.iqiyi.com
+0.0.0.0 ibd-as-api.iq.com
+0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 statclick.nate.com
 0.0.0.0 aff-report.lbesecapi.com
 0.0.0.0 aff-policy.lbesecapi.com
@@ -118,6 +123,7 @@
 0.0.0.0 torimochi.line-apps.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 log-upload-eur.mihoyo.com
+0.0.0.0 log-upload.mihoyo.com
 0.0.0.0 log-upload-os.mihoyo.com
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 mgs123.com
