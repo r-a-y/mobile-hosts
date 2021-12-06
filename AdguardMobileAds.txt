@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 29 Nov 2021 23:49:41 +0000
+# Last converted - Mon, 06 Dec 2021 21:57:19 +0000
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -472,6 +472,7 @@
 0.0.0.0 adotube.com
 0.0.0.0 vm5apis.com
 0.0.0.0 adprotected.com
+0.0.0.0 adproxy.tf1.fr
 0.0.0.0 adpublisher.s3.amazonaws.com
 0.0.0.0 adquota.com
 0.0.0.0 ads.ad2iction.com
