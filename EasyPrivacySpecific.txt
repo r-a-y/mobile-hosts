@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 29 Nov 2021 23:49:44 +0000
+# Last converted - Mon, 06 Dec 2021 21:57:22 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -87,6 +87,7 @@
 0.0.0.0 cm-mms.coachmag.co.uk
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.nuvid.com
+0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 collect.alipay.com
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -134,6 +135,7 @@
 0.0.0.0 etx.indiatimes.com
 0.0.0.0 eu.groupondata.com
 0.0.0.0 euclid.kuula.co
+0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 event-api.reverb.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-service.coinbase.com
