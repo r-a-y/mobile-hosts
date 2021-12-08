@@ -1,9 +1,14 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 07 Dec 2021 19:42:41 +0000
+# Last converted - Wed, 08 Dec 2021 20:57:36 +0000
 #
 
+0.0.0.0 mmellwauqyajh.top
+0.0.0.0 trustiseverything.de
+0.0.0.0 donttbeevils.de
+0.0.0.0 check-update-today.com
+0.0.0.0 phoneapplicationlabs.top
 0.0.0.0 gloriagraceful.com
 0.0.0.0 cluttercallousstopped.com
 0.0.0.0 divorceseed.com
@@ -3669,6 +3674,7 @@
 0.0.0.0 1r8435gsqldr.com
 0.0.0.0 1re.re
 0.0.0.0 1redira.com
+0.0.0.0 1redirb.com
 0.0.0.0 1rx.io
 0.0.0.0 1rxntv.io
 0.0.0.0 1ts03.top
@@ -4303,6 +4309,7 @@
 0.0.0.0 adgxptnsiwxjx.com
 0.0.0.0 adhbkatqyzqd.com
 0.0.0.0 adhealers.com
+0.0.0.0 adhimunc.com
 0.0.0.0 adhoc4.net
 0.0.0.0 adieusyaktop.com
 0.0.0.0 adifficiente.top
@@ -7704,6 +7711,7 @@
 0.0.0.0 dwaterver.xyz
 0.0.0.0 dwepmhhyigfb.com
 0.0.0.0 dwetwdstom1020.com
+0.0.0.0 dwqxnsovyitvv.top
 0.0.0.0 dxpxlt.com
 0.0.0.0 dxrzzmhwdp.com
 0.0.0.0 dycej.com
@@ -9856,6 +9864,7 @@
 0.0.0.0 idsbaefm.com
 0.0.0.0 idswinpole.casa
 0.0.0.0 ieboohdfxdc.com
+0.0.0.0 iedqnfbq.top
 0.0.0.0 iendoo.com
 0.0.0.0 iesboughts.xyz
 0.0.0.0 ifjyo.com
@@ -10444,6 +10453,7 @@
 0.0.0.0 jupozbjmq.com
 0.0.0.0 juricts.xyz
 0.0.0.0 jurjgajux.xyz
+0.0.0.0 jurmus.com
 0.0.0.0 juroptyne.com
 0.0.0.0 juroudaw.com
 0.0.0.0 jursp.com
@@ -11103,6 +11113,7 @@
 0.0.0.0 lqw.me
 0.0.0.0 lsariz.com
 0.0.0.0 lsjne.com
+0.0.0.0 lspzhtvstux.com
 0.0.0.0 lsxdcdnrrco.com
 0.0.0.0 ltassrv.com.s3.amazonaws.com
 0.0.0.0 ltassrv.com
@@ -14339,6 +14350,7 @@
 0.0.0.0 rhfgjld.com
 0.0.0.0 rhinsk.com
 0.0.0.0 rhklutlt.com
+0.0.0.0 rholi.ru
 0.0.0.0 rhubarbauntiepreoccupy.com
 0.0.0.0 rhubarbsnagtip.com
 0.0.0.0 rhudsplm.com
@@ -15546,6 +15558,7 @@
 0.0.0.0 succeedscene.com
 0.0.0.0 successcompassion.com
 0.0.0.0 suchshame.com
+0.0.0.0 sucloe.com
 0.0.0.0 suctioneliminatecongestion.com
 0.0.0.0 suctorado-wrivate.icu
 0.0.0.0 suecubrearrange.com
@@ -16355,6 +16368,7 @@
 0.0.0.0 uhpdsplo.com
 0.0.0.0 uhsmmaq4l2n5.com
 0.0.0.0 uhxdsplo.com
+0.0.0.0 uhxjxgxgr.top
 0.0.0.0 uhzjdfpccxtne.com
 0.0.0.0 uieoogjarimcey.com
 0.0.0.0 uigruwtql.com
@@ -17277,6 +17291,7 @@
 0.0.0.0 wokfirsax.com
 0.0.0.0 wolvescuckooship.com
 0.0.0.0 wolvespermanent.com
+0.0.0.0 womanlimitless.com
 0.0.0.0 wonderfuladults.com
 0.0.0.0 wonderfullytumultbizarre.com
 0.0.0.0 wonderhsjnsd.com
@@ -20521,6 +20536,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tagcachestaticx.com
+0.0.0.0 tamgrt.com
 0.0.0.0 vm5.i7akpd1.xyz
 0.0.0.0 vizzit.se
 0.0.0.0 analytics.tiendaenoferta.com
@@ -24671,6 +24688,7 @@
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
 0.0.0.0 collection-endpoint-prod.herokuapp.com
 0.0.0.0 collection-endpoint-staging.herokuapp.com
+0.0.0.0 collector.xhwide1.com
 0.0.0.0 ut.gamersyde.com
 0.0.0.0 pcapp-data-collect.youku.com
 0.0.0.0 log.polarisoffice.com
@@ -26867,7 +26885,6 @@
 0.0.0.0 stat.ovh
 0.0.0.0 syteapi.com
 0.0.0.0 tagcachedataxrt.com
-0.0.0.0 tagcachestaticx.com
 0.0.0.0 tatpek.com
 0.0.0.0 the-ozone-project.com
 0.0.0.0 thefontzone.com
@@ -27492,7 +27509,6 @@
 0.0.0.0 tagdatax.com
 0.0.0.0 tagmngrs.com
 0.0.0.0 tagstaticx.com
-0.0.0.0 tamgrt.com
 0.0.0.0 tapad.app
 0.0.0.0 taplytics.com
 0.0.0.0 taskanalytics.com
@@ -27874,7 +27890,6 @@
 0.0.0.0 sushipool.com
 0.0.0.0 swiftmining.win
 0.0.0.0 tmmp.io
-0.0.0.0 trustiseverything.de
 0.0.0.0 trustmeiamapro.de
 0.0.0.0 turnsocial.com
 0.0.0.0 usa.cc
@@ -29570,6 +29585,7 @@
 0.0.0.0 tracker.esputnik.com
 0.0.0.0 f-emc.ngsp.gov.vn
 0.0.0.0 tracking.aita.gov.vn
+0.0.0.0 xfkkvjabbogciwl.top
 0.0.0.0 cameracaseira.com
 0.0.0.0 bloco.top
 0.0.0.0 fireadsone.com
@@ -32832,7 +32848,6 @@
 0.0.0.0 reytata.ru
 0.0.0.0 rg-be.ru
 0.0.0.0 rgitc.xyz
-0.0.0.0 rholi.ru
 0.0.0.0 richbanner.ru
 0.0.0.0 richthof.com
 0.0.0.0 riibl.com
@@ -36233,7 +36248,7 @@
 0.0.0.0 q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me
 0.0.0.0 v0h8c6kcd8wd9lzg2mtlo0gj7cju82latost2c8qjs2gj6yti8zhs5kltx7d.me
 0.0.0.0 wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
-0.0.0.0 0653216.com
+0.0.0.0 sudahj.com
 0.0.0.0 00-gov.cn
 0.0.0.0 000123456789.site
 0.0.0.0 0024aaaa.com
@@ -36247,6 +36262,7 @@
 0.0.0.0 0516bm.com
 0.0.0.0 0531kt.com
 0.0.0.0 0592weixin.com
+0.0.0.0 0653216.com
 0.0.0.0 06789.xyz
 0.0.0.0 0796gou.com
 0.0.0.0 0798ls.com
@@ -38325,7 +38341,6 @@
 0.0.0.0 5551895.com
 0.0.0.0 wofjhs.com
 0.0.0.0 xayah.date
-0.0.0.0 zjliloveyou.ixiunv.com
 0.0.0.0 003store.com
 0.0.0.0 1.01fy.cn
 0.0.0.0 1.07swz.com
@@ -39029,6 +39044,7 @@
 0.0.0.0 z1hihu.xmcimg.com
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zhihu.xmcimg.com
+0.0.0.0 zjliloveyou.ixiunv.com
 0.0.0.0 zk.91post.com
 0.0.0.0 zoom.zshu.net
 0.0.0.0 zuowen.hydcd.com
@@ -39079,21 +39095,17 @@
 0.0.0.0 ggtg8.com
 0.0.0.0 runkao.net
 0.0.0.0 stunninglover.com
-0.0.0.0 beixbw.cn
-0.0.0.0 blsenpg.cn
-0.0.0.0 skfqxkk.cn
-0.0.0.0 xsgkjsb.cn
-0.0.0.0 qusiwang.top
-0.0.0.0 gz5931-llm0.cn
-0.0.0.0 chinaok168.biz
-0.0.0.0 dvdsbee.cn
-0.0.0.0 benwtw.cn
-0.0.0.0 dohnxnn.cn
-0.0.0.0 zhonglutang.group
-0.0.0.0 adgtx.club
-0.0.0.0 jyzaw.cn
-0.0.0.0 maicv.cn
-0.0.0.0 ioomb.cn
+0.0.0.0 whyxqoc.cn
+0.0.0.0 bucojji.cn
+0.0.0.0 vsznvtt.cn
+0.0.0.0 beihzw.cn
+0.0.0.0 vytxocb.cn
+0.0.0.0 jovfwgr.cn
+0.0.0.0 ahqhhvg.cn
+0.0.0.0 jyzae.cn
+0.0.0.0 benwzw.cn
+0.0.0.0 kusol.club
+0.0.0.0 mpzls.cn
 0.0.0.0 000123456789.online
 0.0.0.0 000123456789.space
 0.0.0.0 01tn.cn
@@ -39324,6 +39336,7 @@
 0.0.0.0 adaog.com
 0.0.0.0 adddyy.com
 0.0.0.0 adfangxiang.com
+0.0.0.0 adgtx.club
 0.0.0.0 adhdsb.cn
 0.0.0.0 adrian.net.cn
 0.0.0.0 adtongji.xyz
@@ -39520,6 +39533,7 @@
 0.0.0.0 beihw.com
 0.0.0.0 beitd.com
 0.0.0.0 beiwm.com
+0.0.0.0 beixbw.cn
 0.0.0.0 beixcw.cn
 0.0.0.0 beizhoujt.cn
 0.0.0.0 beizkw.cn
@@ -39527,6 +39541,7 @@
 0.0.0.0 benfkw.cn
 0.0.0.0 bentengcn.com
 0.0.0.0 benwfw.cn
+0.0.0.0 benwtw.cn
 0.0.0.0 benybw.cn
 0.0.0.0 best-eye.cn
 0.0.0.0 better-better.com.cn
@@ -39578,6 +39593,7 @@
 0.0.0.0 blackbar.cn
 0.0.0.0 blcobmv.cn
 0.0.0.0 bljpk3.cn
+0.0.0.0 blsenpg.cn
 0.0.0.0 bmuju.com
 0.0.0.0 bnd-ybb.cn
 0.0.0.0 bndbddt.top
@@ -39686,6 +39702,7 @@
 0.0.0.0 chgdf.cn
 0.0.0.0 chinaairs.cn
 0.0.0.0 chinachooses.com
+0.0.0.0 chinaok168.biz
 0.0.0.0 chinaweian.com
 0.0.0.0 chinawms.cn
 0.0.0.0 chinaxingyin.com
@@ -39873,6 +39890,7 @@
 0.0.0.0 dnfkong.com
 0.0.0.0 dnjszp.cn
 0.0.0.0 dodolive.cn
+0.0.0.0 dohnxnn.cn
 0.0.0.0 dongdm.cn
 0.0.0.0 donghua.asia
 0.0.0.0 doujl.cn
@@ -39897,6 +39915,7 @@
 0.0.0.0 duofulai.vip
 0.0.0.0 duojixing.com
 0.0.0.0 duyousxtd.com
+0.0.0.0 dvdsbee.cn
 0.0.0.0 dvtxt.cn
 0.0.0.0 dvzk66.cn
 0.0.0.0 dwr0.cn
@@ -39986,6 +40005,7 @@
 0.0.0.0 gwmeinq.cn
 0.0.0.0 gwyvvjj.cn
 0.0.0.0 gywiqnmn.cn
+0.0.0.0 gz5931-llm0.cn
 0.0.0.0 gzgxbmh.cn
 0.0.0.0 gzz123.com
 0.0.0.0 haojun.info
@@ -40027,6 +40047,7 @@
 0.0.0.0 ilyjmpg.cn
 0.0.0.0 intell.work
 0.0.0.0 iodobo.xyz
+0.0.0.0 ioomb.cn
 0.0.0.0 iprpe.cn
 0.0.0.0 irzwlux.cn
 0.0.0.0 ivchui.cn
@@ -40056,6 +40077,7 @@
 0.0.0.0 jyigozm.cn
 0.0.0.0 jyrwen.cn
 0.0.0.0 jyzai.cn
+0.0.0.0 jyzaw.cn
 0.0.0.0 jzuyfp8.cn
 0.0.0.0 k7ab5n4.cn
 0.0.0.0 kanglaijd.cn
@@ -40104,6 +40126,7 @@
 0.0.0.0 m5xy0v.cn
 0.0.0.0 maclwangluokeji.cn
 0.0.0.0 maiaim.cn
+0.0.0.0 maicv.cn
 0.0.0.0 manggo.fun
 0.0.0.0 maoxilucai.cn
 0.0.0.0 mcix.cn
@@ -40190,6 +40213,7 @@
 0.0.0.0 qq163com.cn
 0.0.0.0 qqqmmm.top
 0.0.0.0 quqianlai.cn
+0.0.0.0 qusiwang.top
 0.0.0.0 qyjzleh.cn
 0.0.0.0 qzgs99.cn
 0.0.0.0 rcjww9.xyz
@@ -40222,6 +40246,7 @@
 0.0.0.0 siikzd1.cn
 0.0.0.0 simastudio.cn
 0.0.0.0 sjmmhhh.cn
+0.0.0.0 skfqxkk.cn
 0.0.0.0 smncden.cn
 0.0.0.0 soulshape.cn
 0.0.0.0 spscwlw.cn
@@ -40335,6 +40360,7 @@
 0.0.0.0 xjjkxcg.cn
 0.0.0.0 xmouxe.cn
 0.0.0.0 xpxmpf.cn
+0.0.0.0 xsgkjsb.cn
 0.0.0.0 xsrypte.cn
 0.0.0.0 xxw777.cn
 0.0.0.0 xzcvfdwe.cn
@@ -40369,6 +40395,7 @@
 0.0.0.0 zengwx.cn
 0.0.0.0 zgystsd.com
 0.0.0.0 zhifoujiaoyu.xyz
+0.0.0.0 zhonglutang.group
 0.0.0.0 zhongte62802.cn
 0.0.0.0 zhouziwang.cn
 0.0.0.0 zhpfl.cn
