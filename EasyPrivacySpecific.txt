@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 08 Dec 2021 20:57:37 +0000
+# Last converted - Mon, 13 Dec 2021 21:27:01 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -190,7 +190,9 @@
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
+0.0.0.0 intent.macworld.co.uk
 0.0.0.0 intent.pcworld.idg.com.au
+0.0.0.0 intent.techadvisor.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
