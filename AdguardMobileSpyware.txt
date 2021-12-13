@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 06 Dec 2021 21:57:19 +0000
+# Last converted - Mon, 13 Dec 2021 21:26:58 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -68,6 +68,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logend.cookpad.com
+0.0.0.0 viva.api.xiaoying.co
+0.0.0.0 ub-xjp.vvbrd.com
 0.0.0.0 uts-front.line-apps.com
 0.0.0.0 nelo2-col.linecorp.com
 0.0.0.0 msga.cupid.iqiyi.com
@@ -79,16 +82,12 @@
 0.0.0.0 aff-policy.lbesecapi.com
 0.0.0.0 psi.lbesecapi.com
 0.0.0.0 report-ps.meettech.net
-0.0.0.0 f-log-mobile.grammarly.io
-0.0.0.0 f-log-mobile-ios.grammarly.io
 0.0.0.0 msg.umengcloud.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ada-tr.staff-start.com
 0.0.0.0 analytics.liveact-vault.com
 0.0.0.0 dex50.deteql.net
-0.0.0.0 api.statsig.com
-0.0.0.0 logs-01.loggly.com
 0.0.0.0 analytics.300624.com
 0.0.0.0 measure.ic.tver.jp
 0.0.0.0 toblog.ctobsnssdk.com
