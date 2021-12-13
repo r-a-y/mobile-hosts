@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 06 Dec 2021 21:57:19 +0000
+# Last converted - Mon, 13 Dec 2021 21:26:58 +0000
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -58,7 +58,6 @@
 0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 a.76674bdad304297eda3d325f449f6f49.com
 0.0.0.0 geoloc.yospace.com
-0.0.0.0 video-ads-module.ad-tech.nbcuni.com
 0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 hybrid.ai
 0.0.0.0 px.adhigh.net
@@ -86,6 +85,9 @@
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
 0.0.0.0 adcr.naver.com
+0.0.0.0 mobondhrd.appspot.com
+0.0.0.0 a.cookpad-ads.com
+0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 mobi.yanosik.pl
 0.0.0.0 videoads-cloud.rovio.com
 0.0.0.0 vmap.v.ad-generation.jp
@@ -485,7 +487,7 @@
 0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
-0.0.0.0 mopub.com
+0.0.0.0 ads.mopub.com
 0.0.0.0 ads.n-ws.org
 0.0.0.0 ads.ookla.com
 0.0.0.0 ads.pdbarea.com
