@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 13 Dec 2021 21:27:01 +0000
+# Last converted - Mon, 20 Dec 2021 18:53:42 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -305,6 +305,7 @@
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp.archant.co.uk
 0.0.0.0 csr.onet.pl
+0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.eid.co.nz
 0.0.0.0 ct.itbusinessedge.com
 0.0.0.0 ct.needlive.com
@@ -545,6 +546,7 @@
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 happen.spkt.io
+0.0.0.0 hb.vhsrv.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.mybestpro.com
@@ -845,6 +847,7 @@
 0.0.0.0 stat.segitek.hu
 0.0.0.0 stat.web-regie.com
 0.0.0.0 statdb.pressflex.com
+0.0.0.0 static-tracking.klaviyo.com
 0.0.0.0 static.parsely.com
 0.0.0.0 statistics.tattermedia.com
 0.0.0.0 statistics.wibiya.com
