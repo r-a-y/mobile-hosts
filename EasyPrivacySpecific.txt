@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 13 Dec 2021 21:27:01 +0000
+# Last converted - Mon, 20 Dec 2021 18:53:42 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -63,6 +63,7 @@
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beam-ws.giraffe360.com
+0.0.0.0 beam.bankrate.com
 0.0.0.0 beam.giraffe360.com
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 binocule21c.merriam-webster.com
@@ -200,6 +201,7 @@
 0.0.0.0 isharemetric.rediff.com
 0.0.0.0 j927.statnews.com
 0.0.0.0 jumbo.zomato.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 log-api.newrelic.com
@@ -237,6 +239,7 @@
 0.0.0.0 netu.wiztube.xyz
 0.0.0.0 nm.newegg.com
 0.0.0.0 noodle.backmarket.io
+0.0.0.0 nwuoxwthvak3.stoic.ai
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 perf.mouser.com
@@ -270,6 +273,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
+0.0.0.0 pwt.soundcloud.com
 0.0.0.0 python.jacksellwood.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
