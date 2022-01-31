@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 17 Jan 2022 20:12:05 +0000
+# Last converted - Mon, 31 Jan 2022 19:56:52 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -34,6 +34,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 af-event-logger.appsflyer.com
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 gcdsdk.appsflyer.com
@@ -68,6 +69,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 misc.api.snaptube.app
 0.0.0.0 dig.bdurl.net
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 collect.babybus.com
