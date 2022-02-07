@@ -1,11 +1,12 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 31 Jan 2022 19:56:55 +0000
+# Last converted - Mon, 07 Feb 2022 22:54:02 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
+0.0.0.0 a10.nationalreview.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -50,6 +51,7 @@
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synedat.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 analytics.vedantu.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
@@ -231,6 +233,7 @@
 0.0.0.0 metrics.hackerrank.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io
+0.0.0.0 metrics.syf.com
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 mms.cnn.com
