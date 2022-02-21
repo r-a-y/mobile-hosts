@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 07 Feb 2022 22:54:02 +0000
+# Last converted - Mon, 21 Feb 2022 19:41:50 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -50,6 +50,7 @@
 0.0.0.0 analytics.send.cm
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synedat.com
+0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 anon-stats.eff.org
@@ -297,6 +298,7 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogram.com
+0.0.0.0 saa.insideedition.com
 0.0.0.0 servedby.o2.co.uk
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
