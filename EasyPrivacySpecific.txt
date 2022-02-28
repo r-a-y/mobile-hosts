@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 21 Feb 2022 19:41:50 +0000
+# Last converted - Mon, 28 Feb 2022 21:54:05 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -44,6 +44,7 @@
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
+0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.realestate.com.au
@@ -95,6 +96,7 @@
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 collect.alipay.com
 0.0.0.0 collector-px0py5pczn.octopart.com
+0.0.0.0 collector.cint.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
