@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 14 Feb 2022 22:38:59 +0000
+# Last converted - Tue, 08 Mar 2022 01:02:36 +0000
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -248,7 +248,6 @@
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 ade.clmbtech.com
-0.0.0.0 i.mxplayer.j2inter.com
 0.0.0.0 online-prod.zenmxapps.com
 0.0.0.0 look.kfiopkln.com
 0.0.0.0 studcat.infra.systems
