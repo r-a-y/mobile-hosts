@@ -1,13 +1,14 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 28 Feb 2022 21:54:05 +0000
+# Last converted - Tue, 08 Mar 2022 01:02:40 +0000
 #
 
 0.0.0.0 100widgets.com
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 51network.com
+0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 ad-shield.io
@@ -181,6 +182,7 @@
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
+0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
 0.0.0.0 beacon.nrholding.net
@@ -875,6 +877,7 @@
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
