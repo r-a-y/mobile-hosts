@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Feb 2022 21:54:05 +0000
+# Last converted - Tue, 08 Mar 2022 01:02:40 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -196,6 +196,7 @@
 0.0.0.0 i.pokernews.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 indmetric.rediff.com
+0.0.0.0 ingress.linktr.ee
 0.0.0.0 intent.cmo.com.au
 0.0.0.0 intent.goodgearguide.com.au
 0.0.0.0 intent.macworld.co.uk
