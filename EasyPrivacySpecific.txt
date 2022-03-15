@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 08 Mar 2022 01:02:40 +0000
+# Last converted - Tue, 15 Mar 2022 16:46:45 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -504,6 +504,7 @@
 0.0.0.0 u47.pnc.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
+0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 urs.metacritic.com
