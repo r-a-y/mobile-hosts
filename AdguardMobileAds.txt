@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 08 Mar 2022 01:02:36 +0000
+# Last converted - Tue, 15 Mar 2022 16:46:42 +0000
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -24,8 +24,6 @@
 0.0.0.0 apis.appnxt.net
 0.0.0.0 banners-slb.mobile.yandex.net
 0.0.0.0 banners.mobile.yandex.net
-0.0.0.0 coinhive.com
-0.0.0.0 coin-hive.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 ads.go2reach.com
 0.0.0.0 mimicromax.com
