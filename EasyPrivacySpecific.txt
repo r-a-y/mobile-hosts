@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 22 Mar 2022 01:10:07 +0000
+# Last converted - Mon, 28 Mar 2022 19:53:04 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -212,6 +212,7 @@
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
+0.0.0.0 links.strava.com
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.ctrl.blog
@@ -509,6 +510,7 @@
 0.0.0.0 uie.data.cbc.ca
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 urs.metacritic.com
+0.0.0.0 user-metrics.onthemarket.com
 0.0.0.0 userfly.com
 0.0.0.0 usmetric.rediff.com
 0.0.0.0 views.arabnews.com
