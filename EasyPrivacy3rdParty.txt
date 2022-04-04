@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 28 Mar 2022 19:53:05 +0100
+# Last converted - Mon, 04 Apr 2022 18:32:18 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -281,6 +281,7 @@
 0.0.0.0 collector.sspinc.io
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 connext-cdn.azureedge.net
 0.0.0.0 container.pepperjam.com
 0.0.0.0 contents-tracking.beop.io
 0.0.0.0 control.cityofcairns.com
@@ -1035,7 +1036,6 @@
 0.0.0.0 trap.skype.com
 0.0.0.0 trc.pushnami.com
 0.0.0.0 trends.newsmaxwidget.com
-0.0.0.0 trib.al
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 trk.techtarget.com
 0.0.0.0 tru.webelapp.com
