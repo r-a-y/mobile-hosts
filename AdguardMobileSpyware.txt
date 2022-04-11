@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 04 Apr 2022 18:32:15 +0100
+# Last converted - Mon, 11 Apr 2022 20:20:42 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -69,6 +69,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 analytics.rayjump.com
+0.0.0.0 events.ifunny.co
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 pathfinder.analytics.komoot.net
 0.0.0.0 evt.mxplay.com
@@ -441,7 +443,6 @@
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 stats.umsns.com
-0.0.0.0 analytics.rayjump.com
 0.0.0.0 iapp-cp.nuggad.net
 0.0.0.0 4seeresults.com
 0.0.0.0 abtest.mistat.xiaomi.com
@@ -473,7 +474,6 @@
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.gimbal.com
 0.0.0.0 api.sec.miui.com
-0.0.0.0 api.taplytics.com
 0.0.0.0 appmetrica.yandex.net
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 ar.umeng.com
@@ -533,7 +533,6 @@
 0.0.0.0 oc.umeng.com
 0.0.0.0 online-metrix.net
 0.0.0.0 openstat.net
-0.0.0.0 ping.taplytics.com
 0.0.0.0 ping.xlmc.sandai.net
 0.0.0.0 pingma.qq.com
 0.0.0.0 prugskh.com
