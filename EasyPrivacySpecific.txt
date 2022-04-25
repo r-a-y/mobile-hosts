@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Apr 2022 18:41:05 +0100
+# Last converted - Mon, 25 Apr 2022 19:49:55 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -36,6 +36,7 @@
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.feedly.com
 0.0.0.0 analytics.footballdb.com
+0.0.0.0 analytics.freemake.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.hashnode.com
@@ -97,6 +98,7 @@
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 collect.alipay.com
+0.0.0.0 collect.f5.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.githubapp.com
@@ -149,6 +151,7 @@
 0.0.0.0 event-api.reverb.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-service.coinbase.com
+0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
@@ -176,7 +179,6 @@
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gala.spiceworks.com
-0.0.0.0 gc.newsweek.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.gfycat.com
 0.0.0.0 geo.nbcsports.com
@@ -239,6 +241,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 metrics.bangbros.com
+0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io
@@ -539,7 +542,27 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 drfdisvc.walmart.com
+0.0.0.0 event.evtm.53.com
+0.0.0.0 d276.ourmidland.com
+0.0.0.0 d810.mysanantonio.com
+0.0.0.0 f775.thehour.com
+0.0.0.0 h353.ncadvertiser.com
+0.0.0.0 h559.stamfordadvocate.com
+0.0.0.0 j198.registercitizen.com
+0.0.0.0 l936.expressnews.com
+0.0.0.0 o398.trumbulltimes.com
+0.0.0.0 q777.sfchronicle.com
+0.0.0.0 t570.wiltonbulletin.com
 0.0.0.0 tilt.bankofamerica.com
+0.0.0.0 u652.myplainview.com
+0.0.0.0 u927.sfgate.com
+0.0.0.0 w740.newstimes.com
+0.0.0.0 y738.nhregister.com
+0.0.0.0 y820.darientimes.com
+0.0.0.0 y900.greenwichtime.com
+0.0.0.0 z211.yourconroenews.com
+0.0.0.0 z492.ctinsider.com
+0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.courrierinternational.com
