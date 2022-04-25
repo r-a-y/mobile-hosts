@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 18 Apr 2022 18:41:02 +0100
+# Last converted - Mon, 25 Apr 2022 19:49:52 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -153,7 +153,6 @@
 0.0.0.0 msg.simeji.baidu.jp
 0.0.0.0 log.tiktokv.com
 0.0.0.0 post-log.pushwoosh.com
-0.0.0.0 torimochi.line-apps.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 log-upload-eur.mihoyo.com
 0.0.0.0 log-upload.mihoyo.com
