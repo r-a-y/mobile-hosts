@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 25 Apr 2022 19:49:55 +0100
+# Last converted - Mon, 02 May 2022 20:10:31 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -252,11 +252,11 @@
 0.0.0.0 monitor.channel4.com
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 net.haier.com
-0.0.0.0 netu.wiztube.xyz
 0.0.0.0 nm.newegg.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 nwuoxwthvak3.stoic.ai
+0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 pac.thesun.co.uk
@@ -442,6 +442,7 @@
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.ibtimes.co.in
+0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.pstream.net
@@ -545,12 +546,14 @@
 0.0.0.0 event.evtm.53.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
+0.0.0.0 eventbus.intuit.com
 0.0.0.0 f775.thehour.com
 0.0.0.0 h353.ncadvertiser.com
 0.0.0.0 h559.stamfordadvocate.com
 0.0.0.0 j198.registercitizen.com
 0.0.0.0 l936.expressnews.com
 0.0.0.0 o398.trumbulltimes.com
+0.0.0.0 pf.intuit.com
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 t570.wiltonbulletin.com
 0.0.0.0 tilt.bankofamerica.com
@@ -563,6 +566,7 @@
 0.0.0.0 z211.yourconroenews.com
 0.0.0.0 z492.ctinsider.com
 0.0.0.0 z680.beaumontenterprise.com
+0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.courrierinternational.com
