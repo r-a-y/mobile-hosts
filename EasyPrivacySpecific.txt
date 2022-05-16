@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 06 May 2022 23:07:26 +0100
+# Last converted - Mon, 16 May 2022 19:54:09 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -308,6 +308,7 @@
 0.0.0.0 rta2.metro.co.uk
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rum.api.intuit.com
+0.0.0.0 rum.condenastdigital.com
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 s.infogram.com
@@ -527,6 +528,7 @@
 0.0.0.0 visit.theglobeandmail.com
 0.0.0.0 visitors.sourcingmap.com
 0.0.0.0 vortex.hulu.com
+0.0.0.0 wa.gmx.co.uk
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wblt.oui.sncf
