@@ -1,11 +1,12 @@
 # EasyPrivacyCNAME
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific_cname.txt
-# Last converted - Mon, 28 Mar 2022 19:53:05 +0100
+# Last converted - Mon, 23 May 2022 20:03:38 +0100
 #
 
 0.0.0.0 clickmail.stubhub.com
 0.0.0.0 email.mg.everyonesocial.com
+0.0.0.0 wl.spotify.com
 0.0.0.0 primate.dmarcdigests.com
 0.0.0.0 1kpv4njzilv.community.intersystems.com
 0.0.0.0 1zzs6w25i8n.tube.inflatevids.xyz
@@ -9061,4 +9062,3 @@
 0.0.0.0 url8196.mindrise.app
 0.0.0.0 url9576.oneshift.com
 0.0.0.0 url9609.account.experience-muse.com
-0.0.0.0 wl.spotify.com
