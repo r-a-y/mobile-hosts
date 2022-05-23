@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 06 May 2022 23:07:23 +0100
+# Last converted - Mon, 23 May 2022 20:03:34 +0100
 #
 
 0.0.0.0 xjnwqdospderqtk.ru
@@ -83,6 +83,7 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 chavoads.com
 0.0.0.0 r2d2.aotter.net
 0.0.0.0 tkcatrun.aotter.net
 0.0.0.0 cdn.jampp.com
