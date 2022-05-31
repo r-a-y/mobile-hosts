@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 23 May 2022 20:03:37 +0100
+# Last converted - Tue, 31 May 2022 01:46:17 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -212,6 +212,7 @@
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
 0.0.0.0 ip.pichunter.com
+0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 isharemetric.rediff.com
 0.0.0.0 ivx.lacompagnie.com
 0.0.0.0 j927.statnews.com
@@ -485,6 +486,7 @@
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.api.playstation.com
+0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 tilanalytics.timesinternet.in
@@ -493,12 +495,14 @@
 0.0.0.0 top.wn.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 tr.clickstay.com
+0.0.0.0 track-visit.monday.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.kueez.com
 0.0.0.0 track.lexico.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.totalav.com
+0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.shopclues.com
