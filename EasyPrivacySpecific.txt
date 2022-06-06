@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 31 May 2022 01:46:17 +0100
+# Last converted - Mon, 06 Jun 2022 20:14:36 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -17,6 +17,7 @@
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
 0.0.0.0 adv.drtuber.com
+0.0.0.0 affiliate.gearbest.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
 0.0.0.0 ai.iol.io
@@ -155,6 +156,7 @@
 0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
+0.0.0.0 events.framer.com
 0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
@@ -195,6 +197,7 @@
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
+0.0.0.0 gotie.tunein.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 hanaana.socialblade.com
@@ -298,6 +301,7 @@
 0.0.0.0 r.my.com
 0.0.0.0 rankhit.china.com
 0.0.0.0 relay.fiverr.com
+0.0.0.0 reports.tunein.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 rfk.biglots.com
 0.0.0.0 rps-p2.rockpapershotgun.com
@@ -428,6 +432,7 @@
 0.0.0.0 squirrel.honeysqueeze.app
 0.0.0.0 squirrel.malaynahocker.com
 0.0.0.0 srtb.msn.com
+0.0.0.0 ss.photospecialist.co.uk
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
