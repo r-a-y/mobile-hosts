@@ -1,12 +1,13 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 13 Jun 2022 19:33:43 +0100
+# Last converted - Mon, 20 Jun 2022 20:02:11 +0100
 #
 
 0.0.0.0 100widgets.com
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
+0.0.0.0 4e4356b68404a5138d2d-33393516977f9ca8dc54af2141da2a28.ssl.cf1.rackcdn.com
 0.0.0.0 51network.com
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a.getflowbox.com
@@ -660,7 +661,6 @@
 0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 ping.smyte.com
-0.0.0.0 ping.staticmoly.me
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pipe-collect.ebu.io
@@ -986,6 +986,7 @@
 0.0.0.0 tracker.downdetector.com
 0.0.0.0 tracker.financialcontent.com
 0.0.0.0 tracker.icerocket.com
+0.0.0.0 tracker.idocdn.com
 0.0.0.0 tracker.keywordintent.com
 0.0.0.0 tracker.marinsoftware.com
 0.0.0.0 tracker.mrpfd.com
@@ -1247,6 +1248,7 @@
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
+0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dp64mxip2za0c.cloudfront.net
