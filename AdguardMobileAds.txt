@@ -1,9 +1,10 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 31 May 2022 01:46:15 +0100
+# Last converted - Mon, 20 Jun 2022 20:02:07 +0100
 #
 
+0.0.0.0 advil.waze.com
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 nfiuerwtftasnuk.com
 0.0.0.0 qoisocrldvnesni.ru
@@ -83,6 +84,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
+0.0.0.0 a.471cc486764581c9508c0c803356a704c27ac3e37c1223a84557c58c.com
+0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 alt-ad.mail.ru
 0.0.0.0 chavoads.com
 0.0.0.0 r2d2.aotter.net
@@ -370,7 +374,6 @@
 0.0.0.0 adslot.uc.cn
 0.0.0.0 disqusads.com
 0.0.0.0 jssdk.rayjump.com
-0.0.0.0 rtb.adentifi.com
 0.0.0.0 adtheorent.com
 0.0.0.0 qgss8.com
 0.0.0.0 api.cloudmobi.net
@@ -834,7 +837,6 @@
 0.0.0.0 owap.su
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagefair.net
-0.0.0.0 partner.googleadservices.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
 0.0.0.0 perf-events.cloud.unity3d.com
