@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 20 Jun 2022 20:02:11 +0100
+# Last converted - Mon, 27 Jun 2022 21:16:53 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -158,6 +158,7 @@
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.framer.com
+0.0.0.0 events.mercadolibre.com
 0.0.0.0 events.practo.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.reddit.com
@@ -181,6 +182,7 @@
 0.0.0.0 g.mashable.com
 0.0.0.0 g.pcmag.com
 0.0.0.0 g.vev.io
+0.0.0.0 ga.dx.com
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gala.spiceworks.com
