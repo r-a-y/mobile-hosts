@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 27 Jun 2022 21:16:53 +0100
+# Last converted - Tue, 05 Jul 2022 00:26:29 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -11,6 +11,7 @@
 0.0.0.0 51network.com
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a.getflowbox.com
+0.0.0.0 a.hcaptcha.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
 0.0.0.0 ad-shield.io
@@ -299,7 +300,6 @@
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 count.asnetworks.de
 0.0.0.0 count.carrierzone.com
-0.0.0.0 count.channeladvisor.com
 0.0.0.0 count.me.uk
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.bloke.com
@@ -411,7 +411,6 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.realgravity.com
-0.0.0.0 events.release.narrativ.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
@@ -657,6 +656,7 @@
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perso.aws.arc.pub
+0.0.0.0 pets.channeladvisor.com
 0.0.0.0 pi.ispot.tv
 0.0.0.0 ping-admin.ru
 0.0.0.0 ping-dot-acp-magento.appspot.com
@@ -874,6 +874,7 @@
 0.0.0.0 t.c4tw.net
 0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
+0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.irtyc.com
@@ -1163,6 +1164,7 @@
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1iazwv1n1tsyi.cloudfront.net
 0.0.0.0 d1igp3oop3iho5.cloudfront.net
+0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
