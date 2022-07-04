@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 27 Jun 2022 21:16:53 +0100
+# Last converted - Tue, 05 Jul 2022 00:26:29 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -124,6 +124,7 @@
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.getpocket.com
 0.0.0.0 d.skk.moe
+0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.younow.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
@@ -260,6 +261,7 @@
 0.0.0.0 mms.cnn.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 n26-trusted.n26.com
+0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
@@ -334,6 +336,7 @@
 0.0.0.0 sp.bucyrustelegraphforum.com
 0.0.0.0 sp.burlingtonfreepress.com
 0.0.0.0 sp.caller.com
+0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.chillicothegazette.com
 0.0.0.0 sp.cincinnati.com
 0.0.0.0 sp.citizen-times.com
@@ -444,6 +447,7 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
+0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.cardschat.com
 0.0.0.0 stats.cdngeek.com
 0.0.0.0 stats.clear-media.com
