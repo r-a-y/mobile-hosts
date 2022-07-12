@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 05 Jul 2022 00:26:29 +0100
+# Last converted - Tue, 12 Jul 2022 02:01:08 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -36,6 +36,7 @@
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.faceitanalytics.com
+0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.feedly.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
@@ -95,6 +96,7 @@
 0.0.0.0 client-log.box.com
 0.0.0.0 clp-mms.cloudpro.co.uk
 0.0.0.0 cm-mms.coachmag.co.uk
+0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.viptube.com
@@ -116,6 +118,7 @@
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 contents2.00110.citi.com
+0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 count.rin.ru
 0.0.0.0 cpt.itv.com
 0.0.0.0 crayfish.thingelstad.com
@@ -259,6 +262,7 @@
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 mms.cnn.com
+0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 nasi.etherscan.com
@@ -301,6 +305,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
+0.0.0.0 pxl.indeed.com
 0.0.0.0 python.jacksellwood.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
@@ -608,6 +613,9 @@
 0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.finn.no
 0.0.0.0 cmp.huffingtonpost.fr
+0.0.0.0 cmp.lavie.fr
+0.0.0.0 cmp.lemonde.fr
+0.0.0.0 cmp.lepoint.fr
 0.0.0.0 cmp.netzwelt.de
 0.0.0.0 cmp.nouvelobs.com
 0.0.0.0 cmp.tech426.com
