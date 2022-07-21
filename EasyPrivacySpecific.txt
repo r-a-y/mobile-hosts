@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 12 Jul 2022 02:01:08 +0100
+# Last converted - Thu, 21 Jul 2022 04:54:53 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -123,6 +123,7 @@
 0.0.0.0 cpt.itv.com
 0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 crta.metro.co.uk
+0.0.0.0 crumbs.robinhood.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.getpocket.com
@@ -305,6 +306,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
+0.0.0.0 pumpkin.abine.com
 0.0.0.0 pxl.indeed.com
 0.0.0.0 python.jacksellwood.com
 0.0.0.0 r.bbci.co.uk
@@ -463,6 +465,7 @@
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.ibtimes.co.in
+0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
@@ -610,7 +613,6 @@
 0.0.0.0 cb-mms.carbuyer.co.uk
 0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.courrierinternational.com
-0.0.0.0 cmp.dmgmediaprivacy.co.uk
 0.0.0.0 cmp.finn.no
 0.0.0.0 cmp.huffingtonpost.fr
 0.0.0.0 cmp.lavie.fr
