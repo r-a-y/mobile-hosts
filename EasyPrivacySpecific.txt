@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 21 Jul 2022 04:54:53 +0100
+# Last converted - Tue, 26 Jul 2022 04:45:08 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -201,6 +201,7 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geolocation.forbes.com
 0.0.0.0 glassmoni.researchgate.net
+0.0.0.0 global.ssl.fastly.net
 0.0.0.0 gmonitor.aliimg.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
