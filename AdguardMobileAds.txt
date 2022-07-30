@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 26 Jul 2022 04:45:03 +0100
+# Last converted - Sat, 30 Jul 2022 01:53:06 +0100
 #
 
 0.0.0.0 advil.waze.com
@@ -1015,6 +1015,7 @@
 0.0.0.0 smilered.com
 0.0.0.0 weboohost.com
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 kusuriyasan.org
 0.0.0.0 bd1.guancha.cn
 0.0.0.0 bd2.guancha.cn
 0.0.0.0 cdn.xiao7cdn.com
