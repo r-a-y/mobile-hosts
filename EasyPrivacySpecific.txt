@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 26 Jul 2022 04:45:08 +0100
+# Last converted - Mon, 01 Aug 2022 21:20:57 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -588,6 +588,7 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
+0.0.0.0 w-profiling.cibc.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 eventbus.intuit.com
