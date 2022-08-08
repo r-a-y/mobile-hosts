@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 01 Aug 2022 21:20:54 +0100
+# Last converted - Mon, 08 Aug 2022 20:19:43 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -69,6 +69,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log1.apkomega.com
+0.0.0.0 log.pngindir.com
+0.0.0.0 log.happyapkdown.com
+0.0.0.0 log-v4-insight.kaizenplatform.net
 0.0.0.0 tracker.neodatagroup.com
 0.0.0.0 stats.sxp.smartclip.net
 0.0.0.0 static.fengkongcloud.com
@@ -155,6 +159,7 @@
 0.0.0.0 bs.nakanohito.jp
 0.0.0.0 tag.karte.io
 0.0.0.0 alogsus.umeng.com
+0.0.0.0 log1.happymod.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 beacon-api.aliyuncs.com
@@ -166,6 +171,7 @@
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 analytics.enjoymobiserver.com
 0.0.0.0 api.reproio.com
+0.0.0.0 log5.interactive-circle.jp
 0.0.0.0 b94.yahoo.co.jp
 0.0.0.0 api.smbeat.jp
 0.0.0.0 hibiki-track.logica.bz
@@ -272,8 +278,6 @@
 0.0.0.0 applogs.pixelfederation.com
 0.0.0.0 applogs-v2.pixelfederation.com
 0.0.0.0 analytics.dns-shop.ru
-0.0.0.0 smetrics.aem.playstation.com
-0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 mobiletelemetry.ebay.com
 0.0.0.0 tracker.departapp.com
