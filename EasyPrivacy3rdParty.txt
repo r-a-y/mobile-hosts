@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 30 Jul 2022 01:53:10 +0100
+# Last converted - Mon, 08 Aug 2022 20:19:47 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -19,7 +19,6 @@
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
-0.0.0.0 affiliates.mgmmirage.com
 0.0.0.0 affiliates.minglematch.com
 0.0.0.0 air.audioeye.com
 0.0.0.0 akatracking.esearchvision.com
@@ -37,7 +36,6 @@
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-production.hapyak.com
-0.0.0.0 analytics-rhwg.rhcloud.com
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
@@ -45,14 +43,12 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 analytics.amakings.com
-0.0.0.0 analytics.anvato.net
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.atomiconline.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.avanser.com.au
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bestreviews.com
-0.0.0.0 analytics.bigcommerce.com
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.brandcrumb.com
 0.0.0.0 analytics.carambo.la
@@ -109,14 +105,11 @@
 0.0.0.0 analytics.ostr.io
 0.0.0.0 analytics.paddle.com
 0.0.0.0 analytics.pagefly.io
-0.0.0.0 analytics.performable.com
-0.0.0.0 analytics.photorank.me
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
-0.0.0.0 analytics.prod.aws.ecnext.net
 0.0.0.0 analytics.qualityunit.com
 0.0.0.0 analytics.radiatemedia.com
 0.0.0.0 analytics.recruitics.com
@@ -127,7 +120,6 @@
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
-0.0.0.0 analytics.sonymusic.com
 0.0.0.0 analytics.springboardvideo.com
 0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
@@ -138,7 +130,6 @@
 0.0.0.0 analytics.themarketiq.com
 0.0.0.0 analytics.threedeepmarketing.com
 0.0.0.0 analytics.tiktok.com
-0.0.0.0 analytics.tooso.ai
 0.0.0.0 analytics.tout.com
 0.0.0.0 analytics.tribeca.vidavee.com
 0.0.0.0 analytics.unibuddy.co
@@ -171,23 +162,18 @@
 0.0.0.0 argos.citruserve.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 attributiontrackingga.googlecode.com
-0.0.0.0 audience.atex.com
 0.0.0.0 audience.newscgp.com
-0.0.0.0 audienceapi.newsdiscover.com.au
 0.0.0.0 audienceinsights.net
 0.0.0.0 audit.303br.net
 0.0.0.0 audit.median.hu
 0.0.0.0 aurora-d3.herokuapp.com
 0.0.0.0 awaps.yandex.net
 0.0.0.0 awesome.section.io
-0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 az693360.vo.msecnd.net
-0.0.0.0 b-aws.aol.com
 0.0.0.0 b.bedop.com
 0.0.0.0 b7tp47v2nb3x-a.akamaihd.net
 0.0.0.0 bab.frb.io
-0.0.0.0 backstage.funnelenvy.com
 0.0.0.0 bacon.getcarro.com
 0.0.0.0 bacon.section.io
 0.0.0.0 barium.cheezdev.com
@@ -198,16 +184,13 @@
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
-0.0.0.0 beacon.nrholding.net
 0.0.0.0 beacon.riskified.com
-0.0.0.0 beacon.rum.dynapis.com
 0.0.0.0 beacon.s.llnwi.net
 0.0.0.0 beacon.searchspring.io
 0.0.0.0 beacon.securestudies.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.squixa.net
 0.0.0.0 beacon.statful.com
-0.0.0.0 beacon.thred.woven.com
 0.0.0.0 beacon.tingyun.com
 0.0.0.0 beacon.vertebrae-axis.com
 0.0.0.0 beacon.viewlift.com
@@ -235,8 +218,6 @@
 0.0.0.0 cache2.delvenetworks.com
 0.0.0.0 cahf4eed.mooo.com
 0.0.0.0 camel.headfarming.com
-0.0.0.0 canvas-ping.conduit-data.com
-0.0.0.0 canvas-usage-v2.conduit-data.com
 0.0.0.0 capture-api.ap3prod.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
@@ -259,10 +240,8 @@
 0.0.0.0 cimage.adobe.com
 0.0.0.0 ck.connatix.com
 0.0.0.0 click.appinthestore.com
-0.0.0.0 click.rssfwd.com
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
-0.0.0.0 clickstream.odysee.com
 0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
@@ -279,7 +258,6 @@
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect.cloudsponge.com
-0.0.0.0 collect.igodigital.com
 0.0.0.0 collect.iteam-dress.com
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.usefathom.com
@@ -307,7 +285,6 @@
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cam-content.com
-0.0.0.0 counter.digits.com
 0.0.0.0 counter.hyipexplorer.com
 0.0.0.0 counter.jdi5.com
 0.0.0.0 counter.maases.com
@@ -321,8 +298,6 @@
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 counters.freewebs.com
-0.0.0.0 countly.stackvaults.com
-0.0.0.0 country.yepshare.com
 0.0.0.0 creator.zmags.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 csi.gstatic.com
@@ -353,11 +328,9 @@
 0.0.0.0 data.minute.ly
 0.0.0.0 data.nexxt.com
 0.0.0.0 data.queryly.com
-0.0.0.0 data.studybreakmedia.com
 0.0.0.0 data.woosmap.com
 0.0.0.0 data2.gosquared.com
 0.0.0.0 datadog-service.mvfglobal.com
-0.0.0.0 deepknow.egoid.me
 0.0.0.0 demandmedia.s3.amazonaws.com
 0.0.0.0 deprecated-custom-domains.b-cdn.net
 0.0.0.0 detect.ergebnis-dienst.de
@@ -366,7 +339,6 @@
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dig.ultimedia.com
 0.0.0.0 direct-events-collector.spot.im
-0.0.0.0 dirt.dennis.co.uk
 0.0.0.0 distillery.wistia.com
 0.0.0.0 djibeacon.djns.com
 0.0.0.0 doppler-reporting.cbsivideo.com
@@ -386,7 +358,6 @@
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 event-api.contactatonce.co.uk
-0.0.0.0 event-api.contactatonce.com.au
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-listener.air.tv
@@ -419,6 +390,7 @@
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
+0.0.0.0 events.statsigapi.net
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
@@ -434,7 +406,6 @@
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 fkrkkmxsqeb5bj9r.s3.amazonaws.com
-0.0.0.0 fl.a.ki
 0.0.0.0 flashstats.libsyn.com
 0.0.0.0 flixgvid.flix360.io
 0.0.0.0 fog.pixual.co
@@ -494,7 +465,6 @@
 0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
-0.0.0.0 imp.affiliator.com
 0.0.0.0 imp.clickability.com
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.pvnsolutions.com
@@ -524,7 +494,6 @@
 0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
-0.0.0.0 keyword.daumdn.com
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 klarnaservices.com
 0.0.0.0 klm-ea.jscrambler.com
@@ -556,13 +525,11 @@
 0.0.0.0 log.go.com
 0.0.0.0 log.invodo.com
 0.0.0.0 log.kibboko.com
-0.0.0.0 log.kukuplay.com
 0.0.0.0 log.mediacategory.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
-0.0.0.0 log.plinga.de
 0.0.0.0 log.reformal.ru
 0.0.0.0 log.seekda.com
 0.0.0.0 logger.snackly.co
@@ -580,9 +547,7 @@
 0.0.0.0 logs.viadata.store
 0.0.0.0 logs.vmixcore.com
 0.0.0.0 lore.circulate.com
-0.0.0.0 loxodo-analytics.ext.nile.works
 0.0.0.0 lps.qantas.com
-0.0.0.0 lt.tritondigital.com
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 lunametrics.wpengine.netdna-cdn.com
 0.0.0.0 m.addthisedge.com
@@ -594,7 +559,6 @@
 0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 mcs-va.tiktok.com
-0.0.0.0 mcs.delvenetworks.com
 0.0.0.0 measure.refinery89.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
@@ -604,7 +568,6 @@
 0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
-0.0.0.0 metrics.getvitals.io
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.readme.io
@@ -622,7 +585,6 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
-0.0.0.0 n.mailfire.io
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsletters.nationalgeographic.com
@@ -643,9 +605,7 @@
 0.0.0.0 openxcdn.net
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
-0.0.0.0 p.adbrn.com
 0.0.0.0 p.delivery.net
-0.0.0.0 p.eyebuydirect-cmr.net
 0.0.0.0 p.placed.com
 0.0.0.0 p.yotpo.com
 0.0.0.0 page-events-ustats.udemy.com
@@ -655,10 +615,8 @@
 0.0.0.0 pap.qualityunit.com
 0.0.0.0 partner.cynapse.com
 0.0.0.0 partners.etoro.com
-0.0.0.0 pdc.dmleonyc.com
 0.0.0.0 pegasus.unifygroup.com
 0.0.0.0 perf-events.cloud.unity3d.com
-0.0.0.0 perf.dugout.com
 0.0.0.0 perf.hsforms.com
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 perso.aws.arc.pub
@@ -667,9 +625,7 @@
 0.0.0.0 ping-admin.ru
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.dozuki.com
-0.0.0.0 ping.hellobar.com
 0.0.0.0 ping.instantsearchplus.com
-0.0.0.0 ping.smyte.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 pipe-collect.ebu.io
@@ -694,7 +650,6 @@
 0.0.0.0 pixel.safe-installation.com
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
-0.0.0.0 pixel.tree.com
 0.0.0.0 pixel.videohub.tv
 0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
@@ -703,7 +658,6 @@
 0.0.0.0 pixels.afcdn.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 plausibleio.workers.dev
-0.0.0.0 pmetrics.performancing.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.ex.co
@@ -727,7 +681,6 @@
 0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
-0.0.0.0 pxt.daz3d.com
 0.0.0.0 pylon.micstatic.com
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 r.mail.ru
@@ -740,7 +693,6 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 removeads.workers.dev
 0.0.0.0 reporting.cdndex.io
-0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports-api.sqreen.io
 0.0.0.0 reports.pagesuite-professional.co.uk
@@ -749,7 +701,6 @@
 0.0.0.0 response.pure360.com
 0.0.0.0 rest.wildstar-online.com
 0.0.0.0 retargeting.newsmanapp.com
-0.0.0.0 rlinks.one.in
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rt.flix360.com
 0.0.0.0 rtxpx-a.akamaihd.net
@@ -766,7 +717,6 @@
 0.0.0.0 s.clickability.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.logsss.com
-0.0.0.0 s.sniphub.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 sa.scorpion.co
 0.0.0.0 scout.us2.salesloft.com
@@ -797,7 +747,6 @@
 0.0.0.0 st.linkfire.com
 0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
-0.0.0.0 stat.belonnanotservice.ga
 0.0.0.0 stat.boredomtherapy.com
 0.0.0.0 stat.glaze.ai
 0.0.0.0 stat.mixi.media
@@ -827,7 +776,6 @@
 0.0.0.0 stats.geegain.com
 0.0.0.0 stats.gifs.com
 0.0.0.0 stats.heyoya.com
-0.0.0.0 stats.highwire.com
 0.0.0.0 stats.inergizedigitalmedia.com
 0.0.0.0 stats.itweb.co.za
 0.0.0.0 stats.kaltura.com
@@ -870,12 +818,10 @@
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.outbrain.com
 0.0.0.0 systemmonitoring.badgeville.com
-0.0.0.0 t-staging.powerreviews.com
 0.0.0.0 t.91syun.com
 0.0.0.0 t.a3cloud.net
 0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.beop.io
-0.0.0.0 t.beopinion.com
 0.0.0.0 t.bimvid.com
 0.0.0.0 t.brand-server.com
 0.0.0.0 t.c4tw.net
@@ -891,7 +837,6 @@
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.raptorsmartadvisor.com
-0.0.0.0 t.sgc.io
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.signalayer.com
 0.0.0.0 t.skimresources.com
@@ -911,7 +856,6 @@
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.search.sensefuel.live
-0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
@@ -943,7 +887,6 @@
 0.0.0.0 tr-op.datatrics.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datatrics.com
-0.0.0.0 tr.interlake.net
 0.0.0.0 tr.marsflag.com
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
@@ -952,9 +895,7 @@
 0.0.0.0 traccoon.intellectsoft.net
 0.0.0.0 track.91app.io
 0.0.0.0 track.99acres.com
-0.0.0.0 track.addevent.com
 0.0.0.0 track.atgstores.com
-0.0.0.0 track.atom-data.io
 0.0.0.0 track.bannedcelebs.com
 0.0.0.0 track.coherentpath.com
 0.0.0.0 track.contently.com
@@ -985,11 +926,9 @@
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
-0.0.0.0 track.vdo.ai
 0.0.0.0 track.venatusmedia.com
 0.0.0.0 track.vscash.com
 0.0.0.0 track.wayin.com
-0.0.0.0 track.written.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
 0.0.0.0 tracker.affiliate.iqoption.com
@@ -1032,7 +971,6 @@
 0.0.0.0 tracking.edvisors.com
 0.0.0.0 tracking.fanbridge.com
 0.0.0.0 tracking.feedperfect.com
-0.0.0.0 tracking.fits.me
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.godatafeed.com
 0.0.0.0 tracking.graphly.io
@@ -1049,8 +987,6 @@
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 tracking.markethero.io
-0.0.0.0 tracking.maxcdn.com
-0.0.0.0 tracking.menamarketplace.com
 0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.olx-st.com
@@ -1097,7 +1033,6 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uim.tifbs.net
 0.0.0.0 units.knotch.it
-0.0.0.0 upt.graphiq.com
 0.0.0.0 urldefense.com
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 usersegment.wpdigital.net
@@ -1106,7 +1041,6 @@
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com
-0.0.0.0 visit.geocities.com
 0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vmstats.varrando.com
 0.0.0.0 vortex.data.microsoft.com
@@ -1115,11 +1049,9 @@
 0.0.0.0 wco.crownpeak.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
-0.0.0.0 weblog.livesport.eu
 0.0.0.0 weblogger-dynamic-lb.playdom.com
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 webservices.websitepros.com
-0.0.0.0 webstats.motigo.com
 0.0.0.0 webstats.thaindian.com
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 widget-pixels.outbrain.com
@@ -1134,14 +1066,12 @@
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
-0.0.0.0 xt.persosa.com
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.samsungknox.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 appmetrica.yandex.com
-0.0.0.0 bigdata.ssp.samsung.com
 0.0.0.0 click.oneplus.cn
 0.0.0.0 data.hicloud.com
 0.0.0.0 extmaps-api.yandex.net
@@ -1155,7 +1085,6 @@
 0.0.0.0 open.oneplus.net
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 stat.xiaomi.com
-0.0.0.0 stats.redditmedia.com
 0.0.0.0 supportmetrics.apple.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 trk.pinterest.com
@@ -1166,6 +1095,7 @@
 0.0.0.0 d15kdaxu5c0hfw.cloudfront.net
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0 d1733r3id7jrw5.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d196fri2z18sm.cloudfront.net
@@ -1204,8 +1134,6 @@
 0.0.0.0 d24rtvkqjwgutp.cloudfront.net
 0.0.0.0 d25ezbwokoefx6.cloudfront.net
 0.0.0.0 d28g9g3vb08y70.cloudfront.net
-0.0.0.0 d2as12kgjg8gw5.cloudfront.net
-0.0.0.0 d2axgrpnciinw7.cloudfront.net
 0.0.0.0 d2cpw6kwpff7n5.cloudfront.net
 0.0.0.0 d2gbtcuv3w9qyv.cloudfront.net
 0.0.0.0 d2ibu2ug0mt5qp.cloudfront.net
@@ -1215,7 +1143,6 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
-0.0.0.0 d2r7bmv6l6bnd1.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
@@ -1231,7 +1158,6 @@
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
-0.0.0.0 d36upaw912d02q.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
 0.0.0.0 d3bj8nkfly20uo.cloudfront.net
 0.0.0.0 d3bo67muzbfgtl.cloudfront.net
@@ -1246,7 +1172,6 @@
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
-0.0.0.0 d3qfdthu9f51gu.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3qztsm17pgxue.cloudfront.net
 0.0.0.0 d3r7h55ola878c.cloudfront.net
@@ -1265,17 +1190,16 @@
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 ddrvjrfwnij7n.cloudfront.net
-0.0.0.0 de5v6rb80m4j1.cloudfront.net
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
 0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dnxlgencstz4.cloudfront.net
 0.0.0.0 dp64mxip2za0c.cloudfront.net
 0.0.0.0 drlimmode9ddd.cloudfront.net
 0.0.0.0 dsbahmgppc0j4.cloudfront.net
-0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 du4rq1xqh3i1k.cloudfront.net
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
