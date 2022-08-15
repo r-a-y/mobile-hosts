@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 08 Aug 2022 20:19:46 +0100
+# Last converted - Mon, 15 Aug 2022 23:57:50 +0100
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 metaversn.site
+0.0.0.0 hermes.allo-media.net
+0.0.0.0 cdn.cohesionapps.com
+0.0.0.0 c212.net
 0.0.0.0 imp.xmax.jp
 0.0.0.0 analytics.audionow.de
 0.0.0.0 cdn.kaizenplatform.net
@@ -485,7 +489,6 @@
 0.0.0.0 static.terratraf.io
 0.0.0.0 static.user-red.com
 0.0.0.0 b0e8.com
-0.0.0.0 bc0a.com
 0.0.0.0 medtargetsystem.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 rat.rakuten.co.jp
@@ -1666,7 +1669,6 @@
 0.0.0.0 cashcount.com
 0.0.0.0 cccpmo.com
 0.0.0.0 cedexis.com
-0.0.0.0 cedexis.net
 0.0.0.0 celebros-analytics.com
 0.0.0.0 centraltag.com
 0.0.0.0 certifica.com
@@ -2833,7 +2835,6 @@
 0.0.0.0 portfold.com
 0.0.0.0 posst.co
 0.0.0.0 postaffiliatepro.com
-0.0.0.0 postclickmarketing.com
 0.0.0.0 powercount.com
 0.0.0.0 pr-chart.com
 0.0.0.0 pr-chart.de
@@ -3640,6 +3641,7 @@
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
 0.0.0.0 functionalclam.com
+0.0.0.0 pocketfaucet.com
 0.0.0.0 childlikecrowd.com
 0.0.0.0 stretchsister.com
 0.0.0.0 tastelesstrucks.com
@@ -4702,6 +4704,13 @@
 0.0.0.0 tagman.britishairways.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 perf.hsforms.com
+0.0.0.0 tr.www.cloudflare.com
+0.0.0.0 client-metrics.chess.com
+0.0.0.0 stat.kwikmotion.com
+0.0.0.0 analytics.vpplayer.tech
+0.0.0.0 h.seznam.cz
+0.0.0.0 stat.cncenter.cz
 0.0.0.0 metrics.roblox.com
 0.0.0.0 t.xoom.com
 0.0.0.0 monorail-edge.shopifysvc.com
@@ -18892,7 +18901,6 @@
 0.0.0.0 ingest.make.rvapps.io
 0.0.0.0 wcs.naver.com
 0.0.0.0 signal-collector.gemaltodigitalbankingidcloud.com
-0.0.0.0 cdn.cohesionapps.com
 0.0.0.0 clck.yandex.ru
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 ty90nwjc8wjt-a.akamaihd.net
@@ -18903,7 +18911,6 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 google-analytics.com
 0.0.0.0 mrtg.emailpartners.net
-0.0.0.0 get.geojs.io
 0.0.0.0 beam.remp.nv.ua
 0.0.0.0 pjstat.com
 0.0.0.0 rtb.loopa.net.au
@@ -19034,6 +19041,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logs1407.xiti.com
 0.0.0.0 log1.apkomega.com
 0.0.0.0 log.pngindir.com
 0.0.0.0 log.happyapkdown.com
