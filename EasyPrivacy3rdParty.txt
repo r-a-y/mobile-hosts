@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 15 Aug 2022 23:57:50 +0100
+# Last converted - Mon, 22 Aug 2022 21:12:05 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -20,11 +20,11 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 affiliates.minglematch.com
+0.0.0.0 agent.contentsanalyst.com
 0.0.0.0 air.audioeye.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aktion.esprit-club.com
 0.0.0.0 alexandria.marfeelcdn.com
-0.0.0.0 am.i.mullvad.net
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
@@ -108,6 +108,7 @@
 0.0.0.0 analytics.pagefly.io
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
+0.0.0.0 analytics.pixels.ai
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
@@ -170,6 +171,7 @@
 0.0.0.0 aurora-d3.herokuapp.com
 0.0.0.0 awaps.yandex.net
 0.0.0.0 awesome.section.io
+0.0.0.0 ax.babe.today
 0.0.0.0 axislogger.appspot.com
 0.0.0.0 az693360.vo.msecnd.net
 0.0.0.0 b.bedop.com
@@ -361,6 +363,7 @@
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.rdstation.com.br
 0.0.0.0 event-listener.air.tv
+0.0.0.0 event-service.letslinc.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
@@ -559,7 +562,6 @@
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
-0.0.0.0 mcs-va.tiktok.com
 0.0.0.0 measure.refinery89.com
 0.0.0.0 mediametrics.mpsa.com
 0.0.0.0 metering.pagesuite.com
@@ -659,6 +661,7 @@
 0.0.0.0 pixels.afcdn.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 plausibleio.workers.dev
+0.0.0.0 pm.boostintegrated.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.ex.co
@@ -904,6 +907,7 @@
 0.0.0.0 track.cordial.io
 0.0.0.0 track.custora.com
 0.0.0.0 track.digitalriver.com
+0.0.0.0 track.emerse.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.juno.com
 0.0.0.0 track.mailerlite.com
@@ -956,6 +960,7 @@
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 tracker.wigzopush.com
 0.0.0.0 tracker.wpserveur.net
+0.0.0.0 tracker.xgen.dev
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking.adalyser.com
@@ -989,7 +994,6 @@
 0.0.0.0 tracking.livingsocial.com
 0.0.0.0 tracking.magnetmail.net
 0.0.0.0 tracking.markethero.io
-0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.pacharge.com
