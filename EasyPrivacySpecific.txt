@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 22 Aug 2022 21:12:05 +0100
+# Last converted - Mon, 29 Aug 2022 20:25:27 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -207,6 +207,7 @@
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 heap.drop.com
+0.0.0.0 hfp.intuit.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 indmetric.rediff.com
@@ -250,6 +251,7 @@
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
@@ -291,6 +293,7 @@
 0.0.0.0 pixel.tuko.co.ke
 0.0.0.0 pixelzirkus.gameforge.com
 0.0.0.0 pixiedust.buzzfeed.com
+0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 pm.dailykos.com
@@ -579,6 +582,7 @@
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
 0.0.0.0 w-profiling.cibc.com
+0.0.0.0 w-profiling.simplii.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 eventbus.intuit.com
