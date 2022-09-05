@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 29 Aug 2022 20:25:27 +0100
+# Last converted - Mon, 05 Sep 2022 21:45:16 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -100,6 +100,7 @@
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 collect.alipay.com
+0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
@@ -445,6 +446,7 @@
 0.0.0.0 stat.livesportbar.net
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.tildacdn.com
+0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
