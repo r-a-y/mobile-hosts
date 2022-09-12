@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 05 Sep 2022 21:45:16 +0100
+# Last converted - Mon, 12 Sep 2022 23:11:24 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -228,6 +228,7 @@
 0.0.0.0 j927.statnews.com
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
+0.0.0.0 l.ctrl.blog
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
@@ -281,6 +282,7 @@
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
+0.0.0.0 pingo.staticmoly.me
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixel.archive.is
 0.0.0.0 pixel.archive.ph
@@ -529,6 +531,7 @@
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.unrealengine.com
+0.0.0.0 tracking1.filemoon.sx
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
