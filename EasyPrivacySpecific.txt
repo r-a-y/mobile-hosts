@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 12 Sep 2022 23:11:24 +0100
+# Last converted - Tue, 20 Sep 2022 00:20:40 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -515,6 +515,7 @@
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.kueez.com
 0.0.0.0 track.lexico.com
+0.0.0.0 track.mrgugu.com
 0.0.0.0 track.netzero.net
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.totalav.com
@@ -588,6 +589,7 @@
 0.0.0.0 event.evtm.53.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
+0.0.0.0 cdn1.skrill.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
 0.0.0.0 eventbus.intuit.com
