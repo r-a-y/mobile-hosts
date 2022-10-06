@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 27 Sep 2022 00:04:36 +0100
+# Last converted - Thu, 06 Oct 2022 05:58:41 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -29,6 +29,7 @@
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-proxy.springboard.com
+0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
@@ -218,6 +219,7 @@
 0.0.0.0 intent.macworld.co.uk
 0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 intent.techadvisor.com
+0.0.0.0 internal-analytics.odoo.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
@@ -252,6 +254,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
+0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
@@ -262,6 +265,7 @@
 0.0.0.0 metrics.syf.com
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
+0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
@@ -590,10 +594,12 @@
 0.0.0.0 substation.confection.io
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
+0.0.0.0 content22.bmoharris.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
+0.0.0.0 wup-content23.bmoharris.com
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
