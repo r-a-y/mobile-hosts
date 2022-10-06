@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 27 Sep 2022 00:04:33 +0100
+# Last converted - Thu, 06 Oct 2022 05:58:38 +0100
 #
 
 0.0.0.0 advil.waze.com
@@ -84,6 +84,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 shalltry.com
+0.0.0.0 everestop.io
+0.0.0.0 mmp001.scalemonk.com
 0.0.0.0 promotionad.nvcam.net
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 krt.asycxtz.cn
