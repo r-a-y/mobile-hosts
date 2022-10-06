@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 27 Sep 2022 00:04:37 +0100
+# Last converted - Thu, 06 Oct 2022 05:58:41 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -80,6 +80,7 @@
 0.0.0.0 analytics.formstack.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.groupe-seb.com
+0.0.0.0 analytics.growthphysics.com
 0.0.0.0 analytics.gvim.mobi
 0.0.0.0 analytics.humanautomation.ai
 0.0.0.0 analytics.inform.com
@@ -160,7 +161,6 @@
 0.0.0.0 api.carrottrack.io
 0.0.0.0 api.wipmania.com
 0.0.0.0 apple.www.letv.com
-0.0.0.0 applicationinsights.azure.com
 0.0.0.0 argos.citruserve.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 attributiontrackingga.googlecode.com
@@ -500,6 +500,7 @@
 0.0.0.0 k.keyade.com
 0.0.0.0 k.streamrail.com
 0.0.0.0 kalstats.kaltura.com
+0.0.0.0 kinesis.eu-west-1.amazonaws.com
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 klarnaservices.com
 0.0.0.0 klm-ea.jscrambler.com
@@ -540,6 +541,7 @@
 0.0.0.0 log.seekda.com
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.carambo.la
+0.0.0.0 logging.cmp-resources.link
 0.0.0.0 logging.je-apps.com
 0.0.0.0 logging.prefixbox.com
 0.0.0.0 loggingapi.spingo.com
@@ -574,6 +576,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.kmsmep.com
+0.0.0.0 metrics.mdstrm.com
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.scribblelive.com
@@ -1212,7 +1215,6 @@
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
 0.0.0.0 dl1d2m8ri9v3j.cloudfront.net
-0.0.0.0 dn0qt3r0xannq.cloudfront.net
 0.0.0.0 dn34cbtcv9mef.cloudfront.net
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnxlgencstz4.cloudfront.net
@@ -1247,11 +1249,8 @@
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 e77lmzbqou0n-a.akamaihd.net
 0.0.0.0 ninja.akamaized.net
+0.0.0.0 pnekru6pxrum-a.akamaihd.net
 0.0.0.0 pxlgnpgecom-a.akamaihd.net
-0.0.0.0 rndntpmgnj-a.akamaihd.net
-0.0.0.0 sgphctileh-a.akamaihd.net
-0.0.0.0 uhytajrtpo-a.akamaihd.net
-0.0.0.0 zvsuhljiha-a.akamaihd.net
 0.0.0.0 7q1z79gxsi.global.ssl.fastly.net
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
