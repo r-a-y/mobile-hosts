@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 06 Oct 2022 05:58:41 +0100
+# Last converted - Mon, 10 Oct 2022 19:39:40 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -130,6 +130,7 @@
 0.0.0.0 d.skk.moe
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.younow.com
+0.0.0.0 datadome.patreon.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 deliver.ptgncdn.com
@@ -546,7 +547,6 @@
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
-0.0.0.0 tspmagic.tumblr.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
