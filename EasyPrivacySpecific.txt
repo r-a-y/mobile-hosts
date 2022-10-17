@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 10 Oct 2022 19:39:40 +0100
+# Last converted - Mon, 17 Oct 2022 18:58:00 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -48,6 +48,7 @@
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
+0.0.0.0 analytics.oyorooms.com
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au
@@ -66,6 +67,7 @@
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bdt.123rf.com
+0.0.0.0 beacon.dropbox.com
 0.0.0.0 beacon.samsclub.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.shutterfly.com
@@ -159,6 +161,7 @@
 0.0.0.0 euclid.kuula.co
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 event-api.reverb.com
+0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-service.coinbase.com
@@ -311,6 +314,7 @@
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulse.delta.com
 0.0.0.0 pumpkin.abine.com
+0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 pxl.indeed.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.bbci.co.uk
@@ -446,6 +450,7 @@
 0.0.0.0 spectrum.gettyimages.com
 0.0.0.0 squirrel.malaynahocker.com
 0.0.0.0 srtb.msn.com
+0.0.0.0 srv.plesk.com
 0.0.0.0 ss.photospecialist.co.uk
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 st.sawlive.tv
@@ -536,6 +541,7 @@
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.uprinting.com
 0.0.0.0 tracking.carsales.com.au
+0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hsn.com
