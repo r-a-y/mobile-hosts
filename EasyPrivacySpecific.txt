@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 17 Oct 2022 18:58:00 +0100
+# Last converted - Mon, 24 Oct 2022 23:35:03 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -12,6 +12,7 @@
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab-machine.forbes.com
 0.0.0.0 ab.fanatical.com
+0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
@@ -29,6 +30,7 @@
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-proxy.springboard.com
+0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adfreetime.com
@@ -37,6 +39,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 analytics.evolution-x.org
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
@@ -62,6 +65,7 @@
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 appanalysis.banggood.com
+0.0.0.0 assets.instacart.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 bat.maydream.com
@@ -87,6 +91,7 @@
 0.0.0.0 c.ypcdn.com
 0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cl.canva.com
+0.0.0.0 clarice.streema.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.nudevista.com
 0.0.0.0 click.oneplus.com
@@ -107,6 +112,7 @@
 0.0.0.0 collect.banggood.com
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
+0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.github.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
@@ -126,6 +132,7 @@
 0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
+0.0.0.0 cryo.socialblade.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.getpocket.com
@@ -274,6 +281,7 @@
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
 0.0.0.0 msg-intl.qy.net
+0.0.0.0 mxpl.9gag.com
 0.0.0.0 n26-trusted.n26.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
@@ -439,6 +447,7 @@
 0.0.0.0 sp.vcstar.com
 0.0.0.0 sp.visaliatimesdelta.com
 0.0.0.0 sp.wausaudailyherald.com
+0.0.0.0 sp.welcometothejungle.com
 0.0.0.0 sp.wisconsinrapidstribune.com
 0.0.0.0 sp.ydr.com
 0.0.0.0 sp.yorkdispatch.com
@@ -509,7 +518,9 @@
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 td.airdroid.com
 0.0.0.0 ted.dailymail.co.uk
+0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
@@ -601,8 +612,11 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 content22.bmoharris.com
+0.0.0.0 content22.citibank.com.sg
+0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
+0.0.0.0 olacontent.schwab.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 wup-content23.bmoharris.com
