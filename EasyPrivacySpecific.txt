@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 24 Oct 2022 23:35:03 +0100
+# Last converted - Mon, 31 Oct 2022 19:03:39 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -245,6 +245,7 @@
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
+0.0.0.0 lists.ccmbg.com
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.ctrl.blog
