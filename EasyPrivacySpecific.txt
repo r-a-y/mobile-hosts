@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 31 Oct 2022 19:03:39 +0000
+# Last converted - Mon, 07 Nov 2022 21:14:34 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -17,6 +17,7 @@
 0.0.0.0 adc.9news.com.au
 0.0.0.0 adc.api.nine.com.au
 0.0.0.0 adc.nine.com.au
+0.0.0.0 adl.bankofthewest.com
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 affiliate.gearbest.com
@@ -192,6 +193,7 @@
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-cdn.decrypt.co
 0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -202,6 +204,7 @@
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gekko.spiceworks.com
+0.0.0.0 geo.brobible.com
 0.0.0.0 geo.gfycat.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.yahoo.com
@@ -220,7 +223,6 @@
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 hanaana.socialblade.com
 0.0.0.0 heap.drop.com
-0.0.0.0 hfp.intuit.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 indmetric.rediff.com
@@ -277,6 +279,7 @@
 0.0.0.0 metrics.syf.com
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
+0.0.0.0 midas.chase.com
 0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mon.us.tiktokv.com
@@ -352,6 +355,7 @@
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
+0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
 0.0.0.0 sp.azcentral.com
@@ -565,7 +569,7 @@
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
-0.0.0.0 u47.pnc.com
+0.0.0.0 u44.pnc.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
@@ -591,6 +595,7 @@
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 wtk.db.com
 0.0.0.0 xstats.evoload.io
+0.0.0.0 yfp.intuit.com
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 zap.dw-world.de
 0.0.0.0 zion-telemetry.api.cnn.io
