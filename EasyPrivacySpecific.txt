@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 21 Nov 2022 19:18:44 +0000
+# Last converted - Mon, 28 Nov 2022 20:32:25 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -64,6 +64,7 @@
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.vedantu.com
+0.0.0.0 analytics.yugen.to
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 assets.instacart.com
@@ -141,6 +142,7 @@
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.patreon.com
+0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 deliver.ptgncdn.com
@@ -572,7 +574,6 @@
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
-0.0.0.0 u44.pnc.com
 0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
@@ -629,6 +630,8 @@
 0.0.0.0 event.evtm.53.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 tmetrix.my.chick-fil-a.com
+0.0.0.0 u44.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 wup-content23.bmoharris.com
