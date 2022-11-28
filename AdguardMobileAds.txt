@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 21 Nov 2022 19:18:40 +0000
+# Last converted - Mon, 28 Nov 2022 20:32:20 +0000
 #
 
 0.0.0.0 advil.waze.com
@@ -84,6 +84,8 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 sitewithg.me
+0.0.0.0 bugs2022.com
 0.0.0.0 thecatmachine.com
 0.0.0.0 blueduckredapple.com
 0.0.0.0 cdn.mobilefuse.com
