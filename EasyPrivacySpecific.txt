@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Nov 2022 20:32:25 +0000
+# Last converted - Mon, 05 Dec 2022 19:48:50 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -29,7 +29,6 @@
 0.0.0.0 amethyst.zappos.com
 0.0.0.0 ampltd.top.gg
 0.0.0.0 analyselog.dx.com
-0.0.0.0 analytics-api.dvdfab.cn
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-zone-1.api.leadfamly.com
@@ -49,6 +48,7 @@
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kraken.com
+0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
@@ -155,6 +155,7 @@
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 e377.thestar.com
 0.0.0.0 ea.epochbase.com
+0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 engagefront.meteomedia.com
