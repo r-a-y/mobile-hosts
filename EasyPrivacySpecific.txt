@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 12 Dec 2022 20:05:32 +0000
+# Last converted - Mon, 19 Dec 2022 21:36:41 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -648,6 +648,7 @@
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 wup-content23.bmoharris.com
+0.0.0.0 bup.bankofamerica.com
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 d276.ourmidland.com
 0.0.0.0 d810.mysanantonio.com
@@ -660,8 +661,8 @@
 0.0.0.0 o398.trumbulltimes.com
 0.0.0.0 pf.intuit.com
 0.0.0.0 q777.sfchronicle.com
+0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 t570.wiltonbulletin.com
-0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 w740.newstimes.com
