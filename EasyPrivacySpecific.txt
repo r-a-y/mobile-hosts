@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 19 Dec 2022 21:36:41 +0000
+# Last converted - Mon, 26 Dec 2022 20:41:45 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -39,7 +39,6 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
-0.0.0.0 analytics.evolution-x.org
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
@@ -81,9 +80,7 @@
 0.0.0.0 beacon.shutterfly.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
-0.0.0.0 beam-ws.giraffe360.com
 0.0.0.0 beam.bankrate.com
-0.0.0.0 beam.giraffe360.com
 0.0.0.0 bfp.capitalone.com
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
@@ -156,7 +153,6 @@
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
-0.0.0.0 e377.thestar.com
 0.0.0.0 ea.epochbase.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
@@ -257,11 +253,9 @@
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
-0.0.0.0 log.ctrl.blog
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
 0.0.0.0 log.mappy.net
-0.0.0.0 log.mgtv.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.webnovel.com
@@ -296,6 +290,7 @@
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mxpl.9gag.com
 0.0.0.0 n26-trusted.n26.com
+0.0.0.0 n511.thestar.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
@@ -343,6 +338,7 @@
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 r.my.com
 0.0.0.0 rankhit.china.com
+0.0.0.0 ras.yahoo.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com
 0.0.0.0 retargeting.vistaprint.com
@@ -564,7 +560,6 @@
 0.0.0.0 track.totalav.com
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracker.affiliate.iqbroker.com
-0.0.0.0 tracker.jawcloud.co
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracker.uprinting.com
@@ -607,7 +602,6 @@
 0.0.0.0 wtk.db.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
-0.0.0.0 zap.dw-world.de
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 track.opentable.ae
 0.0.0.0 track.opentable.ca
@@ -686,7 +680,6 @@
 0.0.0.0 cmp.tech426.com
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
-0.0.0.0 commsvc.stern.de
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 eurogamer-it.eurogamer.it
 0.0.0.0 eurogamer-pl.eurogamer.pl
