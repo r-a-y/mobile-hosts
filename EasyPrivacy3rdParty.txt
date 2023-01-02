@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 26 Dec 2022 20:41:46 +0000
+# Last converted - Mon, 02 Jan 2023 19:40:33 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -232,7 +232,6 @@
 0.0.0.0 cdn-channels-pixel.ex.co
 0.0.0.0 cdn.trafficexchangelist.com
 0.0.0.0 cdn.usefathom.com
-0.0.0.0 ce.lijit.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
@@ -529,6 +528,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 loader.zeroform.com
+0.0.0.0 log-global.aliyuncs.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.artipbox.net
 0.0.0.0 log.cookieyes.com
@@ -590,7 +590,6 @@
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mon.domdog.io
 0.0.0.0 monitor.azure.com
-0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 ms-trackingapi.phenompeople.com
 0.0.0.0 mts.mansion.com
@@ -783,6 +782,7 @@
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
+0.0.0.0 stats.callnowbutton.com
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.curds.io
 0.0.0.0 stats.datahjaelp.net
