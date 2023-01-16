@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 09 Jan 2023 20:13:32 +0000
+# Last converted - Mon, 16 Jan 2023 20:41:27 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -14,6 +14,7 @@
 0.0.0.0 a.hcaptcha.com
 0.0.0.0 a.mobify.com
 0.0.0.0 aan.amazon.com
+0.0.0.0 actioniq.mr-in.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad.aloodo.com
@@ -214,6 +215,7 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
 0.0.0.0 c.amazinglybrilliant.com.au
+0.0.0.0 c.bazo.io
 0.0.0.0 c.imedia.cz
 0.0.0.0 c.live.com
 0.0.0.0 c.mgid.com
@@ -271,6 +273,7 @@
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.sspinc.io
+0.0.0.0 commerce.bing.com
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 connect.idocdn.com
@@ -619,10 +622,12 @@
 0.0.0.0 onetrust.com
 0.0.0.0 open.delivery.net
 0.0.0.0 openxcdn.net
+0.0.0.0 optimeeze.appspot.com
 0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.placed.com
+0.0.0.0 p.typekit.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 pages-stats.rbl.ms
@@ -651,6 +656,7 @@
 0.0.0.0 pix.spot.im
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.ampry.com
+0.0.0.0 pixel.archipro.co.nz
 0.0.0.0 pixel.blivenyc.com
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
@@ -759,6 +765,7 @@
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 sonar.viously.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
+0.0.0.0 sp.tinymce.com
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 ssa.stepstone.com
 0.0.0.0 ssr.streamrail.net
@@ -873,6 +880,7 @@
 0.0.0.0 tag.brandcdn.com
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
+0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
@@ -954,6 +962,7 @@
 0.0.0.0 track.wayin.com
 0.0.0.0 track.yfret.com
 0.0.0.0 track.yieldsoftware.com
+0.0.0.0 tracker-dot-optimeeze.appspot.com
 0.0.0.0 tracker.affiliate.iqoption.com
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker.arc.io
@@ -984,6 +993,7 @@
 0.0.0.0 tracker.xgen.dev
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
+0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.ads.global-fashion-group.com
 0.0.0.0 tracking.aegpresents.com
@@ -1190,6 +1200,7 @@
 0.0.0.0 d3bo67muzbfgtl.cloudfront.net
 0.0.0.0 d3cgm8py10hi0z.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3gi6isrskhoq.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
