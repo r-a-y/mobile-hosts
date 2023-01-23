@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 16 Jan 2023 20:41:26 +0000
+# Last converted - Mon, 23 Jan 2023 21:18:24 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -207,6 +207,7 @@
 0.0.0.0 ga.dx.com
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
+0.0.0.0 gct.americanexpress.com
 0.0.0.0 gekko.spiceworks.com
 0.0.0.0 geo.brobible.com
 0.0.0.0 geo.gfycat.com
@@ -253,7 +254,6 @@
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
 0.0.0.0 lists.ccmbg.com
-0.0.0.0 log-api.newrelic.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
