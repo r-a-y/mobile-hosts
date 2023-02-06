@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 30 Jan 2023 18:02:59 +0000
+# Last converted - Mon, 06 Feb 2023 21:00:18 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -254,6 +254,7 @@
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
 0.0.0.0 lists.ccmbg.com
+0.0.0.0 log-gateway.zoom.us
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
@@ -346,6 +347,7 @@
 0.0.0.0 reports.tunein.com
 0.0.0.0 retargeting.vistaprint.com
 0.0.0.0 rfk.biglots.com
+0.0.0.0 ring.staticmoly.me
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 rs.mail.ru
