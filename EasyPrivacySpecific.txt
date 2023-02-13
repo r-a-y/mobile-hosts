@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 06 Feb 2023 21:00:18 +0000
+# Last converted - Mon, 13 Feb 2023 21:02:46 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -37,6 +37,7 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
+0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.faceitanalytics.com
