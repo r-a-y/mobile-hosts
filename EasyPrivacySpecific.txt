@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 13 Feb 2023 21:02:46 +0000
+# Last converted - Mon, 20 Feb 2023 23:23:58 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -62,7 +62,6 @@
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
 0.0.0.0 analytics.synedat.com
-0.0.0.0 analytics.touchnote.io
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.vedantu.com
@@ -163,6 +162,7 @@
 0.0.0.0 ekg.riotgames.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
+0.0.0.0 engine.traceparts.com
 0.0.0.0 enlightenment.secureshoppingbasket.com
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
@@ -282,9 +282,11 @@
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io
 0.0.0.0 metrics.syf.com
+0.0.0.0 metrics.ted.com
 0.0.0.0 metricsishare.rediff.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 midas.chase.com
+0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mms.cnn.com
 0.0.0.0 mon.us.tiktokv.com
@@ -294,7 +296,6 @@
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mxpl.9gag.com
 0.0.0.0 n26-trusted.n26.com
-0.0.0.0 n511.thestar.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 nm.newegg.com
@@ -479,7 +480,6 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.plesk.com
 0.0.0.0 ss.photospecialist.co.uk
-0.0.0.0 ssc.api.bbc.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
 0.0.0.0 stat.cdngeek.com
@@ -614,6 +614,7 @@
 0.0.0.0 wtk.db.com
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
+0.0.0.0 z737.thestar.com
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 track.opentable.ae
 0.0.0.0 track.opentable.ca
