@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 20 Feb 2023 23:23:58 +0000
+# Last converted - Mon, 13 Mar 2023 20:31:43 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -20,6 +20,7 @@
 0.0.0.0 adl.bankofthewest.com
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adv.drtuber.com
+0.0.0.0 aegis.trovo.live
 0.0.0.0 affiliate.gearbest.com
 0.0.0.0 affiliates.treasureisland.com
 0.0.0.0 affiliates.vpn.ht
@@ -305,6 +306,8 @@
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 p.fusevideo.net
+0.0.0.0 p.hentaiforce.net
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 perf.mouser.com
@@ -512,6 +515,7 @@
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
 0.0.0.0 streamstats.prd.dlive.tv
+0.0.0.0 t.3hentai.net
 0.0.0.0 t.9gag.com
 0.0.0.0 t.allmodern.com
 0.0.0.0 t.appsflyer.com
@@ -584,6 +588,7 @@
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 tracking1.filemoon.sx
+0.0.0.0 trackr.vivenu.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
