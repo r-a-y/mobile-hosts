@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 20 Mar 2023 18:37:05 +0000
+# Last converted - Tue, 04 Apr 2023 05:55:49 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -29,6 +29,7 @@
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amethyst.zappos.com
 0.0.0.0 ampltd.top.gg
+0.0.0.0 ampltd2.medal.tv
 0.0.0.0 analyselog.dx.com
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-tracking.meetup.com
@@ -92,7 +93,6 @@
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
-0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 cl.canva.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 click.aliexpress.com
@@ -141,7 +141,6 @@
 0.0.0.0 cryo.socialblade.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
-0.0.0.0 d.getpocket.com
 0.0.0.0 d.skk.moe
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.younow.com
@@ -227,6 +226,7 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
 0.0.0.0 gotie.tunein.com
+0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 hanaana.socialblade.com
@@ -234,6 +234,7 @@
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 i.pokernews.com
 0.0.0.0 iedc.fitbit.com
+0.0.0.0 ih.newegg.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingress.linktr.ee
 0.0.0.0 intent.cmo.com.au
@@ -281,6 +282,7 @@
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
+0.0.0.0 metrics.newegg.com
 0.0.0.0 metrics.roblox.com
 0.0.0.0 metrics.spkt.io
 0.0.0.0 metrics.syf.com
@@ -358,6 +360,7 @@
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
 0.0.0.0 rs.mail.ru
+0.0.0.0 rstat.rockmostbet.com
 0.0.0.0 rt.newswire.ca
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rta.dailymail.co.uk
