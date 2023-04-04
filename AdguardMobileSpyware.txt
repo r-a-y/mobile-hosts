@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 20 Mar 2023 18:37:01 +0000
+# Last converted - Tue, 04 Apr 2023 05:55:44 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -69,6 +69,9 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 register.appsflyersdk.com
+0.0.0.0 conversions.appsflyersdk.com
+0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 af-event-logger.appsflyer.com
@@ -127,6 +130,22 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 profiler-collector.wshareit.com
+0.0.0.0 hellay.net
+0.0.0.0 receiver-metis.infeng.site
+0.0.0.0 dt.beyla.site
+0.0.0.0 collect.analytics.unity3d.com
+0.0.0.0 accscdn.m.taobao.com
+0.0.0.0 acs.m.taobao.com
+0.0.0.0 apsrgeo.amap.com
+0.0.0.0 confe.dc.oppomobile.com
+0.0.0.0 conff.dc.oppomobile.com
+0.0.0.0 dragate.dc.oppomobile.com
+0.0.0.0 esa-reg-eup.myoppo.com
+0.0.0.0 heytapmobile.com
+0.0.0.0 moa-upload-online.coloros.com
+0.0.0.0 stat-in.dc.oppomobile.com
+0.0.0.0 prod-analytics.royal.drmgms.com
 0.0.0.0 trckr.contextualadv.com
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logger.growstarry.com
