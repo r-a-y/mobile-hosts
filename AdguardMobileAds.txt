@@ -1,9 +1,11 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 20 Mar 2023 18:37:01 +0000
+# Last converted - Tue, 04 Apr 2023 05:55:43 +0100
 #
 
+0.0.0.0 ad-splash-tracking.hktvmall.com
+0.0.0.0 ad-splash.hktvmall.com
 0.0.0.0 advil.waze.com
 0.0.0.0 xjnwqdospderqtk.ru
 0.0.0.0 nfiuerwtftasnuk.com
@@ -34,7 +36,7 @@
 0.0.0.0 search.adcaffe.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 ad-api.ehawk.com
-0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
+0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 bu1.duba.com
@@ -83,6 +85,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 rqmob.com
+0.0.0.0 ads-server.mxplay.com
+0.0.0.0 mxaserver.mxplay.com
 0.0.0.0 contextualadv.com
 0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 tk0x1.com
