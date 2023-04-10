@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 04 Apr 2023 05:55:44 +0100
+# Last converted - Mon, 10 Apr 2023 16:25:43 +0100
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -81,7 +81,6 @@
 0.0.0.0 appsflyer-report.honkaiimpact3.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 banner.appsflyer.com
-0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdnappicons.appsflyer.com
 0.0.0.0 conversions.appsflyer.com
 0.0.0.0 dls2s.appsflyer.com
@@ -130,8 +129,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 events-api.soundcloud.com
+0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 profiler-collector.wshareit.com
-0.0.0.0 hellay.net
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 dt.beyla.site
 0.0.0.0 collect.analytics.unity3d.com
