@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 04 Apr 2023 05:55:43 +0100
+# Last converted - Mon, 10 Apr 2023 16:25:43 +0100
 #
 
 0.0.0.0 ad-splash-tracking.hktvmall.com
@@ -85,6 +85,8 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 external-ad.bunjang.co.kr
+0.0.0.0 hellay.net
 0.0.0.0 rqmob.com
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 mxaserver.mxplay.com
