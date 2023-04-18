@@ -1,9 +1,10 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 10 Apr 2023 16:25:43 +0100
+# Last converted - Tue, 18 Apr 2023 16:56:57 +0100
 #
 
+0.0.0.0 dad-api.dcard.tw
 0.0.0.0 ad-splash-tracking.hktvmall.com
 0.0.0.0 ad-splash.hktvmall.com
 0.0.0.0 advil.waze.com
@@ -85,6 +86,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 skt-asum.com
+0.0.0.0 bdapi-in-ads.realmemobile.com
+0.0.0.0 bjads.bejbej.ca
 0.0.0.0 external-ad.bunjang.co.kr
 0.0.0.0 hellay.net
 0.0.0.0 rqmob.com
@@ -126,7 +130,7 @@
 0.0.0.0 qist.me
 0.0.0.0 ads-gdl.imovideo.ru
 0.0.0.0 ads.imovideo.ru
-0.0.0.0 turbo.adsbynimbus.com
+0.0.0.0 adsbynimbus.com
 0.0.0.0 adsgard.aprod.scopely.io
 0.0.0.0 ads-interfaces.sc-cdn.net
 0.0.0.0 adsapi.snapchat.com
