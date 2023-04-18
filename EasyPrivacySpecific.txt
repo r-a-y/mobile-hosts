@@ -1,11 +1,12 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 10 Apr 2023 16:25:47 +0100
+# Last converted - Tue, 18 Apr 2023 16:57:01 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
+0.0.0.0 a.tellonym.me
 0.0.0.0 a10.nationalreview.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
@@ -85,7 +86,9 @@
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beam.bankrate.com
+0.0.0.0 beat.socialblade.com
 0.0.0.0 bfp.capitalone.com
+0.0.0.0 bin.vinted.net
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 boomerang.dell.com
@@ -139,7 +142,6 @@
 0.0.0.0 crayfish.thingelstad.com
 0.0.0.0 crta.metro.co.uk
 0.0.0.0 crumbs.robinhood.com
-0.0.0.0 cryo.socialblade.com
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.skk.moe
@@ -230,7 +232,6 @@
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
-0.0.0.0 hanaana.socialblade.com
 0.0.0.0 heap.drop.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 i.pokernews.com
@@ -573,6 +574,7 @@
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 track-visit.monday.com
 0.0.0.0 track.dictionary.com
+0.0.0.0 track.eurogirlsescort.com
 0.0.0.0 track.kueez.com
 0.0.0.0 track.lexico.com
 0.0.0.0 track.mrgugu.com
