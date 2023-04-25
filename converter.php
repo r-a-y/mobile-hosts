@@ -90,6 +90,10 @@ foreach ( $lists as $name => $list ) {
 		if ( 'soundcloud.com' === $filter ) {
 			continue;
 		}
+		// See https://github.com/r-a-y/mobile-hosts/issues/26.
+		if ( 'global.ssl.fastly.net' === $filter ) {
+			continue;
+		}
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
