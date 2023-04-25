@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 18 Apr 2023 16:57:01 +0100
+# Last converted - Tue, 25 Apr 2023 04:34:19 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -40,7 +40,6 @@
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
-0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.faceitanalytics.com
@@ -70,6 +69,7 @@
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
+0.0.0.0 analytics4.dashboard.fingerprint.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 appanalysis.banggood.com
@@ -92,12 +92,14 @@
 0.0.0.0 binocule21c.merriam-webster.com
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 boomerang.dell.com
+0.0.0.0 c.fingerprint.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
 0.0.0.0 cl.canva.com
+0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.nudevista.com
@@ -151,6 +153,7 @@
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
+0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 desa.fkapi.net
 0.0.0.0 desb.fkapi.net
@@ -191,6 +194,7 @@
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.santander.co.uk
+0.0.0.0 events.squarespace.com
 0.0.0.0 events.turbosquid.com
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 exr-mms.expertreviews.co.uk
@@ -204,6 +208,7 @@
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpa-cdn.decrypt.co
 0.0.0.0 fpa-events.decrypt.co
+0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
 0.0.0.0 g.ign.com
@@ -224,7 +229,6 @@
 0.0.0.0 geoip.viamichelin.com
 0.0.0.0 geolocation.forbes.com
 0.0.0.0 glassmoni.researchgate.net
-0.0.0.0 global.ssl.fastly.net
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
@@ -511,6 +515,7 @@
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
+0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.pandora.com
 0.0.0.0 stats.paste2.org
 0.0.0.0 stats.pstream.net
@@ -590,7 +595,6 @@
 0.0.0.0 tracking.carsales.com.au
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
-0.0.0.0 tracking.epicgames.com
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
@@ -605,6 +609,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uie.data.cbc.ca
+0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 urs.metacritic.com
 0.0.0.0 user-metrics.onthemarket.com
@@ -664,6 +669,7 @@
 0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 tmetrix.my.chick-fil-a.com
+0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 u44.pnc.com
 0.0.0.0 u47.pnc.com
@@ -720,6 +726,7 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 twus-mms.theweek.com
 0.0.0.0 usgamer-us.usgamer.net
+0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 piti.bplaced.net
 0.0.0.0 3gl.net
