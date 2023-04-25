@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 18 Apr 2023 16:56:57 +0100
+# Last converted - Tue, 25 Apr 2023 04:34:15 +0100
 #
 
 0.0.0.0 dad-api.dcard.tw
@@ -86,6 +86,9 @@
 0.0.0.0 54.222.186.106
 0.0.0.0 plugin.mobopay.baidu.com
 0.0.0.0 mo.freeindoapp.com
+0.0.0.0 offerwall.yandex.net
+0.0.0.0 adsmrapi.imbc.com
+0.0.0.0 ads.imbc.com
 0.0.0.0 skt-asum.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bjads.bejbej.ca
