@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 25 Apr 2023 04:34:19 +0100
+# Last converted - Sat, 06 May 2023 03:55:34 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -106,7 +106,6 @@
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.sinx.com
 0.0.0.0 click.udimg.com
-0.0.0.0 clicks.hurriyet.com.tr
 0.0.0.0 client-log.box.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 clp-mms.cloudpro.co.uk
@@ -147,6 +146,7 @@
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 d.cdngeek.com
 0.0.0.0 d.skk.moe
+0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.patreon.com
@@ -599,13 +599,11 @@
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.unrealengine.com
-0.0.0.0 tracking1.filemoon.sx
 0.0.0.0 trackr.vivenu.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
-0.0.0.0 u989.theweek.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 uie.data.cbc.ca
@@ -702,7 +700,6 @@
 0.0.0.0 z680.beaumontenterprise.com
 0.0.0.0 zion.qbo.intuit.com
 0.0.0.0 cb-mms.carbuyer.co.uk
-0.0.0.0 cdn-alliancegravity.s3.amazonaws.com
 0.0.0.0 cmp.courrierinternational.com
 0.0.0.0 cmp.finn.no
 0.0.0.0 cmp.huffingtonpost.fr
@@ -715,18 +712,13 @@
 0.0.0.0 cmp.tek.no
 0.0.0.0 cmp.telerama.fr
 0.0.0.0 d.sourcepoint.capitalfm.com
-0.0.0.0 eurogamer-it.eurogamer.it
-0.0.0.0 eurogamer-pl.eurogamer.pl
-0.0.0.0 eurogamer-pt.eurogamer.pt
 0.0.0.0 fuse.forbes.com
 0.0.0.0 h-bid.com
-0.0.0.0 mms.wwe.com
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
-0.0.0.0 twus-mms.theweek.com
-0.0.0.0 usgamer-us.usgamer.net
 0.0.0.0 vg247-p2.vg247.com
+0.0.0.0 vg247-uk.vg247.com
 0.0.0.0 cdn1.pebx.pl
 0.0.0.0 piti.bplaced.net
 0.0.0.0 3gl.net
@@ -737,7 +729,6 @@
 0.0.0.0 contentspread.net
 0.0.0.0 cpx.to
 0.0.0.0 criteo.com
-0.0.0.0 crwdcntrl.net
 0.0.0.0 cxense.com
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 ds-aksb-a.akamaihd.net
