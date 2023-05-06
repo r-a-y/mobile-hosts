@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 25 Apr 2023 04:34:19 +0100
+# Last converted - Sat, 06 May 2023 03:55:35 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -38,6 +38,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
 0.0.0.0 analytics-cms.whitebeard.me
+0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
@@ -57,13 +58,11 @@
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
-0.0.0.0 analytics.clickpathmedia.com
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.convertlanguage.com
-0.0.0.0 analytics.datahc.com
 0.0.0.0 analytics.dealer.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
@@ -96,6 +95,7 @@
 0.0.0.0 analytics.livestream.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.m7g.twitch.tv
+0.0.0.0 analytics.maikel.pro
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.matchbin.com
 0.0.0.0 analytics.midwesternmac.com
@@ -212,6 +212,7 @@
 0.0.0.0 bi.medscape.com
 0.0.0.0 blip.bizrate.com
 0.0.0.0 bmrg.reflected.net
+0.0.0.0 bonfire.spklw.com
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 branch.io
 0.0.0.0 browser-intake-datadoghq.com
@@ -282,6 +283,7 @@
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.sspinc.io
+0.0.0.0 collector5.zipy.ai
 0.0.0.0 commerce.bing.com
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -432,7 +434,6 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
-0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -467,7 +468,6 @@
 0.0.0.0 geoip.cookieyes.com
 0.0.0.0 geoip.instiengage.com
 0.0.0.0 geoip.nekudo.com
-0.0.0.0 geoip.spotpass.io
 0.0.0.0 geolocation.outreach.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
@@ -572,7 +572,6 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.viadata.store
-0.0.0.0 logs.vmixcore.com
 0.0.0.0 lore.circulate.com
 0.0.0.0 lps.qantas.com
 0.0.0.0 lucid.mjhassoc.com
@@ -634,7 +633,6 @@
 0.0.0.0 open.delivery.net
 0.0.0.0 openxcdn.net
 0.0.0.0 optimeeze.appspot.com
-0.0.0.0 optimizely.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.delivery.net
 0.0.0.0 p.placed.com
@@ -718,12 +716,14 @@
 0.0.0.0 px.spiceworks.com
 0.0.0.0 pylon.micstatic.com
 0.0.0.0 qubitanalytics.appspot.com
+0.0.0.0 query.petametrics.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.stripe.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 realm.hearst3pcc.com
+0.0.0.0 recs.shareaholic.com
 0.0.0.0 refer.ccbill.com
 0.0.0.0 refer.wordpress.com
 0.0.0.0 referrer.disqus.com
@@ -748,6 +748,7 @@
 0.0.0.0 rum.nccgroup-webperf.com
 0.0.0.0 rum.perfops.net
 0.0.0.0 rum.uptime.com
+0.0.0.0 rw.marchex.io
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.beop.io
 0.0.0.0 s.clickiocdn.com
@@ -943,8 +944,8 @@
 0.0.0.0 tr.snapchat.com
 0.0.0.0 tr.vitals.co
 0.0.0.0 tr.webantenna.info
-0.0.0.0 tr1.mailperformance.com
 0.0.0.0 traccoon.intellectsoft.net
+0.0.0.0 track-dark-bz.b-cdn.net
 0.0.0.0 track.360playvid.info
 0.0.0.0 track.91app.io
 0.0.0.0 track.99acres.com
@@ -953,7 +954,7 @@
 0.0.0.0 track.coherentpath.com
 0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
-0.0.0.0 track.custora.com
+0.0.0.0 track.dark.bz
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.emerse.com
 0.0.0.0 track.hubspot.com
@@ -973,7 +974,6 @@
 0.0.0.0 track.shop2market.com
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.social.com
-0.0.0.0 track.sprinklecontent.com
 0.0.0.0 track.strife.com
 0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
@@ -1023,6 +1023,7 @@
 0.0.0.0 tracking.aegpresents.com
 0.0.0.0 tracking.americaneagle.com
 0.0.0.0 tracking.audio.thisisdax.com
+0.0.0.0 tracking.bababam.com
 0.0.0.0 tracking.brandmentions.com
 0.0.0.0 tracking.buygoods.com
 0.0.0.0 tracking.cerdmann.com
