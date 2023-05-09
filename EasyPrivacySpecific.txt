@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 06 May 2023 03:55:34 +0100
+# Last converted - Tue, 09 May 2023 17:20:03 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -61,6 +61,7 @@
 0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.send.cm
+0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
 0.0.0.0 analytics.synedat.com
@@ -159,7 +160,6 @@
 0.0.0.0 desb.fkapi.net
 0.0.0.0 desr.fkapi.net
 0.0.0.0 discover-metrics.cloud.seek.com.au
-0.0.0.0 dp.coinbase.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
@@ -184,7 +184,6 @@
 0.0.0.0 event-collector.moviesanywhere.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-prod.autolist.com
-0.0.0.0 events-service.coinbase.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.framer.com
@@ -666,6 +665,8 @@
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rsx.afterpay.com
+0.0.0.0 svc2.sc.com
+0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
