@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 09 May 2023 17:20:03 +0100
+# Last converted - Tue, 16 May 2023 15:29:16 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -156,6 +156,7 @@
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.ziftsolutions.com
+0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 ao-freegeoip.herokuapp.com
@@ -447,6 +448,7 @@
 0.0.0.0 fresh.inlinkz.com
 0.0.0.0 frog.editorx.com
 0.0.0.0 fs-client-logger.herokuapp.com
+0.0.0.0 ftm.fluencyinc.co
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
 0.0.0.0 futurehybrid.tech
@@ -593,6 +595,8 @@
 0.0.0.0 metrics.beyondwords.io
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.ctvdigital.net
+0.0.0.0 metrics.doppiocdn.com
+0.0.0.0 metrics.doppiocdn.org
 0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.mdstrm.com
@@ -741,6 +745,7 @@
 0.0.0.0 retargeting.newsmanapp.com
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rt.flix360.com
+0.0.0.0 rtc.multiscreensite.com
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
@@ -870,6 +875,7 @@
 0.0.0.0 sync.outbrain.com
 0.0.0.0 t.91syun.com
 0.0.0.0 t.a3cloud.net
+0.0.0.0 t.adx.opera.com
 0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.beop.io
 0.0.0.0 t.bimvid.com
@@ -900,6 +906,7 @@
 0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
+0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
 0.0.0.0 tag.imagino.com
@@ -1006,6 +1013,7 @@
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.novage.com.ua
+0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.roitesting.com
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.softcube.com
@@ -1086,7 +1094,6 @@
 0.0.0.0 trakksocial.googlecode.com
 0.0.0.0 trap.skype.com
 0.0.0.0 traxex.gannettdigital.com
-0.0.0.0 trc.pushnami.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 trib.al
 0.0.0.0 triggers.wfxtriggers.com
@@ -1130,6 +1137,7 @@
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wsmcdn.audioeye.com
+0.0.0.0 wt.viagogo.net
 0.0.0.0 wtbevents.pricespider.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
@@ -1236,6 +1244,8 @@
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
+0.0.0.0 d3oodlxb1rw3kg.cloudfront.net
+0.0.0.0 d3pi0tys5sdysl.cloudfront.net
 0.0.0.0 d3plfjw9uod7ab.cloudfront.net
 0.0.0.0 d3q7vxy7usqoub.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
