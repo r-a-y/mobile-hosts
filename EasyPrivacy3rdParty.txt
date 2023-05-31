@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 22 May 2023 13:51:22 +0100
+# Last converted - Wed, 31 May 2023 02:39:24 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -193,6 +193,7 @@
 0.0.0.0 beacon.cdnma.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon.flow.io
+0.0.0.0 beacon.klm.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacon.s.llnwi.net
 0.0.0.0 beacon.searchspring.io
@@ -479,7 +480,6 @@
 0.0.0.0 gtrk.s3.amazonaws.com
 0.0.0.0 gu-pix.appspot.com
 0.0.0.0 happen.spkt.io
-0.0.0.0 harpocrates.ethyca.com
 0.0.0.0 hb.vhsrv.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
@@ -886,6 +886,7 @@
 0.0.0.0 t.pswec.com
 0.0.0.0 t.raptorsmartadvisor.com
 0.0.0.0 t.rentcafe.com
+0.0.0.0 t.screeb.app
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.signalayer.com
 0.0.0.0 t.skimresources.com
@@ -1267,7 +1268,6 @@
 0.0.0.0 dxwgpw0lkcum5.cloudfront.net
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
-0.0.0.0 fast.appcues.com
 0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
