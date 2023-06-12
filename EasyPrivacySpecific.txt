@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 06 Jun 2023 04:40:36 +0100
+# Last converted - Mon, 12 Jun 2023 23:15:32 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -93,6 +93,7 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.paypal.com
+0.0.0.0 c.thredup.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
@@ -153,6 +154,7 @@
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
 0.0.0.0 ea.epochbase.com
+0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 engagefront.meteomedia.com
@@ -223,9 +225,11 @@
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
+0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 heap.drop.com
 0.0.0.0 hits.cyberdrop.me
 0.0.0.0 i.pokernews.com
+0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 indmetric.rediff.com
@@ -255,6 +259,7 @@
 0.0.0.0 log.china.cn
 0.0.0.0 log.genyt.net
 0.0.0.0 log.hypebeast.com
+0.0.0.0 log.klook.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
 0.0.0.0 log.webnovel.com
