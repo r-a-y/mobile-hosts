@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 12 Jun 2023 23:15:32 +0100
+# Last converted - Mon, 19 Jun 2023 23:38:26 +0100
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,16 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cmp.datasign.co
+0.0.0.0 ip.momentummedia.com.au
+0.0.0.0 adrange.net
+0.0.0.0 dmtag.jp
+0.0.0.0 cdn.tercept.com
+0.0.0.0 dna8twue3dlxq.cloudfront.net
+0.0.0.0 public.profitwell.com
+0.0.0.0 cdn.userleap.com
+0.0.0.0 zhanzhang.toutiao.com
+0.0.0.0 ad2iction.com
 0.0.0.0 events.flagship.io
 0.0.0.0 pixel.barion.com
 0.0.0.0 blueoyster.click
@@ -615,7 +625,6 @@
 0.0.0.0 c1.politexpert.ru
 0.0.0.0 cdn.logrocket.com
 0.0.0.0 ipmeta.io
-0.0.0.0 datasign.co
 0.0.0.0 analytics.daasrv.net
 0.0.0.0 coll.v00yvd.xyz
 0.0.0.0 analytics.fatmedia.io
@@ -3798,6 +3807,8 @@
 0.0.0.0 visilabs.com
 0.0.0.0 visilabs.net
 0.0.0.0 functionalclam.com
+0.0.0.0 enormousfoot.com
+0.0.0.0 rebelswing.com
 0.0.0.0 tightpowder.com
 0.0.0.0 tidymitten.com
 0.0.0.0 groovyornament.com
@@ -4933,6 +4944,18 @@
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 tracker.dalso.org
+0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 cdn.p.analitik.bik.gov.tr
+0.0.0.0 webstat.ws.126.net
+0.0.0.0 stats.rbc.ua
+0.0.0.0 stats.img2go.com
+0.0.0.0 log.rmp.rakuten.co.jp
+0.0.0.0 events.paramount.tech
+0.0.0.0 health-metrics-api.setapp.com
+0.0.0.0 collect.alipay.com
+0.0.0.0 log.api.useinsider.com
+0.0.0.0 hit.api.useinsider.com
 0.0.0.0 track.lookerpets.com
 0.0.0.0 stats.online-convert.com
 0.0.0.0 ss.azuremagazine.com
@@ -5423,7 +5446,6 @@
 0.0.0.0 analytics.nextopia.net
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.ovh.com
-0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.plaid.com
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.pointdrive.linkedin.com
@@ -6767,7 +6789,6 @@
 0.0.0.0 statscol.pond5.com
 0.0.0.0 statstracker.celebrity-gossip.net
 0.0.0.0 stattrack.0catch.com
-0.0.0.0 statweb.egloos.com
 0.0.0.0 statwup.huya.com
 0.0.0.0 statwup.nimo.tv
 0.0.0.0 stbt.coupons.com
@@ -6926,7 +6947,6 @@
 0.0.0.0 track.hubspot.com
 0.0.0.0 track.hujiang.com
 0.0.0.0 track.leadhit.io
-0.0.0.0 track.lexico.com
 0.0.0.0 track.libii.cn
 0.0.0.0 track.lobi.co
 0.0.0.0 track.miro.com
@@ -36809,6 +36829,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 payload.adadapted.com
+0.0.0.0 ec.adadapted.com
+0.0.0.0 tracking.viewlift.com
 0.0.0.0 events.prd.api.discomax.com
 0.0.0.0 events.betterhelp.com
 0.0.0.0 analytics-gateway.delta.dp.lightricks.com
