@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 06 Jun 2023 04:40:37 +0100
+# Last converted - Mon, 19 Jun 2023 23:38:27 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -263,6 +263,7 @@
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cltgtstor001.blob.core.windows.net
+0.0.0.0 cmp.datasign.co
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cnt.trvdp.com
@@ -424,6 +425,7 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.missena.io
 0.0.0.0 events.ocdn.eu
+0.0.0.0 events.qortex.ai
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
@@ -472,7 +474,6 @@
 0.0.0.0 geo.q5media.net
 0.0.0.0 geo.thehindu.com
 0.0.0.0 geobar.ziffdavisinternational.com
-0.0.0.0 geoip.cookieyes.com
 0.0.0.0 geoip.instiengage.com
 0.0.0.0 geoip.nekudo.com
 0.0.0.0 geolocation.outreach.com
@@ -710,7 +711,6 @@
 0.0.0.0 ptsc.shoplocal.com
 0.0.0.0 pub.sheknows.com
 0.0.0.0 pubgw.yahoo.com
-0.0.0.0 pv.pjtsu.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
@@ -915,7 +915,6 @@
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
 0.0.0.0 tags.clickagy.com
-0.0.0.0 tags.creativille.co.uk
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.refinery89.com
@@ -1167,7 +1166,6 @@
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
-0.0.0.0 d1igp3oop3iho5.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
@@ -1206,14 +1204,12 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
-0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
-0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2zjlj1vewrxcj.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
@@ -1274,6 +1270,24 @@
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 cefgo.com
+0.0.0.0 domaincontrol.com
+0.0.0.0 fbi.com
+0.0.0.0 lacolhost.com
+0.0.0.0 lndo.site
+0.0.0.0 local.computer
+0.0.0.0 local.qinlili.bid
+0.0.0.0 local.sisteminha.com
+0.0.0.0 localho.st
+0.0.0.0 localhost.direct
+0.0.0.0 localtest.me
+0.0.0.0 lvh.me
+0.0.0.0 netfinity.hostedrmm.com
+0.0.0.0 nip.io
+0.0.0.0 ssh.town
+0.0.0.0 supercalifragilisticexpialidocious.co.uk
+0.0.0.0 xip.io
+0.0.0.0 yoogle.com
 0.0.0.0 am-vid-events.taboola.com
 0.0.0.0 convsgmp.taboola.com
 0.0.0.0 la-sync.taboola.com
