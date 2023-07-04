@@ -11,8 +11,17 @@ $lists = array(
 	// Adguard DNS
 	'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
 
-	// Adguard CNAME
-	'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/combined_disguised_trackers.txt',
+	// Adguard CNAME Ads
+	'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
+
+	// Adguard CNAME Clickthroughs
+	'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
+
+	// Adguard CNAME Microsites
+	'AdguardCNAMEMicrosites' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
+
+	// Adguard CNAME Trackers
+	'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
 
 	// Adguard Tracking
 	'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
