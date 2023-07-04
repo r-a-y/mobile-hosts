@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 26 Jun 2023 20:14:55 +0100
+# Last converted - Tue, 04 Jul 2023 02:04:43 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -55,6 +55,7 @@
 0.0.0.0 analytics.bestreviews.com
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.carambo.la
+0.0.0.0 analytics.carbaselive.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.cloud.coveo.com
@@ -78,7 +79,6 @@
 0.0.0.0 analytics.firespring.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.formstack.com
-0.0.0.0 analytics.google.com
 0.0.0.0 analytics.gooogol.com
 0.0.0.0 analytics.groupe-seb.com
 0.0.0.0 analytics.growthphysics.com
@@ -164,7 +164,6 @@
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.autopilothq.com
-0.0.0.0 api.carrottrack.io
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.adjust.com
 0.0.0.0 apple.www.letv.com
@@ -189,6 +188,7 @@
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bc.marfeelcache.com
+0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.cdnma.com
@@ -287,6 +287,7 @@
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collector5.zipy.ai
+0.0.0.0 collectorsvc.apac.vesta.io
 0.0.0.0 commerce.bing.com
 0.0.0.0 comms.thewhiskyexchange.com
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
@@ -368,6 +369,7 @@
 0.0.0.0 dgcollector.evidon.com
 0.0.0.0 diagnose.igstatic.com
 0.0.0.0 dig.ultimedia.com
+0.0.0.0 direct-collect.dy-api.com
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dl.episerver.net
@@ -610,6 +612,7 @@
 0.0.0.0 mlweb.dmlab.hu
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mon.domdog.io
+0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
 0.0.0.0 monitor.azure.com
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monorail-edge.shopifysvc.com
@@ -658,6 +661,7 @@
 0.0.0.0 pi.ispot.tv
 0.0.0.0 ping-admin.ru
 0.0.0.0 ping.dozuki.com
+0.0.0.0 ping.fastsimon.com
 0.0.0.0 ping.instantsearchplus.com
 0.0.0.0 pings.conviva.com
 0.0.0.0 pings.vidpulse.com
@@ -1116,6 +1120,8 @@
 0.0.0.0 websdk.appsflyer.com
 0.0.0.0 webservices.websitepros.com
 0.0.0.0 webstats.thaindian.com
+0.0.0.0 webtrack.chd01.com
+0.0.0.0 webtrack.savoysystems.co.uk
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 widget-pixels.outbrain.com
 0.0.0.0 win.staticstuff.net
