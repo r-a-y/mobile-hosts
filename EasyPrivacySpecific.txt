@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 04 Jul 2023 02:04:42 +0100
+# Last converted - Mon, 10 Jul 2023 20:02:14 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -55,6 +55,7 @@
 0.0.0.0 analytics.productreview.com.au
 0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.send.cm
+0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
 0.0.0.0 analytics.synedat.com
@@ -295,6 +296,7 @@
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ophan.theguardian.com
+0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.fusevideo.net
 0.0.0.0 p.hentaiforce.net
 0.0.0.0 pac.thesun.co.uk
@@ -447,6 +449,7 @@
 0.0.0.0 tr.clickstay.com
 0.0.0.0 tr.www.cloudflare.com
 0.0.0.0 track-visit.monday.com
+0.0.0.0 track.americansongwriter.com
 0.0.0.0 track.dictionary.com
 0.0.0.0 track.eurogirlsescort.com
 0.0.0.0 track.kueez.com
@@ -489,6 +492,7 @@
 0.0.0.0 xstats.evoload.io
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z737.thestar.com
+0.0.0.0 za.qeeq.com
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 track.opentable.ae
 0.0.0.0 track.opentable.ca
@@ -511,11 +515,11 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 cfa.fidelity.com
 0.0.0.0 clear.wallapop.com
-0.0.0.0 content22.bmoharris.com
+0.0.0.0 content22.bmo.com
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
-0.0.0.0 contents2.00110.citi.com
+0.0.0.0 content22.online.citi.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
@@ -534,7 +538,6 @@
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
-0.0.0.0 wup-content23.bmoharris.com
 0.0.0.0 bup.bankofamerica.com
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 d276.ourmidland.com
@@ -551,6 +554,7 @@
 0.0.0.0 q777.sfchronicle.com
 0.0.0.0 sofa.bankofamerica.com
 0.0.0.0 t570.wiltonbulletin.com
+0.0.0.0 tilt.bankofamerica.com
 0.0.0.0 u652.myplainview.com
 0.0.0.0 u927.sfgate.com
 0.0.0.0 w740.newstimes.com
