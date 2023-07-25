@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 17 Jul 2023 21:00:43 +0100
+# Last converted - Tue, 25 Jul 2023 02:21:59 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -281,6 +281,7 @@
 0.0.0.0 collector.automote.co.nz
 0.0.0.0 collector.clareity.net
 0.0.0.0 collector.contentexchange.me
+0.0.0.0 collector.dmp.cnna.io
 0.0.0.0 collector.getyourguide.com
 0.0.0.0 collector.mazeberry.com
 0.0.0.0 collector.sspinc.io
@@ -440,7 +441,6 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
-0.0.0.0 fennec.atp.fox
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -518,7 +518,6 @@
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
 0.0.0.0 ip.lovely-app.com
-0.0.0.0 ipapi.tmbi.com
 0.0.0.0 iq.sixaxisllc.com
 0.0.0.0 jas.indeednps.com
 0.0.0.0 javascriptcounter.appspot.com
@@ -529,7 +528,6 @@
 0.0.0.0 kalstats.kaltura.com
 0.0.0.0 kiwi.mdldb.net
 0.0.0.0 klarnaservices.com
-0.0.0.0 klm-ea.jscrambler.com
 0.0.0.0 l.fairblocker.com
 0.0.0.0 l.ooyala.com
 0.0.0.0 l.player.ooyala.com
@@ -577,7 +575,6 @@
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.viadata.store
-0.0.0.0 lore.circulate.com
 0.0.0.0 lps.qantas.com
 0.0.0.0 lucid.mjhassoc.com
 0.0.0.0 ma.logsss.com
@@ -607,6 +604,7 @@
 0.0.0.0 metrics.scribblelive.com
 0.0.0.0 metrics.userguiding.com
 0.0.0.0 metrix.emagister.com
+0.0.0.0 mj-snowplow-static-js.s3.amazonaws.com
 0.0.0.0 mlweb.dmlab.hu
 0.0.0.0 mmi.bemobile.ua
 0.0.0.0 mon.domdog.io
@@ -641,6 +639,7 @@
 0.0.0.0 optimeeze.appspot.com
 0.0.0.0 orts.wixawin.com
 0.0.0.0 p.delivery.net
+0.0.0.0 p.metrilo.com
 0.0.0.0 p.placed.com
 0.0.0.0 p.typekit.net
 0.0.0.0 p.yotpo.com
@@ -706,6 +705,7 @@
 0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 prod.ew.srp.navigacloud.com
+0.0.0.0 prod.fennec.atp.fox
 0.0.0.0 proxy.dzeio.com
 0.0.0.0 pt.crossmediaservices.com
 0.0.0.0 pt.ispot.tv
@@ -788,6 +788,7 @@
 0.0.0.0 ssr.streamrail.net
 0.0.0.0 st.cdnco.us
 0.0.0.0 st.linkfire.com
+0.0.0.0 staging-pt.ispot.tv
 0.0.0.0 starman.fathomdns.com
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.absolutist.com
@@ -831,7 +832,6 @@
 0.0.0.0 stats.lotlinx.com
 0.0.0.0 stats.mituyu.com
 0.0.0.0 stats.mpthemes.net
-0.0.0.0 stats.myangular.life
 0.0.0.0 stats.nebula.fi
 0.0.0.0 stats.netbopdev.co.uk
 0.0.0.0 stats.olark.com
@@ -867,6 +867,7 @@
 0.0.0.0 svibeacon.onezapp.com
 0.0.0.0 sync.adap.tv
 0.0.0.0 sync.outbrain.com
+0.0.0.0 t.360playvid.info
 0.0.0.0 t.91syun.com
 0.0.0.0 t.a3cloud.net
 0.0.0.0 t.adx.opera.com
@@ -884,6 +885,7 @@
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
+0.0.0.0 t.metrilo.com
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
@@ -1031,6 +1033,7 @@
 0.0.0.0 tracking.cerdmann.com
 0.0.0.0 tracking.chilipiper.com
 0.0.0.0 tracking.dealeranalytics.com
+0.0.0.0 tracking.diginetica.net
 0.0.0.0 tracking.drsfostersmith.com
 0.0.0.0 tracking.drum.io
 0.0.0.0 tracking.dsmmadvantage.com
@@ -1109,7 +1112,6 @@
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 video-ad-stats.googlesyndication.com
 0.0.0.0 videoevents.outbrain.com
-0.0.0.0 visit.webhosting.yahoo.com
 0.0.0.0 vortex.data.microsoft.com
 0.0.0.0 vst.sibnet.ru
 0.0.0.0 vstat.borderlessbd.com
@@ -1125,6 +1127,7 @@
 0.0.0.0 webtrack.savoysystems.co.uk
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 widget-pixels.outbrain.com
+0.0.0.0 widget.educationdynamics.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 wl-pixel.index.digital
 0.0.0.0 wordmonetize.com
