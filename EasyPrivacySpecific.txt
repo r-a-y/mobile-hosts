@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 17 Jul 2023 21:00:42 +0100
+# Last converted - Tue, 25 Jul 2023 02:21:59 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -43,6 +43,7 @@
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.hashnode.com
 0.0.0.0 analytics.kaggle.io
+0.0.0.0 analytics.kooapp.com
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.ml.homedepot.ca
 0.0.0.0 analytics.mouthshut.com
@@ -65,10 +66,12 @@
 0.0.0.0 analytics4.dashboard.fingerprint.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-js.mixpanel.com
+0.0.0.0 api.privacyguides.net
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 assets.instacart.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
+0.0.0.0 aurum.tirto.id
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beacon.dropbox.com
@@ -183,6 +186,7 @@
 0.0.0.0 fathom.tdvm.net
 0.0.0.0 fdt.kraken.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 fp.heavybit.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
@@ -298,6 +302,7 @@
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 ph.thenextweb.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -319,6 +324,7 @@
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 plenty.vidio.com
 0.0.0.0 pm.dailykos.com
+0.0.0.0 pm.geniusmonkey.com
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
@@ -377,6 +383,7 @@
 0.0.0.0 stategg.cdngeek.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
+0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.hd24.watch
@@ -424,6 +431,7 @@
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 td.airdroid.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
@@ -433,6 +441,7 @@
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
+0.0.0.0 thtk.temu.com
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.hft.everyplate.com
@@ -467,6 +476,7 @@
 0.0.0.0 trackr.vivenu.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
+0.0.0.0 trk.tirto.id
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 ua.indianexpress.com
