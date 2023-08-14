@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 07 Aug 2023 20:46:06 +0100
+# Last converted - Mon, 14 Aug 2023 22:03:26 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -21,7 +21,6 @@
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
 0.0.0.0 affiliates.minglematch.com
-0.0.0.0 agent.contentsanalyst.com
 0.0.0.0 akatracking.esearchvision.com
 0.0.0.0 aktion.esprit-club.com
 0.0.0.0 alexandria.marfeelcdn.com
@@ -56,6 +55,7 @@
 0.0.0.0 analytics.carbaselive.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
+0.0.0.0 analytics.clic2buy.com
 0.0.0.0 analytics.cloud.coveo.com
 0.0.0.0 analytics.cmn.com
 0.0.0.0 analytics.codigo.se
@@ -125,7 +125,6 @@
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
 0.0.0.0 analytics.springboardvideo.com
-0.0.0.0 analytics.staticiv.com
 0.0.0.0 analytics.stg.springboardvideo.com
 0.0.0.0 analytics.strangeloopnetworks.com
 0.0.0.0 analytics.superstructure.ai
@@ -251,7 +250,6 @@
 0.0.0.0 click360v2-ingest.azurewebsites.net
 0.0.0.0 clicks.dealer.com
 0.0.0.0 clicks.tyuwq.com
-0.0.0.0 clicktale.pantherssl.com
 0.0.0.0 clickthru.lefbc.com
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
@@ -346,6 +344,7 @@
 0.0.0.0 cws.conviva.com
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
+0.0.0.0 d1tbj6eaenapdy.cloudfront.net
 0.0.0.0 d2wa5sea6guof0.cloudfront.net
 0.0.0.0 dadi.technology
 0.0.0.0 dash.getsitecontrol.com
@@ -1064,7 +1063,6 @@
 0.0.0.0 tracking.plattformad.com
 0.0.0.0 tracking.plinga.de
 0.0.0.0 tracking.practicefusion.com
-0.0.0.0 tracking.quillion.com
 0.0.0.0 tracking.quisma.com
 0.0.0.0 tracking.rapidape.com
 0.0.0.0 tracking.scenepass.com
