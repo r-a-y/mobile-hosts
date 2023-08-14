@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 25 Jul 2023 02:21:59 +0100
+# Last converted - Mon, 14 Aug 2023 22:03:26 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -63,7 +63,6 @@
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
-0.0.0.0 analytics4.dashboard.fingerprint.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
@@ -142,6 +141,7 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
+0.0.0.0 digianalytics.airtel.in
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
@@ -155,6 +155,7 @@
 0.0.0.0 engine.traceparts.com
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
+0.0.0.0 errorreports.couponcabin.com
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.tidal.com
 0.0.0.0 etui.fs.ml.com
@@ -190,8 +191,6 @@
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
-0.0.0.0 fpa-cdn.decrypt.co
-0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -364,6 +363,7 @@
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 slipstream.skyscanner.net
+0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
 0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.ecosia.org
@@ -386,7 +386,6 @@
 0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
-0.0.0.0 stats.hd24.watch
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
@@ -514,10 +513,10 @@
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
-0.0.0.0 gfp.intuit.com
 0.0.0.0 idstatus.sky.com
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 olacontent.schwab.com
+0.0.0.0 qfp.intuit.com
 0.0.0.0 rba-screen.healthsafe-id.com
 0.0.0.0 rsx.afterpay.com
 0.0.0.0 svc2.sc.com
