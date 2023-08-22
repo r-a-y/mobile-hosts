@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 14 Aug 2023 22:03:26 +0100
+# Last converted - Tue, 22 Aug 2023 10:26:57 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -319,6 +319,7 @@
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
+0.0.0.0 plausible.ripped.guide
 0.0.0.0 plausible.safing.io
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 plenty.vidio.com
