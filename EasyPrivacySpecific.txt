@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 22 Aug 2023 10:26:57 +0100
+# Last converted - Mon, 28 Aug 2023 19:46:40 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -108,7 +108,9 @@
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
+0.0.0.0 collect.reagroupdata.com.au
 0.0.0.0 collect.thunder-io.com
+0.0.0.0 collections-api.realestate.com.au
 0.0.0.0 collector-px0py5pczn.octopart.com
 0.0.0.0 collector.cint.com
 0.0.0.0 collector.fiverr.com
@@ -244,6 +246,7 @@
 0.0.0.0 j927.statnews.com
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
+0.0.0.0 lexa.realestate.com.au
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
