@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Aug 2023 19:46:40 +0100
+# Last converted - Tue, 05 Sep 2023 04:25:51 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -71,6 +71,7 @@
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
+0.0.0.0 barnes.send.cm
 0.0.0.0 bat.maydream.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 beacon.dropbox.com
@@ -246,7 +247,7 @@
 0.0.0.0 j927.statnews.com
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
-0.0.0.0 lexa.realestate.com.au
+0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
 0.0.0.0 links.strava.com
@@ -300,6 +301,7 @@
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.fusevideo.net
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 perf.mouser.com
@@ -377,6 +379,7 @@
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.plesk.com
 0.0.0.0 ss.photospecialist.co.uk
+0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
 0.0.0.0 stat.cdngeek.com
@@ -413,6 +416,7 @@
 0.0.0.0 t.freelancer.com
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
+0.0.0.0 t.ionos.com
 0.0.0.0 t.jossandmain.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.nypost.com
@@ -445,6 +449,7 @@
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 thtk.temu.com
+0.0.0.0 tif.ionos.com
 0.0.0.0 tilanalytics.timesinternet.in
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.hft.everyplate.com
@@ -470,6 +475,7 @@
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.shopclues.com
 0.0.0.0 tracking.carsales.com.au
+0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.hsn.com
@@ -498,6 +504,7 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 weblog.flyasiana.com
+0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z737.thestar.com
