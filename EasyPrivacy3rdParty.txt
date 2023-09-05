@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 28 Aug 2023 19:46:40 +0100
+# Last converted - Tue, 05 Sep 2023 04:25:53 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -123,6 +123,7 @@
 0.0.0.0 analytics.rogersmedia.com
 0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
@@ -376,6 +377,7 @@
 0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 distillery.wistia.com
 0.0.0.0 dl.episerver.net
+0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-beacons.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
@@ -429,6 +431,7 @@
 0.0.0.0 events.medio.com
 0.0.0.0 events.missena.io
 0.0.0.0 events.ocdn.eu
+0.0.0.0 events.paramount.tech
 0.0.0.0 events.realgravity.com
 0.0.0.0 events.shareably.net
 0.0.0.0 events.splash-screen.net
@@ -742,6 +745,7 @@
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports-api.sqreen.io
+0.0.0.0 reports.hibu.com
 0.0.0.0 reports.pagesuite-professional.co.uk
 0.0.0.0 reports.sdiapi.com
 0.0.0.0 res.rbl.ms
@@ -889,6 +893,7 @@
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
+0.0.0.0 t.enuygun.com
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
@@ -1114,6 +1119,7 @@
 0.0.0.0 userexperience.thehut.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 v.shopify.com
+0.0.0.0 validate.onecount.net
 0.0.0.0 vdrn.redplum.com
 0.0.0.0 vercel-vitals.axiom.co
 0.0.0.0 video-ad-stats.googlesyndication.com
@@ -1179,6 +1185,7 @@
 0.0.0.0 d1cdnlzf6usiff.cloudfront.net
 0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
+0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
@@ -1222,9 +1229,11 @@
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
 0.0.0.0 d34qb8suadcc4g.cloudfront.net
+0.0.0.0 d34r8q7sht0t9k.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
