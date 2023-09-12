@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 05 Sep 2023 04:25:53 +0100
+# Last converted - Tue, 12 Sep 2023 10:17:47 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -54,6 +54,7 @@
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.carbaselive.com
+0.0.0.0 analytics.cdn112.com
 0.0.0.0 analytics.chegg.com
 0.0.0.0 analytics.cincopa.com
 0.0.0.0 analytics.clic2buy.com
@@ -62,7 +63,6 @@
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.contentexchange.me
 0.0.0.0 analytics.convertlanguage.com
-0.0.0.0 analytics.dealer.com
 0.0.0.0 analytics.dev.htmedia.in
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
@@ -124,6 +124,7 @@
 0.0.0.0 analytics.salesanalytics.io
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.shorte.st
+0.0.0.0 analytics.shorthand.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.snidigital.com
@@ -423,6 +424,7 @@
 0.0.0.0 events.btw.so
 0.0.0.0 events.demoup.com
 0.0.0.0 events.devcycle.com
+0.0.0.0 events.elev.io
 0.0.0.0 events.flagship.io
 0.0.0.0 events.jokerly.com
 0.0.0.0 events.jotform.com
@@ -447,6 +449,7 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
+0.0.0.0 fenix.walkerllaw.org
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -604,6 +607,7 @@
 0.0.0.0 metrics.ctvdigital.net
 0.0.0.0 metrics.doppiocdn.com
 0.0.0.0 metrics.doppiocdn.org
+0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.futureplc.engineering
 0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.kmsmep.com
@@ -652,6 +656,7 @@
 0.0.0.0 p.delivery.net
 0.0.0.0 p.metrilo.com
 0.0.0.0 p.placed.com
+0.0.0.0 p.skimresources.com
 0.0.0.0 p.typekit.net
 0.0.0.0 p.yotpo.com
 0.0.0.0 page-events-ustats.udemy.com
@@ -791,7 +796,6 @@
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
 0.0.0.0 solutions.invocacdn.com
-0.0.0.0 sonar.viously.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
 0.0.0.0 sp.tinymce.com
 0.0.0.0 speedtrap.shopdirect.com
@@ -898,6 +902,7 @@
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
 0.0.0.0 t.metrilo.com
+0.0.0.0 t.playwayfinder.com
 0.0.0.0 t.pointandplace.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 t.pswec.com
@@ -1190,6 +1195,7 @@
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
+0.0.0.0 d1qbbgtcslwdbx.cloudfront.net
 0.0.0.0 d1qnmu4nrib73p.cloudfront.net
 0.0.0.0 d1qpxk1wfeh8v1.cloudfront.net
 0.0.0.0 d1r27qvpjiaqj3.cloudfront.net
