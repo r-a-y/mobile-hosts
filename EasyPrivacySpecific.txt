@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 05 Sep 2023 04:25:51 +0100
+# Last converted - Tue, 12 Sep 2023 10:17:47 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -204,8 +204,8 @@
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gct.americanexpress.com
+0.0.0.0 generic-function-log-data-7il2midpaa-nn.a.run.app
 0.0.0.0 geo.brobible.com
-0.0.0.0 geo.gfycat.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geoip.boredpanda.com
@@ -247,6 +247,7 @@
 0.0.0.0 j927.statnews.com
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
+0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
@@ -388,6 +389,7 @@
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
 0.0.0.0 stategg.cdngeek.com
+0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.calcalist.co.il
