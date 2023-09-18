@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 12 Sep 2023 10:17:47 +0100
+# Last converted - Mon, 18 Sep 2023 20:21:19 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -13,6 +13,7 @@
 0.0.0.0 a.getflowbox.com
 0.0.0.0 a.hcaptcha.com
 0.0.0.0 a.mobify.com
+0.0.0.0 a.opumo.net
 0.0.0.0 aan.amazon.com
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
@@ -511,6 +512,7 @@
 0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 icu.getstorybox.com
 0.0.0.0 iddu1vvb7sk8-a.akamaihd.net
+0.0.0.0 identification.hotmart.com
 0.0.0.0 imp.constantcontact.com
 0.0.0.0 imp.pvnsolutions.com
 0.0.0.0 impress.vcita.com
@@ -712,6 +714,7 @@
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 plausibleio.workers.dev
 0.0.0.0 pm.boostintegrated.com
+0.0.0.0 popup-static.unisender.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 pr.blogflux.com
 0.0.0.0 prd-collector-anon.ex.co
@@ -798,6 +801,7 @@
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
 0.0.0.0 sp.tinymce.com
+0.0.0.0 spa-tracker.spapi.io
 0.0.0.0 speedtrap.shopdirect.com
 0.0.0.0 ssa.stepstone.com
 0.0.0.0 ssr.streamrail.net
@@ -1039,6 +1043,7 @@
 0.0.0.0 trackerapi.truste.com
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
+0.0.0.0 tracking-api.hotmart.com
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.ads.global-fashion-group.com
 0.0.0.0 tracking.aegpresents.com
