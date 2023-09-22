@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 20 Sep 2023 22:00:08 +0100
+# Last converted - Fri, 22 Sep 2023 19:54:47 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -113,6 +113,7 @@
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
 0.0.0.0 collect.reagroupdata.com.au
+0.0.0.0 collect.stepstone.co.uk
 0.0.0.0 collect.thunder-io.com
 0.0.0.0 collections-api.realestate.com.au
 0.0.0.0 collector-px0py5pczn.octopart.com
@@ -191,6 +192,7 @@
 0.0.0.0 fathom.app.silverbeak.com
 0.0.0.0 fathom.status.im
 0.0.0.0 fathom.tdvm.net
+0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fdt.kraken.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.heavybit.com
@@ -263,6 +265,7 @@
 0.0.0.0 log.klook.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.snapdeal.com
+0.0.0.0 log.v.ssp.yahoo.com
 0.0.0.0 log.webnovel.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logging.api.intuit.com
@@ -440,6 +443,7 @@
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.news.com.au
+0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
 0.0.0.0 target.nationwide.com
 0.0.0.0 target.nejm.org
@@ -504,6 +508,7 @@
 0.0.0.0 v.adblockultimate.net
 0.0.0.0 v.ctrl.blog
 0.0.0.0 views.arabnews.com
+0.0.0.0 views.asura.gg
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 wa.gmx.co.uk
