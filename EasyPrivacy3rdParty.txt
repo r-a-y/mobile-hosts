@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 03 Oct 2023 20:19:47 +0100
+# Last converted - Tue, 17 Oct 2023 00:00:25 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -68,6 +68,7 @@
 0.0.0.0 analytics.dev.springboardvideo.com
 0.0.0.0 analytics.developer.riotgames.com
 0.0.0.0 analytics.digitalpfizer.com
+0.0.0.0 analytics.disney.go.com
 0.0.0.0 analytics.disneyinternational.com
 0.0.0.0 analytics.dvidshub.net
 0.0.0.0 analytics.edgekey.net
@@ -261,6 +262,7 @@
 0.0.0.0 clicktime.symantec.com
 0.0.0.0 clicktracker.iscan.nl
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
 0.0.0.0 client.tahono.com
 0.0.0.0 clouderrorreporting.googleapis.com
@@ -837,6 +839,7 @@
 0.0.0.0 stats.big-boards.com
 0.0.0.0 stats.bitgravity.com
 0.0.0.0 stats.bluebillywig.com
+0.0.0.0 stats.bradmax.com
 0.0.0.0 stats.callnowbutton.com
 0.0.0.0 stats.cmcigroup.com
 0.0.0.0 stats.curds.io
@@ -1051,6 +1054,7 @@
 0.0.0.0 trackicollect.ibase.fr
 0.0.0.0 tracking-api-4lasu2nlcq-ew.a.run.app
 0.0.0.0 tracking-api.hotmart.com
+0.0.0.0 tracking-api.mangopulse.net
 0.0.0.0 tracking.adalyser.com
 0.0.0.0 tracking.ads.global-fashion-group.com
 0.0.0.0 tracking.aegpresents.com
@@ -1245,6 +1249,7 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
 0.0.0.0 d2t77mnxyo7adj.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
@@ -1266,6 +1271,7 @@
 0.0.0.0 d3j1weegxvu8ns.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
+0.0.0.0 d3lqotgbn3npr.cloudfront.net
 0.0.0.0 d3m6sept6cnil5.cloudfront.net
 0.0.0.0 d3mskfhorhi2fb.cloudfront.net
 0.0.0.0 d3n6i6eorggdxk.cloudfront.net
@@ -1303,6 +1309,7 @@
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
+0.0.0.0 dzgwautxzdtn9.cloudfront.net
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 am-vid-events.taboola.com
