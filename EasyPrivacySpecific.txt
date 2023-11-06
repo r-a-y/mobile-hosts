@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 30 Oct 2023 21:34:58 +0000
+# Last converted - Mon, 06 Nov 2023 19:16:47 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -177,6 +177,7 @@
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventlog.jackpot.de
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
@@ -530,6 +531,7 @@
 0.0.0.0 v.ctrl.blog
 0.0.0.0 views.arabnews.com
 0.0.0.0 views.asura.gg
+0.0.0.0 views.asurascans.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 wa.childrensplace.com
