@@ -1,7 +1,7 @@
 # AdguardCNAMEAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt
-# Last converted - Mon, 06 Nov 2023 19:16:43 +0000
+# Last converted - Mon, 13 Nov 2023 19:45:10 +0000
 #
 
 0.0.0.0 0.101tubeporn.com
@@ -23,7 +23,6 @@
 0.0.0.0 0002.jemonews.com
 0.0.0.0 0002.lookinews.com
 0.0.0.0 0002.luronews.com
-0.0.0.0 0002.reminews.com
 0.0.0.0 0003.groovinews.com
 0.0.0.0 0003.jemonews.com
 0.0.0.0 0003.lookinews.com
@@ -168,7 +167,6 @@
 0.0.0.0 0025.gofenews.com
 0.0.0.0 0025.groovinews.com
 0.0.0.0 0025.guesswhatnews.com
-0.0.0.0 0025.jemonews.com
 0.0.0.0 0025.lookinews.com
 0.0.0.0 0025.lootynews.com
 0.0.0.0 0025.shockynews.com
@@ -179,7 +177,6 @@
 0.0.0.0 0026.lootynews.com
 0.0.0.0 0026.luronews.com
 0.0.0.0 0026.reminews.com
-0.0.0.0 0026.shockynews.com
 0.0.0.0 0027.gofenews.com
 0.0.0.0 0027.guesswhatnews.com
 0.0.0.0 0027.jemonews.com
@@ -384,7 +381,6 @@
 0.0.0.0 0057.gofenews.com
 0.0.0.0 0057.groovinews.com
 0.0.0.0 0057.guesswhatnews.com
-0.0.0.0 0057.shockynews.com
 0.0.0.0 0058.gofenews.com
 0.0.0.0 0058.guesswhatnews.com
 0.0.0.0 0058.lookinews.com
@@ -397,7 +393,6 @@
 0.0.0.0 0059.reminews.com
 0.0.0.0 0059.tegronews.com
 0.0.0.0 0060.guesswhatnews.com
-0.0.0.0 0060.jumronews.com
 0.0.0.0 0060.lookinews.com
 0.0.0.0 0060.luronews.com
 0.0.0.0 0060.lycheenews.com
@@ -642,10 +637,8 @@
 0.0.0.0 0103.guesswhatnews.com
 0.0.0.0 0103.jumronews.com
 0.0.0.0 0103.reminews.com
-0.0.0.0 0103.shockynews.com
 0.0.0.0 0104.gofenews.com
 0.0.0.0 0104.guesswhatnews.com
-0.0.0.0 0104.lookinews.com
 0.0.0.0 0104.reminews.com
 0.0.0.0 0104.shockynews.com
 0.0.0.0 0104.sifenews.com
@@ -705,8 +698,6 @@
 0.0.0.0 0123.groovinews.com
 0.0.0.0 0123.guesswhatnews.com
 0.0.0.0 0123.jemonews.com
-0.0.0.0 0123.lookinews.com
-0.0.0.0 0123.luronews.com
 0.0.0.0 0123.reminews.com
 0.0.0.0 0123.rookinews.com
 0.0.0.0 0123.shockynews.com
@@ -720,7 +711,6 @@
 0.0.0.0 0126.jemonews.com
 0.0.0.0 0126.lootynews.com
 0.0.0.0 0126.reminews.com
-0.0.0.0 0127.deeginews.com
 0.0.0.0 0127.luronews.com
 0.0.0.0 0127.reminews.com
 0.0.0.0 0128.gofenews.com
@@ -825,7 +815,6 @@
 0.0.0.0 0158.jemonews.com
 0.0.0.0 0158.lookinews.com
 0.0.0.0 0158.reminews.com
-0.0.0.0 0159.gofenews.com
 0.0.0.0 0159.lookinews.com
 0.0.0.0 0160.lookinews.com
 0.0.0.0 0160.reminews.com
@@ -920,7 +909,6 @@
 0.0.0.0 0199.lookinews.com
 0.0.0.0 0199.luronews.com
 0.0.0.0 01ac38b0b9.4a623a5a49.com
-0.0.0.0 01ccd7d7e5.e255347009.com
 0.0.0.0 01e2d9b3b4.d95d5c2239.com
 0.0.0.0 0200.lookinews.com
 0.0.0.0 0200.shockynews.com
@@ -998,7 +986,6 @@
 0.0.0.0 0228.reminews.com
 0.0.0.0 0229.lookinews.com
 0.0.0.0 0230.lookinews.com
-0.0.0.0 02307d503f.7676f1cc6c.com
 0.0.0.0 0232.lookinews.com
 0.0.0.0 0233.bealanews.com
 0.0.0.0 0233.gofenews.com
@@ -1017,7 +1004,6 @@
 0.0.0.0 024.groovinews.com
 0.0.0.0 024.guesswhatnews.com
 0.0.0.0 024.jumronews.com
-0.0.0.0 024.lookinews.com
 0.0.0.0 024.shockynews.com
 0.0.0.0 0240.gofenews.com
 0.0.0.0 0240.lookinews.com
@@ -1047,13 +1033,11 @@
 0.0.0.0 0253.groovinews.com
 0.0.0.0 0253.lookinews.com
 0.0.0.0 0253.shockynews.com
-0.0.0.0 0254.bealanews.com
 0.0.0.0 0256.luronews.com
 0.0.0.0 0257.jemonews.com
 0.0.0.0 0257.lookinews.com
 0.0.0.0 0257.reminews.com
 0.0.0.0 0258.gofenews.com
-0.0.0.0 0258.lookinews.com
 0.0.0.0 0259.gofenews.com
 0.0.0.0 0259.lookinews.com
 0.0.0.0 0259.luronews.com
@@ -1062,7 +1046,6 @@
 0.0.0.0 0261.reminews.com
 0.0.0.0 0262.huronews.com
 0.0.0.0 0262.lookinews.com
-0.0.0.0 0263.gofenews.com
 0.0.0.0 0263.huronews.com
 0.0.0.0 0263.jumronews.com
 0.0.0.0 0263.lookinews.com
@@ -1074,9 +1057,7 @@
 0.0.0.0 0266.reminews.com
 0.0.0.0 0267.reminews.com
 0.0.0.0 0269.guesswhatnews.com
-0.0.0.0 0269.lookinews.com
 0.0.0.0 0269.selornews.com
-0.0.0.0 026b788e95.3ddf89472c.com
 0.0.0.0 0270.guesswhatnews.com
 0.0.0.0 0270.lookinews.com
 0.0.0.0 0270.reminews.com
@@ -1125,7 +1106,6 @@
 0.0.0.0 0290.jemonews.com
 0.0.0.0 0290.reminews.com
 0.0.0.0 0291.gofenews.com
-0.0.0.0 0292.huronews.com
 0.0.0.0 0292.lookinews.com
 0.0.0.0 0292.luronews.com
 0.0.0.0 0292.reminews.com
@@ -1136,7 +1116,6 @@
 0.0.0.0 0294.lookinews.com
 0.0.0.0 0294.reminews.com
 0.0.0.0 0295.gofenews.com
-0.0.0.0 0295.lookinews.com
 0.0.0.0 0295.shockynews.com
 0.0.0.0 02957e4c5f.aeb92e4b9d.com
 0.0.0.0 0296.bealanews.com
@@ -1199,7 +1178,6 @@
 0.0.0.0 0320.jemonews.com
 0.0.0.0 0320.reminews.com
 0.0.0.0 032075b7d3.6d789c3692.com
-0.0.0.0 0321.lookinews.com
 0.0.0.0 0321.reminews.com
 0.0.0.0 0322.lookinews.com
 0.0.0.0 0322.lootynews.com
@@ -1212,13 +1190,11 @@
 0.0.0.0 0324.lookinews.com
 0.0.0.0 0324.luronews.com
 0.0.0.0 0325.bealanews.com
-0.0.0.0 0325.lookinews.com
 0.0.0.0 0326.lookinews.com
 0.0.0.0 03265deadb.b6143975c9.com
 0.0.0.0 0327.reminews.com
 0.0.0.0 0328.lookinews.com
 0.0.0.0 0329.gofenews.com
-0.0.0.0 0329.luronews.com
 0.0.0.0 0329.tegronews.com
 0.0.0.0 0331.reminews.com
 0.0.0.0 0332.lookinews.com
@@ -1262,7 +1238,6 @@
 0.0.0.0 0345.lookinews.com
 0.0.0.0 0346.gofenews.com
 0.0.0.0 0346.guesswhatnews.com
-0.0.0.0 0346.lookinews.com
 0.0.0.0 0347.guesswhatnews.com
 0.0.0.0 0348.gofenews.com
 0.0.0.0 0348.guesswhatnews.com
@@ -1320,7 +1295,6 @@
 0.0.0.0 0367.shockynews.com
 0.0.0.0 0368.bealanews.com
 0.0.0.0 0368.deeginews.com
-0.0.0.0 0368.gofenews.com
 0.0.0.0 0368.jemonews.com
 0.0.0.0 0368.lookinews.com
 0.0.0.0 0368.reminews.com
@@ -1354,7 +1328,6 @@
 0.0.0.0 0380.guesswhatnews.com
 0.0.0.0 0380.lookinews.com
 0.0.0.0 0380.reminews.com
-0.0.0.0 0381.lookinews.com
 0.0.0.0 0381.luronews.com
 0.0.0.0 0382.lookinews.com
 0.0.0.0 0383.luronews.com
@@ -1453,7 +1426,6 @@
 0.0.0.0 0422.lookinews.com
 0.0.0.0 0422.lycheenews.com
 0.0.0.0 0422.shockynews.com
-0.0.0.0 0422.sifenews.com
 0.0.0.0 0423.gofenews.com
 0.0.0.0 0423.lookinews.com
 0.0.0.0 0424.lookinews.com
@@ -1529,7 +1501,6 @@
 0.0.0.0 0454.jemonews.com
 0.0.0.0 0454.reminews.com
 0.0.0.0 0457.lootynews.com
-0.0.0.0 0457.reminews.com
 0.0.0.0 0458.lookinews.com
 0.0.0.0 0459.jumronews.com
 0.0.0.0 0459.reminews.com
@@ -1597,7 +1568,6 @@
 0.0.0.0 048a2da360.3819544f76.com
 0.0.0.0 0490.rookinews.com
 0.0.0.0 0491.gofenews.com
-0.0.0.0 0491.lookinews.com
 0.0.0.0 0491.loopanews.com
 0.0.0.0 0492.gofenews.com
 0.0.0.0 0492.guesswhatnews.com
@@ -1621,7 +1591,6 @@
 0.0.0.0 0499.tegronews.com
 0.0.0.0 0500.gofenews.com
 0.0.0.0 0500.lookinews.com
-0.0.0.0 0500.reminews.com
 0.0.0.0 0502.lookinews.com
 0.0.0.0 0502.luronews.com
 0.0.0.0 0502.reminews.com
@@ -1752,7 +1721,6 @@
 0.0.0.0 0557.jemonews.com
 0.0.0.0 0557.lookinews.com
 0.0.0.0 0558.gofenews.com
-0.0.0.0 0558.lookinews.com
 0.0.0.0 0559.bealanews.com
 0.0.0.0 0559.gofenews.com
 0.0.0.0 0559.reminews.com
@@ -1795,7 +1763,6 @@
 0.0.0.0 0577.jemonews.com
 0.0.0.0 0577.lookinews.com
 0.0.0.0 0578.tegronews.com
-0.0.0.0 0579.lookinews.com
 0.0.0.0 0580.lookinews.com
 0.0.0.0 0580.luronews.com
 0.0.0.0 0581.lookinews.com
@@ -1861,7 +1828,6 @@
 0.0.0.0 0615.reminews.com
 0.0.0.0 0615.shockynews.com
 0.0.0.0 0616.lookinews.com
-0.0.0.0 0618.jemonews.com
 0.0.0.0 0618.lookinews.com
 0.0.0.0 0619.gofenews.com
 0.0.0.0 0619.lookinews.com
@@ -1880,7 +1846,6 @@
 0.0.0.0 0629.jemonews.com
 0.0.0.0 0629.lookinews.com
 0.0.0.0 0629.reminews.com
-0.0.0.0 0629.rookinews.com
 0.0.0.0 0630.jemonews.com
 0.0.0.0 0630.jumronews.com
 0.0.0.0 0630.lookinews.com
@@ -1929,7 +1894,6 @@
 0.0.0.0 0650.lookinews.com
 0.0.0.0 0651.lookinews.com
 0.0.0.0 0652.jemonews.com
-0.0.0.0 0652.lookinews.com
 0.0.0.0 0653.rookinews.com
 0.0.0.0 0655.lookinews.com
 0.0.0.0 0656.gofenews.com
@@ -1943,7 +1907,6 @@
 0.0.0.0 0660.lookinews.com
 0.0.0.0 0661.lookinews.com
 0.0.0.0 0661.lootynews.com
-0.0.0.0 0661ee37d4.b12f4c5551.com
 0.0.0.0 0662.lookinews.com
 0.0.0.0 0663.lookinews.com
 0.0.0.0 0664.lookinews.com
@@ -2088,7 +2051,6 @@
 0.0.0.0 0735.lookinews.com
 0.0.0.0 0735.reminews.com
 0.0.0.0 0736.reminews.com
-0.0.0.0 0737.reminews.com
 0.0.0.0 0738.lookinews.com
 0.0.0.0 0739.lookinews.com
 0.0.0.0 0740.deeginews.com
@@ -2118,7 +2080,6 @@
 0.0.0.0 0748.bealanews.com
 0.0.0.0 0748.gofenews.com
 0.0.0.0 0748.lookinews.com
-0.0.0.0 0748.luronews.com
 0.0.0.0 0748.reminews.com
 0.0.0.0 0749.deeginews.com
 0.0.0.0 0749.gofenews.com
@@ -2261,7 +2222,6 @@
 0.0.0.0 0812.huronews.com
 0.0.0.0 0812.lookinews.com
 0.0.0.0 0812.lootynews.com
-0.0.0.0 0813.gofenews.com
 0.0.0.0 0813.lookinews.com
 0.0.0.0 0814.bealanews.com
 0.0.0.0 0814.groovinews.com
@@ -2315,10 +2275,8 @@
 0.0.0.0 0838.groovinews.com
 0.0.0.0 0838.jemonews.com
 0.0.0.0 0839.reminews.com
-0.0.0.0 0840.lookinews.com
 0.0.0.0 0842.gofenews.com
 0.0.0.0 0842.lookinews.com
-0.0.0.0 0842.luronews.com
 0.0.0.0 0843.deeginews.com
 0.0.0.0 0843.lookinews.com
 0.0.0.0 0843.luronews.com
@@ -2356,7 +2314,6 @@
 0.0.0.0 0855.reminews.com
 0.0.0.0 0856.lookinews.com
 0.0.0.0 0856.luronews.com
-0.0.0.0 0856.sifenews.com
 0.0.0.0 0857.jumronews.com
 0.0.0.0 0857.lookinews.com
 0.0.0.0 0857.tegronews.com
@@ -2377,7 +2334,6 @@
 0.0.0.0 0864.luronews.com
 0.0.0.0 0864.reminews.com
 0.0.0.0 0865.lookinews.com
-0.0.0.0 0865.luronews.com
 0.0.0.0 0865.reminews.com
 0.0.0.0 0865.shockynews.com
 0.0.0.0 0866.lookinews.com
@@ -2720,8 +2676,6 @@
 0.0.0.0 10.lycheenews.com
 0.0.0.0 10.notify.bizonads-ssp.com
 0.0.0.0 10.sifenews.com
-0.0.0.0 100.lycheenews.com
-0.0.0.0 1000.lookinews.com
 0.0.0.0 1000.reminews.com
 0.0.0.0 1001.gofenews.com
 0.0.0.0 1001.reminews.com
@@ -3192,6 +3146,7 @@
 0.0.0.0 1199.deeginews.com
 0.0.0.0 1199.lookinews.com
 0.0.0.0 1199.shockynews.com
+0.0.0.0 11a1580fd1.ae2f6a33e6.com
 0.0.0.0 12.bealanews.com
 0.0.0.0 12.deeginews.com
 0.0.0.0 12.groovinews.com
@@ -3260,7 +3215,6 @@
 0.0.0.0 1224.lootynews.com
 0.0.0.0 1225.lookinews.com
 0.0.0.0 1225.reminews.com
-0.0.0.0 1226.jumronews.com
 0.0.0.0 1226.lootynews.com
 0.0.0.0 1226.luronews.com
 0.0.0.0 1227.jemonews.com
@@ -3405,7 +3359,6 @@
 0.0.0.0 1283.reminews.com
 0.0.0.0 1285.jemonews.com
 0.0.0.0 1285.lookinews.com
-0.0.0.0 1285.reminews.com
 0.0.0.0 1286.jemonews.com
 0.0.0.0 1286.lookinews.com
 0.0.0.0 1286.reminews.com
@@ -3630,6 +3583,7 @@
 0.0.0.0 1393.reminews.com
 0.0.0.0 1394.jemonews.com
 0.0.0.0 1394.tegronews.com
+0.0.0.0 1394aaf132.2a9f8fc03a.com
 0.0.0.0 1395.groovinews.com
 0.0.0.0 1395.lookinews.com
 0.0.0.0 1396.bealanews.com
@@ -4410,7 +4364,6 @@
 0.0.0.0 1768.reminews.com
 0.0.0.0 1768.shockynews.com
 0.0.0.0 1769.lookinews.com
-0.0.0.0 1769.reminews.com
 0.0.0.0 177.groovinews.com
 0.0.0.0 177.guesswhatnews.com
 0.0.0.0 177.lookinews.com
@@ -5031,7 +4984,6 @@
 0.0.0.0 2768.bealanews.com
 0.0.0.0 2772.gofenews.com
 0.0.0.0 277ccb0f22.b06bdf796d.com
-0.0.0.0 27ad1c51a5.1aa3097b7b.com
 0.0.0.0 27d76690f3.44288fa514.com
 0.0.0.0 2805fbaa46.71ec0646e6.com
 0.0.0.0 2810.reminews.com
@@ -5084,12 +5036,12 @@
 0.0.0.0 2c59d4cfd1.521bec59f1.com
 0.0.0.0 2d04fd8d84.a10e98bd92.com
 0.0.0.0 2d26f82870.68df7777dc.com
+0.0.0.0 2d2c2fc3dd.e3d2d0cafa.com
 0.0.0.0 2d554e304a.828a3db3a3.com
 0.0.0.0 2e854734cd.576de58030.com
 0.0.0.0 2e9c8127d6.8d68be1445.com
 0.0.0.0 2ec5f095fb.ebe29efc2c.com
 0.0.0.0 2ed9f34a09.76497105d4.com
-0.0.0.0 2efa1cdf7a.1ca47a451d.com
 0.0.0.0 2fa057254b.445d1bd01a.com
 0.0.0.0 3016.gofenews.com
 0.0.0.0 3016.lookinews.com
@@ -5866,6 +5818,7 @@
 0.0.0.0 3845405.notify6.com
 0.0.0.0 3849719.notify6.com
 0.0.0.0 3853333.notify6.com
+0.0.0.0 3856281.notify6.com
 0.0.0.0 3858841.notify6.com
 0.0.0.0 3869256.notifysrv.com
 0.0.0.0 3869316.notify6.com
@@ -5950,6 +5903,7 @@
 0.0.0.0 3ecfebd478.7aa130b045.com
 0.0.0.0 3f1d1cd4aa.ced843cd18.com
 0.0.0.0 3f20b278fd.a44c39fc52.com
+0.0.0.0 3f2f1a20ba.1ecfd63507.com
 0.0.0.0 3f876ad3c2.92430e785d.com
 0.0.0.0 4.notify.bizonads-ssp.com
 0.0.0.0 4003022.notify6.com
@@ -5961,6 +5915,7 @@
 0.0.0.0 4022504.notify6.com
 0.0.0.0 4022684.notify6.com
 0.0.0.0 4023322612.4a167ec12d.com
+0.0.0.0 4028414.notify6.com
 0.0.0.0 4031264.notify6.com
 0.0.0.0 4031266.notify6.com
 0.0.0.0 4035140.notify6.com
@@ -6005,6 +5960,7 @@
 0.0.0.0 40ba47f3da.abe0a67ce4.com
 0.0.0.0 4104214.notify6.com
 0.0.0.0 4107b8768e.8d08a38552.com
+0.0.0.0 41141cc7a7.e1cd662960.com
 0.0.0.0 4131834.notify6.com
 0.0.0.0 4133026.notify6.com
 0.0.0.0 4138684.notify6.com
@@ -6031,6 +5987,7 @@
 0.0.0.0 4195738.notify6.com
 0.0.0.0 4196012.notify6.com
 0.0.0.0 41f65678e1.8ae7162e81.com
+0.0.0.0 420a797395.95cf5beb64.com
 0.0.0.0 4211854.notify6.com
 0.0.0.0 4212642.notify6.com
 0.0.0.0 4212982.notify6.com
@@ -6159,6 +6116,7 @@
 0.0.0.0 4bbefa854f.f8e36bb73c.com
 0.0.0.0 4bc0edac2f.92331e9790.com
 0.0.0.0 4c3aedd8d1.2d32e2d54e.com
+0.0.0.0 4c48e5395e.01c70a2a06.com
 0.0.0.0 4c8139d141.b9f4882bac.com
 0.0.0.0 4c89e3f7ac.81ac5b609b.com
 0.0.0.0 4cec352372.19d1da8898.com
@@ -6184,6 +6142,7 @@
 0.0.0.0 5186a7e79e.38d9953876.com
 0.0.0.0 5195b6b4c3.6dffc00153.com
 0.0.0.0 51aa9bb2be.08af0e4303.com
+0.0.0.0 51f93c1dfd.a7245f3c59.com
 0.0.0.0 52ac762fd0.eb5232b35d.com
 0.0.0.0 52be30eae9.7b763dbdf3.com
 0.0.0.0 52c2be887f.84cd8c4d7e.com
@@ -6205,7 +6164,6 @@
 0.0.0.0 5662fe77fd.d787d0e334.com
 0.0.0.0 56a444a071.3a98f4e936.com
 0.0.0.0 577.notify.optimizesrv.com
-0.0.0.0 57c075bf2b.fd57cc1fde.com
 0.0.0.0 57e1932c4c.6593167243.com
 0.0.0.0 582ff6f1ff.8c771f7ea1.com
 0.0.0.0 583.notify.optimizesrv.com
@@ -6218,9 +6176,11 @@
 0.0.0.0 59a467d228.cf9fa75179.com
 0.0.0.0 59b90e5f68.760ed2b57f.com
 0.0.0.0 5a981f093e.69852b1734.com
+0.0.0.0 5ceeef63ba.a899228ebf.com
 0.0.0.0 5d5e522cdc.c7d263f5d8.com
 0.0.0.0 5da111cc66.423ed275a7.com
 0.0.0.0 5f0621a1db.8dfc9560e0.com
+0.0.0.0 5f1f1a3fb8.80cbbd23e7.com
 0.0.0.0 5f25a.dappaa.site
 0.0.0.0 5f25b.dappaa.site
 0.0.0.0 5f25c.dappaa.site
@@ -6235,6 +6195,7 @@
 0.0.0.0 60812add0f.211834e9ab.com
 0.0.0.0 6085.shockynews.com
 0.0.0.0 6091.reminews.com
+0.0.0.0 6107a15b84.5bdb6e0e40.com
 0.0.0.0 6114.bealanews.com
 0.0.0.0 6131e01aaa.4710451f4b.com
 0.0.0.0 6146.notify.optimizesrv.com
@@ -6322,6 +6283,7 @@
 0.0.0.0 6ab2ef8bd3.8bb92fbed8.com
 0.0.0.0 6acb7cce62.c01d3ac9cb.com
 0.0.0.0 6b811acd08.928fab1d1d.com
+0.0.0.0 6c16929ccf.cb15484c44.com
 0.0.0.0 6c876496e6.f4235693e4.com
 0.0.0.0 6cf0e7801e8cd.clicknplay.to
 0.0.0.0 6d729ebc67.867df8b139.com
@@ -6367,14 +6329,12 @@
 0.0.0.0 7251.rookinews.com
 0.0.0.0 7267d7ff7d.0c3b16e8e6.com
 0.0.0.0 735a0662e8.ff9ffc838f.com
-0.0.0.0 736db92639.0abdab4d27.com
 0.0.0.0 736ec4b346.ffba7aab82.com
-0.0.0.0 7370f02cc1.0c98edaa39.com
 0.0.0.0 73df2bbcb2.ff42fd5ec6.com
 0.0.0.0 73fecf8e35.fb99ef9239.com
 0.0.0.0 74202b8bcc.2e55a2d58f.com
 0.0.0.0 7440d16fe0.1fed30fe42.com
-0.0.0.0 74c1faa635.f3a173b897.com
+0.0.0.0 745f5eafee.04cb2afab7.com
 0.0.0.0 7578dca18a.20539787d1.com
 0.0.0.0 75920b316b.46d983eade.com
 0.0.0.0 760bdb43fb.7b3bd56d1e.com
@@ -6383,7 +6343,6 @@
 0.0.0.0 767d47bd57.b2691621ae.com
 0.0.0.0 769.notify.optimizesrv.com
 0.0.0.0 769372a0a8.4073284684.com
-0.0.0.0 76df5972d5.479457698a.com
 0.0.0.0 779b4fe09a.86aa86d2f4.com
 0.0.0.0 779deece7d.899aa6e01c.com
 0.0.0.0 77be761a72.8c22d403cf.com
@@ -6394,6 +6353,7 @@
 0.0.0.0 78aa8bf1d5.82b5cc6199.com
 0.0.0.0 78b37f45bb.6dceed83a5.com
 0.0.0.0 79369f2530.1b55d966f1.com
+0.0.0.0 79595544b9.b4b2389406.com
 0.0.0.0 795bb4615e.3cbc749ccf.com
 0.0.0.0 7978dc24e7.11f1b925c4.com
 0.0.0.0 7992.gofenews.com
@@ -6422,6 +6382,7 @@
 0.0.0.0 7e7e10c005.cd4d8554b1.com
 0.0.0.0 7erfgdyu4yuf5ueq.lookinews.com
 0.0.0.0 7f31bf7727.72d197aaa2.com
+0.0.0.0 7f5288e6b2.b70f0a4569.com
 0.0.0.0 7fb6f12dd2.17dc91dc49.com
 0.0.0.0 7fd5bcd24e.86ff56b6d5.com
 0.0.0.0 7fgdyu4yuf5ueq.lookinews.com
@@ -6642,6 +6603,7 @@
 0.0.0.0 9406aa408f.733ecf9148.com
 0.0.0.0 9423974f91.93430df2ae.com
 0.0.0.0 94df18dfd2.6cb6696a46.com
+0.0.0.0 94e324776f.5ecce229af.com
 0.0.0.0 955.notify.optimizesrv.com
 0.0.0.0 956491105d.fa431bfeb1.com
 0.0.0.0 963.notify.optimizesrv.com
@@ -6657,6 +6619,7 @@
 0.0.0.0 99ca111363.ba488608ee.com
 0.0.0.0 99ccbf1a87.39f204776a.com
 0.0.0.0 99loz.xyz
+0.0.0.0 9aacd424bf.81794ea37a.com
 0.0.0.0 9aeb603608.86c80a0afb.com
 0.0.0.0 9b1127767f.7d8b7d31f8.com
 0.0.0.0 9c849c70a8.7da3a14504.com
@@ -6738,17 +6701,17 @@
 0.0.0.0 a.suptube.com
 0.0.0.0 a.teencfnm.com
 0.0.0.0 a.tixir.xyz
-0.0.0.0 a.tortuko.club
 0.0.0.0 a.totoro2011.xyz
 0.0.0.0 a.unblock2303.xyz
 0.0.0.0 a.unblock2304.xyz
 0.0.0.0 a.viralnewsbd.xyz
+0.0.0.0 a.voxar.xyz
 0.0.0.0 a.warddogs.com
+0.0.0.0 a.wlen1bty92.pro
 0.0.0.0 a.xmanga.online
 0.0.0.0 a.zillastream.com
 0.0.0.0 a04ea1b287.cc77769ad8.com
 0.0.0.0 a0a5ffe3ed.445c1f5df9.com
-0.0.0.0 a0fd7f1308.6a21c55f67.com
 0.0.0.0 a10ac43630.5508de0fd7.com
 0.0.0.0 a111118fae.763e24cc7e.com
 0.0.0.0 a19219fa68.2b037d5d4d.com
@@ -6813,7 +6776,6 @@
 0.0.0.0 abc.cda-hd.co
 0.0.0.0 abc.comick.top
 0.0.0.0 abutok.xyz
-0.0.0.0 ac309a36ac.fb28078ad6.com
 0.0.0.0 ac3893441e.c8f9398ccd.com
 0.0.0.0 ac9fbe82ea.aea00d7aef.com
 0.0.0.0 ad.animeitaly.tv
@@ -6871,6 +6833,7 @@
 0.0.0.0 aec194b31a.8105bfd0ff.com
 0.0.0.0 aec7393c22.06e293435c.com
 0.0.0.0 aeed800dda.ee43ed4973.com
+0.0.0.0 afa3d75d3f.9bbd72928f.com
 0.0.0.0 aff437176b.19fc4acebd.com
 0.0.0.0 ag.axonesjames.com
 0.0.0.0 ah.tabskeawe.com
@@ -7055,6 +7018,7 @@
 0.0.0.0 b5c8a7e42c.cf204c4d96.com
 0.0.0.0 b64b02b34f.5f450dbe81.com
 0.0.0.0 b726df4f2f.5c58619ab5.com
+0.0.0.0 b72f9924be.a74824bbbe.com
 0.0.0.0 b7cc0eb404.dc564d181f.com
 0.0.0.0 b81fe5c471.12bf8fb111.com
 0.0.0.0 b8b5555611.24747b0be6.com
@@ -7154,7 +7118,6 @@
 0.0.0.0 bj.preideanested.com
 0.0.0.0 bj.unfeeddizoic.com
 0.0.0.0 bk.clinkedsphecid.com
-0.0.0.0 bl.delbertgobans.com
 0.0.0.0 bl.noonishkahala.com
 0.0.0.0 blackbird.docstation.co
 0.0.0.0 blackbird.everythinginmoderation.co
@@ -7206,7 +7169,6 @@
 0.0.0.0 butterfly.rfortherestofus.com
 0.0.0.0 buzzard.donotresearch.net
 0.0.0.0 buzzard.ficabo.com.au
-0.0.0.0 buzzard.nimble.team
 0.0.0.0 bx.khedivaormond.com
 0.0.0.0 bx5.tubemaximum.com
 0.0.0.0 by.ballinghelonin.com
@@ -7342,6 +7304,7 @@
 0.0.0.0 cdddd.javmilk.org
 0.0.0.0 cdfr.hot4k.org
 0.0.0.0 cdn-b.notsy.io
+0.0.0.0 cdn.adevbom.com
 0.0.0.0 cdn.admatic.com.tr
 0.0.0.0 cdn.adsninja.ca
 0.0.0.0 cdn.affiliatable.io
@@ -7430,7 +7393,7 @@
 0.0.0.0 cdn5.cartoonporn.to
 0.0.0.0 cdn5.hentaihaven.fun
 0.0.0.0 ce.paliercleaned.com
-0.0.0.0 ce614db82b.3eb8f81779.com
+0.0.0.0 ce1e674f2f.3897e90a2e.com
 0.0.0.0 ce645ac38d.e8e8d13de8.com
 0.0.0.0 ce86516717.197ab55c5d.com
 0.0.0.0 ce9ff432c8.9a7c81f58e.com
@@ -7473,7 +7436,6 @@
 0.0.0.0 chimpanzee.designerdailyreport.com
 0.0.0.0 chimpanzee.ines-papert.com
 0.0.0.0 chinchilla.68keys.io
-0.0.0.0 chinchilla.christinefontaine.com
 0.0.0.0 chipmunk.brandy.is
 0.0.0.0 chipmunk.sqltoapi.com
 0.0.0.0 cicada.escapethecorporatecult.com
@@ -7680,7 +7642,6 @@
 0.0.0.0 d49f99a543.2817931c44.com
 0.0.0.0 d4d99bfbcf.e59f087ae4.com
 0.0.0.0 d4db4afa07.598bbc60ff.com
-0.0.0.0 d58931bb20.5afc8f3239.com
 0.0.0.0 d657de313d.b25c1fa74d.com
 0.0.0.0 d6f3d43c56.d871f74395.com
 0.0.0.0 d7031576be.ff4eaea9ba.com
@@ -7729,7 +7690,6 @@
 0.0.0.0 dd1.guesswhatnews.com
 0.0.0.0 dd1.jumronews.com
 0.0.0.0 dd1.lookinews.com
-0.0.0.0 dd15b806f5.57debc89a6.com
 0.0.0.0 dd1ff08e20.2d77c9dd09.com
 0.0.0.0 dd3.guesswhatnews.com
 0.0.0.0 dd4.bealanews.com
@@ -7853,6 +7813,7 @@
 0.0.0.0 e2b9148acd.2a2e94fb21.com
 0.0.0.0 e36af60762.4a5d6a35fb.com
 0.0.0.0 e38d8ba8c9.71ffca393f.com
+0.0.0.0 e4203cbfd3.ab73ad8e50.com
 0.0.0.0 e484f19499.20f555d506.com
 0.0.0.0 e48a2b1f3a.42e44b2b6e.com
 0.0.0.0 e499c9efbe.68728e8ec6.com
@@ -7862,6 +7823,7 @@
 0.0.0.0 e528be066f.97cc7b61f4.com
 0.0.0.0 e549d54579.40e82f6c27.com
 0.0.0.0 e55899084c.0b73f85f92.com
+0.0.0.0 e588190a1e.ac09f93506.com
 0.0.0.0 e58d8a0f08.459bfb9e58.com
 0.0.0.0 e5b0ca5a6b.dc3b671cce.com
 0.0.0.0 e64b3eedca.d15455901a.com
@@ -7877,6 +7839,7 @@
 0.0.0.0 e9948a638d.649ce954a0.com
 0.0.0.0 ea14216d77.d6a206cf07.com
 0.0.0.0 ea18dad2af.82308721ac.com
+0.0.0.0 ea2f8770c9.3e950d4353.com
 0.0.0.0 ea5fb8fec2.ff00c90f6a.com
 0.0.0.0 eagle.roarfilm.com.au
 0.0.0.0 earthworm.creatifmediagroup.com
@@ -7886,7 +7849,6 @@
 0.0.0.0 earthworm.ohmydeck.com
 0.0.0.0 earthworm.robbevanpetegem.be
 0.0.0.0 earwig.architecturesofhiding.com
-0.0.0.0 eb3a94f7c8.fa479896c7.com
 0.0.0.0 eb554aa4ca.ab08706bb4.com
 0.0.0.0 eb8ab6f215.1e64b4d129.com
 0.0.0.0 ebb19ca025.0f3887f8af.com
@@ -8021,6 +7983,7 @@
 0.0.0.0 fb42cfb166.5701b9f7a4.com
 0.0.0.0 fb8265a483.a3595ccd38.com
 0.0.0.0 fbb48d4863.c56e9a74e0.com
+0.0.0.0 fca4ef2b7a.539f346355.com
 0.0.0.0 fd.peguanmistone.com
 0.0.0.0 fd.rusheedeserve.com
 0.0.0.0 fd5b7e24e7.44ffd27303.com
@@ -8219,7 +8182,6 @@
 0.0.0.0 filter.revrtb.net
 0.0.0.0 filter.rocoads.com
 0.0.0.0 filter.rtbfactory.com
-0.0.0.0 filter.rtbzone.com
 0.0.0.0 filter.saturndynamic.pt
 0.0.0.0 filter.sedodna.com
 0.0.0.0 filter.showcasead.com
@@ -8234,7 +8196,6 @@
 0.0.0.0 filter.ultrads.net
 0.0.0.0 filter.uptowntraction.com
 0.0.0.0 filter.vashoot.com
-0.0.0.0 filter.vtads.co.in
 0.0.0.0 filter.webmedxml.com
 0.0.0.0 filter.xmladsystem.com
 0.0.0.0 filter.xmlfusion.com
@@ -8274,7 +8235,6 @@
 0.0.0.0 fowl.saulhardman.com
 0.0.0.0 fox.domainr.com
 0.0.0.0 fox.visionaudiovisual.com
-0.0.0.0 fp.mailerstalons.com
 0.0.0.0 free.srcdn.xyz
 0.0.0.0 freepresentforyou.bealanews.com
 0.0.0.0 freepresentforyou.guesswhatnews.com
@@ -8299,6 +8259,7 @@
 0.0.0.0 g6j.cupidonmedia.com
 0.0.0.0 ga.asseizeenl.com
 0.0.0.0 ga.fentwigful.com
+0.0.0.0 game.starswalker.site
 0.0.0.0 gamefowl.emailforward.mx
 0.0.0.0 gamefowl.karlsutt.com
 0.0.0.0 gamefowl.nonprofit.foundation
@@ -8329,7 +8290,6 @@
 0.0.0.0 giraffe.fnd.info
 0.0.0.0 giraffe.talktalent.com
 0.0.0.0 giraffe.viatorci.com
-0.0.0.0 glass.vixfilmes.online
 0.0.0.0 glbor1.lycheenews.com
 0.0.0.0 glokta.info
 0.0.0.0 gn.afootwitword.com
@@ -8389,7 +8349,6 @@
 0.0.0.0 gulto.xyz
 0.0.0.0 guppy.ausowned.com.au
 0.0.0.0 guppy.ironmic.fm
-0.0.0.0 guppy.setasign.com
 0.0.0.0 guppy.under2.agency
 0.0.0.0 gw.glassbogey.com
 0.0.0.0 h-ay.com
@@ -8562,9 +8521,9 @@
 0.0.0.0 jo.maraewid.com
 0.0.0.0 jo.tictocswended.com
 0.0.0.0 join.finevisit.com
+0.0.0.0 jordan.qunis.ru
 0.0.0.0 jr.guestschewy.com
 0.0.0.0 jr.wishjolty.com
-0.0.0.0 jrtfx.scottspence.me
 0.0.0.0 js.allporncomic.com
 0.0.0.0 js.cabnnr.com
 0.0.0.0 js.canstrm.com
@@ -8603,6 +8562,7 @@
 0.0.0.0 k7.lookinews.com
 0.0.0.0 k7.tegronews.com
 0.0.0.0 k9.lookinews.com
+0.0.0.0 kaizzz.xyz
 0.0.0.0 kangaroo.kraenk.de
 0.0.0.0 kangaroo.triplightfantastic.com
 0.0.0.0 kaxlfq.testingwithtestcafe.com
@@ -8631,6 +8591,7 @@
 0.0.0.0 kl.osmoticchalah.com
 0.0.0.0 kliqz.com
 0.0.0.0 klso.lookinews.com
+0.0.0.0 ko.faptor.com
 0.0.0.0 koala.getslopes.com
 0.0.0.0 koala.moontells.com
 0.0.0.0 koala.mynestbox.co.uk
@@ -8684,6 +8645,7 @@
 0.0.0.0 lb.hyratesethic.com
 0.0.0.0 lc.punkahskayles.com
 0.0.0.0 ld.stengskelped.com
+0.0.0.0 ld.wraithydecides.com
 0.0.0.0 le.wellsmessy.com
 0.0.0.0 leads.uptownleads.com
 0.0.0.0 leech.fuchsegg.at
@@ -8790,7 +8752,6 @@
 0.0.0.0 login.topdealad.com
 0.0.0.0 login.trafficmoose.com
 0.0.0.0 login.unibots.in
-0.0.0.0 login.vespymedia.com
 0.0.0.0 login.waardex.com
 0.0.0.0 login.xmlfusion.com
 0.0.0.0 login.xmlppc.net
@@ -9004,6 +8965,7 @@
 0.0.0.0 notonthebedsheets.com
 0.0.0.0 np.brackenclomped.com
 0.0.0.0 np.incrustkantela.com
+0.0.0.0 npbvqqkpuele.cdnvideo3.com
 0.0.0.0 nr.celaenomash.com
 0.0.0.0 ns.gyreneverist.com
 0.0.0.0 nx7.hdxxxclips.com
@@ -9042,7 +9004,6 @@
 0.0.0.0 ok.fapnow.xxx
 0.0.0.0 ok.faptor.com
 0.0.0.0 ok.hqbang.com
-0.0.0.0 ok.ribworkstylus.com
 0.0.0.0 ok.starwank.com
 0.0.0.0 ol.dundeesmemo.com
 0.0.0.0 on.culverscoping.com
@@ -9201,7 +9162,6 @@
 0.0.0.0 pred.7mmtv.top
 0.0.0.0 primate.oleggera.com
 0.0.0.0 primate.productcolors.com
-0.0.0.0 profield.ddns.net
 0.0.0.0 ps.lanzontuareg.com
 0.0.0.0 ptarmigan.bridal-hair-and-accessories-now.com
 0.0.0.0 ptarmigan.codebycorey.com
@@ -9377,7 +9337,6 @@
 0.0.0.0 rtb-eu.adop.co
 0.0.0.0 rtb-eu.adventurefeeds.com
 0.0.0.0 rtb-eu.adxfactory.com
-0.0.0.0 rtb-eu.adzgame.com
 0.0.0.0 rtb-eu.andbeyond.media
 0.0.0.0 rtb-eu.bidmyqps.xyz
 0.0.0.0 rtb-eu.blueparrot.media
@@ -9455,7 +9414,6 @@
 0.0.0.0 rtb-useast.displayio.cloud
 0.0.0.0 rtb-useast.e-volution.ai
 0.0.0.0 rtb-useast.ergadx.com
-0.0.0.0 rtb-useast.eximdigital.com
 0.0.0.0 rtb-useast.ezmob.com
 0.0.0.0 rtb-useast.felixads.com
 0.0.0.0 rtb-useast.fmlabsonline.com
@@ -9748,6 +9706,7 @@
 0.0.0.0 silkworm.preventingsuicideinsussex.org
 0.0.0.0 silkworm.waspexpert.com
 0.0.0.0 silkworm.westwoodmbc.org
+0.0.0.0 silverfish.camaleon.gt
 0.0.0.0 silverfish.dailybuilds.com
 0.0.0.0 silverfish.djordjevanjek.com
 0.0.0.0 sk.tuskersecklein.com
@@ -9758,7 +9717,6 @@
 0.0.0.0 sloth.goodtendency.app
 0.0.0.0 sloth.vaalinstudio.com
 0.0.0.0 sloth.vguerrerobosch.com
-0.0.0.0 slug.sirenergies.com
 0.0.0.0 sm-rtb-useast.zmdvideo.com
 0.0.0.0 smart.sunporno.com
 0.0.0.0 smelt.allenpike.com
@@ -10030,6 +9988,7 @@
 0.0.0.0 sz.famanils.com
 0.0.0.0 t.optzsrv.com
 0.0.0.0 t0ikowg7jg.serverlesslaravelcourse.com
+0.0.0.0 ta.acedtousles.com
 0.0.0.0 tacumi.xyz
 0.0.0.0 tag.adkernel.com
 0.0.0.0 tag.musiciansaudience.com
@@ -10096,8 +10055,6 @@
 0.0.0.0 toucan.wlns.io
 0.0.0.0 tp.parcbegulf.com
 0.0.0.0 tpl.fuckxness.com
-0.0.0.0 tq-eu.craftviking-2.co
-0.0.0.0 tq-eu.craftviking.co
 0.0.0.0 tq-eu.frdjs-1.co
 0.0.0.0 tq-eu.frdjs-2.co
 0.0.0.0 tq-eu.gipostart-1.co
@@ -10105,8 +10062,6 @@
 0.0.0.0 tq-eu.nxthost-2.info
 0.0.0.0 tq-eu.xonedart-1.live
 0.0.0.0 tq.adventurefeeds.com
-0.0.0.0 tq.craftviking-2.co
-0.0.0.0 tq.craftviking.co
 0.0.0.0 tq.frdjs-1.co
 0.0.0.0 tq.frdjs-2.co
 0.0.0.0 tq.gipostart-1.co
@@ -10208,6 +10163,7 @@
 0.0.0.0 vjav.com.jav-7mmtv.top
 0.0.0.0 vl.boongsmokeho.com
 0.0.0.0 vn.finisbur.com
+0.0.0.0 vo.mofettecalmed.com
 0.0.0.0 vole.contemporaryartlibrary.org
 0.0.0.0 vole.leonhitchens.com
 0.0.0.0 vole.nettskaperne.no
@@ -10707,6 +10663,7 @@
 0.0.0.0 www.notifysrv.com
 0.0.0.0 www.online-adnetwork.com
 0.0.0.0 www.p123p.com
+0.0.0.0 www.pelisestreno.cc
 0.0.0.0 www.pleasedonotblockme.com
 0.0.0.0 www.popxml.com
 0.0.0.0 www.pornvideos.casa
@@ -10759,8 +10716,6 @@
 0.0.0.0 xml-eu-v4.chameleostudios.com
 0.0.0.0 xml-eu-v4.convertap.com
 0.0.0.0 xml-eu-v4.coupontic.com
-0.0.0.0 xml-eu-v4.craftviking-2.co
-0.0.0.0 xml-eu-v4.craftviking.co
 0.0.0.0 xml-eu-v4.explorefast-1.com
 0.0.0.0 xml-eu-v4.ezmob.com
 0.0.0.0 xml-eu-v4.frdjs-1.co
@@ -10798,8 +10753,6 @@
 0.0.0.0 xml-eu.bidforclicks.com
 0.0.0.0 xml-eu.bidmyadz.com
 0.0.0.0 xml-eu.blueparrot.media
-0.0.0.0 xml-eu.craftviking-2.co
-0.0.0.0 xml-eu.craftviking.co
 0.0.0.0 xml-eu.explorefast-1.com
 0.0.0.0 xml-eu.ezmob.com
 0.0.0.0 xml-eu.fastmtn.com
@@ -10846,8 +10799,6 @@
 0.0.0.0 xml-v4.clkfst.com
 0.0.0.0 xml-v4.convertap.com
 0.0.0.0 xml-v4.coupontic.com
-0.0.0.0 xml-v4.craftviking-2.co
-0.0.0.0 xml-v4.craftviking.co
 0.0.0.0 xml-v4.datadrives.ai
 0.0.0.0 xml-v4.digiteci.com
 0.0.0.0 xml-v4.domains-traffic.com
@@ -10863,7 +10814,6 @@
 0.0.0.0 xml-v4.fstsrv5.com
 0.0.0.0 xml-v4.gipostart-1.co
 0.0.0.0 xml-v4.gipostart-2.co
-0.0.0.0 xml-v4.goclickz.net
 0.0.0.0 xml-v4.hetcash.com
 0.0.0.0 xml-v4.kunvertads.com
 0.0.0.0 xml-v4.mobifly.net
@@ -10964,8 +10914,6 @@
 0.0.0.0 xml.convertise.io
 0.0.0.0 xml.conxstream.com
 0.0.0.0 xml.coupontic.com
-0.0.0.0 xml.craftviking-2.co
-0.0.0.0 xml.craftviking.co
 0.0.0.0 xml.ctrtraffic.com
 0.0.0.0 xml.dollopsdigital.com
 0.0.0.0 xml.domains-traffic.com
