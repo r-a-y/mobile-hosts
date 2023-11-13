@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 06 Nov 2023 19:16:47 +0000
+# Last converted - Mon, 13 Nov 2023 19:45:14 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -95,6 +95,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
 0.0.0.0 c.vogue.com
+0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
@@ -154,7 +155,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
@@ -310,6 +310,7 @@
 0.0.0.0 msg-intl.qy.net
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 n26-trusted.n26.com
+0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
@@ -361,6 +362,7 @@
 0.0.0.0 pxl.indeed.com
 0.0.0.0 qc.newyorker.com
 0.0.0.0 qc.vogue.com
+0.0.0.0 qc.wired.com
 0.0.0.0 qm.redbull.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.bbci.co.uk
