@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 13 Nov 2023 19:45:14 +0000
+# Last converted - Fri, 24 Nov 2023 01:20:19 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -456,6 +456,7 @@
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com
 0.0.0.0 events.yourcx.io
+0.0.0.0 eventsproxy.gargantuan.futureplc.com
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 experience.contextly.com
@@ -596,6 +597,7 @@
 0.0.0.0 logger.snackly.co
 0.0.0.0 logging.carambo.la
 0.0.0.0 logging.je-apps.com
+0.0.0.0 logging.pw.adn.cloud
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
@@ -657,6 +659,7 @@
 0.0.0.0 newsanalytics.com.au
 0.0.0.0 newsletters.nationalgeographic.com
 0.0.0.0 ninja.onap.io
+0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 nojscontainer.pepperjam.com
 0.0.0.0 nol.yahoo.com
@@ -926,6 +929,7 @@
 0.0.0.0 t.clic2buy.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.enuygun.com
+0.0.0.0 t.ghostboard.io
 0.0.0.0 t.irtyc.com
 0.0.0.0 t.jobsyn.org
 0.0.0.0 t.menepe.com
@@ -972,6 +976,7 @@
 0.0.0.0 target.mixi.media
 0.0.0.0 te.supportfreecontent.com
 0.0.0.0 telemetrics.klaviyo.com
+0.0.0.0 telemetry.goodlifefitness.com
 0.0.0.0 telemetry.phenixrts.com
 0.0.0.0 telemetry.reembed.com
 0.0.0.0 telemetry.soundcloud.com
