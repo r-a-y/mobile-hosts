@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 04 Dec 2023 21:19:05 +0000
+# Last converted - Mon, 11 Dec 2023 19:19:28 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -443,6 +443,7 @@
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
+0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 szrpr.raen.com
 0.0.0.0 t.3hentai.net
