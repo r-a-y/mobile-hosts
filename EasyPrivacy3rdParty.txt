@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 11 Dec 2023 19:19:28 +0000
+# Last converted - Mon, 18 Dec 2023 22:00:14 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -412,6 +412,7 @@
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
+0.0.0.0 ev.moneymade.io
 0.0.0.0 ev.stellarlabs.ai
 0.0.0.0 event-api.contactatonce.com
 0.0.0.0 event-api.rdstation.com.br
@@ -827,6 +828,7 @@
 0.0.0.0 smrt.as
 0.0.0.0 snaps.vidiemi.com
 0.0.0.0 snowplow.swm.digital
+0.0.0.0 snowplowjs.darwin.cx
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
 0.0.0.0 sp.tinymce.com
