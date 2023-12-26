@@ -1,11 +1,12 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 18 Dec 2023 22:00:14 +0000
+# Last converted - Tue, 26 Dec 2023 03:35:25 +0000
 #
 
 0.0.0.0 100widgets.com
 0.0.0.0 1558334541.rsc.cdn77.org
+0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
 0.0.0.0 51network.com
@@ -37,6 +38,7 @@
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-production.hapyak.com
@@ -552,6 +554,7 @@
 0.0.0.0 iqzone.com
 0.0.0.0 jas.indeednps.com
 0.0.0.0 javascriptcounter.appspot.com
+0.0.0.0 jennifersoft.com
 0.0.0.0 jill.fc.yahoo.com
 0.0.0.0 jly24aw29n5m-a.akamaihd.net
 0.0.0.0 jtracking-gate.lulusoft.com
@@ -924,6 +927,7 @@
 0.0.0.0 t.91syun.com
 0.0.0.0 t.a3cloud.net
 0.0.0.0 t.adx.opera.com
+0.0.0.0 t.arcade.show
 0.0.0.0 t.auditedmedia.org.au
 0.0.0.0 t.beop.io
 0.0.0.0 t.bimvid.com
@@ -989,6 +993,7 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telemetry.tableausoftware.com
 0.0.0.0 telemetry.vtex.com
+0.0.0.0 test.takedwn.ws
 0.0.0.0 timber.sendtonews.com
 0.0.0.0 timejs.game.163.com
 0.0.0.0 tk.storetail.io
