@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Dec 2023 22:00:13 +0000
+# Last converted - Tue, 26 Dec 2023 03:35:24 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -110,6 +110,8 @@
 0.0.0.0 clp-mms.cloudpro.co.uk
 0.0.0.0 cm-mms.coachmag.co.uk
 0.0.0.0 cm.nordvpn.com
+0.0.0.0 cmpworker.dotesports.com
+0.0.0.0 cmpworker.primagames.com
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.viptube.com
@@ -149,6 +151,7 @@
 0.0.0.0 d.skk.moe
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
+0.0.0.0 data.torry.io
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.patreon.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
@@ -293,6 +296,7 @@
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
