@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 26 Dec 2023 03:35:25 +0000
+# Last converted - Thu, 04 Jan 2024 08:03:51 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -20,6 +20,7 @@
 0.0.0.0 activity.wisepops.com
 0.0.0.0 ad-shield.io
 0.0.0.0 ad.aloodo.com
+0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adfox.yandex.ru
 0.0.0.0 adlog.com.com
 0.0.0.0 ads-trk.vidible.tv
@@ -32,7 +33,6 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
-0.0.0.0 an.yandex.ru
 0.0.0.0 analyse.bcovery.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
@@ -169,7 +169,6 @@
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 ao-freegeoip.herokuapp.com
-0.0.0.0 aorta.clickagy.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api-analytics-prd.pelcro.com
 0.0.0.0 api-location-prd.pelcro.com
@@ -218,6 +217,7 @@
 0.0.0.0 beacon2.indieclick.com
 0.0.0.0 beacons.mediamelon.com
 0.0.0.0 beam.mjhlifesciences.com
+0.0.0.0 beamanalytics.b-cdn.net
 0.0.0.0 bee.tc.easebar.com
 0.0.0.0 behavior.tongdun.net
 0.0.0.0 bento.agoda.com
@@ -240,6 +240,7 @@
 0.0.0.0 c3metrics.medifast1.com
 0.0.0.0 cache2.delvenetworks.com
 0.0.0.0 cahf4eed.mooo.com
+0.0.0.0 calltrack.co
 0.0.0.0 camel.headfarming.com
 0.0.0.0 capture-api.ap3prod.com
 0.0.0.0 capture.condenastdigital.com
@@ -425,7 +426,6 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.getblue.io
 0.0.0.0 event.instiengage.com
-0.0.0.0 event.mrtnsvr.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
@@ -516,6 +516,7 @@
 0.0.0.0 hb.vhsrv.com
 0.0.0.0 hello.staticstuff.net
 0.0.0.0 hi.hellobar.com
+0.0.0.0 highway.cablecar.sph.com.sg
 0.0.0.0 hit.mybestpro.com
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
@@ -609,6 +610,7 @@
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.datadoghq.com
+0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 logs.thebloggernetwork.com
 0.0.0.0 logs.viadata.store
@@ -733,7 +735,6 @@
 0.0.0.0 pixel.solvemedia.com
 0.0.0.0 pixel.sprinklr.com
 0.0.0.0 pixel.videohub.tv
-0.0.0.0 pixel.widgetly.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixel.yola.com
@@ -803,7 +804,6 @@
 0.0.0.0 rw.marchex.io
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.beop.io
-0.0.0.0 s.clickiocdn.com
 0.0.0.0 s.logsss.com
 0.0.0.0 s.srvsynd.com
 0.0.0.0 sa.scorpion.co
@@ -916,6 +916,7 @@
 0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sunlightmetrics.b-cdn.net
 0.0.0.0 survey.interquest.com
@@ -973,12 +974,10 @@
 0.0.0.0 tag.myplay.com
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
-0.0.0.0 tag.search.sensefuel.live
 0.0.0.0 tag.statshop.fr
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.catapultx.com
 0.0.0.0 tags.cdn.circlesix.co
-0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
@@ -1045,7 +1044,6 @@
 0.0.0.0 track.sitetag.us
 0.0.0.0 track.social.com
 0.0.0.0 track.strife.com
-0.0.0.0 track.tcppu.com
 0.0.0.0 track.td3x.com
 0.0.0.0 track.uc.cn
 0.0.0.0 track.untd.com
@@ -1211,6 +1209,7 @@
 0.0.0.0 wsmcdn.audioeye.com
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtbevents.pricespider.com
+0.0.0.0 wtr-digital-analytics.ew.r.appspot.com
 0.0.0.0 x.babe.today
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
@@ -1266,7 +1265,6 @@
 0.0.0.0 d1wix2gc2cgqis.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1yu67rmchodpo.cloudfront.net
-0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1z9vm58yath60.cloudfront.net
 0.0.0.0 d20kffh39acpue.cloudfront.net
 0.0.0.0 d21o24qxwf7uku.cloudfront.net
@@ -1298,7 +1296,6 @@
 0.0.0.0 d2zue0pgsssbc6.cloudfront.net
 0.0.0.0 d31y97ze264gaa.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
-0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d34r8q7sht0t9k.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36u3psykfwy91.cloudfront.net
@@ -1333,7 +1330,6 @@
 0.0.0.0 dc8na2hxrj29i.cloudfront.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
-0.0.0.0 ddrvjrfwnij7n.cloudfront.net
 0.0.0.0 dggaenaawxe8z.cloudfront.net
 0.0.0.0 di2xwvxz1jrvu.cloudfront.net
 0.0.0.0 dkupaw9ae63a8.cloudfront.net
@@ -1349,7 +1345,6 @@
 0.0.0.0 du8783wkf05yr.cloudfront.net
 0.0.0.0 duu8lzqdm8tsz.cloudfront.net
 0.0.0.0 dy2xcjk8s1dbz.cloudfront.net
-0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 dzgwautxzdtn9.cloudfront.net
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
