@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 04 Jan 2024 08:03:51 +0000
+# Last converted - Mon, 08 Jan 2024 20:21:24 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -169,6 +169,7 @@
 0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
+0.0.0.0 ejlytics.editorji.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 engine.traceparts.com
@@ -342,6 +343,7 @@
 0.0.0.0 pf.newegg.com
 0.0.0.0 pftk.temu.com
 0.0.0.0 ph.thenextweb.com
+0.0.0.0 ping.hashnode.com
 0.0.0.0 ping.hungama.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -565,6 +567,7 @@
 0.0.0.0 wa.pjplace.com
 0.0.0.0 wa.sugarandjade.com
 0.0.0.0 wal.wolfram.com
+0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
@@ -598,7 +601,6 @@
 0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
-0.0.0.0 u44.pnc.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
@@ -649,42 +651,3 @@
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vg247-uk.vg247.com
-0.0.0.0 3gl.net
-0.0.0.0 babator.com
-0.0.0.0 bluekai.com
-0.0.0.0 chartbeat.com
-0.0.0.0 contentexchange.me
-0.0.0.0 contentspread.net
-0.0.0.0 cpx.to
-0.0.0.0 criteo.com
-0.0.0.0 cxense.com
-0.0.0.0 dnn506yrbagrg.cloudfront.net
-0.0.0.0 ds-aksb-a.akamaihd.net
-0.0.0.0 emetriq.de
-0.0.0.0 exactag.com
-0.0.0.0 exelator.com
-0.0.0.0 hotjar.com
-0.0.0.0 hpr.outbrain.com
-0.0.0.0 imrworldwide.com
-0.0.0.0 irqs.ioam.de
-0.0.0.0 log.outbrain.com
-0.0.0.0 meetrics.net
-0.0.0.0 metrics.brightcove.com
-0.0.0.0 mxcdn.net
-0.0.0.0 nuggad.net
-0.0.0.0 optimizely.com
-0.0.0.0 pingdom.net
-0.0.0.0 pippio.com
-0.0.0.0 referrer.disqus.com
-0.0.0.0 rlcdn.com
-0.0.0.0 rqtrk.eu
-0.0.0.0 semasio.net
-0.0.0.0 static.parsely.com
-0.0.0.0 tealiumiq.com
-0.0.0.0 theadex.com
-0.0.0.0 tisoomi-services.com
-0.0.0.0 visualrevenue.com
-0.0.0.0 webtrekk.net
-0.0.0.0 wt-eu02.net
-0.0.0.0 wt-safetag.com
-0.0.0.0 xplosion.de
