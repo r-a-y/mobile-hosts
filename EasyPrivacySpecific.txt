@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 08 Jan 2024 20:21:24 +0000
+# Last converted - Mon, 15 Jan 2024 20:54:35 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -48,6 +48,7 @@
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kooapp.com
 0.0.0.0 analytics.makeitmeme.com
+0.0.0.0 analytics.maxroll.gg
 0.0.0.0 analytics.ml.homedepot.ca
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.nike.com
