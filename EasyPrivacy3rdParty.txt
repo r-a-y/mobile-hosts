@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 15 Jan 2024 20:54:36 +0000
+# Last converted - Mon, 22 Jan 2024 22:53:44 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -41,6 +41,7 @@
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
+0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
@@ -400,6 +401,7 @@
 0.0.0.0 dw.com.com
 0.0.0.0 dx.mountain.com
 0.0.0.0 dynamic.ziftsolutions.com
+0.0.0.0 e.channelexco.com
 0.0.0.0 e.htplayground.com
 0.0.0.0 e.metarouter.io
 0.0.0.0 ea.youmaker.com
