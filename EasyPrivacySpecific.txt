@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 29 Jan 2024 22:27:20 +0000
+# Last converted - Mon, 05 Feb 2024 20:07:49 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -19,13 +19,11 @@
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 aegis.trovo.live
-0.0.0.0 affiliates.vpn.ht
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amethyst.zappos.com
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
-0.0.0.0 analyselog.dx.com
 0.0.0.0 analytics-batch.blitz.gg
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-tracking.meetup.com
@@ -62,7 +60,6 @@
 0.0.0.0 analytics.silktide.com
 0.0.0.0 analytics.slashdotmedia.com
 0.0.0.0 analytics.synchrony.com
-0.0.0.0 analytics.synedat.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
@@ -72,7 +69,6 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
 0.0.0.0 appanalysis.banggood.com
-0.0.0.0 assets.instacart.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
@@ -105,7 +101,6 @@
 0.0.0.0 clarice.streema.com
 0.0.0.0 click.aliexpress.com
 0.0.0.0 click.nudevista.com
-0.0.0.0 click.sinx.com
 0.0.0.0 client-log.box.com
 0.0.0.0 client-metrics.chess.com
 0.0.0.0 clp-mms.cloudpro.co.uk
@@ -137,7 +132,6 @@
 0.0.0.0 colvk.viki.io
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
-0.0.0.0 conversion.mooncard.co
 0.0.0.0 copilot-telemetry.githubusercontent.com
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
@@ -161,6 +155,7 @@
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 df.infra.shopee.ph
 0.0.0.0 discover-metrics.cloud.seek.com.au
+0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
@@ -171,6 +166,7 @@
 0.0.0.0 ejlytics.editorji.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
+0.0.0.0 engagement.feedly.com
 0.0.0.0 engine.traceparts.com
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
@@ -205,7 +201,6 @@
 0.0.0.0 f.cdngeek.com
 0.0.0.0 f362.nola.com
 0.0.0.0 fathom.app.silverbeak.com
-0.0.0.0 fathom.status.im
 0.0.0.0 fathom.tdvm.net
 0.0.0.0 fbo-statistics-collector-tc.is.flippingbook.com
 0.0.0.0 fdt.kraken.com
@@ -222,7 +217,6 @@
 0.0.0.0 g.mashable.com
 0.0.0.0 g.newtimes.com
 0.0.0.0 g.pcmag.com
-0.0.0.0 ga.dx.com
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gct.americanexpress.com
@@ -234,6 +228,7 @@
 0.0.0.0 geoip.hmageo.com
 0.0.0.0 geoip.ifunny.co
 0.0.0.0 geolocation.forbes.com
+0.0.0.0 gg.vevor.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 gmetrics.getbeamer.com
 0.0.0.0 gnar.grammarly.com
@@ -246,7 +241,6 @@
 0.0.0.0 gurgle.spiceworks.com
 0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 heap.drop.com
-0.0.0.0 hits.cyberdrop.me
 0.0.0.0 hlogger.heraldcorp.com
 0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 i.pokernews.com
@@ -265,7 +259,6 @@
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
-0.0.0.0 ip.pichunter.com
 0.0.0.0 isc-tracking.eventim.com
 0.0.0.0 isharemetric.rediff.com
 0.0.0.0 ivx.lacompagnie.com
@@ -331,7 +324,6 @@
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
-0.0.0.0 p.fusevideo.net
 0.0.0.0 p.hentaiforce.net
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
@@ -361,7 +353,6 @@
 0.0.0.0 plausible.bots.gg
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
-0.0.0.0 plausible.ripped.guide
 0.0.0.0 plausible.safing.io
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 plenty.vidio.com
@@ -380,6 +371,7 @@
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com
 0.0.0.0 qm.redbull.com
+0.0.0.0 r.3hentai.net
 0.0.0.0 r.apkpure.net
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 rankhit.china.com
@@ -405,6 +397,7 @@
 0.0.0.0 rum.kobo.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 rvo-cohesion.healthline.com
+0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
 0.0.0.0 s.wayfair.com
 0.0.0.0 saa.insideedition.com
@@ -427,7 +420,6 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
-0.0.0.0 stat.cdngeek.com
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
@@ -449,14 +441,15 @@
 0.0.0.0 stats.sandberg.world
 0.0.0.0 stats.searchftps.net
 0.0.0.0 stats.suenicholls.com
+0.0.0.0 stats.synedat.io
 0.0.0.0 stats.trimbles.ie
 0.0.0.0 stats.vk-portal.net
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wwitv.com
 0.0.0.0 stats2.mytuner.mobi
+0.0.0.0 statsegg.cdngeek.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 szrpr.raen.com
-0.0.0.0 t.3hentai.net
 0.0.0.0 t.9gag.com
 0.0.0.0 t.airasia.com
 0.0.0.0 t.allmodern.com
@@ -586,6 +579,7 @@
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
+0.0.0.0 content22.citibankonline.com
 0.0.0.0 content22.online.citi.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
