@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 05 Feb 2024 20:07:49 +0000
+# Last converted - Tue, 13 Feb 2024 17:57:08 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -34,7 +34,6 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 analyse.bcovery.com
-0.0.0.0 analyse.lnearn.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
@@ -277,6 +276,7 @@
 0.0.0.0 collect-ap2.attraqt.io
 0.0.0.0 collect-eu.attraqt.io
 0.0.0.0 collect.alphastream.io
+0.0.0.0 collect.analyse.lnearn.com
 0.0.0.0 collect.bannercrowd.net
 0.0.0.0 collect.cloudsponge.com
 0.0.0.0 collect.igodigital.com
@@ -491,7 +491,6 @@
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geo.mezr.com
 0.0.0.0 geo.ngtv.io
-0.0.0.0 geo.q5media.net
 0.0.0.0 geo.thehindu.com
 0.0.0.0 geobar.ziffdavisinternational.com
 0.0.0.0 geoip.apps.avada.io
@@ -1227,10 +1226,10 @@
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d196fri2z18sm.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
-0.0.0.0 d1clfvuu2240eh.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
+0.0.0.0 d1hyarjnwqrenh.cloudfront.net
 0.0.0.0 d1k8sb4xbepqao.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1n00d49gkbray.cloudfront.net
