@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 05 Feb 2024 20:07:49 +0000
+# Last converted - Tue, 13 Feb 2024 17:57:08 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -125,6 +125,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
+0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
@@ -206,7 +207,6 @@
 0.0.0.0 fdt.kraken.com
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 firebaselogging.googleapis.com
-0.0.0.0 fp.heavybit.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
@@ -246,6 +246,7 @@
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
 0.0.0.0 iedc.fitbit.com
+0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
@@ -376,6 +377,7 @@
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 rankhit.china.com
 0.0.0.0 ras.yahoo.com
+0.0.0.0 react-admin-telemetry.marmelab.com
 0.0.0.0 rec.banggood.com
 0.0.0.0 relay.fiverr.com
 0.0.0.0 reports.tunein.com
@@ -424,7 +426,6 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
-0.0.0.0 stategg.cdngeek.com
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats-jobstreet-sg-en-prod.supercharge-srp.co
 0.0.0.0 stats.aerotime.aero
@@ -550,7 +551,6 @@
 0.0.0.0 v.adblockultimate.net
 0.0.0.0 v.ctrl.blog
 0.0.0.0 views.arabnews.com
-0.0.0.0 views.asura.gg
 0.0.0.0 views.asurascans.com
 0.0.0.0 vortex.hulu.com
 0.0.0.0 w3-reporting.reddit.com
