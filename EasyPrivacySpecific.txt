@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 13 Feb 2024 17:57:08 +0000
+# Last converted - Mon, 19 Feb 2024 21:52:52 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -36,6 +36,7 @@
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.cookiefirst.dev
 0.0.0.0 analytics.designspiration.com
+0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
 0.0.0.0 analytics.footballdb.com
 0.0.0.0 analytics.freemake.com
@@ -154,9 +155,9 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 deliver.ptgncdn.com
-0.0.0.0 df.infra.shopee.ph
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
+0.0.0.0 dot.nonolive.com
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
@@ -530,6 +531,7 @@
 0.0.0.0 tracking.christianpost.com
 0.0.0.0 tracking.digitalocean.com
 0.0.0.0 tracking.engineering.cloud.seek.com.au
+0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
@@ -541,7 +543,6 @@
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 ua.indianexpress.com
-0.0.0.0 ubt.tracking.shopee.ph
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umami.wakarimasen.moe
