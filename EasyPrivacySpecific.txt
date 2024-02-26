@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 19 Feb 2024 21:52:52 +0000
+# Last converted - Mon, 26 Feb 2024 19:37:57 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -22,6 +22,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amethyst.zappos.com
+0.0.0.0 ampltd.medal.tv
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 analytics-batch.blitz.gg
@@ -97,6 +98,7 @@
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
 0.0.0.0 c.ypcdn.com
+0.0.0.0 capital.com
 0.0.0.0 cl.canva.com
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
@@ -295,6 +297,7 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
+0.0.0.0 medal.tv
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.camsoda.com
@@ -539,6 +542,7 @@
 0.0.0.0 trackr.vivenu.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
+0.0.0.0 trk.decido.io
 0.0.0.0 trk.tirto.id
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
