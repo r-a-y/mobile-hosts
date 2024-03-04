@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 26 Feb 2024 19:37:57 +0000
+# Last converted - Mon, 04 Mar 2024 21:49:56 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -70,6 +70,7 @@
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.privacyguides.net
+0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
@@ -156,6 +157,7 @@
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
+0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
@@ -298,6 +300,7 @@
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 medal.tv
+0.0.0.0 megatron.igraal.com
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.camsoda.com
