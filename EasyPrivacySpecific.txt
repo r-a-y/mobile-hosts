@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 11 Mar 2024 18:31:05 +0000
+# Last converted - Mon, 18 Mar 2024 19:49:10 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -30,12 +30,14 @@
 0.0.0.0 analytics-tracking.meetup.com
 0.0.0.0 analytics-wcms.joins.net
 0.0.0.0 analytics-zone-1.api.leadfamly.com
+0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
 0.0.0.0 analytics.cookiefirst.dev
+0.0.0.0 analytics.crazygames.com
 0.0.0.0 analytics.designspiration.com
 0.0.0.0 analytics.eip.telegraph.co.uk
 0.0.0.0 analytics.faceitanalytics.com
@@ -166,11 +168,13 @@
 0.0.0.0 dp.shoprunner.com
 0.0.0.0 dtag.breadfinancial.com
 0.0.0.0 dumpster.cam4.com
+0.0.0.0 e.quizlet.com
 0.0.0.0 ea.epochbase.com
 0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
 0.0.0.0 ejlytics.editorji.com
+0.0.0.0 el.quizlet.com
 0.0.0.0 engagefront.meteomedia.com
 0.0.0.0 engagefront.theweathernetwork.com
 0.0.0.0 engagement.feedly.com
@@ -189,6 +193,7 @@
 0.0.0.0 event-router.olympics.com
 0.0.0.0 event.platform.tunein.com
 0.0.0.0 eventlog.jackpot.de
+0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
@@ -529,6 +534,7 @@
 0.0.0.0 track.netzero.net
 0.0.0.0 track.sodapdf.com
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.ttsave.app
 0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 tracker.nbcuas.com
