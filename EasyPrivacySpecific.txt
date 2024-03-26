@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 18 Mar 2024 19:49:10 +0000
+# Last converted - Tue, 26 Mar 2024 04:30:20 +0000
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -151,6 +151,8 @@
 0.0.0.0 cstats.sankakucomplex.com
 0.0.0.0 cwt.citywire.info
 0.0.0.0 d.skk.moe
+0.0.0.0 d401.dollartree.com
+0.0.0.0 dabu.askmediagroup.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.torry.io
@@ -247,10 +249,12 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.theregister.com
 0.0.0.0 gotie.tunein.com
+0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.wise.com
 0.0.0.0 gtreus.aliexpress.com
 0.0.0.0 gurgle.pcmag.com
 0.0.0.0 gurgle.spiceworks.com
+0.0.0.0 h031.familydollar.com
 0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 heap.drop.com
 0.0.0.0 hlogger.heraldcorp.com
@@ -303,6 +307,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 mcc-tags.cisco.com
+0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.us.tiktokv.com
@@ -373,6 +378,7 @@
 0.0.0.0 plenty.vidio.com
 0.0.0.0 pm.dailykos.com
 0.0.0.0 pm.geniusmonkey.com
+0.0.0.0 pog.com
 0.0.0.0 prairiedog.hashnode.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
