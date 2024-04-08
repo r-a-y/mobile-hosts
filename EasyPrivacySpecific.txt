@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 01 Apr 2024 18:18:03 +0100
+# Last converted - Mon, 08 Apr 2024 16:00:34 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -22,6 +22,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 amethyst.zappos.com
+0.0.0.0 amplitude.chess.com
 0.0.0.0 ampltd.medal.tv
 0.0.0.0 ampltd.top.gg
 0.0.0.0 ampltd2.medal.tv
@@ -133,6 +134,7 @@
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.taoxh.life
+0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
 0.0.0.0 collector.xhamster.desi
 0.0.0.0 collector.xhamster2.com
@@ -152,6 +154,7 @@
 0.0.0.0 cwt.citywire.info
 0.0.0.0 d.skk.moe
 0.0.0.0 d401.dollartree.com
+0.0.0.0 d712.theinformation.com
 0.0.0.0 dabu.askmediagroup.com
 0.0.0.0 data.allstate.com
 0.0.0.0 data.guide.photobucket.com
@@ -427,6 +430,7 @@
 0.0.0.0 search.anonymous.ads.brave.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
+0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
 0.0.0.0 smetrics.ralphlauren.com
@@ -483,6 +487,7 @@
 0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.ionos.com
+0.0.0.0 t.iwara.tv
 0.0.0.0 t.jossandmain.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.nypost.com
@@ -558,6 +563,7 @@
 0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.unrealengine.com
 0.0.0.0 trackr.vivenu.com
+0.0.0.0 trcksplt.miro.com
 0.0.0.0 treatment.grammarly.com
 0.0.0.0 tredir.go.com
 0.0.0.0 trk.decido.io
