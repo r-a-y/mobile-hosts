@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 08 Apr 2024 16:00:34 +0100
+# Last converted - Tue, 16 Apr 2024 10:40:57 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -193,6 +193,7 @@
 0.0.0.0 bacon.section.io
 0.0.0.0 barium.cheezdev.com
 0.0.0.0 bat.bing.com
+0.0.0.0 bat.bing.net
 0.0.0.0 baxter.olx.org
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 beacon.adelphic.com
@@ -244,6 +245,7 @@
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 caspionlog.appspot.com
+0.0.0.0 castify-trk.playitviral.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
@@ -270,7 +272,6 @@
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cltgtstor001.blob.core.windows.net
-0.0.0.0 cmp.datasign.co
 0.0.0.0 cnt.3dmy.net
 0.0.0.0 cnt.mastorage.net
 0.0.0.0 cnt.trvdp.com
@@ -345,6 +346,7 @@
 0.0.0.0 csi.gstatic.com
 0.0.0.0 csp-collector.appspot.com
 0.0.0.0 csp-reporting.cloudflare.com
+0.0.0.0 csp.secureserver.net
 0.0.0.0 csr.onet.pl
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
@@ -433,6 +435,7 @@
 0.0.0.0 eventlog.chatlead.com
 0.0.0.0 eventlog.inspsearchapi.com
 0.0.0.0 events.air.tv
+0.0.0.0 events.api.secureserver.net
 0.0.0.0 events.attentivemobile.com
 0.0.0.0 events.audiate.me
 0.0.0.0 events.brightline.tv
@@ -587,6 +590,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 loader-cdn.azureedge.net
 0.0.0.0 loader.zeroform.com
+0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.cookieyes.com
 0.0.0.0 log.dpa.com
@@ -1151,6 +1155,7 @@
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triplewhale-pixel.web.app
 0.0.0.0 trk.clinch.co
+0.0.0.0 trk.playitviral.com
 0.0.0.0 trk.storyly.io
 0.0.0.0 trk.techtarget.com
 0.0.0.0 trk2-wtb.swaven.com
