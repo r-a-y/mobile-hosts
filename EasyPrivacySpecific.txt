@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 16 Apr 2024 10:40:57 +0100
+# Last converted - Mon, 22 Apr 2024 18:12:17 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -96,9 +96,11 @@
 0.0.0.0 boomerang.dell.com
 0.0.0.0 c.arstechnica.com
 0.0.0.0 c.fingerprint.com
+0.0.0.0 c.gq.com
 0.0.0.0 c.newyorker.com
 0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
+0.0.0.0 c.vanityfair.com
 0.0.0.0 c.vogue.com
 0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
@@ -161,6 +163,7 @@
 0.0.0.0 data.guide.photobucket.com
 0.0.0.0 data.torry.io
 0.0.0.0 data.younow.com
+0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datadome.patreon.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
@@ -318,6 +321,7 @@
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
+0.0.0.0 mcs.tiktokw.us
 0.0.0.0 mcs.us.tiktokv.com
 0.0.0.0 medal.tv
 0.0.0.0 megatron.igraal.com
@@ -400,7 +404,9 @@
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 pxl.indeed.com
 0.0.0.0 qc.arstechnica.com
+0.0.0.0 qc.gq.com
 0.0.0.0 qc.newyorker.com
+0.0.0.0 qc.vanityfair.com
 0.0.0.0 qc.vogue.com
 0.0.0.0 qc.wired.com
 0.0.0.0 qm.redbull.com
@@ -469,6 +475,7 @@
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
+0.0.0.0 stats.mempool.space
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.pstream.net
 0.0.0.0 stats.qwant.com
