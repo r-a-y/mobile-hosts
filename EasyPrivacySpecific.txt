@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 22 Apr 2024 18:12:17 +0100
+# Last converted - Wed, 01 May 2024 09:04:41 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -362,6 +362,7 @@
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
 0.0.0.0 pappagallu.onefootball.com
+0.0.0.0 pcp.coupert.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 perr.hola.org
@@ -517,6 +518,7 @@
 0.0.0.0 t.y8.com
 0.0.0.0 t.zulily.com
 0.0.0.0 t2.hulu.com
+0.0.0.0 t810.ctpost.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging.steelseries.com
 0.0.0.0 tags.aljazeera.com
