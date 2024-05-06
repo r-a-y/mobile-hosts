@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 01 May 2024 09:04:41 +0100
+# Last converted - Mon, 06 May 2024 16:50:31 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -616,6 +616,7 @@
 0.0.0.0 z.cdp-dev.cnn.com
 0.0.0.0 z737.thestar.com
 0.0.0.0 za.qeeq.com
+0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 substation.confection.io
 0.0.0.0 onesignal.com
