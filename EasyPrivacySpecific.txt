@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 14 May 2024 07:29:47 +0100
+# Last converted - Tue, 28 May 2024 06:49:57 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -60,6 +60,7 @@
 0.0.0.0 analytics.pgncs.notion.so
 0.0.0.0 analytics.plex.tv
 0.0.0.0 analytics.productreview.com.au
+0.0.0.0 analytics.qogita.com
 0.0.0.0 analytics.realestate.com.au
 0.0.0.0 analytics.send.cm
 0.0.0.0 analytics.silktide.com
@@ -69,6 +70,7 @@
 0.0.0.0 analytics.vedantu.com
 0.0.0.0 analytics.wavebox.io
 0.0.0.0 analytics.yugen.to
+0.0.0.0 analyticsapi.qogita.com
 0.0.0.0 anon-stats.eff.org
 0.0.0.0 api-hotmart-tracking-manager.hotmart.com
 0.0.0.0 api-js.mixpanel.com
@@ -599,6 +601,7 @@
 0.0.0.0 usmetric.rediff.com
 0.0.0.0 v.adblockultimate.net
 0.0.0.0 v.ctrl.blog
+0.0.0.0 vf.startpage.com
 0.0.0.0 views.arabnews.com
 0.0.0.0 views.asurascans.com
 0.0.0.0 vortex.hulu.com
