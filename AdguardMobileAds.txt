@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 07 Jun 2024 05:19:11 +0100
+# Last converted - Tue, 18 Jun 2024 10:47:36 +0100
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -32,7 +32,7 @@
 0.0.0.0 search.adcaffe.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 ad-api.ehawk.com
-0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
+0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 bu1.duba.com
