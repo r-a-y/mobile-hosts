@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 24 Jun 2024 22:43:38 +0100
+# Last converted - Mon, 01 Jul 2024 15:17:13 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -789,6 +789,7 @@
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 receive.wmcdp.io
+0.0.0.0 recs-api.conde.digital
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 refer.wordpress.com
 0.0.0.0 referrer.disqus.com
@@ -1234,6 +1235,7 @@
 0.0.0.0 x.disq.us
 0.0.0.0 x.weather.com
 0.0.0.0 xp2023-pix.s3.amazonaws.com
+0.0.0.0 yoast-schema-graph.com
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 analytics.mobile.yandex.net
@@ -1263,7 +1265,6 @@
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d191y0yd6d0jy4.cloudfront.net
 0.0.0.0 d196fri2z18sm.cloudfront.net
-0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1f0tbk1v3e25u.cloudfront.net
 0.0.0.0 d1gp8joe0evc8s.cloudfront.net
