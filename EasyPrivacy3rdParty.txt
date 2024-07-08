@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 01 Jul 2024 15:17:13 +0100
+# Last converted - Mon, 08 Jul 2024 20:13:32 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -668,6 +668,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
+0.0.0.0 native-ads-events-api.c4s-rd.services
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 net-tracker.notolytix.com
 0.0.0.0 netlify-rum.netlify.app
@@ -1040,6 +1041,7 @@
 0.0.0.0 track.digitalriver.com
 0.0.0.0 track.emerse.com
 0.0.0.0 track.hubspot.com
+0.0.0.0 track.hydro.online
 0.0.0.0 track.juno.com
 0.0.0.0 track.kinetiksoft.com
 0.0.0.0 track.mailerlite.com
