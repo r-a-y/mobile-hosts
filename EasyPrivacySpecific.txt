@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 08 Jul 2024 20:13:32 +0100
+# Last converted - Mon, 15 Jul 2024 20:21:54 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -140,6 +140,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
+0.0.0.0 collector.quillbot.com
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
@@ -277,6 +278,7 @@
 0.0.0.0 iedc.fitbit.com
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
+0.0.0.0 impressions.svc.abillion.com
 0.0.0.0 improve.tempest.com
 0.0.0.0 indmetric.rediff.com
 0.0.0.0 ingest.make.rvohealth.com
@@ -322,6 +324,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
+0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va.tiktokv.com
@@ -361,6 +364,7 @@
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
+0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
@@ -448,6 +452,7 @@
 0.0.0.0 s.gofile.io
 0.0.0.0 s.infogram.com
 0.0.0.0 s.wayfair.com
+0.0.0.0 sa.uswitch.com
 0.0.0.0 saa.insideedition.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
@@ -519,6 +524,7 @@
 0.0.0.0 t.pagesix.com
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
+0.0.0.0 t.poki.io
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
