@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 15 Jul 2024 20:21:54 +0100
+# Last converted - Wed, 24 Jul 2024 22:18:47 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -202,6 +202,7 @@
 0.0.0.0 bat.bing.net
 0.0.0.0 baxter.olx.org
 0.0.0.0 bc.marfeelcache.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.adelphic.com
 0.0.0.0 beacon.affil.walmart.com
 0.0.0.0 beacon.aimtell.com
@@ -234,6 +235,7 @@
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 branch.io
 0.0.0.0 browser-intake-datadoghq.com
+0.0.0.0 browser.covatic.io
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
@@ -399,7 +401,6 @@
 0.0.0.0 dl.episerver.net
 0.0.0.0 doppler-beacon.cbsivideo.com
 0.0.0.0 doppler-client-events.cbsivideo.com
-0.0.0.0 doppler-config.cbsivideo.com
 0.0.0.0 doppler-reporting.cbsivideo.com
 0.0.0.0 dotaudiences.com
 0.0.0.0 dw.com.com
@@ -528,7 +529,6 @@
 0.0.0.0 hits.dealer.com
 0.0.0.0 hits.getelevar.com
 0.0.0.0 hits.informer.com
-0.0.0.0 hk-trc-events.taboola.com
 0.0.0.0 hktracker.hankookilbo.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hop.clickbank.net
@@ -694,6 +694,7 @@
 0.0.0.0 openxcdn.net
 0.0.0.0 optimeeze.appspot.com
 0.0.0.0 orts.wixawin.com
+0.0.0.0 outbrain.com
 0.0.0.0 p.cquotient.com
 0.0.0.0 p.metrilo.com
 0.0.0.0 p.placed.com
@@ -958,6 +959,7 @@
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 t.clic2buy.com
+0.0.0.0 t.cometlytrack.com
 0.0.0.0 t.dgm-au.com
 0.0.0.0 t.enuygun.com
 0.0.0.0 t.fullres.net
@@ -981,6 +983,8 @@
 0.0.0.0 t.splicky.com
 0.0.0.0 t.spot.im
 0.0.0.0 t2.t2b.click
+0.0.0.0 taboola.com
+0.0.0.0 taboolasyndication.com
 0.0.0.0 tag-manager.playbuzz.com
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.atom.gamedistribution.com
@@ -1094,6 +1098,7 @@
 0.0.0.0 tracker.myyschool.xyz
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
+0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
 0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai
@@ -1393,15 +1398,6 @@
 0.0.0.0 stats.how.wtf
 0.0.0.0 firebase.googleapis.com
 0.0.0.0 firebaseinstallations.googleapis.com
-0.0.0.0 am-vid-events.taboola.com
-0.0.0.0 convsgmp.taboola.com
-0.0.0.0 la-sync.taboola.com
-0.0.0.0 nr-events.taboola.com
-0.0.0.0 opps.taboola.com
-0.0.0.0 sync.taboola.com
-0.0.0.0 urc.taboolasyndication.com
-0.0.0.0 vidstat.taboola.com
-0.0.0.0 wf.taboola.com
 0.0.0.0 ascpqnj-oam.global.ssl.fastly.net
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
 0.0.0.0 mjca-yijws.global.ssl.fastly.net
