@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 15 Jul 2024 20:21:54 +0100
+# Last converted - Wed, 24 Jul 2024 22:18:47 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -50,6 +50,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.hashnode.com
+0.0.0.0 analytics.inquisitr.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.kooapp.com
 0.0.0.0 analytics.makeitmeme.com
@@ -126,10 +127,12 @@
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.vivatube.com
 0.0.0.0 cnt.xhamster.com
+0.0.0.0 collect.air1.com
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
 0.0.0.0 collect.hollisterco.com
+0.0.0.0 collect.klove.com
 0.0.0.0 collect.reagroupdata.com.au
 0.0.0.0 collect.stepstone.co.uk
 0.0.0.0 collect.thunder-io.com
@@ -170,6 +173,7 @@
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datadome.patreon.com
+0.0.0.0 datum.jsdelivr.com
 0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
@@ -187,6 +191,7 @@
 0.0.0.0 ec.thredup.com
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 eec.crunchyroll.com
+0.0.0.0 effect.habr.com
 0.0.0.0 ejlytics.editorji.com
 0.0.0.0 el.quizlet.com
 0.0.0.0 engagefront.meteomedia.com
@@ -368,6 +373,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
+0.0.0.0 p.lucida.to
 0.0.0.0 p.minds.com
 0.0.0.0 pac.thescottishsun.co.uk
 0.0.0.0 pac.thesun.co.uk
@@ -401,6 +407,7 @@
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.safing.io
+0.0.0.0 plausible.tubemagic.com
 0.0.0.0 player-telemetry.vimeo.com
 0.0.0.0 plenty.vidio.com
 0.0.0.0 pm.dailykos.com
@@ -486,6 +493,7 @@
 0.0.0.0 stats.codeur.com
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
+0.0.0.0 stats.habr.com
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.sg
 0.0.0.0 stats.justpaste.it
@@ -535,8 +543,10 @@
 0.0.0.0 t810.ctpost.com
 0.0.0.0 tagger.ope.scmp.com
 0.0.0.0 tagging.steelseries.com
+0.0.0.0 tags.air1.com
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.johnlewis.com
+0.0.0.0 tags.klove.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.stepstone.com
 0.0.0.0 tao.barstoolsports.com
@@ -555,6 +565,7 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.tradingview.com
+0.0.0.0 test.torrentfreak.com
 0.0.0.0 tgt.maep.ibm.com
 0.0.0.0 thtk.temu.com
 0.0.0.0 tif.ionos.com
