@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 29 Jul 2024 21:46:17 +0100
+# Last converted - Mon, 05 Aug 2024 20:44:48 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -46,6 +46,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-prd.aws.wehaa.net
+0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
@@ -450,6 +451,7 @@
 0.0.0.0 events.devcycle.com
 0.0.0.0 events.elev.io
 0.0.0.0 events.flagship.io
+0.0.0.0 events.getsitectrl.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
@@ -463,6 +465,7 @@
 0.0.0.0 events.splash-screen.net
 0.0.0.0 events.split.io
 0.0.0.0 events.storifyme.com
+0.0.0.0 events.tryamped.com
 0.0.0.0 events.tubecup.org
 0.0.0.0 events.ubembed.com
 0.0.0.0 events.whisk.com
@@ -679,6 +682,7 @@
 0.0.0.0 newsletters.nationalgeographic.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
+0.0.0.0 noa.yahoo.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 nojscontainer.pepperjam.com
 0.0.0.0 nol.yahoo.com
@@ -763,6 +767,7 @@
 0.0.0.0 play.adtonos.com
 0.0.0.0 player-metrics.instaread.co
 0.0.0.0 pm.boostintegrated.com
+0.0.0.0 pmi.flowplayer.com
 0.0.0.0 popup-static.unisender.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -1202,6 +1207,7 @@
 0.0.0.0 ucounter.ucoz.net
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uim.tifbs.net
+0.0.0.0 umami.aigenerations.net
 0.0.0.0 units.knotch.it
 0.0.0.0 urldefense.com
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
@@ -1320,6 +1326,7 @@
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
+0.0.0.0 d2pozfvrp52dk4.cloudfront.net
 0.0.0.0 d2pt12ct4kmq21.cloudfront.net
 0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
 0.0.0.0 d2rnkf2kqy5m6h.cloudfront.net
