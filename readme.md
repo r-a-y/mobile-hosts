@@ -17,9 +17,11 @@ Currently includes:
 
     AdGuard DNS is a simplified filter list made for DNS-level blocking. It [includes various lists](https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/configuration.json) from AdGuard (Base, Mobile Ads, Tracking Protection, Cryptomining, Chinese, French, German, Japanese, Russian, Spanish/Portuguese, Turkish), EasyList (Base, Chinese, German, Italian), EasyPrivacy, Adblock Plus (Indonesian) and hostsVN (Vietnamese). Due to the size of the list, it is recommended for desktops only or in cases where you don't trust your users.
 
-These lists will be updated from time-to-time. To update them yourself, the repo includes a PHP-CLI script (`converter.php`) that converts ad filter lists into HOSTS files. View the source for more details. Send a pull request if you want me to add a specific filter list.
+These lists will be updated from time-to-time. To update them yourself, the repo includes a PHP-CLI script (`converter.php`) that converts ad filter lists into HOSTS files. If you want to convert a specific filter list not covered here, you can do so with the following CLI parameters as well:
 
-FWIW, I personally just use AdGuard Mobile Ads and AdGuard Mobile Tracking and Spyware on my mobile devices.
+```
+php converter.php name=NAME_OF_FILTER_LIST url=DIRECT_LINK_TO_FILTER_LIST
+```
 
 ## Other good HOSTS files
 
