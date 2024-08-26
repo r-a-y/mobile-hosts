@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 19 Aug 2024 23:13:13 +0100
+# Last converted - Tue, 27 Aug 2024 00:13:14 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -12,7 +12,6 @@
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 ab-machine.forbes.com
-0.0.0.0 ab.chatgpt.com
 0.0.0.0 ab.fanatical.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
@@ -229,6 +228,7 @@
 0.0.0.0 events2.www.edenfantasys.com
 0.0.0.0 evs.icy-lake.kickstarter.com
 0.0.0.0 evs.sgmt.loom.com
+0.0.0.0 exp.notion.so
 0.0.0.0 exr-mms.expertreviews.co.uk
 0.0.0.0 f.cdngeek.com
 0.0.0.0 f362.nola.com
@@ -369,6 +369,8 @@
 0.0.0.0 net.haier.com
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
+0.0.0.0 nr-data.noelleeming.co.nz
+0.0.0.0 nr.noelleeming.co.nz
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ok88okg.infinityscans.net
@@ -405,6 +407,7 @@
 0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pl.letsblock.it
 0.0.0.0 plausible.bots.gg
+0.0.0.0 plausible.corsme.com
 0.0.0.0 plausible.dragonfru.it
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 plausible.safing.io
@@ -603,6 +606,7 @@
 0.0.0.0 tracking.engineering.cloud.seek.com.au
 0.0.0.0 tracking.game8.co
 0.0.0.0 tracking.hsn.com
+0.0.0.0 tracking.peopleareeverything.com
 0.0.0.0 tracking.rocketleague.com
 0.0.0.0 tracking.shopstyle.co.uk
 0.0.0.0 tracking.shopstyle.com
