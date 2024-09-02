@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 27 Aug 2024 00:13:14 +0100
+# Last converted - Mon, 02 Sep 2024 19:25:09 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -37,6 +37,8 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 analyse.bcovery.com
+0.0.0.0 analytic-client.chickgoddess.com
+0.0.0.0 analytic-client.panowars.com
 0.0.0.0 analytic.rollout.io
 0.0.0.0 analytic.xingcloud.com
 0.0.0.0 analyticcdn.globalmailer.com
@@ -125,6 +127,7 @@
 0.0.0.0 analytics.piksel.com
 0.0.0.0 analytics.pinterest.com
 0.0.0.0 analytics.pixels.ai
+0.0.0.0 analytics.plasmic.app
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
@@ -248,6 +251,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
@@ -649,6 +653,7 @@
 0.0.0.0 mv.treehousei.com
 0.0.0.0 myscoop-tracking.googlecode.com
 0.0.0.0 native-ads-events-api.c4s-rd.services
+0.0.0.0 native-ads-events-api2.c4s-rd.services
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 net-tracker.notolytix.com
 0.0.0.0 netlify-rum.netlify.app
@@ -802,6 +807,7 @@
 0.0.0.0 s.beop.io
 0.0.0.0 s.logsss.com
 0.0.0.0 s.srvsynd.com
+0.0.0.0 s.vibe.co
 0.0.0.0 sa.scorpion.co
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scripts.psyma.com
@@ -846,6 +852,7 @@
 0.0.0.0 stat.moevideo.net
 0.0.0.0 stat.mydaddy.cc
 0.0.0.0 stat.segitek.hu
+0.0.0.0 stat.testme.cloud
 0.0.0.0 stat.u.sb
 0.0.0.0 stat.web-regie.com
 0.0.0.0 statdb.pressflex.com
@@ -911,6 +918,7 @@
 0.0.0.0 statscollector.sd-rtn.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
+0.0.0.0 stream-log.dditscdn.com
 0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sunlightmetrics.b-cdn.net
@@ -970,6 +978,7 @@
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.myplay.com
+0.0.0.0 tag.pearldiver.io
 0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tag.statshop.fr
@@ -1071,7 +1080,6 @@
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.novage.com.ua
-0.0.0.0 tracker.openwebtorrent.com
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.smartframe.io
 0.0.0.0 tracker.softcube.com
