@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 27 Aug 2024 00:13:14 +0100
+# Last converted - Mon, 02 Sep 2024 19:25:09 +0100
 #
 
 0.0.0.0 a-reporting.nytimes.com
@@ -129,6 +129,7 @@
 0.0.0.0 collect.alipay.com
 0.0.0.0 collect.asics.com
 0.0.0.0 collect.banggood.com
+0.0.0.0 collect.deel.com
 0.0.0.0 collect.hollisterco.com
 0.0.0.0 collect.klove.com
 0.0.0.0 collect.reagroupdata.com.au
@@ -334,6 +335,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
+0.0.0.0 mcs-va-useast2a.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 mcs.tiktokw.us
@@ -367,13 +369,13 @@
 0.0.0.0 na.groupondata.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 net.haier.com
+0.0.0.0 no88kks.infinityscans.net
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 nr-data.noelleeming.co.nz
 0.0.0.0 nr.noelleeming.co.nz
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ohm-dot-hackster-io.appspot.com
-0.0.0.0 ok88okg.infinityscans.net
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 p.hentaiforce.net
@@ -464,9 +466,9 @@
 0.0.0.0 s.wayfair.com
 0.0.0.0 sa.uswitch.com
 0.0.0.0 saa.insideedition.com
+0.0.0.0 sapi.tremendous.com
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 search.anonymous.ads.brave.com
-0.0.0.0 services.haaretz.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 sjc.cloud.optable.co
@@ -476,6 +478,7 @@
 0.0.0.0 sofire.terabox.app
 0.0.0.0 sp.cargurus.co.uk
 0.0.0.0 sp.ecosia.org
+0.0.0.0 sp.pcoptimum.ca
 0.0.0.0 sp.welcometothejungle.com
 0.0.0.0 spectrum.gettyimages.com
 0.0.0.0 spt.ahram.org.eg
@@ -566,6 +569,7 @@
 0.0.0.0 telemetry.adobe.io
 0.0.0.0 telemetry.algolia.com
 0.0.0.0 telemetry.api.playstation.com
+0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.firez.one
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tradingview.com
