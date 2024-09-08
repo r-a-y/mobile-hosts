@@ -1,9 +1,10 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 02 Sep 2024 19:25:09 +0100
+# Last converted - Sun, 08 Sep 2024 20:07:36 +0100
 #
 
+0.0.0.0 a-da.invideo.io
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.electerious.com
 0.0.0.0 a.tellonym.me
@@ -28,6 +29,7 @@
 0.0.0.0 ampltd2.medal.tv
 0.0.0.0 anal.doubledouble.top
 0.0.0.0 analytics-batch.blitz.gg
+0.0.0.0 analytics-dataplane.invideo.io
 0.0.0.0 analytics-proxy.springboard.com
 0.0.0.0 analytics-server.arras.cx
 0.0.0.0 analytics-tracking.meetup.com
@@ -215,6 +217,7 @@
 0.0.0.0 events-prod.autolist.com
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
+0.0.0.0 events.baselime.io
 0.0.0.0 events.clips4sale.com
 0.0.0.0 events.framer.com
 0.0.0.0 events.mercadolibre.com
@@ -398,6 +401,7 @@
 0.0.0.0 pingo.staticmoly.me
 0.0.0.0 pixel.archivecaslytosk.onion
 0.0.0.0 pixel.archiveiya74codqgiixo33q62qlrqtkgmcitqx5u2oeqnmn5bpcbiyd.onion
+0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.convertize.io
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.honestjohn.co.uk
@@ -498,6 +502,7 @@
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.calcalist.co.il
+0.0.0.0 stats.chromatone.center
 0.0.0.0 stats.codeur.com
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
