@@ -147,6 +147,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// If starting with '|', skip.
+		if ( '|' === substr( $filter, 0, 1 ) ) {
+			continue;
+		}
+
 		// Strip trailing |.
 		if ( '|' === substr( $filter, -1 ) ) {
 			$filter = str_replace( '|', '', $filter );
@@ -154,6 +159,11 @@ foreach ( $lists as $name => $list ) {
 
 		// Skip file extensions
 		if ( '.jpg' === substr( $filter, -4 ) || '.gif' === substr( $filter, -4 ) ) {
+			continue;
+		}
+
+		// Skip email tracker Adguard syntax. See #34.
+		if ( false !== strpos( $filter, '%' ) ) {
 			continue;
 		}
 
