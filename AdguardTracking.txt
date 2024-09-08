@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 08 Sep 2024 20:07:36 +0100
+# Last converted - Sun, 08 Sep 2024 20:17:06 +0100
 #
 
 0.0.0.0 mon.snssdk.com
@@ -68568,22 +68568,12 @@
 0.0.0.0 trackersimulator.org
 0.0.0.0 click.contact.kamalaharris.com
 0.0.0.0 click.instahyre.com
-0.0.0.0 files.fm%2fl%2femail-pix
 0.0.0.0 emailcontent.rockstargames.com
 0.0.0.0 click.email.vimeo.com
-0.0.0.0 emea.focusvision.com%2ftracker%2f
-0.0.0.0 marketing.1password.co%2ftrk%3ft%3d
-0.0.0.0 link.redsift.com%2fe%2fo%2f
 0.0.0.0 click.revolut.com
 0.0.0.0 mail-count.matsui.co.jp
 0.0.0.0 email.bitbank.cc
 0.0.0.0 click.email.deadline.com
-0.0.0.0 %2f%2fp.liadm.com%2fimp%3fs%3d
-0.0.0.0 manage.turing.pe%2fanalytics%2fopen%2f
-0.0.0.0 github.com%2fnotifications%2fbeacon%2f
-0.0.0.0 cp.edison.tech%2fapi%2fmailer%2fm%2fimg%2f
-0.0.0.0 link.dissh.com%2fmo%2f
-0.0.0.0 r.ml.reverso.net%2ftr%2fop
 0.0.0.0 r.superhuman.com
 0.0.0.0 wizrocketmail.net
 0.0.0.0 clicks.meetup.com
@@ -68591,10 +68581,8 @@
 0.0.0.0 mjt.lu
 0.0.0.0 public-cis.exponea.com
 0.0.0.0 go.lanet.click
-0.0.0.0 33mail.com%2fpage%2fopened
 0.0.0.0 probe.zalando.com
 0.0.0.0 omeclk.com
-0.0.0.0 fdske.com%2feo%2f
 0.0.0.0 spmailtechnol.com
 0.0.0.0 log.bntrace.com
 0.0.0.0 e-bedwettingstore.com
@@ -68604,17 +68592,12 @@
 0.0.0.0 ablink.hi.channel4.com
 0.0.0.0 email.budovideos.com
 0.0.0.0 t1.mp1.tripadvisor.com
-0.0.0.0 tripadvisor.com%2fmpturl%3fp%3d
-0.0.0.0 tripadvisor.com%2fimg%2fcdsi%2fpartner%2ftransparent_pixel
-0.0.0.0 links.skillbox.ru%2fo%2f
 0.0.0.0 gm.mmstat.com
 0.0.0.0 hubspotlinks.com
 0.0.0.0 links.signup.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 mail.nationalgeographic.com
 0.0.0.0 email.123formbuilder.com
-0.0.0.0 sealfit.ontraport.net%2fo%3f
-0.0.0.0 sendfox.com%2ftrk%2fopen%2f
 0.0.0.0 click.mailersend.net
 0.0.0.0 clicks.mlsend2.com
 0.0.0.0 email.send.aliyana.in
@@ -68627,8 +68610,6 @@
 0.0.0.0 link.posteml.com
 0.0.0.0 click.redditmail.com
 0.0.0.0 lmqmpm.clicks.mlsend.com
-0.0.0.0 news.samsung.com%2fus%2f%3fnoti%3d
-0.0.0.0 esputnik.com%2frepository%2fapplications%2fcommons%2fhidden.png
 0.0.0.0 ct.klclick.com
 0.0.0.0 mailing.pbank.com.ua
 0.0.0.0 email.azurareborn.com
@@ -68670,8 +68651,6 @@
 0.0.0.0 e.customeriomail.com
 0.0.0.0 t.yesware.com
 0.0.0.0 mailfoogae.appspot.com
-0.0.0.0 mailchimp.com%2fmctx%2fopens
-0.0.0.0 %2ftrack%2fopen.php%3fu%3d
 0.0.0.0 go.rjmetrics.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 app.outreach.io
@@ -68680,9 +68659,6 @@
 0.0.0.0 tinyletterapp.com
 0.0.0.0 welovepg.polymail.io
 0.0.0.0 yamm-track.appspot
-0.0.0.0 |mailgun.org
-0.0.0.0 |esv2.com
-0.0.0.0 twitter.com%2fscribe%2fibis%3ft%3d
 0.0.0.0 analytics.google.com
 0.0.0.0 click.googleanalytics.com
 0.0.0.0 log.fc.yahoo.com
