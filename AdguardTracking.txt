@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 02 Sep 2024 19:25:08 +0100
+# Last converted - Sun, 08 Sep 2024 20:07:36 +0100
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,15 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 events.baselime.io
+0.0.0.0 trackdesk.com
+0.0.0.0 adlc-exchange.toast.com
+0.0.0.0 ad.aceplanet.co.kr
+0.0.0.0 joinmassive.com
+0.0.0.0 cdnweb2analytics.com
+0.0.0.0 notix.io
+0.0.0.0 pub.pixels.ai
+0.0.0.0 data.tm-awx.com
 0.0.0.0 eu-1-id5-sync.com
 0.0.0.0 octotracking.com
 0.0.0.0 cartx.cloud
@@ -674,7 +683,6 @@
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 analytics.superstructure.ai
 0.0.0.0 cdn.raekdata.com
-0.0.0.0 felix.data.tm-awx.com
 0.0.0.0 imzahrwl.xyz
 0.0.0.0 gae.karte.io
 0.0.0.0 script.anura.io
@@ -2971,7 +2979,6 @@
 0.0.0.0 persianstat.com
 0.0.0.0 persianstat.ir
 0.0.0.0 personyze.com
-0.0.0.0 petametrics.com
 0.0.0.0 phonalytics.com
 0.0.0.0 phone-analytics.com
 0.0.0.0 photorank.me
@@ -35182,6 +35189,13 @@
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ct.pinterest.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 a-da.invideo.io
+0.0.0.0 pixel.clutter.com
+0.0.0.0 log.bloodppressure.info
+0.0.0.0 log.pdfreaders.net
+0.0.0.0 track2.tprg.ru
+0.0.0.0 metrics.camsoda.com
+0.0.0.0 to.torrentfreak.com
 0.0.0.0 l.premium.naver.com
 0.0.0.0 analytics.raenonx.cc
 0.0.0.0 chocolatine.apexlegendsstatus.com
@@ -68498,7 +68512,7 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 datalytics.utair.io
 0.0.0.0 d.rcmd.jp
-0.0.0.0 trk.mail.ru,ping
+0.0.0.0 trk.mail.ru
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 lurker.olx.com.br
 0.0.0.0 geoip.olx.com.br
