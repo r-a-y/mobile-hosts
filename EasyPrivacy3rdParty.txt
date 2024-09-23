@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 16 Sep 2024 19:57:05 +0100
+# Last converted - Tue, 24 Sep 2024 00:19:37 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -354,6 +354,7 @@
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ct.thegear-box.com
+0.0.0.0 cta-service-cms2.hubspot.com
 0.0.0.0 cts.businesswire.com
 0.0.0.0 cts.vresp.com
 0.0.0.0 curated.fieldtest.cc
@@ -573,6 +574,7 @@
 0.0.0.0 lcs.naver.com
 0.0.0.0 leadtracking.plumvoice.com
 0.0.0.0 leadvision.dotmailer.co.uk
+0.0.0.0 lh.bigcrunch.com
 0.0.0.0 lift.acquia.com
 0.0.0.0 link.cosmopolitan.com
 0.0.0.0 link.informer.com
@@ -613,6 +615,8 @@
 0.0.0.0 magento-recs-sdk.adobe.net
 0.0.0.0 martech.condenastdigital.com
 0.0.0.0 mas.nth.ch
+0.0.0.0 mato.clanto.cloud
+0.0.0.0 matomo.clanto.cloud
 0.0.0.0 mc.webvisor.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.com
@@ -1206,6 +1210,7 @@
 0.0.0.0 w4o7aea80ss3-a.akamaihd.net
 0.0.0.0 watchtower.graindata.com
 0.0.0.0 wco.crownpeak.com
+0.0.0.0 wds.weqs.me
 0.0.0.0 web-tracker.smsbump.com
 0.0.0.0 web1.51.la
 0.0.0.0 webcare.byside.com
