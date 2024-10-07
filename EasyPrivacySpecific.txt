@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 30 Sep 2024 20:43:24 +0100
+# Last converted - Mon, 07 Oct 2024 20:13:56 +0100
 #
 
 0.0.0.0 a-da.invideo.io
@@ -22,6 +22,7 @@
 0.0.0.0 aegis.trovo.live
 0.0.0.0 alb.reddit.com
 0.0.0.0 als-svc.nytimes.com
+0.0.0.0 amethyst.6pm.com
 0.0.0.0 amethyst.zappos.com
 0.0.0.0 amplitude.chess.com
 0.0.0.0 ampltd.medal.tv
@@ -37,7 +38,6 @@
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
-0.0.0.0 analytics.adfreetime.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
@@ -79,7 +79,6 @@
 0.0.0.0 api-js.mixpanel.com
 0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
-0.0.0.0 atrack.allposters.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
@@ -97,6 +96,7 @@
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
 0.0.0.0 blue.nbc4i.com
 0.0.0.0 boomerang.dell.com
+0.0.0.0 bugsnag.shopbop.amazon.dev
 0.0.0.0 c.arstechnica.com
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.gq.com
@@ -283,7 +283,6 @@
 0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 i.pokernews.com
 0.0.0.0 iam-rum-intake.datadoghq.com
-0.0.0.0 iedc.fitbit.com
 0.0.0.0 iguazu.doordash.com
 0.0.0.0 ih.newegg.com
 0.0.0.0 impressions.svc.abillion.com
@@ -336,6 +335,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
+0.0.0.0 marty.zappos.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
 0.0.0.0 mcs-va-useast2a.tiktokv.com
@@ -406,7 +406,6 @@
 0.0.0.0 pixel.clutter.com
 0.0.0.0 pixel.convertize.io
 0.0.0.0 pixel.facebook.com
-0.0.0.0 pixel.honestjohn.co.uk
 0.0.0.0 pixel.ionos.com
 0.0.0.0 pixel.nine.com.au
 0.0.0.0 pixel.tuko.co.ke
@@ -571,7 +570,6 @@
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 td.airdroid.com
-0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io
@@ -683,6 +681,7 @@
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
 0.0.0.0 idstatus.sky.com
+0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 qfp.intuit.com
