@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 07 Oct 2024 20:13:55 +0100
+# Last converted - Mon, 14 Oct 2024 20:26:27 +0100
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,22 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 accessv.org
+0.0.0.0 applog.zijieapi.com
+0.0.0.0 feedback-c.zijieapi.com
+0.0.0.0 minigame5-normal-hl.zijieapi.com
+0.0.0.0 minigame5-normal-lq.zijieapi.com
+0.0.0.0 mssdk.zijieapi.com
+0.0.0.0 os-mon.zijieapi.com
+0.0.0.0 pc-mon.zijieapi.com
+0.0.0.0 polaris.zijieapi.com
+0.0.0.0 saveu5-normal-lq.zijieapi.com
+0.0.0.0 starkgame.zijieapi.com
+0.0.0.0 timon.zijieapi.com
+0.0.0.0 view.zijieapi.com
+0.0.0.0 mcs.zijieapi.com
+0.0.0.0 mon.zijieapi.com
+0.0.0.0 pa-cd.com
 0.0.0.0 covatic.io
 0.0.0.0 cdn.gpmdata.ru
 0.0.0.0 petametrics.com
@@ -263,7 +279,6 @@
 0.0.0.0 sensors-log.dongqiudi.com
 0.0.0.0 jokerly.com
 0.0.0.0 analytics.gnetworks.xyz
-0.0.0.0 mon.zijieapi.com
 0.0.0.0 statgw.devtodev.com
 0.0.0.0 dmpmetrics.rcsmetrics.it
 0.0.0.0 cdn.granify.com
@@ -3821,14 +3836,6 @@
 0.0.0.0 stopify.co
 0.0.0.0 toldyouso.lol
 0.0.0.0 toldyouso.pics
-0.0.0.0 rtc-logger-va.tiktokv.com
-0.0.0.0 rtlog.tiktokv.com
-0.0.0.0 mon.us.tiktokv.com
-0.0.0.0 mon.tiktokv.com
-0.0.0.0 xlog.tiktokv.com
-0.0.0.0 xlog-va.tiktokv.com
-0.0.0.0 mcs-va.tiktokv.com
-0.0.0.0 analytics.tiktok.com
 0.0.0.0 yourblocksite.com
 0.0.0.0 taskapi.net
 0.0.0.0 beacon-fullpage-predictor.goguardian.com
@@ -30394,6 +30401,8 @@
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 ct.pinterest.com
 0.0.0.0 telemetry.mozilla.org
+0.0.0.0 collect.dolap.com
+0.0.0.0 b.ranking.apis.sankei-digital.co.jp
 0.0.0.0 is-log.furunavi.jp
 0.0.0.0 eventrecorder.cm.bloomberg.com
 0.0.0.0 heatmap-events-collector.instapage.com
@@ -60263,6 +60272,7 @@
 0.0.0.0 yx.moseasia.com
 0.0.0.0 zelda.paperlesspost.com
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 scholar.google.com
 0.0.0.0 analyze-82dfgsi2.m-w.com
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 cerebro.edna.yahoo.net
@@ -60570,10 +60580,8 @@
 0.0.0.0 adui.tg.meitu.com
 0.0.0.0 meitustat.com
 0.0.0.0 analysis.vesync.com
-0.0.0.0 log16-normal-useast5.tiktokv.us
 0.0.0.0 insights.zennioptical.com
 0.0.0.0 proxy.telemetry.us-ashburn-1.oci.oraclecloud.com
-0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 stats.rustore.ru
 0.0.0.0 vk-analytics.ru
 0.0.0.0 tracking.iwhop.cn
@@ -60832,7 +60840,6 @@
 0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 msg.simeji.me
 0.0.0.0 msg.simeji.baidu.jp
-0.0.0.0 log.tiktokv.com
 0.0.0.0 post-log.pushwoosh.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 log-upload-eur.mihoyo.com
@@ -61128,6 +61135,17 @@
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 ymtracking.com
+0.0.0.0 log16-normal-useast5.tiktokv.us
+0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
+0.0.0.0 log.tiktokv.com
+0.0.0.0 rtc-logger-va.tiktokv.com
+0.0.0.0 rtlog.tiktokv.com
+0.0.0.0 mon.us.tiktokv.com
+0.0.0.0 mon.tiktokv.com
+0.0.0.0 xlog.tiktokv.com
+0.0.0.0 xlog-va.tiktokv.com
+0.0.0.0 mcs-va.tiktokv.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 analy.qq.com
