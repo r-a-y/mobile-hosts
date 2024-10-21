@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 14 Oct 2024 20:26:28 +0100
+# Last converted - Tue, 22 Oct 2024 00:10:11 +0100
 #
 
 0.0.0.0 100widgets.com
@@ -251,6 +251,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cf.overblog.com
@@ -271,6 +272,7 @@
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client-logger.beta.salemove.com
 0.0.0.0 client-logger.salemove.com
+0.0.0.0 client.perimeterx.net
 0.0.0.0 clouderrorreporting.googleapis.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudmetrics.xenforo.com
@@ -365,6 +367,7 @@
 0.0.0.0 dadi.technology
 0.0.0.0 dash.getsitecontrol.com
 0.0.0.0 data.circulate.com
+0.0.0.0 data.debugbear.com
 0.0.0.0 data.digitalks.az
 0.0.0.0 data.eetech.com
 0.0.0.0 data.embeddables.com
@@ -934,6 +937,7 @@
 0.0.0.0 streams.cablecar.sph.com.sg
 0.0.0.0 sts.eccmp.com
 0.0.0.0 sunlightmetrics.b-cdn.net
+0.0.0.0 surfshark.events
 0.0.0.0 survey.interquest.com
 0.0.0.0 surveywall-api.survata.com
 0.0.0.0 svibeacon.onezapp.com
