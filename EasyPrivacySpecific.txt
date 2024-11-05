@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 30 Oct 2024 13:31:58 +0000
+# Last converted - Tue, 05 Nov 2024 03:37:17 +0000
 #
 
 0.0.0.0 a-da.invideo.io
@@ -38,6 +38,7 @@
 0.0.0.0 analytics-zone-1.api.leadfamly.com
 0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
+0.0.0.0 analytics.ahrefs.dev
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.chase.com
@@ -203,6 +204,7 @@
 0.0.0.0 eproof.drudgereport.com
 0.0.0.0 error-collector.ted.com
 0.0.0.0 errorreports.couponcabin.com
+0.0.0.0 errors.darkreader.app
 0.0.0.0 espy.boehs.org
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.tidal.com
@@ -503,12 +505,14 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
 0.0.0.0 stat.vulkanvegas.com
+0.0.0.0 statistics.darkreader.app
 0.0.0.0 statistics.streamdav.com
 0.0.0.0 stats.aerotime.aero
 0.0.0.0 stats.allenai.org
 0.0.0.0 stats.calcalist.co.il
 0.0.0.0 stats.chromatone.center
 0.0.0.0 stats.codeur.com
+0.0.0.0 stats.darkreader.app
 0.0.0.0 stats.davidickedelivery.com
 0.0.0.0 stats.gateio.ch
 0.0.0.0 stats.habr.com
@@ -697,7 +701,6 @@
 0.0.0.0 svc2.sc.com
 0.0.0.0 tm-eps.neutrino.nu
 0.0.0.0 tmetrix.my.chick-fil-a.com
-0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
@@ -746,5 +749,4 @@
 0.0.0.0 sourcepoint-mms.aetv.com
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
-0.0.0.0 vg247-p2.vg247.com
 0.0.0.0 vg247-uk.vg247.com
