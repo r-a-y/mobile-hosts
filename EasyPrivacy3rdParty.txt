@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 05 Nov 2024 03:37:17 +0000
+# Last converted - Mon, 11 Nov 2024 12:24:06 +0000
 #
 
 0.0.0.0 100widgets.com
@@ -255,6 +255,7 @@
 0.0.0.0 cdn.debugbear.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.overblog.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.puretec.de
@@ -934,6 +935,7 @@
 0.0.0.0 statsapi.screen9.com
 0.0.0.0 statscollector-1.agora.io
 0.0.0.0 statscollector.sd-rtn.com
+0.0.0.0 statsjs.klevu.com
 0.0.0.0 statt-collect.herokuapp.com
 0.0.0.0 stg-data-collector.playbuzz.com
 0.0.0.0 stream-log.dditscdn.com
@@ -1006,7 +1008,6 @@
 0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
-0.0.0.0 tags.refinery89.com
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 telemetrics.klaviyo.com
@@ -1232,6 +1233,7 @@
 0.0.0.0 webtrack.savoysystems.co.uk
 0.0.0.0 webtracker.apicasystem.com
 0.0.0.0 widget-pixels.outbrain.com
+0.0.0.0 widget.civey.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 wl-pixel.index.digital
