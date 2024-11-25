@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 20 Nov 2024 14:45:43 +0000
+# Last converted - Mon, 25 Nov 2024 14:50:24 +0000
 #
 
 0.0.0.0 a-da.invideo.io
@@ -224,6 +224,7 @@
 0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 events.api.godaddy.com
 0.0.0.0 events.baselime.io
+0.0.0.0 events.bsky.app
 0.0.0.0 events.character.ai
 0.0.0.0 events.clips4sale.com
 0.0.0.0 events.framer.com
