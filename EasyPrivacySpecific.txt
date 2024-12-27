@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 10 Dec 2024 15:27:53 +0000
+# Last converted - Fri, 27 Dec 2024 06:10:00 +0000
 #
 
 0.0.0.0 a-da.invideo.io
@@ -371,6 +371,7 @@
 0.0.0.0 mi.grubhub.com
 0.0.0.0 miao.baidu.com
 0.0.0.0 midas.chase.com
+0.0.0.0 mixpanel-proxy.coingecko.com
 0.0.0.0 mixpanel-proxy.ted.com
 0.0.0.0 mixproxy.epoch.cloud
 0.0.0.0 mktcs.cloudapps.cisco.com
@@ -487,6 +488,7 @@
 0.0.0.0 sapphire-api.target.com
 0.0.0.0 scholar.google.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 service.techzine.eu
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
 0.0.0.0 sjc.cloud.optable.co
