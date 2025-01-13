@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 02 Jan 2025 15:25:50 +0000
+# Last converted - Mon, 13 Jan 2025 08:36:33 +0000
 #
 
 0.0.0.0 a-da.invideo.io
@@ -126,6 +126,7 @@
 0.0.0.0 clp-mms.cloudpro.co.uk
 0.0.0.0 cm-mms.coachmag.co.uk
 0.0.0.0 cm.nordvpn.com
+0.0.0.0 cms-stats-view.vitrinabox.com
 0.0.0.0 cnt.hd21.com
 0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.viptube.com
@@ -186,7 +187,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.nytimes.com
 0.0.0.0 ddome-tag.blablacar.com
-0.0.0.0 deliver.ptgncdn.com
 0.0.0.0 discover-metrics.cloud.seek.com.au
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dp.shoprunner.com
@@ -692,6 +692,7 @@
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 cfa.fidelity.com
 0.0.0.0 clear.wallapop.com
+0.0.0.0 content.canadiantire.ca
 0.0.0.0 content22.bmo.com
 0.0.0.0 content22.citi.eu
 0.0.0.0 content22.citibank.com.au
