@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 20 Jan 2025 03:50:53 +0000
+# Last converted - Tue, 28 Jan 2025 16:32:51 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -87,6 +87,12 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 r0.mail.ru
+0.0.0.0 r0.mradx.net
+0.0.0.0 serveraddr.service.kugou.com
+0.0.0.0 d.kugou.com
+0.0.0.0 nbcollect.kugou.com
+0.0.0.0 nbcollectretry.kugou.com
 0.0.0.0 dl-adx.op-mobile.opera.com
 0.0.0.0 dsp-api.moloco.com
 0.0.0.0 ads.smrtbid.com
