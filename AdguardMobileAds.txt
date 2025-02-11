@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 28 Jan 2025 16:32:51 +0000
+# Last converted - Tue, 11 Feb 2025 07:34:05 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -87,6 +87,14 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 san.myadssupport.com
+0.0.0.0 api.youngle.tech
+0.0.0.0 api.myadsget.com
+0.0.0.0 api.sve.cc
+0.0.0.0 adx-sg-req.bridgeoos.com
+0.0.0.0 adx-os.bridgeoos.com
+0.0.0.0 api.kickoffo.site
+0.0.0.0 api.bridgeoos.com
 0.0.0.0 r0.mail.ru
 0.0.0.0 r0.mradx.net
 0.0.0.0 serveraddr.service.kugou.com
@@ -217,7 +225,6 @@
 0.0.0.0 ads-server.mxplay.com
 0.0.0.0 mxaserver.mxplay.com
 0.0.0.0 contextualadv.com
-0.0.0.0 prebid-cache.ifunny.co
 0.0.0.0 tk0x1.com
 0.0.0.0 itdsmr.com
 0.0.0.0 displayio.cloud
