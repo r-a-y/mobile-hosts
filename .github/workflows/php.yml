@@ -3,8 +3,8 @@ name: PHP converter
 on:
   workflow_dispatch:
   schedule:
-  - cron: "10 */12 * * *"
-  # Updates every 12 hours at 10mins past the hour.
+  - cron: "10 */24 * * *"
+  # Updates every 24 hours at 10mins past the hour.
 
 permissions:
   contents: write
