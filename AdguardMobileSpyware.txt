@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 11 Feb 2025 07:34:06 +0000
+# Last converted - Tue, 18 Feb 2025 15:06:45 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -107,6 +107,20 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 track.aieic.com
+0.0.0.0 tracker.str-nrg.com
+0.0.0.0 ced-ns.sascdn.com
+0.0.0.0 pixel.magentamarketing.com
+0.0.0.0 bisrtb.vidazoo.com
+0.0.0.0 aws.userlogsanalytics.com
+0.0.0.0 atb-stats-api.imolive.tv
+0.0.0.0 i.mxplayer.j2inter.com
+0.0.0.0 flashtalking.com
+0.0.0.0 stat.weamvideo.com
+0.0.0.0 log.ultimatecleaner.pro
+0.0.0.0 impression.link
+0.0.0.0 rm.aarki.net
+0.0.0.0 use-cr.svr-algorix.com
 0.0.0.0 gnsnpaw.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 jpush.io
@@ -298,6 +312,7 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 woodpecker.uc.cn
 0.0.0.0 adashx4ae.ut.taobao.com
+0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 node.aibeacon.jp
