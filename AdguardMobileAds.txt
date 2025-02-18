@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 11 Feb 2025 07:34:05 +0000
+# Last converted - Tue, 18 Feb 2025 15:06:43 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -51,7 +51,6 @@
 0.0.0.0 criteo.com
 0.0.0.0 criteo.net
 0.0.0.0 appodeal.com
-0.0.0.0 a.320981a9244924ef86ebdbb9eb877e9f21ce83f1e3cc89b2c5e7c3ff.com
 0.0.0.0 ad.buzzvil.com
 0.0.0.0 screen.buzzvil.com
 0.0.0.0 adstrategy.biz.weibo.com
@@ -87,6 +86,9 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 datk.bridgeoos.com
+0.0.0.0 tapi.pureapk.com
+0.0.0.0 ads.appbundledownload.com
 0.0.0.0 san.myadssupport.com
 0.0.0.0 api.youngle.tech
 0.0.0.0 api.myadsget.com
@@ -124,8 +126,6 @@
 0.0.0.0 news-cdn.site
 0.0.0.0 mossru.com
 0.0.0.0 jjpp.lmtjapi.com
-0.0.0.0 a.07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com
-0.0.0.0 a.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 ad.zijieapi.com
 0.0.0.0 frontier100-toutiao-lf.fqnovel.com
 0.0.0.0 ad.snaptube.app
@@ -229,7 +229,6 @@
 0.0.0.0 itdsmr.com
 0.0.0.0 displayio.cloud
 0.0.0.0 external-api.impression-neo.naver.com
-0.0.0.0 mobiadvert.livesportmedia.eu
 0.0.0.0 sdkv2.imaginationunwired.com
 0.0.0.0 api-ad-adapter.wps.com
 0.0.0.0 nasimobi.com
@@ -892,6 +891,7 @@
 0.0.0.0 n152adserv.com
 0.0.0.0 smilered.com
 0.0.0.0 cloudads-a.akamaihd.net
+0.0.0.0 d-load.org
 0.0.0.0 as.uncn.jp
 0.0.0.0 outbrainimg.com
 0.0.0.0 kusuriyasan.org
