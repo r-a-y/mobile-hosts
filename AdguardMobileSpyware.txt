@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 20 Feb 2025 01:52:18 +0000
+# Last converted - Fri, 21 Feb 2025 01:52:37 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -108,6 +108,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 insights.alibaba.com
+0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 collect.ureca-lab.com
 0.0.0.0 api.abcsinsights.com
 0.0.0.0 tracking.carbonatixaudio.com
