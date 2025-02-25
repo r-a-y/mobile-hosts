@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 24 Feb 2025 01:55:05 +0000
+# Last converted - Tue, 25 Feb 2025 01:54:19 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -495,7 +495,6 @@
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 log-tb.sgsnssdk.com
 0.0.0.0 xlog.byteoversea.com
-0.0.0.0 gecko-sg.byteoversea.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 tracking.aldi-international.com
 0.0.0.0 direct-collect.dy-api.com
