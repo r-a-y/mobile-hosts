@@ -1,7 +1,7 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 25 Feb 2025 01:54:19 +0000
+# Last converted - Tue, 25 Feb 2025 08:00:56 +0000
 #
 
 0.0.0.0 adtarget.biz
@@ -35298,6 +35298,7 @@
 0.0.0.0 wizaly.com
 0.0.0.0 d1udjti6mtxz9q.cloudfront.net
 0.0.0.0 tagman.britishairways.com
+0.0.0.0 clientlogger.marketplace.aws.a2z.com
 0.0.0.0 mercury.books.com.tw
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 udc.yahoo.com
@@ -43958,7 +43959,10 @@
 0.0.0.0 classic.avantlink.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 cl-eu2.k5a.io
+0.0.0.0 cl-eu3.k5a.io
 0.0.0.0 cl-eu4.k5a.io
+0.0.0.0 cl-eu5.k5a.io
+0.0.0.0 cl-eu6.k5a.io
 0.0.0.0 cncpt.dk
 0.0.0.0 cncptx.com
 0.0.0.0 cncpt-central.com
@@ -50028,6 +50032,10 @@
 0.0.0.0 bidotz.icu
 0.0.0.0 nktydx.icu
 0.0.0.0 scohmallt.com
+0.0.0.0 lvnr.cn
+0.0.0.0 znlvhnej.icu
+0.0.0.0 okwjmii.top
+0.0.0.0 onjncgq.top
 0.0.0.0 dfhthh.icu
 0.0.0.0 chuundads.com
 0.0.0.0 xvvfpsmp.icu
