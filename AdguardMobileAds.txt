@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 18 Feb 2025 15:06:43 +0000
+# Last converted - Tue, 25 Feb 2025 08:00:53 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -32,7 +32,7 @@
 0.0.0.0 search.adcaffe.com
 0.0.0.0 monitor.adcaffe.com
 0.0.0.0 ad-api.ehawk.com
-0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
+0.0.0.0 gwrtdp-tn690bfadt.tclclouds.com
 0.0.0.0 mobotoolpush.moboapps.io
 0.0.0.0 ssp.mediation.trnox.com
 0.0.0.0 bu1.duba.com
@@ -86,6 +86,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 pavoshare.com
+0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 datk.bridgeoos.com
 0.0.0.0 tapi.pureapk.com
 0.0.0.0 ads.appbundledownload.com
@@ -902,6 +904,22 @@
 0.0.0.0 m.flowcodeapp.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 https-filtering-check.adtidy.org
+0.0.0.0 games.tresensa.com
+0.0.0.0 api.plyair.com
+0.0.0.0 gwbudgetali.iymedia.me
+0.0.0.0 notifiy.rtbuniverse.com
+0.0.0.0 cdn.wtshare.com
+0.0.0.0 gamaibids.com
+0.0.0.0 gamerplay67.space
+0.0.0.0 imprdom.com
+0.0.0.0 loganmedia.mobi
+0.0.0.0 lqm.io
+0.0.0.0 mangomob.net
+0.0.0.0 pn.ybp.yahoo.com
+0.0.0.0 funpavo.com
+0.0.0.0 pavoboxapp.com
+0.0.0.0 staticcc.com
+0.0.0.0 teraverseapp.com
 0.0.0.0 adcenter-api.cashwalk.co
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
