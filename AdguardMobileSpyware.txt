@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 25 Feb 2025 08:00:54 +0000
+# Last converted - Wed, 26 Feb 2025 01:55:25 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -799,6 +799,7 @@
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
 0.0.0.0 zdbb.net
+0.0.0.0 mcs.tiktokw.us
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 log.tiktokv.com
 0.0.0.0 rtc-logger-va.tiktokv.com
