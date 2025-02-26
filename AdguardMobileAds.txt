@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 25 Feb 2025 08:00:53 +0000
+# Last converted - Wed, 26 Feb 2025 01:55:25 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -917,9 +917,7 @@
 0.0.0.0 mangomob.net
 0.0.0.0 pn.ybp.yahoo.com
 0.0.0.0 funpavo.com
-0.0.0.0 pavoboxapp.com
 0.0.0.0 staticcc.com
-0.0.0.0 teraverseapp.com
 0.0.0.0 adcenter-api.cashwalk.co
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
