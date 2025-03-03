@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 25 Feb 2025 08:00:53 +0000
+# Last converted - Mon, 03 Mar 2025 22:00:10 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -151,7 +151,6 @@
 0.0.0.0 static.timetreeads.com
 0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 zgzxs.weathercn.com
-0.0.0.0 kiesta.net
 0.0.0.0 downloadshi.b-cdn.net
 0.0.0.0 ads.rmbl.ws
 0.0.0.0 adsassets-ipv6.waze.com
@@ -339,7 +338,6 @@
 0.0.0.0 ad.particlenews.com
 0.0.0.0 ad.wynk.in
 0.0.0.0 pushad.metajoy.services
-0.0.0.0 painsko.com
 0.0.0.0 ad.snappea.com
 0.0.0.0 adtimaserver.vn
 0.0.0.0 api.mediation.amberweather.com
@@ -379,9 +377,7 @@
 0.0.0.0 jioads.akamaized.net
 0.0.0.0 ajdivotdelbloab24.jio.com
 0.0.0.0 adxcorp.kr
-0.0.0.0 adsmobila.com
 0.0.0.0 tw-api.vpon.com
-0.0.0.0 ts166.net
 0.0.0.0 imrworldwide.com
 0.0.0.0 tccbanner.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -399,7 +395,6 @@
 0.0.0.0 cdn-adn.rayjump.com
 0.0.0.0 buysellads.com
 0.0.0.0 casino-ad-mediation.me2zengame.com
-0.0.0.0 postut.cn
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 activity.browser.intl.miui.com
 0.0.0.0 api.brs.intl.miui.com
@@ -418,7 +413,6 @@
 0.0.0.0 rtb.appbid.com
 0.0.0.0 rtapi.abbi.io
 0.0.0.0 look.kfiopkln.com
-0.0.0.0 adplex.co.kr
 0.0.0.0 tveta.naver.net
 0.0.0.0 deliveryengine.adswizz.com
 0.0.0.0 sitemaji.com
@@ -436,17 +430,12 @@
 0.0.0.0 tkportal.aotter.net
 0.0.0.0 client.midosoo.com
 0.0.0.0 sc.smardroid.com
-0.0.0.0 tnkfactory.com
-0.0.0.0 iqzone.com
-0.0.0.0 postitial.com
 0.0.0.0 pssvc.iqzone.com
 0.0.0.0 cdn-cf.postitial.com
 0.0.0.0 opt8.co
 0.0.0.0 ads-bidder-api.twitter.com
 0.0.0.0 sexpennyauctions.com
 0.0.0.0 speee-ad.akamaized.net
-0.0.0.0 valshara.com
-0.0.0.0 theship.club
 0.0.0.0 ads.jianchiapp.com
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 agent.tamedia.com.tw
@@ -474,7 +463,6 @@
 0.0.0.0 et-code.ru
 0.0.0.0 gynax.com
 0.0.0.0 avazunativeads.com
-0.0.0.0 mobilebanner.ru
 0.0.0.0 api.ad-locus.com
 0.0.0.0 023hysj.com
 0.0.0.0 lxqcgj.com
@@ -504,8 +492,6 @@
 0.0.0.0 a.applvn.com
 0.0.0.0 adslot.uc.cn
 0.0.0.0 disqusads.com
-0.0.0.0 jssdk.rayjump.com
-0.0.0.0 adtheorent.com
 0.0.0.0 api.cloudmobi.net
 0.0.0.0 polymorphicads.jp
 0.0.0.0 cdns.lodeo.io
@@ -514,8 +500,6 @@
 0.0.0.0 mxvp-ad-config-prod-1.zenmxapps.com
 0.0.0.0 mxvp-feature-toggle-prod-1.zenmxapps.com
 0.0.0.0 zzhengre.com
-0.0.0.0 tongqing2015.com
-0.0.0.0 pw.lpsxssm.com
 0.0.0.0 go.admost.com
 0.0.0.0 med-api.admost.com
 0.0.0.0 cdn-api.admost.com
@@ -540,7 +524,6 @@
 0.0.0.0 ad-creatives-public.commondatastorage.googleapis.com
 0.0.0.0 1mp.mobi
 0.0.0.0 247realmedia.com
-0.0.0.0 31.14.252.148
 0.0.0.0 360yield.com
 0.0.0.0 a2dfp.net
 0.0.0.0 abnad.net
@@ -661,7 +644,6 @@
 0.0.0.0 blogads.com
 0.0.0.0 boostads.net
 0.0.0.0 brealtime.com
-0.0.0.0 brokerbabe.com
 0.0.0.0 bubblesmedia.ru
 0.0.0.0 burstnet.com
 0.0.0.0 buzzcity.net
@@ -714,7 +696,6 @@
 0.0.0.0 gumgum.com
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 heyzap.com
-0.0.0.0 hostgrater.com
 0.0.0.0 houseads-prod.elasticbeanstalk.com
 0.0.0.0 houseads.ttpsdk.info
 0.0.0.0 httpool.com
@@ -739,7 +720,6 @@
 0.0.0.0 intowow.com
 0.0.0.0 investingchannel.com
 0.0.0.0 justad.mobi
-0.0.0.0 keydot.net
 0.0.0.0 kiosked.com
 0.0.0.0 kochava.com
 0.0.0.0 komoona.com
@@ -749,7 +729,6 @@
 0.0.0.0 lb.usemaxserver.de
 0.0.0.0 leadboltads.net
 0.0.0.0 leanplum.com
-0.0.0.0 ma-code.ru
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madnet.ru
 0.0.0.0 mads.bz
@@ -768,7 +747,6 @@
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobiads.ru
-0.0.0.0 mobile-click.biz
 0.0.0.0 mobile333.com
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
@@ -792,18 +770,13 @@
 0.0.0.0 novostimira.biz
 0.0.0.0 numbers.md
 0.0.0.0 os.scmpacdn.com
-0.0.0.0 owap.su
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partnerearning.com
 0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 pflexads.com
 0.0.0.0 phluant.com
 0.0.0.0 pixel.admobclick.com
 0.0.0.0 playhaven.com
-0.0.0.0 plugin.mediavoice.com
 0.0.0.0 pontiflex.com
-0.0.0.0 pos.baidu.com
 0.0.0.0 pub1.co
 0.0.0.0 pubmatic.com
 0.0.0.0 pubnative.net
@@ -841,7 +814,6 @@
 0.0.0.0 tapone.jp
 0.0.0.0 tappx.com
 0.0.0.0 tapsense.com
-0.0.0.0 tapstat.ru
 0.0.0.0 targetspot.com
 0.0.0.0 telemetryverification.net
 0.0.0.0 thetrafficstat.net
@@ -849,7 +821,6 @@
 0.0.0.0 tm1.hoiplay.com
 0.0.0.0 tonefuse.com
 0.0.0.0 tpc.googlesyndication.com
-0.0.0.0 track.cpatool.net
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tradeadexchange.com
@@ -868,7 +839,6 @@
 0.0.0.0 upsight.com
 0.0.0.0 usekahuna.com
 0.0.0.0 velti.com
-0.0.0.0 vidout.net
 0.0.0.0 vserv.mobi
 0.0.0.0 vungle.com
 0.0.0.0 waiads.com
@@ -885,9 +855,7 @@
 0.0.0.0 yieldmo.com
 0.0.0.0 yllix.com
 0.0.0.0 youmi.net
-0.0.0.0 yuhuads.com
 0.0.0.0 zedo.com
-0.0.0.0 ziffdavis.com
 0.0.0.0 deloton.com
 0.0.0.0 oclasrv.com
 0.0.0.0 n152adserv.com
@@ -896,7 +864,6 @@
 0.0.0.0 d-load.org
 0.0.0.0 as.uncn.jp
 0.0.0.0 outbrainimg.com
-0.0.0.0 kusuriyasan.org
 0.0.0.0 bd1.guancha.cn
 0.0.0.0 bd2.guancha.cn
 0.0.0.0 alicdn.com
@@ -917,9 +884,7 @@
 0.0.0.0 mangomob.net
 0.0.0.0 pn.ybp.yahoo.com
 0.0.0.0 funpavo.com
-0.0.0.0 pavoboxapp.com
 0.0.0.0 staticcc.com
-0.0.0.0 teraverseapp.com
 0.0.0.0 adcenter-api.cashwalk.co
 0.0.0.0 ads.viber.com
 0.0.0.0 ads-d.viber.com
