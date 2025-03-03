@@ -109,7 +109,7 @@ foreach ( $lists as $name => $list ) {
 
 		// Replace filter syntax with HOSTS syntax.
 		// @todo Perhaps skip $image and $popup?
-		$filter = str_replace( array( '||', '^third-party', '^', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', ',ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
+		$filter = str_replace( array( '||', '^', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$ping', ',ping', '$important', '$badfilter', ',badfilter', '$websocket', '$cookie', '$other' ), '', $filter );
 
 		/*
 		 * Workarounds. Groan.
