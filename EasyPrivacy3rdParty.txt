@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 13 Mar 2025 01:59:34 +0000
+# Last converted - Sat, 15 Mar 2025 01:56:28 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -602,6 +602,7 @@
 0.0.0.0 metrics.gs-chat.com
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.mdstrm.com
+0.0.0.0 metrics.nsureapi.com
 0.0.0.0 metrics.onshape.com
 0.0.0.0 metrics.pico.tools
 0.0.0.0 metrics.scribblelive.com
