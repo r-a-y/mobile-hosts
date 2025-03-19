@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 15 Mar 2025 01:56:24 +0000
+# Last converted - Wed, 19 Mar 2025 01:59:51 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -162,7 +162,6 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 analytics.google.com
 0.0.0.0 log.pdfviewerscannerstore.live
-0.0.0.0 mon-boot.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
 0.0.0.0 metrics-prod.suno.com
 0.0.0.0 logs-ingress.svc.vinted.com
