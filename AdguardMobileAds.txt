@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 18 Mar 2025 01:59:45 +0000
+# Last converted - Thu, 20 Mar 2025 01:59:10 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -86,6 +86,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 service-ad-image-ga.prd.pluto.tv
 0.0.0.0 pavoshare.com
 0.0.0.0 global-staticplat.cdn.bcebos.com
 0.0.0.0 datk.bridgeoos.com
