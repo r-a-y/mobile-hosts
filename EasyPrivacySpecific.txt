@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 24 Mar 2025 02:04:05 +0000
+# Last converted - Tue, 25 Mar 2025 02:01:31 +0000
 #
 
 0.0.0.0 a-da.invideo.io
@@ -325,6 +325,7 @@
 0.0.0.0 jfapiprod.optimonk.com
 0.0.0.0 jumbo.zomato.com
 0.0.0.0 k.qwant.com
+0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
