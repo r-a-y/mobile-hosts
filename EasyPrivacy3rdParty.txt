@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 21 Mar 2025 02:01:00 +0000
+# Last converted - Fri, 11 Apr 2025 02:03:18 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -1039,6 +1039,7 @@
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.nitropay.com
 0.0.0.0 tracker.nocodelytics.com
+0.0.0.0 tracker.personizely.net
 0.0.0.0 tracker.prod.ams3.k8s.hyperia.sk
 0.0.0.0 tracker.services.vaix.ai
 0.0.0.0 tracker.smartframe.io
