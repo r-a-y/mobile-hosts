@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 11 Apr 2025 02:03:12 +0000
+# Last converted - Sun, 13 Apr 2025 03:29:03 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -151,7 +151,6 @@
 0.0.0.0 splash-ad.classting.com
 0.0.0.0 ad-files.classting.com
 0.0.0.0 v16-ad.byteoversea.com
-0.0.0.0 vs-api.voodoo-tech.io
 0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 static.timetreeads.com
 0.0.0.0 kfvjdvjzhddhc.com
