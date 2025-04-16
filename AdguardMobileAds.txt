@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Sun, 13 Apr 2025 03:29:03 +0000
+# Last converted - Wed, 16 Apr 2025 02:05:25 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -86,6 +86,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 apishow.babybus.com
+0.0.0.0 apppromoteapi.babybus.com
 0.0.0.0 tiktokpangle.us
 0.0.0.0 lf-static.tiktokpangle-cdn-us.com
 0.0.0.0 v8b9c0x1z2.sai7348.xyz
