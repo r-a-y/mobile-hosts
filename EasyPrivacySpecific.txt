@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 14 Apr 2025 02:09:21 +0000
+# Last converted - Fri, 18 Apr 2025 02:01:10 +0000
 #
 
 0.0.0.0 1win.com
@@ -596,6 +596,7 @@
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 tc.geniusmonkey.com
 0.0.0.0 td.airdroid.com
+0.0.0.0 tealium-proxy.libertex.org
 0.0.0.0 telegraph.prd.api.max.com
 0.0.0.0 telem.sre.gopuff.com
 0.0.0.0 telemetry.adobe.io
@@ -701,6 +702,7 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 check3.tiaa.org
 0.0.0.0 clear.wallapop.com
 0.0.0.0 content.canadiantire.ca
 0.0.0.0 content.discover.com
