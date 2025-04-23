@@ -1,9 +1,13 @@
 # AdguardDNS
 #
 # Converted from - https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-# Last converted - Tue, 22 Apr 2025 02:04:48 +0000
+# Last converted - Wed, 23 Apr 2025 02:05:23 +0000
 #
 
+0.0.0.0 semygruja.com
+0.0.0.0 performoo.com
+0.0.0.0 keethoostoaps.net
+0.0.0.0 rneniibeiijmxeb.com
 0.0.0.0 s2.static.cfgr3.com
 0.0.0.0 4bind2.cfd
 0.0.0.0 orquidea.ai
@@ -2598,7 +2602,6 @@
 0.0.0.0 f4180a6e8c.ed908e7884.com
 0.0.0.0 f44e776d83.c9e362ce20.com
 0.0.0.0 f4611b5cd8.9900149f2a.com
-0.0.0.0 f6c8374b9b.4c81b78eca.com
 0.0.0.0 f860ddd061.6bc1f4d014.com
 0.0.0.0 f97c68bed0.0a10a1bb7b.com
 0.0.0.0 fa3b0cdce1.37e1087e51.com
@@ -2631,7 +2634,6 @@
 0.0.0.0 4ad8ea329d.f168b7fa34.com
 0.0.0.0 4ef69e5814.c7b419036b.com
 0.0.0.0 4fc2d0c0e2.abb030d6a7.com
-0.0.0.0 503f39274f.cc33b86bbf.com
 0.0.0.0 5364d8c646.aa92754c5e.com
 0.0.0.0 54d6a7edfb.218cc08472.com
 0.0.0.0 58c19941c7.78af853196.com
@@ -6347,6 +6349,7 @@
 0.0.0.0 4armn.com
 0.0.0.0 4b6994dfa47cee4.com
 0.0.0.0 4bad5cdf48.com
+0.0.0.0 4c81b78eca.com
 0.0.0.0 4c935d6a244f.com
 0.0.0.0 4co7mbsb.de
 0.0.0.0 4d33a4adbc.com
@@ -6481,6 +6484,7 @@
 0.0.0.0 6zy9yqe1ew.com
 0.0.0.0 7-7-7-partner.com
 0.0.0.0 70b7d98dec.com
+0.0.0.0 71df446534.com
 0.0.0.0 721ffc3ec5.com
 0.0.0.0 72hdgb5o.de
 0.0.0.0 730fcb332f.com
@@ -7733,6 +7737,7 @@
 0.0.0.0 aj2532.bid
 0.0.0.0 aj2550.bid
 0.0.0.0 aj2555.bid
+0.0.0.0 aj2627.bid
 0.0.0.0 aj2635.bid
 0.0.0.0 ajestigie.com
 0.0.0.0 ajillionmax.com
@@ -10612,6 +10617,7 @@
 0.0.0.0 cbro.win
 0.0.0.0 cbyqzt.xy
 0.0.0.0 cc-dt.com
+0.0.0.0 cc33b86bbf.com
 0.0.0.0 ccaa0e51d8.com
 0.0.0.0 ccc9c93083.com
 0.0.0.0 cchdbond.com
@@ -12909,6 +12915,7 @@
 0.0.0.0 dmavtliwh.global
 0.0.0.0 dmetherearlyinhes.info
 0.0.0.0 dmeukeuktyoue.info
+0.0.0.0 dmgsymwgj.com
 0.0.0.0 dmhbbivu.top
 0.0.0.0 dmhclkohnrpvg.com
 0.0.0.0 dmiredindeed.com
@@ -14106,6 +14113,7 @@
 0.0.0.0 excessiveunwind.com
 0.0.0.0 excessstumbledvisited.com
 0.0.0.0 exchange-traffic.com
+0.0.0.0 excitablepass.com
 0.0.0.0 excitead.com
 0.0.0.0 excitementcolossalrelax.com
 0.0.0.0 excitementoppressive.com
@@ -18167,6 +18175,7 @@
 0.0.0.0 jqueryoi.com
 0.0.0.0 jqueryserve.org
 0.0.0.0 jqueryserver.com
+0.0.0.0 jrbbavbvqmbzl.top
 0.0.0.0 jrfngdrodrdop.icu
 0.0.0.0 jriortnf.com
 0.0.0.0 jrolyrlabybmz.top
@@ -18551,6 +18560,7 @@
 0.0.0.0 kkeugrilxgql.com
 0.0.0.0 kkieeoxcjpqah.vip
 0.0.0.0 kkmacsqsbf.info
+0.0.0.0 kknkcyrkvoqsqa.com
 0.0.0.0 kkoacpohjomc.com
 0.0.0.0 kkqcnrk.com
 0.0.0.0 kkvesjzn.com
@@ -20776,6 +20786,7 @@
 0.0.0.0 mutinygrannyhenceforward.com
 0.0.0.0 mutsjeamenism.com
 0.0.0.0 mutteredadisa.com
+0.0.0.0 muyusaitcze.com
 0.0.0.0 muzarabeponym.website
 0.0.0.0 muzikguide.com
 0.0.0.0 muzoohat.net
@@ -20955,6 +20966,7 @@
 0.0.0.0 naukegainok.net
 0.0.0.0 naulageaortas.com
 0.0.0.0 naulme.info
+0.0.0.0 naunoniwaimoo.net
 0.0.0.0 naupsakiwhy.com
 0.0.0.0 naupseko.com
 0.0.0.0 naupsithizeekee.com
@@ -21439,6 +21451,7 @@
 0.0.0.0 nqowmugodougu.com
 0.0.0.0 nqrkzcd7ixwr.com
 0.0.0.0 nqslmtuswqdz.com
+0.0.0.0 nqucjilr.com
 0.0.0.0 nqvi-lnlu.icu
 0.0.0.0 nrcykmnukb.com
 0.0.0.0 nrdpfnpqunyle.rocks
@@ -22176,6 +22189,7 @@
 0.0.0.0 opclumbcuqze.com
 0.0.0.0 opcnflku.com
 0.0.0.0 opcpicocja.com
+0.0.0.0 opcqrorr.com
 0.0.0.0 opdomains.space
 0.0.0.0 opdxpycrizuq.com
 0.0.0.0 opeanresultanc.com
@@ -22700,6 +22714,7 @@
 0.0.0.0 pafiptuy.net
 0.0.0.0 pagejunky.com
 0.0.0.0 pagemystery.com
+0.0.0.0 pagerrentablespotlight.com
 0.0.0.0 paginaewakens.shop
 0.0.0.0 paginaltreitre.shop
 0.0.0.0 pagnawhouk.net
@@ -23148,6 +23163,7 @@
 0.0.0.0 phautchiwaiw.net
 0.0.0.0 phburwtzjusbh.site
 0.0.0.0 pheasantarmpitswallow.com
+0.0.0.0 phechiptupti.pro
 0.0.0.0 phecoungaudsi.net
 0.0.0.0 phee1oci.com
 0.0.0.0 pheedsoan.com
@@ -25861,6 +25877,7 @@
 0.0.0.0 rzneekilff.com
 0.0.0.0 rzobsgow.com
 0.0.0.0 rzuokcobzru.com
+0.0.0.0 rzxxflvdnvtws.vip
 0.0.0.0 s-adzone.com
 0.0.0.0 s0-greate.net
 0.0.0.0 s0cool.net
@@ -26139,6 +26156,7 @@
 0.0.0.0 scriptcdn.net
 0.0.0.0 scriptvealpatronage.com
 0.0.0.0 scritchmaranta.shop
+0.0.0.0 scriveaerocar.top
 0.0.0.0 scrollye.com
 0.0.0.0 scruboutdoorsoffensive.com
 0.0.0.0 scruftsurface.top
@@ -26625,6 +26643,7 @@
 0.0.0.0 shussausach.com
 0.0.0.0 shutesaroph.com
 0.0.0.0 shvnfhf.com
+0.0.0.0 shvsrrpkgjcuk.life
 0.0.0.0 shydastidu.com
 0.0.0.0 shyrepair.pro
 0.0.0.0 sialsizably.shop
@@ -27633,6 +27652,7 @@
 0.0.0.0 stupid-luck.com
 0.0.0.0 stupidityscream.com
 0.0.0.0 stupidspaceshipfestivity.com
+0.0.0.0 stupsouchig.com
 0.0.0.0 sturtsbabassu.shop
 0.0.0.0 stutchoorgeltu.net
 0.0.0.0 stuwhost.net
@@ -29151,6 +29171,7 @@
 0.0.0.0 tvoiioftvfzzc.buzz
 0.0.0.0 tvpnnrungug.xyz
 0.0.0.0 tvprocessing.com
+0.0.0.0 twaglurtuh.xyz
 0.0.0.0 twazzyoidwlfe.com
 0.0.0.0 tweakarrangement.com
 0.0.0.0 tweelessatic.co.in
@@ -29632,6 +29653,7 @@
 0.0.0.0 urbanjazzsecretion.com
 0.0.0.0 urechar.com
 0.0.0.0 urgentlyfeerobots.com
+0.0.0.0 urgentlyrightypast.com
 0.0.0.0 urgentprotections.com
 0.0.0.0 urimnugocfr.com
 0.0.0.0 urinebladdernovember.com
@@ -29860,6 +29882,7 @@
 0.0.0.0 vbhuivr.com
 0.0.0.0 vbmjlevwwvyzj.top
 0.0.0.0 vbptgoyketwhv.global
+0.0.0.0 vbqrzzrzazaew.top
 0.0.0.0 vbrusdiifpfd.com
 0.0.0.0 vbtrax.com
 0.0.0.0 vcdc.com
@@ -30723,6 +30746,7 @@
 0.0.0.0 whoisezh.com
 0.0.0.0 whoksoadousto.net
 0.0.0.0 wholituaten.com
+0.0.0.0 whollyindependentlylooking.com
 0.0.0.0 whollyneedy.com
 0.0.0.0 whomcomposescientific.com
 0.0.0.0 whomsudsikaxu.com
@@ -76793,8 +76817,8 @@
 0.0.0.0 reach.ironmountain.com
 0.0.0.0 response.xactware.com
 0.0.0.0 results.news.marshmma.com
+0.0.0.0 secure.sw.broadcom.com
 0.0.0.0 solutions.desertfinancial.com
-0.0.0.0 sw.broadcom.com
 0.0.0.0 tp.lexisnexis.co.nz
 0.0.0.0 tp.lexisnexis.com.au
 0.0.0.0 tr.informabi.com
@@ -89806,6 +89830,7 @@
 0.0.0.0 tr-op.datatrics.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datatrics.com
+0.0.0.0 tr.standardadmin.org
 0.0.0.0 traccoon.intellectsoft.net
 0.0.0.0 trace.swaven.com
 0.0.0.0 track-dark-bz.b-cdn.net
@@ -90870,7 +90895,6 @@
 0.0.0.0 templates.buscape.com
 0.0.0.0 yestorrents.org
 0.0.0.0 oecistbenton.com
-0.0.0.0 tp.media
 0.0.0.0 vvdrhe.win
 0.0.0.0 adwadvert.com.ua
 0.0.0.0 nanthou.life
@@ -94857,6 +94881,7 @@
 0.0.0.0 tourn.co
 0.0.0.0 tourn.se
 0.0.0.0 tr.apsisforms.com
+0.0.0.0 track.yetric.net
 0.0.0.0 tracker.zummycloud.com
 0.0.0.0 tracker.kollega.open-analytics.se
 0.0.0.0 tracker.kulturradet.open-analytics.se
@@ -100563,8 +100588,22 @@
 0.0.0.0 zywjpypco.7hujk.de
 0.0.0.0 51tongji.trafficmanager.net
 0.0.0.0 cnzz.trafficmanager.net
+0.0.0.0 leirerspfz.com
+0.0.0.0 ifje.cn
 0.0.0.0 grimoiksep.com
 0.0.0.0 iutq.cn
+0.0.0.0 lhdnba.top
+0.0.0.0 eucnwtw.top
+0.0.0.0 wwcnmte.top
+0.0.0.0 ubudhal.com
+0.0.0.0 51dxs.com
+0.0.0.0 lui8426.xyz
+0.0.0.0 91ks.online
+0.0.0.0 qwerhao3.com
+0.0.0.0 cholurd.com
+0.0.0.0 dhimphits.com
+0.0.0.0 uypg.cn
+0.0.0.0 wucnwte.top
 0.0.0.0 hgreils.com
 0.0.0.0 lvqo.cn
 0.0.0.0 jibtdn.top
