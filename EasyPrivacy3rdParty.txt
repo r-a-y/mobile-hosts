@@ -1,13 +1,14 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 23 Apr 2025 02:05:29 +0000
+# Last converted - Thu, 24 Apr 2025 02:05:55 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
 0.0.0.0 3p-geo.yahoo.com
 0.0.0.0 3p-udc.yahoo.com
+0.0.0.0 682a5845.b-cdn.net
 0.0.0.0 9w2zed1szg.execute-api.us-east-1.amazonaws.com
 0.0.0.0 a.emea01.idio.episerver.net
 0.0.0.0 a.getflowbox.com
@@ -448,6 +449,7 @@
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
+0.0.0.0 fgip.rosehosting.com
 0.0.0.0 filament-stats.herokuapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
@@ -618,6 +620,7 @@
 0.0.0.0 mon.domdog.io
 0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 monitor-frontend-collector.a.bybit-aws.com
+0.0.0.0 monitor.fraudblocker.com
 0.0.0.0 monitoring.iraiser.eu
 0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 mormont.gamer-network.net
@@ -712,6 +715,7 @@
 0.0.0.0 player-metrics.instaread.co
 0.0.0.0 pm.boostintegrated.com
 0.0.0.0 pmi.flowplayer.com
+0.0.0.0 ponos.zeronaught.com
 0.0.0.0 popup-static.unisender.com
 0.0.0.0 porpoise.azettl.net
 0.0.0.0 pr-bh.ybp.yahoo.com
@@ -743,6 +747,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampjs-cdn.system1.com
+0.0.0.0 raven.adeptmind.ai
 0.0.0.0 reach-id.orbit.tm-awx.com
 0.0.0.0 realm.hearst3pcc.com
 0.0.0.0 receive.wmcdp.io
@@ -877,6 +882,7 @@
 0.0.0.0 stats.uscreen.io
 0.0.0.0 stats.varrando.com
 0.0.0.0 stats.viddler.com
+0.0.0.0 stats.vodlix.com
 0.0.0.0 stats.webs.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.wpmucdn.com
