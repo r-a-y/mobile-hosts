@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 22 Apr 2025 02:04:48 +0000
+# Last converted - Fri, 25 Apr 2025 02:06:08 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -109,6 +109,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 adashx4id.ut.taobao.com
+0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
 0.0.0.0 eventsv2balanced.malpagames.com
 0.0.0.0 pls.prd.mz.internal.unity3d.com
@@ -822,6 +824,10 @@
 0.0.0.0 xlog-va.tiktokv.com
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 analytics.tiktok.com
+0.0.0.0 bts-la.ucweb.com
+0.0.0.0 intlsucus.ucweb.com
+0.0.0.0 adtrack-intl.ucweb.com
+0.0.0.0 mum.alibabachengdun.com
 0.0.0.0 localytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
