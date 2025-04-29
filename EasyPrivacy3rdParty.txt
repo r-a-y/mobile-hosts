@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 28 Apr 2025 02:14:45 +0000
+# Last converted - Tue, 29 Apr 2025 02:06:48 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -758,6 +758,7 @@
 0.0.0.0 refer.wordpress.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 removeads.workers.dev
+0.0.0.0 report.23video.com
 0.0.0.0 reporting-api.gannettinnovation.com
 0.0.0.0 reporting.cdndex.io
 0.0.0.0 reporting.singlefeed.com
@@ -964,6 +965,7 @@
 0.0.0.0 tags.dxmdp.com
 0.0.0.0 tags.fullcontact.com
 0.0.0.0 tags.master-perf-tools.com
+0.0.0.0 tags.pw.adn.cloud
 0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 telemetrics.klaviyo.com
