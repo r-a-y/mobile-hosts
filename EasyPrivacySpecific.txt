@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 28 Apr 2025 02:14:44 +0000
+# Last converted - Wed, 30 Apr 2025 02:06:27 +0000
 #
 
 0.0.0.0 1win.com
@@ -167,6 +167,7 @@
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 count.all.biz
 0.0.0.0 count.darkreader.app
 0.0.0.0 count.rin.ru
 0.0.0.0 counter.darkreader.app
@@ -557,6 +558,7 @@
 0.0.0.0 stats.wwitv.com
 0.0.0.0 stats2.mytuner.mobi
 0.0.0.0 statsegg.cdngeek.com
+0.0.0.0 storage.lulu-row1.com
 0.0.0.0 stream.corporatefinanceinstitute.com
 0.0.0.0 streamstats.prd.dlive.tv
 0.0.0.0 szrpr.raen.com
@@ -693,6 +695,7 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wc.yahoodns.net
+0.0.0.0 webapi.3cx.com
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
 0.0.0.0 wstats.e-wok.tv
