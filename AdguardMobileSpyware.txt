@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 29 Apr 2025 02:06:42 +0000
+# Last converted - Wed, 30 Apr 2025 02:06:23 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -109,7 +109,6 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
-0.0.0.0 ulogjs.ksapisrv.com
 0.0.0.0 adashx4id.ut.taobao.com
 0.0.0.0 analytics.us.tiktok.com
 0.0.0.0 ads-privacy-api.prd.mz.internal.unity3d.com
@@ -813,6 +812,18 @@
 0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
 0.0.0.0 zdbb.net
+0.0.0.0 csplog.kwai-pro.com
+0.0.0.0 log-sdk.ksapisrv.com
+0.0.0.0 logsdk.kwai-pro.com
+0.0.0.0 ulog.ksapisrv.com
+0.0.0.0 ulog.kwai-pro.com
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 ulog1-us.kwai-pro.com
+0.0.0.0 ulog2-us.kwaipros.com
+0.0.0.0 ulogjs.ksapisrv.com
+0.0.0.0 ulogs1.ksapisrv.com
+0.0.0.0 ulogs2.ksapisrv.com
+0.0.0.0 wlog.ksapisrv.com
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 log.tiktokv.com
