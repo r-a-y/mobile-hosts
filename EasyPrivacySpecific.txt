@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 30 Apr 2025 02:06:27 +0000
+# Last converted - Sat, 03 May 2025 02:04:25 +0000
 #
 
 0.0.0.0 1win.com
@@ -86,6 +86,7 @@
 0.0.0.0 api-visitor-analytics.intercom.com
 0.0.0.0 api.takealot.com
 0.0.0.0 appanalysis.banggood.com
+0.0.0.0 asanalytics.booking.com
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b629.electronicdesign.com
@@ -526,6 +527,7 @@
 0.0.0.0 sstats.adobe.com
 0.0.0.0 st.sawlive.tv
 0.0.0.0 stan.xing.com
+0.0.0.0 stape.brascast.com
 0.0.0.0 stat.pubhtml5.com
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.turb.pw
@@ -695,6 +697,7 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wc.yahoodns.net
+0.0.0.0 web-perf.booking.com
 0.0.0.0 webapi.3cx.com
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 wh.ipaddress.com
