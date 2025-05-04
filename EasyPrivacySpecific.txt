@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 03 May 2025 02:04:25 +0000
+# Last converted - Sun, 04 May 2025 02:22:02 +0000
 #
 
 0.0.0.0 1win.com
@@ -353,6 +353,7 @@
 0.0.0.0 logs.hotstar.com
 0.0.0.0 logs.naukri.com
 0.0.0.0 logs.netflix.com
+0.0.0.0 logx-experimentation.iherb.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
