@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 04 May 2025 02:22:03 +0000
+# Last converted - Mon, 05 May 2025 02:16:45 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -390,6 +390,7 @@
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 eq.userneeds.com
 0.0.0.0 era.easyvoyage.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 errors.snackly.co
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etl.springbot.com
@@ -772,6 +773,7 @@
 0.0.0.0 rg-3tn.pages.dev
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rt.flix360.com
+0.0.0.0 rtb.prod.carbonatixaudio.com
 0.0.0.0 rtc.multiscreensite.com
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rum.azion.com
