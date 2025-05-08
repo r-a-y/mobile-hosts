@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 05 May 2025 02:16:45 +0000
+# Last converted - Thu, 08 May 2025 02:15:21 +0000
 #
 
 0.0.0.0 1win.com
@@ -360,6 +360,7 @@
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
+0.0.0.0 marketing.taskus.com
 0.0.0.0 marty.zappos.com
 0.0.0.0 mcc-tags.cisco.com
 0.0.0.0 mcs-ie.tiktokw.eu
