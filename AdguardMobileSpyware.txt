@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 06 May 2025 02:13:20 +0000
+# Last converted - Thu, 08 May 2025 02:15:17 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -565,7 +565,6 @@
 0.0.0.0 events.claspws.tv
 0.0.0.0 tracking-receiver.prod-general.stocard-backend.com
 0.0.0.0 metrics.happycolor.app
-0.0.0.0 digianalytics.airtel.in
 0.0.0.0 ad-creative.projectcarmen.com
 0.0.0.0 analytics.projectcarmen.com
 0.0.0.0 monitoring-sdk.experimentation.intuit.com
