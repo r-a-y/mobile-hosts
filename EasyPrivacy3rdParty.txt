@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 09 May 2025 02:14:08 +0000
+# Last converted - Sat, 10 May 2025 02:03:48 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -342,6 +342,7 @@
 0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csp.secureserver.net
 0.0.0.0 csr.onet.pl
+0.0.0.0 ct-errs.cartrawler.com
 0.0.0.0 ct.capterra.com
 0.0.0.0 ct.corpusapp.com
 0.0.0.0 ct.needlive.com
@@ -488,6 +489,7 @@
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geotags.refinery89.com
 0.0.0.0 gi-client-tracking.goodgamestudios.com
+0.0.0.0 globale-analytics-sdk.global-e.com
 0.0.0.0 go.activengage.com
 0.0.0.0 green-griffin-860.appspot.com
 0.0.0.0 gsp1.baidu.com
