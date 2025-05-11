@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 09 May 2025 02:14:03 +0000
+# Last converted - Sun, 11 May 2025 02:19:49 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -87,6 +87,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 legy-jp.line-apps.com
 0.0.0.0 rainmaker.production-public.tubi.io
 0.0.0.0 configure.rayjump.com
 0.0.0.0 v.kidoz.net
