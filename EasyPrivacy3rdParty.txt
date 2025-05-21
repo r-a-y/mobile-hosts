@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 20 May 2025 02:16:28 +0000
+# Last converted - Wed, 21 May 2025 02:16:02 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -42,6 +42,7 @@
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
 0.0.0.0 analytics-prd.aws.wehaa.net
 0.0.0.0 analytics-prod-alb-292764149.us-west-2.elb.amazonaws.com
 0.0.0.0 analytics-production.hapyak.com
