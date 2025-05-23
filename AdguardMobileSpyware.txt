@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 20 May 2025 18:28:09 +0100
+# Last converted - Fri, 23 May 2025 02:14:52 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -109,6 +109,14 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 app-tracking.hlogo.de
+0.0.0.0 px.wpk.quark.cn
+0.0.0.0 uc9.ucweb.com
+0.0.0.0 ucus.ucweb.com
+0.0.0.0 applog.lc.quark.cn
+0.0.0.0 track.lc.quark.cn
+0.0.0.0 log.m.sm.cn
+0.0.0.0 track.uc.cn
 0.0.0.0 track.adflow-prod.minionplatform.com
 0.0.0.0 t-odx.op-mobile.opera.com
 0.0.0.0 stat-analytics.mediavitrina.ru
@@ -705,7 +713,6 @@
 0.0.0.0 d.applvn.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rt.applovin.com
-0.0.0.0 track.uc.cn
 0.0.0.0 uc.ucweb.com
 0.0.0.0 puds.ucweb.com
 0.0.0.0 patriot.cs.pp.cn
