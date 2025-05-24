@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 23 May 2025 02:14:52 +0000
+# Last converted - Sat, 24 May 2025 02:05:13 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -109,6 +109,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 fp-it.fengkongcloud.com
+0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 app-tracking.hlogo.de
 0.0.0.0 px.wpk.quark.cn
 0.0.0.0 uc9.ucweb.com
@@ -198,11 +200,16 @@
 0.0.0.0 stats.samsungpass.com
 0.0.0.0 analytics.google.com
 0.0.0.0 log.pdfviewerscannerstore.live
+0.0.0.0 log-sg.capcutapi.com
+0.0.0.0 mon-sg.capcutapi.com
+0.0.0.0 tnc-sg.capcutapi.com
+0.0.0.0 tnc-boot.capcutapi.com
+0.0.0.0 tnc-va-us-looki.capcutapi.com
 0.0.0.0 mon-va-us-looki.capcutapi.com
+0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 metrics-prod.suno.com
 0.0.0.0 logs-ingress.svc.vinted.com
 0.0.0.0 analytics.baliusuperapp.xyz
-0.0.0.0 log-va-us-looki.capcutapi.com
 0.0.0.0 analytics.hardlightgames.com
 0.0.0.0 plankton-gtm.a.autoscout24.com
 0.0.0.0 pangle-b.io
@@ -533,6 +540,7 @@
 0.0.0.0 collector.vhx.tv
 0.0.0.0 analytics-server.gimbal.com
 0.0.0.0 log-tb.sgsnssdk.com
+0.0.0.0 rtlog.byteoversea.com
 0.0.0.0 xlog.byteoversea.com
 0.0.0.0 ug-sg.byteoversea.com
 0.0.0.0 tracking.aldi-international.com
