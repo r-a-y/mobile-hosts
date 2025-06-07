@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 05 Jun 2025 02:17:39 +0000
+# Last converted - Sat, 07 Jun 2025 02:16:05 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -125,6 +125,7 @@
 0.0.0.0 analytics.pointdrive.linkedin.com
 0.0.0.0 analytics.pop2watch.com
 0.0.0.0 analytics.prezly.com
+0.0.0.0 analytics.propensity.com
 0.0.0.0 analytics.pyksid.com
 0.0.0.0 analytics.qualityunit.com
 0.0.0.0 analytics.radiatemedia.com
@@ -412,6 +413,7 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.instiengage.com
+0.0.0.0 event.syftdata.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
 0.0.0.0 eventapi.libring.com
