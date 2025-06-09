@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Wed, 14 May 2025 02:14:24 +0000
+# Last converted - Mon, 09 Jun 2025 02:24:19 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -629,7 +629,6 @@
 0.0.0.0 api.fusepowered.com
 0.0.0.0 api.usebutton.com
 0.0.0.0 appclick.net
-0.0.0.0 appintop.com
 0.0.0.0 applifier.com
 0.0.0.0 applovin.com
 0.0.0.0 appnext-a.akamaihd.net
