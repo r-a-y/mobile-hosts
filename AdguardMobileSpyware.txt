@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 07 Jun 2025 02:16:00 +0000
+# Last converted - Tue, 10 Jun 2025 02:20:24 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -339,7 +339,6 @@
 0.0.0.0 ts.line-apps.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 events-api.soundcloud.com
-0.0.0.0 biddingmax.apse.trk.rixserv.com
 0.0.0.0 profiler-collector.wshareit.com
 0.0.0.0 receiver-metis.infeng.site
 0.0.0.0 dt.beyla.site
@@ -515,7 +514,6 @@
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 mgs123.com
 0.0.0.0 metrics.sp0n.io
-0.0.0.0 online-metrix.imars.cloud
 0.0.0.0 adtracker.jpchd.veraxen.com
 0.0.0.0 adtracker.oilpainting.colorbynumber.veraxen.com
 0.0.0.0 adtracker.mkjigsaw.com
@@ -591,7 +589,6 @@
 0.0.0.0 analytics.dns-shop.ru
 0.0.0.0 trk2.pinterest.com
 0.0.0.0 mobiletelemetry.ebay.com
-0.0.0.0 tracker.departapp.com
 0.0.0.0 us-tracking.nextdoor.com
 0.0.0.0 us-events.api.iheart.com
 0.0.0.0 notes-analytics-events.apple.com
@@ -601,7 +598,6 @@
 0.0.0.0 v-collector.dp.aws.charter.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 metrics.claspws.tv
-0.0.0.0 logs.gaaana.com
 0.0.0.0 sdk-log-inter.youdao.com
 0.0.0.0 sensors.snappea.com
 0.0.0.0 analytics.snaptube.app
@@ -790,7 +786,6 @@
 0.0.0.0 installtracker.com
 0.0.0.0 krxd.net
 0.0.0.0 lepodownload.mediatek.com
-0.0.0.0 lhzbdvm.com
 0.0.0.0 log.droid4x.cn
 0.0.0.0 log.umsns.com
 0.0.0.0 lp4.io
