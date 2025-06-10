@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Mon, 09 Jun 2025 02:24:19 +0000
+# Last converted - Tue, 10 Jun 2025 02:20:24 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -165,7 +165,6 @@
 0.0.0.0 v16-ad.byteoversea.com
 0.0.0.0 psvpromo.psvgamestudio.com
 0.0.0.0 static.timetreeads.com
-0.0.0.0 kfvjdvjzhddhc.com
 0.0.0.0 zgzxs.weathercn.com
 0.0.0.0 downloadshi.b-cdn.net
 0.0.0.0 ads.rmbl.ws
@@ -184,11 +183,9 @@
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 cmshow.gtimg.cn
 0.0.0.0 projecta-common-1258344701.file.myqcloud.com
-0.0.0.0 adrouter-charter-vod.cadenttech.tv
 0.0.0.0 ads-sdk.nianticlabs.com
 0.0.0.0 ad.mediamixer.co.kr
 0.0.0.0 adfork.co.kr
-0.0.0.0 92by17snes4.cc
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 open.e.kuaishou.cn
 0.0.0.0 open.e.kuaishou.com
@@ -208,14 +205,8 @@
 0.0.0.0 naverpa-phinf.pstatic.net
 0.0.0.0 tivan.naver.com
 0.0.0.0 veta.naver.com
-0.0.0.0 leadc6.icu
 0.0.0.0 pangolin16.sgsnssdk.com
 0.0.0.0 ads.adadapted.com
-0.0.0.0 zflylg.buzz
-0.0.0.0 zflfoy.xyz
-0.0.0.0 zfkjrm.xyz
-0.0.0.0 zflfoy.buzz
-0.0.0.0 zfehvv.xyz
 0.0.0.0 mtag.mman.kr
 0.0.0.0 hybird.rayjump.com
 0.0.0.0 anythinktech.com
@@ -242,7 +233,6 @@
 0.0.0.0 mxaserver.mxplay.com
 0.0.0.0 contextualadv.com
 0.0.0.0 tk0x1.com
-0.0.0.0 itdsmr.com
 0.0.0.0 displayio.cloud
 0.0.0.0 external-api.impression-neo.naver.com
 0.0.0.0 sdkv2.imaginationunwired.com
@@ -264,7 +254,6 @@
 0.0.0.0 ad.nvdvr.cn
 0.0.0.0 krt.asycxtz.cn
 0.0.0.0 erg.ihclam.cn
-0.0.0.0 hnl.ijgocb.cn
 0.0.0.0 ob.leap.app
 0.0.0.0 qist.me
 0.0.0.0 ads-gdl.imovideo.ru
@@ -276,11 +265,9 @@
 0.0.0.0 adx-dre.op.hicloud.com
 0.0.0.0 amanad.adtdp.com
 0.0.0.0 ad.sxp.smartclip.net
-0.0.0.0 amazonclix.com
 0.0.0.0 api.itpub.cloud
 0.0.0.0 adv-front.devpnd.com
 0.0.0.0 mintegral.com
-0.0.0.0 x-eu.64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
 0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 alt-ad.mail.ru
 0.0.0.0 chavoads.com
@@ -462,7 +449,6 @@
 0.0.0.0 chartboosts.com
 0.0.0.0 mobpowertech.com
 0.0.0.0 ap.smardroid.com
-0.0.0.0 api.ampiri.com
 0.0.0.0 splicky.com
 0.0.0.0 cdn.batmobi.net
 0.0.0.0 adn.insight.ucweb.com
@@ -477,7 +463,6 @@
 0.0.0.0 oconner.biz
 0.0.0.0 et-code.ru
 0.0.0.0 gynax.com
-0.0.0.0 avazunativeads.com
 0.0.0.0 api.ad-locus.com
 0.0.0.0 023hysj.com
 0.0.0.0 lxqcgj.com
@@ -525,7 +510,6 @@
 0.0.0.0 admarvel.com
 0.0.0.0 mopub-win-us-east.bksn.se
 0.0.0.0 nativead.s3.amazonaws.com
-0.0.0.0 eu-ad.sam4m.com
 0.0.0.0 c2i.startappnetwork.com
 0.0.0.0 c2s.startappnetwork.com
 0.0.0.0 apptornado.com
@@ -569,7 +553,6 @@
 0.0.0.0 adhitzads.com
 0.0.0.0 adhood.com
 0.0.0.0 adinfo.tango.me
-0.0.0.0 adinfuse.com
 0.0.0.0 adition.com
 0.0.0.0 adkmob.com
 0.0.0.0 adleads.com
@@ -591,7 +574,6 @@
 0.0.0.0 adquota.com
 0.0.0.0 ads.ad2iction.com
 0.0.0.0 ads.aerserv.com
-0.0.0.0 ads.mobilefuse.net
 0.0.0.0 ads.mobilityware.com
 0.0.0.0 ads.mobvertising.net
 0.0.0.0 ads.mopub.com
@@ -608,7 +590,6 @@
 0.0.0.0 adsmo.ru
 0.0.0.0 adsmoloco.com
 0.0.0.0 adsniper.ru
-0.0.0.0 adsrvmedia.net
 0.0.0.0 adsrvr.org
 0.0.0.0 adtech.de
 0.0.0.0 adtilt.com
@@ -634,7 +615,6 @@
 0.0.0.0 appnext-a.akamaihd.net
 0.0.0.0 appsdt.com
 0.0.0.0 appserver-ap.com
-0.0.0.0 appserver-cp.com
 0.0.0.0 appshelf.ttpsdk.info
 0.0.0.0 appwall.tv2phone.cn
 0.0.0.0 as.adfonic.net
@@ -666,7 +646,6 @@
 0.0.0.0 cashprom.ru
 0.0.0.0 cdn-image.com
 0.0.0.0 celtra.com
-0.0.0.0 ceppartner.com
 0.0.0.0 cf-ads.pinger.com
 0.0.0.0 chango.com
 0.0.0.0 chartboost.com
@@ -690,7 +669,6 @@
 0.0.0.0 e.qq.com
 0.0.0.0 eltrafiko.com
 0.0.0.0 emediate.eu
-0.0.0.0 emediate.se
 0.0.0.0 epom.com
 0.0.0.0 etargetnet.com
 0.0.0.0 exponential.com
@@ -744,7 +722,6 @@
 0.0.0.0 leanplum.com
 0.0.0.0 mad.mobisky.pl
 0.0.0.0 madnet.ru
-0.0.0.0 mads.bz
 0.0.0.0 manage.com
 0.0.0.0 mbn.com.ua
 0.0.0.0 medialand.ru
@@ -753,14 +730,11 @@
 0.0.0.0 mgage.com
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mixadvert.com
-0.0.0.0 mixmarket.biz
 0.0.0.0 moba8.net
 0.0.0.0 mobads.baidu.com
-0.0.0.0 mobads4app.com
 0.0.0.0 mobclix.com
 0.0.0.0 mobfox.com
 0.0.0.0 mobiads.ru
-0.0.0.0 mobile333.com
 0.0.0.0 mobilecore.com
 0.0.0.0 mobiledl.adboe.com
 0.0.0.0 mofox.com
@@ -778,7 +752,6 @@
 0.0.0.0 networld.hk
 0.0.0.0 newsnet.in.ua
 0.0.0.0 nexac.com
-0.0.0.0 nomalleadzuaff.com
 0.0.0.0 novostimira.biz
 0.0.0.0 numbers.md
 0.0.0.0 os.scmpacdn.com
@@ -794,7 +767,6 @@
 0.0.0.0 pubnative.net
 0.0.0.0 questionmarket.com
 0.0.0.0 revcontent.com
-0.0.0.0 richpays.com
 0.0.0.0 rotaban.ru
 0.0.0.0 saymedia.com
 0.0.0.0 scorecardresearch.com
@@ -827,7 +799,6 @@
 0.0.0.0 tappx.com
 0.0.0.0 tapsense.com
 0.0.0.0 targetspot.com
-0.0.0.0 telemetryverification.net
 0.0.0.0 thetrafficstat.net
 0.0.0.0 tizerclik.com
 0.0.0.0 tm1.hoiplay.com
@@ -836,7 +807,6 @@
 0.0.0.0 trackimpression.com
 0.0.0.0 tracking.applift.com
 0.0.0.0 tradeadexchange.com
-0.0.0.0 traff10wap.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trafmag.com
 0.0.0.0 traktum.com
@@ -881,7 +851,6 @@
 0.0.0.0 bd2.guancha.cn
 0.0.0.0 alicdn.com
 0.0.0.0 blog-sokuhou.com
-0.0.0.0 m.flowcodeapp.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 api.plyair.com
