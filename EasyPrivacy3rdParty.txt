@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 09 Jun 2025 02:24:23 +0000
+# Last converted - Thu, 12 Jun 2025 02:17:59 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -49,6 +49,7 @@
 0.0.0.0 analytics-scripts.cablelabs.com
 0.0.0.0 analytics-sg.tiktok.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics.adobe.io
 0.0.0.0 analytics.agoda.com
