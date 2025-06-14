@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 12 Jun 2025 02:17:54 +0000
+# Last converted - Sat, 14 Jun 2025 02:14:30 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -439,6 +439,7 @@
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 log.estand.jp
 0.0.0.0 event-search.jorte.com
+0.0.0.0 sdk-log-upload-os.hoyoverse.com
 0.0.0.0 ad-log-upload-os.hoyoverse.com
 0.0.0.0 apm-log-upload-os.hoyoverse.com
 0.0.0.0 devlog-upload-os.hoyoverse.com
@@ -749,8 +750,6 @@
 0.0.0.0 analytics.mobile.yandex.net
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 andmlb.kshwtj.com
-0.0.0.0 api-analytics-bootstrap.metaps.com
-0.0.0.0 api-analytics.metaps.com
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.analytics.omgpop.com
 0.0.0.0 api.apptentive.com
