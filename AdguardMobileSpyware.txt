@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 14 Jun 2025 02:14:30 +0000
+# Last converted - Tue, 17 Jun 2025 02:20:02 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -104,6 +104,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 rtc-logger.bytevcloud.com
+0.0.0.0 gpm-mon-va.byteoversea.com
+0.0.0.0 logs-sg.rebxgame.com
+0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 data-detect.nie.easebar.com
 0.0.0.0 urbanairship.com
 0.0.0.0 hz-telemetry.adobe.io
@@ -319,7 +323,6 @@
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 log.espn.com
 0.0.0.0 sia.internet.apps.samsung.com
-0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 r.apkpure.net
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 track-resource.bidease.com
