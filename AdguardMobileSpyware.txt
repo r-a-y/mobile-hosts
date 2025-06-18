@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 17 Jun 2025 02:20:02 +0000
+# Last converted - Wed, 18 Jun 2025 02:18:56 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -104,6 +104,12 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 ads-img-al.xhscdn.com
+0.0.0.0 apm-native.xiaohongshu.com
+0.0.0.0 apm-fe.xiaohongshu.com
+0.0.0.0 apm-track.xiaohongshu.com
+0.0.0.0 edith.xiaohongshu.com
+0.0.0.0 edith-seb.xiaohongshu.com
 0.0.0.0 rtc-logger.bytevcloud.com
 0.0.0.0 gpm-mon-va.byteoversea.com
 0.0.0.0 logs-sg.rebxgame.com
