@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 11 Jun 2025 02:19:24 +0000
+# Last converted - Sun, 22 Jun 2025 02:29:12 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -367,6 +367,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logx-experimentation.iherb.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 love.vidora.su
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
@@ -693,6 +694,7 @@
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
+0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 unl1zvy2zuyn.franchiseplus.nl
 0.0.0.0 urs.metacritic.com
