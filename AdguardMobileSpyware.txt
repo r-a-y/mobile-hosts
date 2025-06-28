@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 19 Jun 2025 02:19:53 +0000
+# Last converted - Sat, 28 Jun 2025 02:16:54 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -500,7 +500,6 @@
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 t.castle.io
 0.0.0.0 bs.nakanohito.jp
-0.0.0.0 log1.happymod.com
 0.0.0.0 log.pvpgang.com
 0.0.0.0 crs-event.line.me
 0.0.0.0 crs-hometab-event.line.me
