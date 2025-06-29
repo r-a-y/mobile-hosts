@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 28 Jun 2025 02:16:54 +0000
+# Last converted - Sun, 29 Jun 2025 02:31:50 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -797,7 +797,6 @@
 0.0.0.0 installtracker.com
 0.0.0.0 krxd.net
 0.0.0.0 lepodownload.mediatek.com
-0.0.0.0 log.droid4x.cn
 0.0.0.0 log.umsns.com
 0.0.0.0 lp4.io
 0.0.0.0 metrics.adflake.com
@@ -806,9 +805,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobilelog.upqzfile.com
 0.0.0.0 ms.cmcm.com
-0.0.0.0 mtlog.droid4x.cn
 0.0.0.0 nativesdks.mparticle.com
-0.0.0.0 nlog.droid4x.cn
 0.0.0.0 nrc.tapas.net
 0.0.0.0 online-metrix.net
 0.0.0.0 openstat.net
