@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Thu, 19 Jun 2025 02:19:53 +0000
+# Last converted - Tue, 01 Jul 2025 02:33:13 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -463,7 +463,6 @@
 0.0.0.0 api.ad-locus.com
 0.0.0.0 023hysj.com
 0.0.0.0 lxqcgj.com
-0.0.0.0 inclk.com
 0.0.0.0 betsonsport.ru
 0.0.0.0 holder.com.ua
 0.0.0.0 crosspromotion-us.avosapps.us
@@ -521,7 +520,6 @@
 0.0.0.0 1mp.mobi
 0.0.0.0 247realmedia.com
 0.0.0.0 360yield.com
-0.0.0.0 a2dfp.net
 0.0.0.0 abnad.net
 0.0.0.0 abtest.swrve.com
 0.0.0.0 ad-brix.com
