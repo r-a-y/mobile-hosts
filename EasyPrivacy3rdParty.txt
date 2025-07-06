@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 04 Jul 2025 02:20:13 +0000
+# Last converted - Sun, 06 Jul 2025 02:30:31 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -604,6 +604,7 @@
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
 0.0.0.0 logs.animaapp.com
+0.0.0.0 logs.dynamicauth.com
 0.0.0.0 logs.mezmo.com
 0.0.0.0 logs.spilgames.com
 0.0.0.0 lucid.mjhassoc.com
