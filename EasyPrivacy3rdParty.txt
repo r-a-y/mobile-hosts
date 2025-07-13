@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 11 Jul 2025 02:26:29 +0000
+# Last converted - Sun, 13 Jul 2025 02:35:31 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -355,6 +355,8 @@
 0.0.0.0 ct.needlive.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 curated.fieldtest.cc
+0.0.0.0 customers.edgetag.io
+0.0.0.0 customers.xray-superpixel.com
 0.0.0.0 customfingerprints.bablosoft.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 d.rcmd.jp
@@ -465,6 +467,8 @@
 0.0.0.0 experience.contextly.com
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
+0.0.0.0 fallback.attntags.com
+0.0.0.0 fallback.emtag.net
 0.0.0.0 fcmatch.google.com
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fgip.rosehosting.com
