@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 13 Jul 2025 02:35:31 +0000
+# Last converted - Mon, 14 Jul 2025 02:31:05 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -32,6 +32,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams-pageview-public.s3.amazonaws.com
 0.0.0.0 analyse.bcovery.com
+0.0.0.0 analytic-client.blitzmightyparty.com
 0.0.0.0 analytic-client.chickgoddess.com
 0.0.0.0 analytic-client.panowars.com
 0.0.0.0 analytic.rollout.io
@@ -807,6 +808,7 @@
 0.0.0.0 rtb.prod.carbonatixaudio.com
 0.0.0.0 rtc.multiscreensite.com
 0.0.0.0 rtxpx-a.akamaihd.net
+0.0.0.0 rudder-tracking.rudderstack.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
 0.0.0.0 rum.corewebvitals.io
