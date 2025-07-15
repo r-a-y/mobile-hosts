@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 14 Jul 2025 02:31:05 +0000
+# Last converted - Tue, 15 Jul 2025 02:30:08 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -376,6 +376,7 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 datadog-service.mvfglobal.com
 0.0.0.0 dcinfos-cache.abtasty.com
+0.0.0.0 dd.garena.com
 0.0.0.0 dep.hmgroup.com
 0.0.0.0 dfanalytics.dealerfire.com
 0.0.0.0 dgcollector.evidon.com
@@ -466,6 +467,7 @@
 0.0.0.0 evt.collarity.com
 0.0.0.0 evt.houzz.com
 0.0.0.0 experience.contextly.com
+0.0.0.0 experiments.parsely.com
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-test.grammarly.io
 0.0.0.0 fallback.attntags.com
@@ -1031,6 +1033,7 @@
 0.0.0.0 to.getnitropack.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpx.tesseradigital.com
+0.0.0.0 tr-experiments.parsely.com
 0.0.0.0 tr-op.datatrics.com
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 tr.datatrics.com
