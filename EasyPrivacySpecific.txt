@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 17 Jul 2025 02:27:41 +0000
+# Last converted - Fri, 18 Jul 2025 02:29:10 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -60,6 +60,7 @@
 0.0.0.0 analytics.inquisitr.com
 0.0.0.0 analytics.kaggle.io
 0.0.0.0 analytics.komiku.org
+0.0.0.0 analytics.kurocore.com
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.maxroll.gg
 0.0.0.0 analytics.ml.homedepot.ca
