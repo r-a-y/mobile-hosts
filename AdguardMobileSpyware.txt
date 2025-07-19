@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 10 Jul 2025 02:23:19 +0000
+# Last converted - Sat, 19 Jul 2025 02:22:47 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -104,6 +104,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 stat.tpns.sgp.tencent.com
+0.0.0.0 guid.tpns.sgp.tencent.com
+0.0.0.0 xgdata.xoyo.games
 0.0.0.0 tr6.snapchat.com
 0.0.0.0 usstat.icocofun.com
 0.0.0.0 usdiagnosis.icocofun.com
