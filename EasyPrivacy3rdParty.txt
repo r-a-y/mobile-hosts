@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 28 Jul 2025 02:35:50 +0000
+# Last converted - Tue, 29 Jul 2025 02:40:47 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -170,6 +170,7 @@
 0.0.0.0 analytics.yola.net
 0.0.0.0 analytics.yolacdn.net
 0.0.0.0 analytics.yollamedia.com
+0.0.0.0 analytics.yyggames.com
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analyticsehnwe.servicebus.windows.net
@@ -254,6 +255,7 @@
 0.0.0.0 cc.swiftype.com
 0.0.0.0 ccexperimentsstatic.oracleoutsourcing.com
 0.0.0.0 cdn-channels-pixel.ex.co
+0.0.0.0 cdn-eu.usefathom.com
 0.0.0.0 cdn.polarbyte.com
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.usefathom.com
