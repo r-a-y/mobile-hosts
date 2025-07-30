@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Sat, 12 Jul 2025 02:26:27 +0000
+# Last converted - Wed, 30 Jul 2025 02:32:05 +0000
 #
 
 0.0.0.0 adx-open-service.youku.com
@@ -87,6 +87,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 mp-api.afafb.com
+0.0.0.0 zmqdez.ru
 0.0.0.0 tr.acobt.tech
 0.0.0.0 promotion.xmeye.net
 0.0.0.0 promotion-en.xmeye.net
@@ -175,7 +177,6 @@
 0.0.0.0 adsassets-ipv6.waze.com
 0.0.0.0 iads.unity3d.com
 0.0.0.0 togothermany.com
-0.0.0.0 gdl.zmqdez.ru
 0.0.0.0 rtblab.net
 0.0.0.0 lacunads.com
 0.0.0.0 ruuaqkw.com
