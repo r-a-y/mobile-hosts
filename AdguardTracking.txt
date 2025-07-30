@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 29 Jul 2025 02:40:46 +0000
+# Last converted - Wed, 30 Jul 2025 02:32:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -58083,6 +58083,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 aem-kakao-collector.onkakao.net
+0.0.0.0 slc.commerce.naver.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 nlog.shinhan.com
 0.0.0.0 cdn.js.fpaudience.com
@@ -58609,7 +58611,6 @@
 0.0.0.0 track.amebame.com
 0.0.0.0 pks-analytics.raenonx.cc
 0.0.0.0 pyxis.atp.fox
-0.0.0.0 collector.appconsent.io
 0.0.0.0 r.sib2.gardrops.com
 0.0.0.0 nst.trex.media
 0.0.0.0 pixel.kodixauto.ru
@@ -101419,7 +101420,6 @@
 0.0.0.0 zmail.happycustomer.io
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 firebaselogging-pa.googleapis.com
-0.0.0.0 aem-kakao-collector.onkakao.net
 0.0.0.0 web-perf.booking.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 nlog.naver.com
@@ -101702,6 +101702,12 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 gamedot.afafb.com
+0.0.0.0 tadata.afafb.com
+0.0.0.0 ecpm.afafb.com
+0.0.0.0 mediation-receiver.afafb.com
+0.0.0.0 df.afafb.com
+0.0.0.0 middle-defend.afafb.com
 0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 stat.tpns.sgp.tencent.com
 0.0.0.0 guid.tpns.sgp.tencent.com
