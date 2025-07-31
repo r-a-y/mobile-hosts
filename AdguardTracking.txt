@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 30 Jul 2025 02:32:08 +0000
+# Last converted - Thu, 31 Jul 2025 02:31:05 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,7 +11,6 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
-0.0.0.0 usefathom.com
 0.0.0.0 analytics.yyggames.com
 0.0.0.0 attribution.airbridge.io
 0.0.0.0 event.airbridge.io
@@ -663,6 +662,7 @@
 0.0.0.0 track.storm.mg
 0.0.0.0 track.unidata.ai
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 track.bentonow.com
 0.0.0.0 lightstep.medium.systems
 0.0.0.0 cyberanalytics.nl
 0.0.0.0 analytics.test.cheggnet.com
@@ -24655,6 +24655,7 @@
 0.0.0.0 yak.flutterblog.net
 0.0.0.0 39grbc.jackbarber.co.uk
 0.0.0.0 7wrxo2xh.iriscreative.co
+0.0.0.0 8inhjmd.usefathom.com
 0.0.0.0 9kz9cttz76.antonsten.com
 0.0.0.0 aardvark.revolana.rs
 0.0.0.0 aardvark.steadybit.com
@@ -25152,6 +25153,7 @@
 0.0.0.0 sparrow.uitvaartzorg-vanraemdonck.be
 0.0.0.0 spider.hoomie.online
 0.0.0.0 spoonbill.mumblebox.com
+0.0.0.0 starman.usefathom.com
 0.0.0.0 stingray.codecoolture.com
 0.0.0.0 stingray.communityally.org
 0.0.0.0 stingray.danielzoller.com
@@ -58083,6 +58085,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 aws-analytics.nmg.com.hk
+0.0.0.0 eu.usefathom.com
+0.0.0.0 analytics.webanalytics.op.europa.eu
 0.0.0.0 aem-kakao-collector.onkakao.net
 0.0.0.0 slc.commerce.naver.com
 0.0.0.0 a.klaviyo.com
@@ -59538,6 +59543,7 @@
 0.0.0.0 cdn.contalyze.com
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn-eu.usefathom.com
 0.0.0.0 cdnstats-a.akamaihd.net
 0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 check.tadapi.info
