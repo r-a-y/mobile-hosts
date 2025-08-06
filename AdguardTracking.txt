@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 05 Aug 2025 02:34:47 +0000
+# Last converted - Wed, 06 Aug 2025 02:32:55 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 alexametrics.com
 0.0.0.0 analytics.yyggames.com
 0.0.0.0 attribution.airbridge.io
 0.0.0.0 event.airbridge.io
@@ -49,7 +50,6 @@
 0.0.0.0 stapecdn.com
 0.0.0.0 jollyoutdoorjogger.com
 0.0.0.0 ob.esnlocco.com
-0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 transaction-watcher-2.littledata.io
 0.0.0.0 mirabelanalytics.com
 0.0.0.0 upstackified.com
@@ -60531,6 +60531,18 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
+0.0.0.0 mp.cwtv.com
+0.0.0.0 logapi.sooplive.com
+0.0.0.0 log-api.sooplive.com
+0.0.0.0 telemetry.proton.me
+0.0.0.0 analytics.tempmail100.com
+0.0.0.0 telemetry.sgp.pvp.net
+0.0.0.0 copilot-telemetry.githubusercontent.com
+0.0.0.0 metrics.kapa.ai
+0.0.0.0 analytics.org.coveo.com
+0.0.0.0 analytics.zdassets.com
+0.0.0.0 analytics.flexclip.com
 0.0.0.0 iws2.io.naver.com
 0.0.0.0 clog.tanshudata.com
 0.0.0.0 gw.stape.fr
@@ -97215,6 +97227,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
 0.0.0.0 statistic-overseas.yunxinfw.com
