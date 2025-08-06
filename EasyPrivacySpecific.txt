@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 04 Aug 2025 02:41:36 +0000
+# Last converted - Wed, 06 Aug 2025 02:32:56 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -639,6 +639,7 @@
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.canva.com
 0.0.0.0 telemetry.firez.one
+0.0.0.0 telemetry.proton.me
 0.0.0.0 telemetry.stytch.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tgt.maep.ibm.com
