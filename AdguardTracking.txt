@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 06 Aug 2025 02:32:55 +0000
+# Last converted - Fri, 08 Aug 2025 02:32:49 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 log.trend.rankify.best
 0.0.0.0 alexametrics.com
 0.0.0.0 analytics.yyggames.com
 0.0.0.0 attribution.airbridge.io
@@ -60531,6 +60532,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 targetyo.yogiyo.co.kr
 0.0.0.0 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
 0.0.0.0 mp.cwtv.com
 0.0.0.0 logapi.sooplive.com
@@ -97503,7 +97505,6 @@
 0.0.0.0 esa-reg-eup.myoppo.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
-0.0.0.0 httpdns-push.heytapmobile.com
 0.0.0.0 omes-sec.heytapmobile.com
 0.0.0.0 moa-upload-online.coloros.com
 0.0.0.0 stat-in.dc.oppomobile.com
