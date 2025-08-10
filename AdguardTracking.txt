@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 08 Aug 2025 02:32:49 +0000
+# Last converted - Sun, 10 Aug 2025 02:37:02 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -60739,7 +60739,6 @@
 0.0.0.0 db7q4jg5rkhk8.cloudfront.net
 0.0.0.0 backend-pixel.zotek.io
 0.0.0.0 rudr-events.joybird.com
-0.0.0.0 dns-clientinfo.vtg.paramount.tech
 0.0.0.0 monitor.r53.cbsivideo.com
 0.0.0.0 monitor.ns1-s.rspcdn.net
 0.0.0.0 monitor.ns1-d.viacomtech.net
