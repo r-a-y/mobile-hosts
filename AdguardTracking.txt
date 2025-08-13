@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 12 Aug 2025 02:19:43 +0000
+# Last converted - Wed, 13 Aug 2025 02:21:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 consolidata.ai
 0.0.0.0 log.trend.rankify.best
 0.0.0.0 alexametrics.com
 0.0.0.0 analytics.yyggames.com
@@ -58828,6 +58829,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 dsp.newsbreak.com
+0.0.0.0 a.wb.ru
+0.0.0.0 stats.vidalytics.com
 0.0.0.0 ts-analysis.shoalter.com
 0.0.0.0 targetyo.yogiyo.co.kr
 0.0.0.0 wphlvzycf5.execute-api.eu-west-2.amazonaws.com
@@ -98569,6 +98573,11 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 adash-emas.cn-hangzhou.aliyuncs.com
+0.0.0.0 dfe.mic.mob.com
+0.0.0.0 dutils.com
+0.0.0.0 openlog.tapapis.cn
+0.0.0.0 log.aliyuncs.com
 0.0.0.0 analytics.nianticspatial.com
 0.0.0.0 statistical-report.djiservice.org
 0.0.0.0 qcloud-sg-datareceiver.kurogame.xyz
@@ -99880,6 +99889,7 @@
 0.0.0.0 fairygaze.com
 0.0.0.0 fairytaleflame.com
 0.0.0.0 faithrowold.com
+0.0.0.0 fakedisguise.com
 0.0.0.0 fallaciousfifth.com
 0.0.0.0 falseframe.com
 0.0.0.0 falsesight.com
@@ -100097,6 +100107,7 @@
 0.0.0.0 hikingbars.com
 0.0.0.0 hilariouszinc.com
 0.0.0.0 historicalbeam.com
+0.0.0.0 historytrade.com
 0.0.0.0 hocgeese.com
 0.0.0.0 hollowafterthought.com
 0.0.0.0 homebizplaza.com
@@ -100322,6 +100333,7 @@
 0.0.0.0 mimosamajor.com
 0.0.0.0 mindfulgem.com
 0.0.0.0 mindlessmark.com
+0.0.0.0 mineinvoice.com
 0.0.0.0 minorcattle.com
 0.0.0.0 minuteburst.com
 0.0.0.0 miscreantmoon.com
