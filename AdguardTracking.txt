@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 15 Aug 2025 02:22:47 +0000
+# Last converted - Sat, 16 Aug 2025 02:16:40 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics-api.gemcommerce.com
+0.0.0.0 slgnt.eu
+0.0.0.0 slgnt.us
 0.0.0.0 consolidata.ai
 0.0.0.0 log.trend.rankify.best
 0.0.0.0 alexametrics.com
@@ -60433,6 +60436,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.cosmopolitanmag.com.tr
 0.0.0.0 clck.edadeal.ru
 0.0.0.0 analytics-cdn.levante-emv.com
 0.0.0.0 analytics-cdn.prensaiberica.es
@@ -61425,7 +61429,6 @@
 0.0.0.0 dsas.danawa.com
 0.0.0.0 t.apkpure.net
 0.0.0.0 weblog.woowa.in
-0.0.0.0 site-azp.slgnt.eu
 0.0.0.0 pra.praxis.nl
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 visit.xchina.pics
@@ -62391,7 +62394,6 @@
 0.0.0.0 mms.splinternews.com
 0.0.0.0 mms.syracuse.com
 0.0.0.0 mms.theroot.com
-0.0.0.0 mobile.slgnt.eu
 0.0.0.0 momowa.momoshop.com.tw
 0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 monitoring.youronlinechoices.com
@@ -100400,6 +100402,7 @@
 0.0.0.0 humdrumtouch.com
 0.0.0.0 humourspot.com
 0.0.0.0 hurtgrape.com
+0.0.0.0 hustlercoach.com
 0.0.0.0 hydraconcept.com
 0.0.0.0 hyperlegend.com
 0.0.0.0 hypnoticwound.com
@@ -100480,6 +100483,7 @@
 0.0.0.0 lackadaisicalkite.com
 0.0.0.0 lameletters.com
 0.0.0.0 lamplow.com
+0.0.0.0 landkarts.com
 0.0.0.0 landlordspy.com
 0.0.0.0 landwestern.com
 0.0.0.0 largebrass.com
