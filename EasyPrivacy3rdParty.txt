@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 15 Aug 2025 02:22:47 +0000
+# Last converted - Sat, 16 Aug 2025 02:16:41 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -39,6 +39,7 @@
 0.0.0.0 analyticcdn.globalmailer.com
 0.0.0.0 analyticcdn.wlmediahub.com
 0.0.0.0 analytics-1.cavai.com
+0.0.0.0 analytics-api.gemcommerce.com
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analytics-cf.bigcrunch.com
 0.0.0.0 analytics-cms.whitebeard.me
@@ -1258,6 +1259,7 @@
 0.0.0.0 ws.audioeye.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 wsmcdn.audioeye.com
+0.0.0.0 wstats.ageverif.com
 0.0.0.0 wstats.slashed.cloud
 0.0.0.0 wt.viagogo.net
 0.0.0.0 wtb-tag.swaven.com
