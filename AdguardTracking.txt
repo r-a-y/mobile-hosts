@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 19 Aug 2025 02:14:45 +0000
+# Last converted - Wed, 20 Aug 2025 02:07:10 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 ub-analytics.com
+0.0.0.0 t.usermaven.com
+0.0.0.0 onetag.co.kr
 0.0.0.0 hm2wjuuus3.execute-api.ap-northeast-1.amazonaws.com
 0.0.0.0 tag.eisa.mercari.com
 0.0.0.0 logr-ingest.com
@@ -63414,6 +63417,12 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 gtmserverside.eluniversal.com.mx
+0.0.0.0 ym-tack.b-cdn.net
+0.0.0.0 icu.newsroom.bi
+0.0.0.0 data.ds.dumont.de
+0.0.0.0 sta-events.swishapps.ai
+0.0.0.0 pro-1w-dataaggregator.onelouder.com
 0.0.0.0 mllog.jd.com
 0.0.0.0 count.shein.com
 0.0.0.0 analytics.cosmopolitanmag.com.tr
@@ -99313,6 +99322,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 beacons.ads.fubo.tv
 0.0.0.0 s3-ca-liveops.easybrain.com
 0.0.0.0 trackers.fubo.tv
 0.0.0.0 beacons-prod.fubo.tv
@@ -100887,6 +100897,7 @@
 0.0.0.0 j93557g.com
 0.0.0.0 jaderooster.com
 0.0.0.0 jailbulb.com
+0.0.0.0 jamexport.com
 0.0.0.0 jazzstadium.com
 0.0.0.0 jazzwholesale.com
 0.0.0.0 jetskiscovers.com
