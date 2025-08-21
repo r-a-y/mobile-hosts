@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 20 Aug 2025 02:07:10 +0000
+# Last converted - Thu, 21 Aug 2025 02:05:47 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 collect.adplogger.no
+0.0.0.0 lwadm.com
+0.0.0.0 smct.co
 0.0.0.0 ub-analytics.com
 0.0.0.0 t.usermaven.com
 0.0.0.0 onetag.co.kr
@@ -973,6 +976,7 @@
 0.0.0.0 actonsoftware.com
 0.0.0.0 pv.datacaciques.com
 0.0.0.0 gate.datacaciques.com
+0.0.0.0 dwin1.com
 0.0.0.0 t.flix360.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 fout.jp
@@ -24155,6 +24159,32 @@
 0.0.0.0 zvbqya.marideal.mu
 0.0.0.0 oixufs.petlife.co.kr
 0.0.0.0 wtbwur.cobasi.com.br
+0.0.0.0 amtvgfz.veneera.de
+0.0.0.0 bpftoyh.chamelo.com
+0.0.0.0 bzljqlx.elietahari.com
+0.0.0.0 cdskjrg.giliarto.com
+0.0.0.0 cpsmbor.ensorings.com
+0.0.0.0 czirtyk.sugarmesmooth.com
+0.0.0.0 edczrfj.veneera.com
+0.0.0.0 gofqpma.kimkimblehair.com
+0.0.0.0 gslclvw.lackorecouture.com
+0.0.0.0 hnvrprl.getmainelobster.com
+0.0.0.0 lumhdco.mykitsch.com
+0.0.0.0 msnpurf.themjewelersny.com
+0.0.0.0 pmpbzjp.everydaydose.com
+0.0.0.0 qqguqdw.veneera.nl
+0.0.0.0 rmxmtsg.wowe.me
+0.0.0.0 rulrdow.solawave.co
+0.0.0.0 rwlywoe.keepnaturewild.com
+0.0.0.0 tzfgzgo.quickservicepanama.com
+0.0.0.0 ucscaik.gardencup.com
+0.0.0.0 ujyloty.kingofchristmas.com
+0.0.0.0 untrhhc.veneera.co.uk
+0.0.0.0 uqnnvhk.ericjavits.com
+0.0.0.0 wioaavu.enkay.com
+0.0.0.0 wpdlphr.khoj.city
+0.0.0.0 xjoipse.vivarawpets.com
+0.0.0.0 zzmknba.maupets.com
 0.0.0.0 11b6n4ty2x3.taxliencode.com
 0.0.0.0 13js1lbtbj3.sparkloop.app
 0.0.0.0 16i6nuuc2ej.koelewijn.nl
@@ -39104,6 +39134,53 @@
 0.0.0.0 fpa-events.decrypt.co
 0.0.0.0 fpa-events.newsweek.com
 0.0.0.0 fpa-events.slate.com
+0.0.0.0 a.relayto.com
+0.0.0.0 a.uwhealth.org
+0.0.0.0 analysis.sozialversicherung.at
+0.0.0.0 analytics.akvo.org
+0.0.0.0 analytics.arz.at
+0.0.0.0 analytics.dx.ohio.gov
+0.0.0.0 analytics.effectory.com
+0.0.0.0 analytics.ferrero.com
+0.0.0.0 analytics.ravelz.com
+0.0.0.0 analytics.wavelz.com
+0.0.0.0 analytics.webanalytics.op.europa.eu
+0.0.0.0 analytics.witglobal.net
+0.0.0.0 dap.amsterdam.nl
+0.0.0.0 epiphany.masterworks.digital
+0.0.0.0 fpt.fjordtravel.no
+0.0.0.0 gmn.gloo.com
+0.0.0.0 inzicht.cz.nl
+0.0.0.0 logfiles.storck.com
+0.0.0.0 mphdd.multipharma.be
+0.0.0.0 p-pan.triodos.com
+0.0.0.0 p.zwilling.com
+0.0.0.0 piwik.com-online.com
+0.0.0.0 piwik.slotsparadise.com
+0.0.0.0 piwik.twyzle.com
+0.0.0.0 piwik.vegasaces.com
+0.0.0.0 piwikpro.vodafone.com
+0.0.0.0 polpharmaanalytics.pl
+0.0.0.0 ptm.wuerth.de
+0.0.0.0 purple.fitchconnect.com
+0.0.0.0 pwk.tweedekamer.nl
+0.0.0.0 site-analytics.iop.ohio.gov
+0.0.0.0 statistics.ind.nl
+0.0.0.0 statistiek.rechtspraak.nl
+0.0.0.0 statistiek.rijksoverheid.nl
+0.0.0.0 statistiek.rvo.nl
+0.0.0.0 statistieken.ns-epublisher.com
+0.0.0.0 stats.dealerspike.com
+0.0.0.0 stats.manz.at
+0.0.0.0 stats.netdriven.com
+0.0.0.0 t-pan.triodos.com
+0.0.0.0 tag.aumago.com
+0.0.0.0 tag2.uwv.nl
+0.0.0.0 tagadmin.aumago.com
+0.0.0.0 wa.mybookie.ag
+0.0.0.0 wa.xbet.ag
+0.0.0.0 webanalytics.helen.fi
+0.0.0.0 www.webanalytics.europa.eu
 0.0.0.0 a-api.skz.dev
 0.0.0.0 a.linkz.ai
 0.0.0.0 aloha.getoperand.com
@@ -63417,6 +63494,14 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 s.gofile.io
+0.0.0.0 stats.traffective.cloud
+0.0.0.0 collect.rebelmouse.io
+0.0.0.0 ev.mmin.io
+0.0.0.0 valnet.sentinelpro.com
+0.0.0.0 tr-experiments.parsely.com
+0.0.0.0 ihi.flowplayer.com
+0.0.0.0 pixel.spotify.com
 0.0.0.0 gtmserverside.eluniversal.com.mx
 0.0.0.0 ym-tack.b-cdn.net
 0.0.0.0 icu.newsroom.bi
@@ -63452,7 +63537,6 @@
 0.0.0.0 analytics-ipv6.tiktokw.us
 0.0.0.0 aws-analytics.nmg.com.hk
 0.0.0.0 eu.usefathom.com
-0.0.0.0 analytics.webanalytics.op.europa.eu
 0.0.0.0 aem-kakao-collector.onkakao.net
 0.0.0.0 slc.commerce.naver.com
 0.0.0.0 a.klaviyo.com
@@ -64674,7 +64758,6 @@
 0.0.0.0 analytic-client.cuntempire.com
 0.0.0.0 analytics.portal.gov.bd
 0.0.0.0 stats.tehila.gov.il
-0.0.0.0 statistiek.rijksoverheid.nl
 0.0.0.0 analytics.kemlu.go.id
 0.0.0.0 seuranta.finland.fi
 0.0.0.0 log.dav.edu.vn
