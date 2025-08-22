@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 21 Aug 2025 02:05:47 +0000
+# Last converted - Fri, 22 Aug 2025 02:07:00 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 openinstall.io
+0.0.0.0 s.ssl.qhres2.com
 0.0.0.0 collect.adplogger.no
 0.0.0.0 lwadm.com
 0.0.0.0 smct.co
@@ -63494,6 +63496,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 cpx.golem.de
+0.0.0.0 carmen.golem.de
+0.0.0.0 cfa-js.cafe24.com
 0.0.0.0 s.gofile.io
 0.0.0.0 stats.traffective.cloud
 0.0.0.0 collect.rebelmouse.io
@@ -63763,7 +63768,6 @@
 0.0.0.0 clientlogger.marketplace.aws.a2z.com
 0.0.0.0 mercury.books.com.tw
 0.0.0.0 ganon.yahoo.com
-0.0.0.0 udc.yahoo.com
 0.0.0.0 tr.api.fanbyte.com
 0.0.0.0 mcs-va.capcutapi.com
 0.0.0.0 mon-va.capcutapi.com
