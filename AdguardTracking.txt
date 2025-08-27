@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 26 Aug 2025 02:13:12 +0000
+# Last converted - Wed, 27 Aug 2025 02:03:36 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 monitor-api.blackcrow.ai
+0.0.0.0 sdk.optimove.net
 0.0.0.0 assets.publicgood.com
 0.0.0.0 tagm.uneedcomms.com
 0.0.0.0 openstats.co
@@ -65513,6 +65515,13 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 data.client.openweb.bid
+0.0.0.0 launch-analytics-plugin.launchpotato.com
+0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
+0.0.0.0 wan.kbdmp.com
+0.0.0.0 wlg.shinhancard.com
+0.0.0.0 wcl.shinhancard.com
+0.0.0.0 wrc.shinhancard.com
 0.0.0.0 h5collector.miyoushe.com
 0.0.0.0 public-data-api.miyoushe.com
 0.0.0.0 h5log-api-dualstack.miyoushe.com
@@ -106024,7 +106033,7 @@
 0.0.0.0 zdactzl96snkye37.click.s11.sfmc-osl.com
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 assets.adobedtm.com
-0.0.0.0 global.telemetry.insights.video.a2z.com
+0.0.0.0 exp.notion.so
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 web-perf.booking.com
 0.0.0.0 cdn.branch.io
