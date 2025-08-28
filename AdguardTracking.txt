@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 27 Aug 2025 02:03:36 +0000
+# Last converted - Thu, 28 Aug 2025 02:02:37 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sdk.mrf.io
+0.0.0.0 protected-by.clarium.io
+0.0.0.0 analytiwave.com
+0.0.0.0 wc.paybooc.co.kr
 0.0.0.0 monitor-api.blackcrow.ai
 0.0.0.0 sdk.optimove.net
 0.0.0.0 assets.publicgood.com
@@ -65515,6 +65519,15 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 st.sooplive.co.kr
+0.0.0.0 collector1.sooplive.co.kr
+0.0.0.0 exlogcollector.sooplive.co.kr
+0.0.0.0 snowflake.qq.com
+0.0.0.0 d2fuc4clr7gvcn.cloudfront.net
+0.0.0.0 analytics.edaily.co.kr
+0.0.0.0 adgbb.io.naver.com
+0.0.0.0 sp.justwatch.com
+0.0.0.0 umami.spencerdevs.xyz
 0.0.0.0 data.client.openweb.bid
 0.0.0.0 launch-analytics-plugin.launchpotato.com
 0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
@@ -106317,6 +106330,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 analytics-stg.samsungknox.com
 0.0.0.0 event.flareflow.tv
@@ -106851,7 +106865,6 @@
 0.0.0.0 sensors.snappea.com
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 px.ucweb.com
-0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 adtima-static.zadn.vn
 0.0.0.0 akstat.io
 0.0.0.0 chartbeat.net
