@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 28 Aug 2025 02:02:37 +0000
+# Last converted - Fri, 29 Aug 2025 02:02:43 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,13 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sync.clearnview.com
+0.0.0.0 ck-ie.com
+0.0.0.0 rtb.voltaxam.com
+0.0.0.0 4dex.tech
+0.0.0.0 dsp-service.admatic.de
+0.0.0.0 ssp.api.tappx.com
+0.0.0.0 prod.us-east-1.cxm-bcn.publisher-services.amazon.dev
 0.0.0.0 sdk.mrf.io
 0.0.0.0 protected-by.clarium.io
 0.0.0.0 analytiwave.com
@@ -65519,6 +65526,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 collector-pxdojv695v.protechts.net
+0.0.0.0 collector-pxdojv695v.px-cloud.net
 0.0.0.0 st.sooplive.co.kr
 0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 exlogcollector.sooplive.co.kr
@@ -106606,6 +106615,7 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 tracking.purchasely.io
+0.0.0.0 uts-front.line-apps.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 events-api.soundcloud.com
