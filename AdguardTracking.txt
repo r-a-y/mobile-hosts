@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 30 Aug 2025 01:57:07 +0000
+# Last converted - Sun, 31 Aug 2025 02:14:03 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 track.fusionmedia.io
 0.0.0.0 sync.clearnview.com
 0.0.0.0 ck-ie.com
 0.0.0.0 rtb.voltaxam.com
