@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 01 Sep 2025 02:25:29 +0000
+# Last converted - Wed, 03 Sep 2025 01:56:40 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -439,6 +439,7 @@
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
+0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 p.hentaiforce.net
 0.0.0.0 p.minds.com
 0.0.0.0 p.spotidownloader.com
@@ -611,7 +612,9 @@
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.dailymail.co.uk
 0.0.0.0 t.deepnote.com
+0.0.0.0 t.factorform.com
 0.0.0.0 t.freelancer.com
+0.0.0.0 t.goodchop.com
 0.0.0.0 t.indeed.com
 0.0.0.0 t.ionos.com
 0.0.0.0 t.jossandmain.com
@@ -622,6 +625,7 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
 0.0.0.0 t.poki.io
+0.0.0.0 t.prageru.com
 0.0.0.0 t.regionsjob.com
 0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
@@ -663,6 +667,7 @@
 0.0.0.0 tms.eharmony.ca
 0.0.0.0 tms.hft.everyplate.com
 0.0.0.0 tms.hft.factor75.com
+0.0.0.0 tms.hft.goodchop.com
 0.0.0.0 tms.hft.greenchef.com
 0.0.0.0 tms.hft.hellofresh.com
 0.0.0.0 tongji-res.meizu.com
