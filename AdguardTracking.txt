@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 02 Sep 2025 02:04:47 +0000
+# Last converted - Wed, 03 Sep 2025 01:56:39 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -62479,6 +62479,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.shutterstock.com
 0.0.0.0 plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
@@ -62522,7 +62523,6 @@
 0.0.0.0 icu.newsroom.bi
 0.0.0.0 data.ds.dumont.de
 0.0.0.0 sta-events.swishapps.ai
-0.0.0.0 pro-1w-dataaggregator.onelouder.com
 0.0.0.0 mllog.jd.com
 0.0.0.0 count.shein.com
 0.0.0.0 analytics.cosmopolitanmag.com.tr
