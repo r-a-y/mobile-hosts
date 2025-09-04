@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Sep 2025 01:56:39 +0000
+# Last converted - Thu, 04 Sep 2025 01:57:09 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 highway.cablecar.sph.com.sg
+0.0.0.0 i.posthog.com
 0.0.0.0 track.fusionmedia.io
 0.0.0.0 sync.clearnview.com
 0.0.0.0 ck-ie.com
@@ -46,7 +48,6 @@
 0.0.0.0 rtg.rubiconredirect.com
 0.0.0.0 beacon.gtv-pub.com
 0.0.0.0 analytics-api.gemcommerce.com
-0.0.0.0 slgnt.eu
 0.0.0.0 slgnt.us
 0.0.0.0 consolidata.ai
 0.0.0.0 log.trend.rankify.best
@@ -62479,6 +62480,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 site-see.slgnt.eu
+0.0.0.0 site-azp.slgnt.eu
+0.0.0.0 mobile.slgnt.eu
 0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 analytics.egdata.app
 0.0.0.0 analytics.shutterstock.com
