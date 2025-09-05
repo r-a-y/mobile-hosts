@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 04 Sep 2025 01:57:09 +0000
+# Last converted - Fri, 05 Sep 2025 01:59:50 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -98333,6 +98333,15 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 dc.di.atlas.samsung.com
+0.0.0.0 dc.dqa.samsung.com
+0.0.0.0 dev-apigw.samsungdmroute.com
+0.0.0.0 diagmon-serviceapi.samsungdm.com
+0.0.0.0 dls-ddc.dqa.samsung.com
+0.0.0.0 moai-dev-samsung.com
+0.0.0.0 qmds-dev-samsung.com
+0.0.0.0 regi.di.atlas.samsung.com
+0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 log-pub-hk.aoshitang.com
 0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 analytics-stg.samsungknox.com
