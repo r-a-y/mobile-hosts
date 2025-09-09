@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 05 Sep 2025 01:59:51 +0000
+# Last converted - Tue, 09 Sep 2025 02:01:43 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -281,6 +281,7 @@
 0.0.0.0 femetrics.grammarly.io
 0.0.0.0 fgn-plausible.serverable.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 fp.bizjournals.com
 0.0.0.0 fp.measure.office.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
