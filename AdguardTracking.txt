@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 09 Sep 2025 02:01:42 +0000
+# Last converted - Wed, 10 Sep 2025 01:57:27 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,11 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cdn.dfsdk.com
+0.0.0.0 cdn.deviceinf.com
+0.0.0.0 cdn.seonintelligence.com
+0.0.0.0 cdn.debugbear.com
+0.0.0.0 featuregates.org
 0.0.0.0 fptls.com
 0.0.0.0 fptls3.com
 0.0.0.0 mc.yango.com
@@ -64453,6 +64458,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 leo.hepsiburada.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 rainbow-prod-jdlog.ldoverseas.com
@@ -106724,6 +106730,7 @@
 0.0.0.0 llamavoice.com
 0.0.0.0 loadedhearts.com
 0.0.0.0 loadsurprise.com
+0.0.0.0 locateskill.com
 0.0.0.0 lockuplookup.com
 0.0.0.0 logoshutter.com
 0.0.0.0 lonelyflavor.com
