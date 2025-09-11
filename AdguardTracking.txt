@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 10 Sep 2025 01:57:27 +0000
+# Last converted - Thu, 11 Sep 2025 02:00:51 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -122,7 +122,6 @@
 0.0.0.0 ads-alpha.ewscloud.com
 0.0.0.0 m6ulblxep4.execute-api.us-east-1.amazonaws.com
 0.0.0.0 api.instant.one
-0.0.0.0 datadog.pool.ntp.org
 0.0.0.0 pubtrky.com
 0.0.0.0 logs2.sportslocalmedia.com
 0.0.0.0 analytics.pyksid.com
@@ -64458,6 +64457,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 leo.hepsiburada.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 dlt-beacon.dynatrace-managed.com
