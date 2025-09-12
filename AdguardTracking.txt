@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Sep 2025 02:00:51 +0000
+# Last converted - Fri, 12 Sep 2025 01:56:24 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 hlstatus.com
+0.0.0.0 pixel-img.com
+0.0.0.0 pixel.prb-team.com
 0.0.0.0 cdn.dfsdk.com
 0.0.0.0 cdn.deviceinf.com
 0.0.0.0 cdn.seonintelligence.com
@@ -64457,6 +64460,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 bdvmetricas.banvenez.com.ve
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 leo.hepsiburada.com
 0.0.0.0 usage.trackjs.com
@@ -104860,6 +104864,7 @@
 0.0.0.0 nexeps.com
 0.0.0.0 theadex.com
 0.0.0.0 exactag.com
+0.0.0.0 production.k-trk.com
 0.0.0.0 tracking.srv2.de
 0.0.0.0 cnt.mail.netbk.co.jp
 0.0.0.0 atlassian-trk.prd.msg.ss-inf.net
@@ -107490,6 +107495,7 @@
 0.0.0.0 testedtouch.com
 0.0.0.0 texturetrick.com
 0.0.0.0 thebigvan.com
+0.0.0.0 thecrazychili.com
 0.0.0.0 thefishstops.com
 0.0.0.0 thejavalane.com
 0.0.0.0 themangotea.com
