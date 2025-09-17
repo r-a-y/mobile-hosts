@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 16 Sep 2025 01:58:07 +0000
+# Last converted - Wed, 17 Sep 2025 01:57:29 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 trck.digiteka.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 hlstatus.com
 0.0.0.0 pixel-img.com
@@ -64704,6 +64705,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.kode.co.kr
+0.0.0.0 xtr.tos.sktelecom.com
+0.0.0.0 gatag.uplus.co.kr
+0.0.0.0 pbc.nypost.com
 0.0.0.0 stats.pronouns.page
 0.0.0.0 ad-bls-tracking.lemino.docomo.ne.jp
 0.0.0.0 bdvmetricas.banvenez.com.ve
