@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 17 Sep 2025 01:57:29 +0000
+# Last converted - Thu, 18 Sep 2025 01:57:38 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.cdnweb.info
 0.0.0.0 trck.digiteka.com
 0.0.0.0 partnerlinks.io
 0.0.0.0 hlstatus.com
@@ -64705,6 +64706,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 jzq915.playmobil.xn--com-cgd
 0.0.0.0 analytics.kode.co.kr
 0.0.0.0 xtr.tos.sktelecom.com
 0.0.0.0 gatag.uplus.co.kr
@@ -110642,6 +110644,7 @@
 0.0.0.0 tofusquirrel.com
 0.0.0.0 tomatobarrel.com
 0.0.0.0 toolcapital.com
+0.0.0.0 toolforthought.com
 0.0.0.0 toomanyalts.com
 0.0.0.0 topbookgifts.com
 0.0.0.0 topcrazypress.com
