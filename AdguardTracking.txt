@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 19 Sep 2025 02:00:58 +0000
+# Last converted - Sat, 20 Sep 2025 01:55:39 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -67018,6 +67018,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.luogu.me
 0.0.0.0 jzq915.playmobil.xn--com-cgd
 0.0.0.0 analytics.kode.co.kr
 0.0.0.0 xtr.tos.sktelecom.com
@@ -115831,6 +115832,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 mob2.musicgostudio.com
+0.0.0.0 tc.mnbvcxzq.com
 0.0.0.0 dc.di.atlas.samsung.com
 0.0.0.0 dc.dqa.samsung.com
 0.0.0.0 dev-apigw.samsungdmroute.com
@@ -116778,6 +116781,7 @@
 0.0.0.0 boiledegglabs.com
 0.0.0.0 boilingbeetle.com
 0.0.0.0 boilingcredit.com
+0.0.0.0 boilingmadsoup.com
 0.0.0.0 boldbars.com
 0.0.0.0 bonuscomplex.com
 0.0.0.0 bookprobe.com
@@ -117283,6 +117287,7 @@
 0.0.0.0 glisteningguide.com
 0.0.0.0 glisteningsign.com
 0.0.0.0 glitteringbrook.com
+0.0.0.0 gloomyseason.com
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glowingmeadow.com
 0.0.0.0 gluedpixel.com
@@ -118290,6 +118295,7 @@
 0.0.0.0 ticklesign.com
 0.0.0.0 tidymitten.com
 0.0.0.0 tightpowder.com
+0.0.0.0 tinybluewhale.com
 0.0.0.0 tinyswans.com
 0.0.0.0 tinytendency.com
 0.0.0.0 tiredthroat.com
