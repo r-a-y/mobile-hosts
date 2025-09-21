@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 20 Sep 2025 01:55:39 +0000
+# Last converted - Sun, 21 Sep 2025 02:14:16 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -118268,6 +118268,7 @@
 0.0.0.0 testedtouch.com
 0.0.0.0 texturetrick.com
 0.0.0.0 thebigvan.com
+0.0.0.0 thebrainybulb.com
 0.0.0.0 thecrazychili.com
 0.0.0.0 thefishstops.com
 0.0.0.0 thejavalane.com
