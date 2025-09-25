@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 24 Sep 2025 01:59:42 +0000
+# Last converted - Thu, 25 Sep 2025 02:00:51 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sdkapi-prod.dfinery.ai
 0.0.0.0 behavior-tracking-event-gateway.imweb.me
 0.0.0.0 analytics.cdnweb.info
 0.0.0.0 trck.digiteka.com
@@ -69827,6 +69828,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics-cdn.sport.es
+0.0.0.0 analytics.prensaiberica.es
 0.0.0.0 analytics.azrhymes.com
 0.0.0.0 stats.jiosaavn.com
 0.0.0.0 js-collector.icewood.net
@@ -111111,6 +111114,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 event-portal.dailyinnovation.biz
+0.0.0.0 api.learnings.ai
+0.0.0.0 dtcollect.newsbang.com
 0.0.0.0 census-app.scorecardresearch.com
 0.0.0.0 mob2.musicgostudio.com
 0.0.0.0 tc.mnbvcxzq.com
@@ -112367,6 +112373,7 @@
 0.0.0.0 earnbaht.com
 0.0.0.0 earthups.com
 0.0.0.0 eatablesquare.com
+0.0.0.0 echoacloud.com
 0.0.0.0 echoinghaven.com
 0.0.0.0 economysoil.com
 0.0.0.0 educationcar.com
@@ -112745,6 +112752,7 @@
 0.0.0.0 kindasingle.com
 0.0.0.0 kindhush.com
 0.0.0.0 kitetuning.com
+0.0.0.0 kittycatking.com
 0.0.0.0 knewpenny.com
 0.0.0.0 knifetreasury.com
 0.0.0.0 knitstamp.com
@@ -113492,6 +113500,7 @@
 0.0.0.0 suggestionbridge.com
 0.0.0.0 sulkycook.com
 0.0.0.0 summerobject.com
+0.0.0.0 sunsetcampfires.com
 0.0.0.0 sunsetstatic.com
 0.0.0.0 sunshinegates.com
 0.0.0.0 sunshinepint.com
