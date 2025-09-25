@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 21 Sep 2025 02:14:17 +0000
+# Last converted - Thu, 25 Sep 2025 02:00:52 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -60,6 +60,7 @@
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 analytics.algolia.com
 0.0.0.0 analytics.amakings.com
+0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics.apnewsregistry.com
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.avanser.com.au
@@ -243,6 +244,8 @@
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 bundle.9gtb.com
+0.0.0.0 bundle.dyn-rev.app
 0.0.0.0 bundle.ppas.monster
 0.0.0.0 c.albss.com
 0.0.0.0 c.amazinglybrilliant.com.au
@@ -252,6 +255,7 @@
 0.0.0.0 c.mgid.com
 0.0.0.0 c.wen.ru
 0.0.0.0 c3metrics.medifast1.com
+0.0.0.0 c6.paypal.com
 0.0.0.0 cache2.delvenetworks.com
 0.0.0.0 calltrack.co
 0.0.0.0 calvera-telemetry.polaris.me
@@ -375,6 +379,7 @@
 0.0.0.0 d.rcmd.jp
 0.0.0.0 d.shareaholic.com
 0.0.0.0 dash.getsitecontrol.com
+0.0.0.0 data.armexfort.uk
 0.0.0.0 data.circulate.com
 0.0.0.0 data.digitalks.az
 0.0.0.0 data.eetech.com
@@ -434,6 +439,7 @@
 0.0.0.0 event-store.sitebehaviour.com
 0.0.0.0 event-stream.spot.im
 0.0.0.0 event.api.drift.com
+0.0.0.0 event.api.instant.one
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.instiengage.com
 0.0.0.0 event.syftdata.com
@@ -855,6 +861,7 @@
 0.0.0.0 s.srvsynd.com
 0.0.0.0 s.vibe.co
 0.0.0.0 sa.scorpion.co
+0.0.0.0 science.ctf.gg
 0.0.0.0 scout.us2.salesloft.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 sd-tagging.azurefd.net
@@ -1245,6 +1252,7 @@
 0.0.0.0 umami.heroku.uk
 0.0.0.0 units.knotch.it
 0.0.0.0 uptime.fastrr.com
+0.0.0.0 uptime2.fastrr.com
 0.0.0.0 us-central1-markuphero.cloudfunctions.net
 0.0.0.0 usaoptimizedby.increasingly.co
 0.0.0.0 user.userguiding.com
