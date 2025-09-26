@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 25 Sep 2025 02:00:51 +0000
+# Last converted - Fri, 26 Sep 2025 02:00:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -69828,6 +69828,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.streamingworld.xyz
+0.0.0.0 stats.bouyguestelecom.fr
 0.0.0.0 analytics-cdn.sport.es
 0.0.0.0 analytics.prensaiberica.es
 0.0.0.0 analytics.azrhymes.com
@@ -111923,6 +111925,7 @@
 0.0.0.0 abundantcoin.com
 0.0.0.0 accountsdoor.com
 0.0.0.0 accurateanimal.com
+0.0.0.0 acebunny.com
 0.0.0.0 acidicstraw.com
 0.0.0.0 acidpigs.com
 0.0.0.0 acquireuser.com
@@ -112190,6 +112193,7 @@
 0.0.0.0 clarifyverse.com
 0.0.0.0 classicnotebook.com
 0.0.0.0 cleanhaircut.com
+0.0.0.0 climbingright.com
 0.0.0.0 cloisteredcurve.com
 0.0.0.0 cloudguppy.com
 0.0.0.0 cloudhustles.com
