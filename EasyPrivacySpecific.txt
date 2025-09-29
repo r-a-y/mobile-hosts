@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 27 Sep 2025 01:55:25 +0000
+# Last converted - Mon, 29 Sep 2025 02:03:25 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -205,6 +205,7 @@
 0.0.0.0 data.jerkmate.com
 0.0.0.0 data.torry.io
 0.0.0.0 data.ublock-browser.com
+0.0.0.0 data.vevor.com
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datum.jsdelivr.com
@@ -538,6 +539,7 @@
 0.0.0.0 rta2.newzit.com
 0.0.0.0 rtds.progressive.com
 0.0.0.0 rum.api.intuit.com
+0.0.0.0 rum.cdnpure.com
 0.0.0.0 rum.condenastdigital.com
 0.0.0.0 rv.modanisa.com
 0.0.0.0 rvo-cohesion.healthline.com
@@ -549,6 +551,7 @@
 0.0.0.0 sapi.tremendous.com
 0.0.0.0 scholar.google.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 segapi.whop.com
 0.0.0.0 service.techzine.eu
 0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 shopmetric.rediff.com
@@ -731,6 +734,7 @@
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 two.cm.com
+0.0.0.0 u1sdata.webullfintech.com
 0.0.0.0 ua.indianexpress.com
 0.0.0.0 ubuyanalytics.ubuy.com
 0.0.0.0 um.contentstudio.io
