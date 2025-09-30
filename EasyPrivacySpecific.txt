@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 29 Sep 2025 02:03:25 +0000
+# Last converted - Tue, 30 Sep 2025 01:58:08 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -172,6 +172,7 @@
 0.0.0.0 collector.megaxh.com
 0.0.0.0 collector.pi.spectrum.net
 0.0.0.0 collector.quillbot.com
+0.0.0.0 collector.spankbang.party
 0.0.0.0 collector.taoxh.life
 0.0.0.0 collector.xhaccess.com
 0.0.0.0 collector.xhamster.com
@@ -180,6 +181,7 @@
 0.0.0.0 collector.xhamster3.com
 0.0.0.0 collector.xhamsterporno.mx
 0.0.0.0 colvk.viki.io
+0.0.0.0 comms.bps.org.uk
 0.0.0.0 confiant.msn.com
 0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 copilot-telemetry.githubusercontent.com
@@ -209,7 +211,6 @@
 0.0.0.0 data.younow.com
 0.0.0.0 datadome.maisonsdumonde.com
 0.0.0.0 datum.jsdelivr.com
-0.0.0.0 dbhsejcg-meetup-com.cdnjs.network
 0.0.0.0 dc.banggood.com
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.g2.com
