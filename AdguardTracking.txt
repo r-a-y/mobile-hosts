@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 30 Sep 2025 01:58:07 +0000
+# Last converted - Wed, 01 Oct 2025 02:16:12 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 funsdata.com
 0.0.0.0 ahatm12od.top
 0.0.0.0 an.gr-wcon.com
 0.0.0.0 sdkapi-prod.dfinery.ai
@@ -66051,6 +66052,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 upsell.alphwidget.com
+0.0.0.0 4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
+0.0.0.0 static.alphwidget.com
+0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 analytics.pesktop.com
 0.0.0.0 cloudmetrics.xenforo.com
 0.0.0.0 api-analytics.pelikan.sk
@@ -102075,6 +102080,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 trace.free-reels.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 api.learnings.ai
 0.0.0.0 dtcollect.newsbang.com
