@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 01 Oct 2025 02:16:12 +0000
+# Last converted - Thu, 02 Oct 2025 01:58:15 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -103979,6 +103979,7 @@
 0.0.0.0 perfectfetch.com
 0.0.0.0 perkyjade.com
 0.0.0.0 phonecup.com
+0.0.0.0 phoneresult.com
 0.0.0.0 photohints.com
 0.0.0.0 physicstees.com
 0.0.0.0 pickmicro.com
