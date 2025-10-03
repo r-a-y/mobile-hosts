@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 02 Oct 2025 01:58:15 +0000
+# Last converted - Fri, 03 Oct 2025 01:57:43 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -66052,6 +66052,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 log-gateway.zoom.us
 0.0.0.0 upsell.alphwidget.com
 0.0.0.0 4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
 0.0.0.0 static.alphwidget.com
@@ -66223,7 +66224,6 @@
 0.0.0.0 lumberjack-metrics.razorpay.com
 0.0.0.0 statistics-collector-api.listglobally.com
 0.0.0.0 telegraph.prd.api.bleacherreport.com
-0.0.0.0 gmss.use1.prd.api.discomax.com
 0.0.0.0 events.shoplift.ai
 0.0.0.0 flxr.myplan-c.com
 0.0.0.0 imgsct.cookiebot.com
@@ -101796,6 +101796,7 @@
 0.0.0.0 zdactzl96snkye37.click.s11.sfmc-osl.com
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 karte.io
 0.0.0.0 exp.notion.so
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 web-perf.booking.com
