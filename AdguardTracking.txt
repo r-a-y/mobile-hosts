@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 03 Oct 2025 01:57:43 +0000
+# Last converted - Sat, 04 Oct 2025 01:53:43 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -66052,6 +66052,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry.adobe.io
+0.0.0.0 fpt.commerce.adobe.com
+0.0.0.0 adobecorp.data.adobedc.net
 0.0.0.0 log-gateway.zoom.us
 0.0.0.0 upsell.alphwidget.com
 0.0.0.0 4hfvbao1ea.execute-api.ap-northeast-2.amazonaws.com
@@ -102081,6 +102084,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 mcs.tiktokv.us
 0.0.0.0 trace.free-reels.com
 0.0.0.0 event-portal.dailyinnovation.biz
 0.0.0.0 api.learnings.ai
