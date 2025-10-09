@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 08 Oct 2025 01:58:41 +0000
+# Last converted - Thu, 09 Oct 2025 01:59:48 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 rum.hlx.page
 0.0.0.0 lltrck.com
 0.0.0.0 funsdata.com
 0.0.0.0 ahatm12od.top
@@ -68097,6 +68098,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 cdn.getkoala.com
+0.0.0.0 p.eneba.com
 0.0.0.0 cookiemon-analytics.azurewebsites.net
 0.0.0.0 k203.adn.com
 0.0.0.0 telemetry.adobe.io
@@ -68242,7 +68245,6 @@
 0.0.0.0 en-collect.trendyol.com
 0.0.0.0 demeter-tr-core-collect.trendyol.com
 0.0.0.0 lc-event.pixiv.net
-0.0.0.0 count.ing.de
 0.0.0.0 d30qdagvt44524.cloudfront.net
 0.0.0.0 tracker-beam.aktuality.sk
 0.0.0.0 collector.fullxh.com
@@ -103564,6 +103566,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 stats.sg-light-edge.com
+0.0.0.0 apptics.zoho.in
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 rplogs.itpub.cc
 0.0.0.0 collector-sbanking.shb-pelib.com
