@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 09 Oct 2025 01:59:48 +0000
+# Last converted - Fri, 10 Oct 2025 02:00:17 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -53,7 +53,6 @@
 0.0.0.0 tagm.uneedcomms.com
 0.0.0.0 openstats.co
 0.0.0.0 openinstall.io
-0.0.0.0 s.ssl.qhres2.com
 0.0.0.0 collect.adplogger.no
 0.0.0.0 lwadm.com
 0.0.0.0 smct.co
@@ -68098,6 +68097,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 cdn.kmalgo.com
+0.0.0.0 client.smartpushedm.com
 0.0.0.0 cdn.getkoala.com
 0.0.0.0 p.eneba.com
 0.0.0.0 cookiemon-analytics.azurewebsites.net
@@ -103566,6 +103567,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 track.taimi.com
+0.0.0.0 gem-log.sloegem.com
+0.0.0.0 log.oceanzz.xyz
 0.0.0.0 stats.sg-light-edge.com
 0.0.0.0 apptics.zoho.in
 0.0.0.0 analytics.oliveapp.net
