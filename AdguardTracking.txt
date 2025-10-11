@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 10 Oct 2025 02:00:17 +0000
+# Last converted - Sat, 11 Oct 2025 01:55:21 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 telecid.ru
 0.0.0.0 rum.hlx.page
 0.0.0.0 lltrck.com
 0.0.0.0 funsdata.com
@@ -68097,6 +68098,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 fuse.ubs.com
 0.0.0.0 cdn.kmalgo.com
 0.0.0.0 client.smartpushedm.com
 0.0.0.0 cdn.getkoala.com
@@ -103567,6 +103569,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 prebid-server-canary.ifunny.co
 0.0.0.0 track.taimi.com
 0.0.0.0 gem-log.sloegem.com
 0.0.0.0 log.oceanzz.xyz
@@ -105412,6 +105415,7 @@
 0.0.0.0 notifyglass.com
 0.0.0.0 noundictionary.com
 0.0.0.0 novaseekers.com
+0.0.0.0 nowaymail.com
 0.0.0.0 nudgeduck.com
 0.0.0.0 nullnorth.com
 0.0.0.0 numerousnest.com
