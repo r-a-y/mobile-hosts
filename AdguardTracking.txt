@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 11 Oct 2025 01:55:21 +0000
+# Last converted - Sun, 12 Oct 2025 02:04:18 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -105532,6 +105532,7 @@
 0.0.0.0 prepareplanes.com
 0.0.0.0 presetrabbits.com
 0.0.0.0 presscoder.com
+0.0.0.0 prettyeasycafe.com
 0.0.0.0 prettylearning.com
 0.0.0.0 previousplayground.com
 0.0.0.0 priceypies.com
