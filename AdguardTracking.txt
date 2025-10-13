@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 12 Oct 2025 02:04:18 +0000
+# Last converted - Mon, 13 Oct 2025 02:12:17 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -68098,6 +68098,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 collector-sbanking.shb-pelib.com
+0.0.0.0 uac.etnews.com
 0.0.0.0 fuse.ubs.com
 0.0.0.0 cdn.kmalgo.com
 0.0.0.0 client.smartpushedm.com
@@ -103361,6 +103363,7 @@
 0.0.0.0 nexeps.com
 0.0.0.0 theadex.com
 0.0.0.0 exactag.com
+0.0.0.0 tk.seasungame.com
 0.0.0.0 production.k-trk.com
 0.0.0.0 tracking.srv2.de
 0.0.0.0 cnt.mail.netbk.co.jp
@@ -103577,7 +103580,6 @@
 0.0.0.0 apptics.zoho.in
 0.0.0.0 analytics.oliveapp.net
 0.0.0.0 rplogs.itpub.cc
-0.0.0.0 collector-sbanking.shb-pelib.com
 0.0.0.0 mcs.tiktokv.us
 0.0.0.0 trace.free-reels.com
 0.0.0.0 event-portal.dailyinnovation.biz
