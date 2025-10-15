@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 14 Oct 2025 02:00:41 +0000
+# Last converted - Wed, 15 Oct 2025 02:03:56 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -67820,6 +67820,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.avito.ru
+0.0.0.0 nr-beacon.movingimage.com
+0.0.0.0 analytics.monetha.io
 0.0.0.0 uac.kyeongin.com
 0.0.0.0 clogger.nocutnews.co.kr
 0.0.0.0 reports.omegacommerce.com
