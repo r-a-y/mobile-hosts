@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 15 Oct 2025 02:03:56 +0000
+# Last converted - Thu, 16 Oct 2025 02:02:26 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 stats.fluorescent.co
+0.0.0.0 wurflcloud.com
+0.0.0.0 tvspix.com
 0.0.0.0 events.stylux.io
 0.0.0.0 telecid.ru
 0.0.0.0 rum.hlx.page
@@ -177,7 +180,6 @@
 0.0.0.0 analytics.turk.pro
 0.0.0.0 metric-api.newrelic.com
 0.0.0.0 conduit-beacon.mtvnservices.com
-0.0.0.0 redfast.com
 0.0.0.0 analytics.newsifier.nl
 0.0.0.0 mn-tz.com
 0.0.0.0 tr.thecontentserver.com
@@ -67820,6 +67822,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 xstat.gazeta.bo
 0.0.0.0 stats.avito.ru
 0.0.0.0 nr-beacon.movingimage.com
 0.0.0.0 analytics.monetha.io
@@ -105528,6 +105531,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 dxp.baidu.com
+0.0.0.0 nsclickvideo.xiaodutv.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
+0.0.0.0 xda.xiaodutv.com
 0.0.0.0 analytics-ccu.qpyou.cn
 0.0.0.0 analytics-log.withhive.com
 0.0.0.0 prebid-server-canary.ifunny.co
@@ -106560,6 +106567,7 @@
 0.0.0.0 captivatingillusion.com
 0.0.0.0 captivatingpanorama.com
 0.0.0.0 captivatingperformance.com
+0.0.0.0 cardmethod.com
 0.0.0.0 carefuldolls.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
@@ -107046,6 +107054,7 @@
 0.0.0.0 gulliblegrip.com
 0.0.0.0 gustocooking.com
 0.0.0.0 gustygrandmother.com
+0.0.0.0 haikusoap.com
 0.0.0.0 halcyoncanyon.com
 0.0.0.0 halcyonsculpture.com
 0.0.0.0 haltingbadge.com
@@ -107445,6 +107454,7 @@
 0.0.0.0 pickmicro.com
 0.0.0.0 pietexture.com
 0.0.0.0 pigeonsetc.com
+0.0.0.0 pigmentpaper.com
 0.0.0.0 pinchsquirrel.com
 0.0.0.0 pincourse.com
 0.0.0.0 piquantgrove.com
@@ -107547,6 +107557,7 @@
 0.0.0.0 quizzicalzephyr.com
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
+0.0.0.0 rackforstorage.com
 0.0.0.0 radiantcanopy.com
 0.0.0.0 radiantlullaby.com
 0.0.0.0 radiateprose.com
@@ -108034,6 +108045,7 @@
 0.0.0.0 toomanyalts.com
 0.0.0.0 topbookgifts.com
 0.0.0.0 topcrazypress.com
+0.0.0.0 topthrowbacks.com
 0.0.0.0 touristfuel.com
 0.0.0.0 toysbasics.com
 0.0.0.0 toytakeover.com
@@ -108187,6 +108199,7 @@
 0.0.0.0 wrongwound.com
 0.0.0.0 wtaccesscontrol.com
 0.0.0.0 yieldingwoman.com
+0.0.0.0 youcandrawanything.com
 0.0.0.0 yourlifedream.com
 0.0.0.0 zephyrcatalyst.com
 0.0.0.0 zephyrlabyrinth.com
