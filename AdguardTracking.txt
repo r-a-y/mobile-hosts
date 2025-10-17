@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 16 Oct 2025 02:02:26 +0000
+# Last converted - Fri, 17 Oct 2025 02:01:21 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.metriko.app
 0.0.0.0 stats.fluorescent.co
 0.0.0.0 wurflcloud.com
 0.0.0.0 tvspix.com
@@ -105531,6 +105532,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 experiment.pixverse.ai
+0.0.0.0 capture.pixverse.ai
+0.0.0.0 report.pixverse.ai
 0.0.0.0 dxp.baidu.com
 0.0.0.0 nsclickvideo.xiaodutv.com
 0.0.0.0 api-access.pangolin-sdk-toutiao1.com
@@ -106976,6 +106980,7 @@
 0.0.0.0 functionalcrown.com
 0.0.0.0 functionalfeather.com
 0.0.0.0 funoverbored.com
+0.0.0.0 funtoyplanet.com
 0.0.0.0 furryfork.com
 0.0.0.0 fusedcontent.com
 0.0.0.0 futuristicapparatus.com
@@ -107015,6 +107020,7 @@
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glowingmeadow.com
 0.0.0.0 gluedpixel.com
+0.0.0.0 goddesslamps.com
 0.0.0.0 godseedband.com
 0.0.0.0 goldfishgrowth.com
 0.0.0.0 goldstudies.com
@@ -107116,6 +107122,7 @@
 0.0.0.0 humourspot.com
 0.0.0.0 hurtgrape.com
 0.0.0.0 hustlercoach.com
+0.0.0.0 hybridburst.com
 0.0.0.0 hydraconcept.com
 0.0.0.0 hyperlegend.com
 0.0.0.0 hypnoticwound.com
@@ -107147,6 +107154,8 @@
 0.0.0.0 intentlens.com
 0.0.0.0 internalcondition.com
 0.0.0.0 internalsink.com
+0.0.0.0 intricateberry.com
+0.0.0.0 inventorycache.com
 0.0.0.0 inventtango.com
 0.0.0.0 iotapool.com
 0.0.0.0 irelandroad.com
@@ -107316,6 +107325,7 @@
 0.0.0.0 mindfulgem.com
 0.0.0.0 mindlessmark.com
 0.0.0.0 mineinvoice.com
+0.0.0.0 minibilling.com
 0.0.0.0 minorcattle.com
 0.0.0.0 minuteburst.com
 0.0.0.0 miscreantmoon.com
@@ -107382,6 +107392,7 @@
 0.0.0.0 notcardboard.com
 0.0.0.0 notconscious.com
 0.0.0.0 notifyglass.com
+0.0.0.0 notrealcat.com
 0.0.0.0 noundictionary.com
 0.0.0.0 novaseekers.com
 0.0.0.0 nowaymail.com
