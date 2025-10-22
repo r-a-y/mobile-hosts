@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 21 Oct 2025 02:04:50 +0000
+# Last converted - Wed, 22 Oct 2025 02:11:15 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 turbotargeting.io
 0.0.0.0 analysis.chatglm.cn
 0.0.0.0 ping.pdst.fm
 0.0.0.0 api.sae.systems
@@ -66321,6 +66322,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 hbrcv.adobe.com
+0.0.0.0 hbrt.adobe.com
+0.0.0.0 leo.tridge.com
 0.0.0.0 haystack.wavve.com
 0.0.0.0 user-event-log.aminer.cn
 0.0.0.0 pixel.dashfi.dev
