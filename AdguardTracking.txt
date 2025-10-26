@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 25 Oct 2025 02:01:13 +0000
+# Last converted - Sun, 26 Oct 2025 02:15:43 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -66381,7 +66381,6 @@
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 leo.hepsiburada.com
 0.0.0.0 usage.trackjs.com
-0.0.0.0 dlt-beacon.dynatrace-managed.com
 0.0.0.0 rainbow-prod-jdlog.ldoverseas.com
 0.0.0.0 posthog.lingvanex.com
 0.0.0.0 analytics.vgtimes.com
@@ -66507,7 +66506,6 @@
 0.0.0.0 nexus.uniten.io
 0.0.0.0 rusty-heartbeat.services.ps.axelspringer.de
 0.0.0.0 uac.mk.co.kr
-0.0.0.0 sp.stapecdn.com
 0.0.0.0 cdn.powerinboxedge.com
 0.0.0.0 tracker.ris.promo
 0.0.0.0 nid.thesun.co.uk
@@ -67451,7 +67449,6 @@
 0.0.0.0 aml.valuecommerce.com
 0.0.0.0 prod.fennec.atp.fox
 0.0.0.0 analytics.data.visenze.com
-0.0.0.0 evs.proxy.analytics.shutterstock.com
 0.0.0.0 gtm-server.healthline.com
 0.0.0.0 kaan.kakao.com
 0.0.0.0 rec.banggood.com
@@ -68113,7 +68110,6 @@
 0.0.0.0 ev.kck.st
 0.0.0.0 events.popinfo.jp
 0.0.0.0 event-action.popinfo.jp
-0.0.0.0 event-collector.analytics.onedio.com
 0.0.0.0 event-reporting-dot-webylytics.appspot.com
 0.0.0.0 event.chitai-gorod.ru
 0.0.0.0 event.condenastdigital.com
@@ -106080,7 +106076,6 @@
 0.0.0.0 spmailtechnol.com
 0.0.0.0 log.bntrace.com
 0.0.0.0 e-bedwettingstore.com
-0.0.0.0 0ukok.mjt.lu
 0.0.0.0 email.mailgun.patreon.com
 0.0.0.0 click.discord.com
 0.0.0.0 ablink.hi.channel4.com
@@ -106088,7 +106083,6 @@
 0.0.0.0 t1.mp1.tripadvisor.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 hubspotlinks.com
-0.0.0.0 links.signup.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 mail.nationalgeographic.com
 0.0.0.0 email.123formbuilder.com
@@ -106103,7 +106097,6 @@
 0.0.0.0 geteml.com
 0.0.0.0 link.posteml.com
 0.0.0.0 click.redditmail.com
-0.0.0.0 lmqmpm.clicks.mlsend.com
 0.0.0.0 ct.klclick.com
 0.0.0.0 mailing.pbank.com.ua
 0.0.0.0 email.azurareborn.com
@@ -106138,7 +106131,6 @@
 0.0.0.0 t.sigopn
 0.0.0.0 t.senal
 0.0.0.0 t.signaux
-0.0.0.0 t.signauxtrois.com
 0.0.0.0 t.hsms06.com
 0.0.0.0 tracking.cirrusinsight.com
 0.0.0.0 e.customeriomail.com
@@ -106481,7 +106473,6 @@
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 xplosion.de
-0.0.0.0 adui.tg.meitu.com
 0.0.0.0 meitustat.com
 0.0.0.0 analysis.vesync.com
 0.0.0.0 insights.zennioptical.com
@@ -106875,7 +106866,6 @@
 0.0.0.0 cafe-log.myshoplus.com
 0.0.0.0 de01.rayjump.com
 0.0.0.0 c.sayhi.360.cn
-0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log.tpns.tencent.com
 0.0.0.0 stat.m.360.cn
 0.0.0.0 stats-a.maxthon.com
