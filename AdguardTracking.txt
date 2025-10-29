@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 28 Oct 2025 02:04:03 +0000
+# Last converted - Wed, 29 Oct 2025 02:16:56 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sa.openmedia.co
+0.0.0.0 c1.prmonline.ru
 0.0.0.0 events.api.gamma.app
 0.0.0.0 d2g2u2795e3fzw.cloudfront.net
 0.0.0.0 tryzens-analytics.com
@@ -69344,7 +69346,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 curveshore.com
+0.0.0.0 applytics.my1337jog.run
 0.0.0.0 applytics.os4work.com
 0.0.0.0 applytics.napps-1.com
 0.0.0.0 z.cdn.protect-ad.com
@@ -119893,6 +119895,7 @@
 0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 esa-reg-eup.myoppo.com
+0.0.0.0 obus-in.dc.heytapmobile.com
 0.0.0.0 adx-in.ads.heytapmobile.com
 0.0.0.0 dragate-in-dc.heytapmobile.com
 0.0.0.0 omes-sec.heytapmobile.com
@@ -120769,6 +120772,7 @@
 0.0.0.0 currentcollar.com
 0.0.0.0 curtaincows.com
 0.0.0.0 curvedhoney.com
+0.0.0.0 curveshore.com
 0.0.0.0 curvycry.com
 0.0.0.0 cushiondrum.com
 0.0.0.0 cutecalculator.com
@@ -121001,6 +121005,7 @@
 0.0.0.0 framebanana.com
 0.0.0.0 franksfloral.com
 0.0.0.0 franticroof.com
+0.0.0.0 freedomgrail.com
 0.0.0.0 freezeassets.com
 0.0.0.0 freezingbuilding.com
 0.0.0.0 frequentflesh.com
@@ -121274,6 +121279,7 @@
 0.0.0.0 likethedog.com
 0.0.0.0 limepeal.com
 0.0.0.0 linkedleg.com
+0.0.0.0 linksoutside.com
 0.0.0.0 livelumber.com
 0.0.0.0 livelylaugh.com
 0.0.0.0 livingsleet.com
@@ -121543,6 +121549,7 @@
 0.0.0.0 polishedfolly.com
 0.0.0.0 politeplanes.com
 0.0.0.0 politicalporter.com
+0.0.0.0 popmixradio.com
 0.0.0.0 popplantation.com
 0.0.0.0 possibleboats.com
 0.0.0.0 possiblepencil.com
