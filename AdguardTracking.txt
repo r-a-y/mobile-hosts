@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 29 Oct 2025 02:16:56 +0000
+# Last converted - Thu, 30 Oct 2025 02:15:10 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 trackingmyadsas.com
 0.0.0.0 sa.openmedia.co
 0.0.0.0 c1.prmonline.ru
 0.0.0.0 events.api.gamma.app
@@ -69346,6 +69347,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 iot.skywayplatform.com
+0.0.0.0 rcu.skywayplatform.com
+0.0.0.0 tad.tygem.com
+0.0.0.0 uac.heraldcorp.com
 0.0.0.0 applytics.my1337jog.run
 0.0.0.0 applytics.os4work.com
 0.0.0.0 applytics.napps-1.com
