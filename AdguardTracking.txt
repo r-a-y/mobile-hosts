@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 30 Oct 2025 02:15:10 +0000
+# Last converted - Fri, 31 Oct 2025 02:07:26 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -15,6 +15,8 @@
 0.0.0.0 sa.openmedia.co
 0.0.0.0 c1.prmonline.ru
 0.0.0.0 events.api.gamma.app
+0.0.0.0 flashtalking.com
+0.0.0.0 io.narrative.io
 0.0.0.0 d2g2u2795e3fzw.cloudfront.net
 0.0.0.0 tryzens-analytics.com
 0.0.0.0 turbotargeting.io
@@ -944,6 +946,7 @@
 0.0.0.0 rc.vtex.com.br
 0.0.0.0 browser.events.data.msn.cn
 0.0.0.0 browser.events.data.msn.com
+0.0.0.0 urbanairship.com
 0.0.0.0 dw-eu.com.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 ipcheck.blogsys.jp
@@ -963,11 +966,14 @@
 0.0.0.0 logs.juspay.in
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.datadoghq.eu
+0.0.0.0 advangelists.com
+0.0.0.0 bfmio.com
 0.0.0.0 am-trc-events.taboola.com
 0.0.0.0 analytics.webads.eu
 0.0.0.0 adwstats.com
 0.0.0.0 tattle.api.osano.com
 0.0.0.0 astat.nikkei.com
+0.0.0.0 mpianalytics.com
 0.0.0.0 telemetry.swe.quicinc.com
 0.0.0.0 a.plerdy.com
 0.0.0.0 c.plerdy.com
@@ -1023,31 +1029,58 @@
 0.0.0.0 hit.interia.pl
 0.0.0.0 tracking.diginetica.net
 0.0.0.0 rtbanalytics.com
+0.0.0.0 quantcount.com
+0.0.0.0 akstat.io
 0.0.0.0 def-platform.com
+0.0.0.0 geoplugin.net
 0.0.0.0 ktrackdata.com
 0.0.0.0 connexity.net
 0.0.0.0 bizrate.com
+0.0.0.0 33across.com
 0.0.0.0 actonsoftware.com
+0.0.0.0 agkn.com
+0.0.0.0 bidswitch.net
+0.0.0.0 cedexis.com
+0.0.0.0 chartbeat.net
+0.0.0.0 cpx.to
+0.0.0.0 crwdcntrl.net
 0.0.0.0 pv.datacaciques.com
 0.0.0.0 gate.datacaciques.com
+0.0.0.0 demdex.net
 0.0.0.0 dwin1.com
 0.0.0.0 t.flix360.com
 0.0.0.0 rt.flix360.com
 0.0.0.0 fout.jp
+0.0.0.0 getclicky.com
+0.0.0.0 krxd.net
 0.0.0.0 lciapi.ninthdecimal.com
+0.0.0.0 localytics.com
+0.0.0.0 lp4.io
+0.0.0.0 mathtag.com
 0.0.0.0 mqs.ioam.de
+0.0.0.0 npario-inc.net
+0.0.0.0 onthe.io
+0.0.0.0 openstat.net
+0.0.0.0 pippio.com
 0.0.0.0 rcounter.rambler.ru
 0.0.0.0 rva.outbrain.com
+0.0.0.0 simpli.fi
 0.0.0.0 target.ukr.net
+0.0.0.0 theadex.com
 0.0.0.0 thetrafficstat.net
 0.0.0.0 top-staging.mail.ru
+0.0.0.0 upalytics.com
 0.0.0.0 v.shopify.com
 0.0.0.0 vdc.zoomph.com
+0.0.0.0 w55c.net
 0.0.0.0 w88.go.com
 0.0.0.0 wa.and.co.uk
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 c.webengage.com
 0.0.0.0 z.webengage.com
+0.0.0.0 xplosion.de
+0.0.0.0 yadro.ru
+0.0.0.0 zdbb.net
 0.0.0.0 bright-sdk.com
 0.0.0.0 perr.l-agent.me
 0.0.0.0 perr.l-err.biz
@@ -6220,7 +6253,6 @@
 0.0.0.0 marketing.firstpac.com
 0.0.0.0 marketing.five-startech.com
 0.0.0.0 marketing.five19creative.com
-0.0.0.0 marketing.flashtalking.com
 0.0.0.0 marketing.fleetfeetorlando.com
 0.0.0.0 marketing.fleetfeetraleigh.com
 0.0.0.0 marketing.fleetone.com
@@ -14726,7 +14758,6 @@
 0.0.0.0 adobeanalytics.populusgroup.com
 0.0.0.0 adobeanalytics.teksystems.com
 0.0.0.0 adobeanalytics.vice.com
-0.0.0.0 adobedc.demdex.net
 0.0.0.0 adobes.marugame-seimen.com
 0.0.0.0 adobes.pmi.org
 0.0.0.0 aedge.roche.com
@@ -69347,6 +69378,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 scdata.51job.com
 0.0.0.0 iot.skywayplatform.com
 0.0.0.0 rcu.skywayplatform.com
 0.0.0.0 tad.tygem.com
@@ -69745,7 +69777,6 @@
 0.0.0.0 fourier.alibaba.com
 0.0.0.0 fourier.aliexpress.com
 0.0.0.0 sofire.1024tera.com
-0.0.0.0 ad-events.flashtalking.com
 0.0.0.0 market-click-baobab.yandex.ru
 0.0.0.0 mssdk.tiktokw.us
 0.0.0.0 gc.newsweek.com
@@ -70794,7 +70825,6 @@
 0.0.0.0 analytics.iraiser.eu
 0.0.0.0 analytics.islamicfinder.org
 0.0.0.0 analytics.livestream.com
-0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.maileon.com
 0.0.0.0 analytics.marquiz.ru
 0.0.0.0 analytics.mindjolt.com
@@ -71016,7 +71046,6 @@
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.ukr.net
 0.0.0.0 counter.web.money
-0.0.0.0 counter.yadro.ru
 0.0.0.0 counter.zerohedge.com
 0.0.0.0 counter1.fc2.com
 0.0.0.0 counter24.luxnet.ua
@@ -119369,7 +119398,6 @@
 0.0.0.0 maxymiser.net
 0.0.0.0 rnengage.com
 0.0.0.0 nexeps.com
-0.0.0.0 theadex.com
 0.0.0.0 exactag.com
 0.0.0.0 tk.seasungame.com
 0.0.0.0 production.k-trk.com
@@ -119659,7 +119687,6 @@
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 data-detect.nie.easebar.com
-0.0.0.0 urbanairship.com
 0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 smartcard.apps.coloros.com
 0.0.0.0 fp-it.fengkongcloud.com
@@ -119722,7 +119749,6 @@
 0.0.0.0 aws.userlogsanalytics.com
 0.0.0.0 atb-stats-api.imolive.tv
 0.0.0.0 i.mxplayer.j2inter.com
-0.0.0.0 flashtalking.com
 0.0.0.0 stat.weamvideo.com
 0.0.0.0 log.ultimatecleaner.pro
 0.0.0.0 impression.link
@@ -119799,7 +119825,6 @@
 0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 mediation.mwmadnetworks.com
-0.0.0.0 xplosion.de
 0.0.0.0 meitustat.com
 0.0.0.0 analysis.vesync.com
 0.0.0.0 insights.zennioptical.com
@@ -119936,7 +119961,6 @@
 0.0.0.0 tracking-widget.fillr.com
 0.0.0.0 api.data-analytics.pokemon.com
 0.0.0.0 arcspire.io
-0.0.0.0 onthe.io
 0.0.0.0 t.adx.opera.com
 0.0.0.0 sensors.snaptube.app
 0.0.0.0 analytics.kongregate.io
@@ -120107,7 +120131,6 @@
 0.0.0.0 tenant-content.apm.appfolio-analytics.com
 0.0.0.0 log.avlyun.com
 0.0.0.0 api-analytics.prod.birdapp.com
-0.0.0.0 mpianalytics.com
 0.0.0.0 umengjmacs.m.taobao.com
 0.0.0.0 umengacs.m.taobao.com
 0.0.0.0 sdk-api-v1.singular.net
@@ -120148,18 +120171,6 @@
 0.0.0.0 analytics.snaptube.app
 0.0.0.0 px.ucweb.com
 0.0.0.0 adtima-static.zadn.vn
-0.0.0.0 akstat.io
-0.0.0.0 chartbeat.net
-0.0.0.0 advangelists.com
-0.0.0.0 agkn.com
-0.0.0.0 33across.com
-0.0.0.0 cpx.to
-0.0.0.0 bfmio.com
-0.0.0.0 mathtag.com
-0.0.0.0 w55c.net
-0.0.0.0 bidswitch.net
-0.0.0.0 simpli.fi
-0.0.0.0 getclicky.com
 0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 log.adtimaserver.vn
 0.0.0.0 tunion-api.m.taobao.com
@@ -120238,7 +120249,6 @@
 0.0.0.0 rts.mobula.sdk.duapps.com
 0.0.0.0 aftonbladetnya.sc.omtrdc.net
 0.0.0.0 omni-ads.omni.news
-0.0.0.0 npario-inc.net
 0.0.0.0 wzrkt.com
 0.0.0.0 analytics-events.inshorts.com
 0.0.0.0 e-ssl.apsalar.com
@@ -120248,7 +120258,6 @@
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 analytics-tracker.thescore.com
 0.0.0.0 rosenberg.appmetrica.webvisor.com
-0.0.0.0 geoplugin.net
 0.0.0.0 d.applvn.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rt.applovin.com
@@ -120256,8 +120265,6 @@
 0.0.0.0 puds.ucweb.com
 0.0.0.0 patriot.cs.pp.cn
 0.0.0.0 sdk-orion.appboy.com
-0.0.0.0 pippio.com
-0.0.0.0 io.narrative.io
 0.0.0.0 loadus.exelator.com
 0.0.0.0 api.mixpanel.com
 0.0.0.0 decide.mixpanel.com
@@ -120302,14 +120309,11 @@
 0.0.0.0 brahe.apptimize.com
 0.0.0.0 carfax.sc.omtrdc.net
 0.0.0.0 cedexis-radar.net
-0.0.0.0 cedexis.com
 0.0.0.0 clientmetrics-augmentum.kik.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 collector.brandify.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 crasheye.cn
-0.0.0.0 crwdcntrl.net
-0.0.0.0 demdex.net
 0.0.0.0 dsg.sc.omtrdc.net
 0.0.0.0 etl.xlmc.sandai.net
 0.0.0.0 events.lbesecapi.com
@@ -120317,10 +120321,8 @@
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 installtracker.com
-0.0.0.0 krxd.net
 0.0.0.0 lepodownload.mediatek.com
 0.0.0.0 log.umsns.com
-0.0.0.0 lp4.io
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 mlb.did.ijinshan.com
@@ -120330,11 +120332,9 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 nrc.tapas.net
 0.0.0.0 online-metrix.net
-0.0.0.0 openstat.net
 0.0.0.0 pingma.qq.com
 0.0.0.0 prugskh.com
 0.0.0.0 prugskh.net
-0.0.0.0 quantcount.com
 0.0.0.0 rc.dxsvr.com
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 rlog.9gag.com
@@ -120349,13 +120349,10 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 trk.pinterest.com
 0.0.0.0 tunein.adswizz.com
-0.0.0.0 upalytics.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ws.ksmobile.net
 0.0.0.0 www-google-analytics.l.google.com
-0.0.0.0 yadro.ru
 0.0.0.0 ymtracking.com
-0.0.0.0 zdbb.net
 0.0.0.0 csplog.kwai-pro.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 ulog.ksapisrv.com
@@ -120382,7 +120379,6 @@
 0.0.0.0 intlsucus.ucweb.com
 0.0.0.0 adtrack-intl.ucweb.com
 0.0.0.0 mum.alibabachengdun.com
-0.0.0.0 localytics.com
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 analy.qq.com
@@ -120763,6 +120759,7 @@
 0.0.0.0 cubchannel.com
 0.0.0.0 cubepins.com
 0.0.0.0 cuddlycake.com
+0.0.0.0 cuddlylab.com
 0.0.0.0 cuddlylunchroom.com
 0.0.0.0 culturedcamera.com
 0.0.0.0 culturedfeather.com
@@ -121111,6 +121108,7 @@
 0.0.0.0 haikusoap.com
 0.0.0.0 halcyoncanyon.com
 0.0.0.0 halcyonsculpture.com
+0.0.0.0 halocolor.com
 0.0.0.0 haltingbadge.com
 0.0.0.0 haltingdivision.com
 0.0.0.0 hammerhearing.com
@@ -121355,6 +121353,7 @@
 0.0.0.0 melodiousharmony.com
 0.0.0.0 melodioussymphony.com
 0.0.0.0 meltmilk.com
+0.0.0.0 memeorigin.com
 0.0.0.0 memolight.com
 0.0.0.0 memopilot.com
 0.0.0.0 memorizematch.com
@@ -121472,6 +121471,7 @@
 0.0.0.0 operationchicken.com
 0.0.0.0 operationnail.com
 0.0.0.0 optimallimit.com
+0.0.0.0 optionsnomad.com
 0.0.0.0 opulentsylvan.com
 0.0.0.0 orangebirdie.com
 0.0.0.0 orientedargument.com
@@ -121907,6 +121907,7 @@
 0.0.0.0 specialscissors.com
 0.0.0.0 specialsnake.com
 0.0.0.0 spectacularstamp.com
+0.0.0.0 spellingthoughts.com
 0.0.0.0 spellknight.com
 0.0.0.0 spellmist.com
 0.0.0.0 spellsalsa.com
@@ -122004,6 +122005,7 @@
 0.0.0.0 subseasecurity.com
 0.0.0.0 subsequentstew.com
 0.0.0.0 substantialgrade.com
+0.0.0.0 successbuffet.com
 0.0.0.0 successfuelevents.com
 0.0.0.0 suddensoda.com
 0.0.0.0 suggestionbridge.com
@@ -122033,6 +122035,7 @@
 0.0.0.0 syllablesight.com
 0.0.0.0 synonymoussticks.com
 0.0.0.0 synthesizescarecrow.com
+0.0.0.0 systemssummit.com
 0.0.0.0 tabcarts.com
 0.0.0.0 tackytrains.com
 0.0.0.0 tacojournal.com
@@ -122244,6 +122247,7 @@
 0.0.0.0 wildwoodavenue.com
 0.0.0.0 wirecomic.com
 0.0.0.0 wiredforcoffee.com
+0.0.0.0 wirenewsletter.com
 0.0.0.0 wirypaste.com
 0.0.0.0 wisedotcom.com
 0.0.0.0 wispycity.com
