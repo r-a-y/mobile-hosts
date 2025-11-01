@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 31 Oct 2025 02:07:26 +0000
+# Last converted - Sat, 01 Nov 2025 02:16:19 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 rescuerhino.com
+0.0.0.0 alphaupsell.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 trackingmyadsas.com
 0.0.0.0 sa.openmedia.co
 0.0.0.0 c1.prmonline.ru
@@ -69378,6 +69380,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 log1.wanmei.com
+0.0.0.0 log2.wanmei.com
+0.0.0.0 stats.externulls.com
+0.0.0.0 stats.spottedlublin.pl
 0.0.0.0 scdata.51job.com
 0.0.0.0 iot.skywayplatform.com
 0.0.0.0 rcu.skywayplatform.com
@@ -120385,6 +120391,7 @@
 0.0.0.0 login.eki-net.com
 0.0.0.0 ens.nzz.ch
 0.0.0.0 2znp09oa.com
+0.0.0.0 3rdspacetech.com
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 82o9v830.com
 0.0.0.0 abilityscale.com
@@ -120591,6 +120598,7 @@
 0.0.0.0 burlywhistle.com
 0.0.0.0 burnbubble.com
 0.0.0.0 bushesbag.com
+0.0.0.0 businessupdater.com
 0.0.0.0 bustlingbook.com
 0.0.0.0 butterbulb.com
 0.0.0.0 butterburst.com
@@ -121869,6 +121877,7 @@
 0.0.0.0 snakeslang.com
 0.0.0.0 snappyreport.com
 0.0.0.0 snapsgate.com
+0.0.0.0 snazzypoodle.com
 0.0.0.0 sneakwind.com
 0.0.0.0 sneakystew.com
 0.0.0.0 sneezecovers.com
@@ -122171,6 +122180,7 @@
 0.0.0.0 unwieldyhealth.com
 0.0.0.0 unwieldyimpulse.com
 0.0.0.0 unwieldyplastic.com
+0.0.0.0 upgradeyoga.com
 0.0.0.0 uppitytime.com
 0.0.0.0 upscaledigest.com
 0.0.0.0 urbanlaurel.com
