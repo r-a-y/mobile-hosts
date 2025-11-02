@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 01 Nov 2025 02:16:19 +0000
+# Last converted - Sun, 02 Nov 2025 02:19:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,7 +11,6 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
-0.0.0.0 rescuerhino.com
 0.0.0.0 alphaupsell.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 trackingmyadsas.com
 0.0.0.0 sa.openmedia.co
@@ -69380,6 +69379,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ipm.adblockplus.dev
 0.0.0.0 log1.wanmei.com
 0.0.0.0 log2.wanmei.com
 0.0.0.0 stats.externulls.com
@@ -119610,6 +119610,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 ads-api.x.com
 0.0.0.0 log.hiapkdownload.com
 0.0.0.0 experiment.pixverse.ai
 0.0.0.0 capture.pixverse.ai
@@ -120787,6 +120788,7 @@
 0.0.0.0 cushiondrum.com
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
+0.0.0.0 cyclinghere.com
 0.0.0.0 cyclopsdial.com
 0.0.0.0 damagedadvice.com
 0.0.0.0 damageddistance.com
@@ -120939,6 +120941,7 @@
 0.0.0.0 faithrowold.com
 0.0.0.0 fakedisguise.com
 0.0.0.0 fallaciousfifth.com
+0.0.0.0 fallingshoals.com
 0.0.0.0 falseframe.com
 0.0.0.0 falsesight.com
 0.0.0.0 familiarrod.com
@@ -121683,6 +121686,7 @@
 0.0.0.0 rentinfinity.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 replaceroute.com
+0.0.0.0 rescuerhino.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonantrock.com
 0.0.0.0 respectrain.com
@@ -122107,6 +122111,7 @@
 0.0.0.0 ticketssponge.com
 0.0.0.0 ticklesign.com
 0.0.0.0 tidymitten.com
+0.0.0.0 tidysprite.com
 0.0.0.0 tightpowder.com
 0.0.0.0 tinybluewhale.com
 0.0.0.0 tinyswans.com
