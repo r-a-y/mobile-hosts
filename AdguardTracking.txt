@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 04 Nov 2025 02:07:48 +0000
+# Last converted - Wed, 05 Nov 2025 02:15:16 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tracking-api.g2.com
+0.0.0.0 litix.io
+0.0.0.0 openpanel.dev
 0.0.0.0 alphaupsell.s3.ap-northeast-2.amazonaws.com
 0.0.0.0 trackingmyadsas.com
 0.0.0.0 sa.openmedia.co
@@ -122570,6 +122573,7 @@
 0.0.0.0 justicejudo.com
 0.0.0.0 justpickaname.com
 0.0.0.0 justwebcards.com
+0.0.0.0 justwowjars.com
 0.0.0.0 keenquill.com
 0.0.0.0 kidpowers.com
 0.0.0.0 kindasingle.com
@@ -123164,6 +123168,7 @@
 0.0.0.0 siliconslow.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 simplenaming.com
+0.0.0.0 simplesafari.com
 0.0.0.0 simplesidewalk.com
 0.0.0.0 simulateswing.com
 0.0.0.0 sincerebuffalo.com
@@ -123558,6 +123563,7 @@
 0.0.0.0 watersensible.com
 0.0.0.0 waterywave.com
 0.0.0.0 waveinverter.com
+0.0.0.0 wavesimple.com
 0.0.0.0 wavesmachine.com
 0.0.0.0 waxsirens.com
 0.0.0.0 wayjoyfarm.com
