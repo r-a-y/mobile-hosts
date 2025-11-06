@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 05 Nov 2025 02:15:16 +0000
+# Last converted - Thu, 06 Nov 2025 02:15:23 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 gau.groobee.io
+0.0.0.0 gre.groobee.io
+0.0.0.0 monitoring.hackle.io
+0.0.0.0 event-api.hackle.io
 0.0.0.0 tracking-api.g2.com
 0.0.0.0 litix.io
 0.0.0.0 openpanel.dev
@@ -968,6 +972,7 @@
 0.0.0.0 code.acstat.com
 0.0.0.0 tracker.durasite.net
 0.0.0.0 logs.juspay.in
+0.0.0.0 http-intake.logs.datadoghq.com
 0.0.0.0 logs.browser-intake-datadoghq.eu
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 advangelists.com
@@ -71299,6 +71304,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 events.asurion.com
+0.0.0.0 collector.moderntv.eu
 0.0.0.0 ipm.adblockplus.dev
 0.0.0.0 log1.wanmei.com
 0.0.0.0 log2.wanmei.com
@@ -72817,6 +72824,7 @@
 0.0.0.0 applog.zaycev.net
 0.0.0.0 appsanalytics.appideas.it
 0.0.0.0 apptracker.gamedock.io
+0.0.0.0 service.minute.ly
 0.0.0.0 apv-launcher.minute.ly
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 astat.nikkei.co.jp
@@ -120925,6 +120933,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 mon.capcutapi.us
+0.0.0.0 mssdk.capcutapi.us
+0.0.0.0 mon16-normal-us-ttp.capcutapi.us
+0.0.0.0 log16-normal-us-ttp.capcutapi.us
 0.0.0.0 jdlog.uu.cc
 0.0.0.0 gid.tapapis.cn
 0.0.0.0 dlog-config.uu.cc
@@ -122406,6 +122418,7 @@
 0.0.0.0 golfersrow.com
 0.0.0.0 gondolagnome.com
 0.0.0.0 gorgeousedge.com
+0.0.0.0 gorillapage.com
 0.0.0.0 gossamerwing.com
 0.0.0.0 gracefulmilk.com
 0.0.0.0 grainmass.com
@@ -122959,6 +122972,7 @@
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rackforstorage.com
+0.0.0.0 radexports.com
 0.0.0.0 radiantcanopy.com
 0.0.0.0 radiantlullaby.com
 0.0.0.0 radiateprose.com
