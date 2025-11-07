@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 06 Nov 2025 02:15:23 +0000
+# Last converted - Fri, 07 Nov 2025 02:09:57 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 delog.nestads.com
+0.0.0.0 deapi.nestads.com
+0.0.0.0 event.marketap.io
+0.0.0.0 crm.marketap.io
 0.0.0.0 gau.groobee.io
 0.0.0.0 gre.groobee.io
 0.0.0.0 monitoring.hackle.io
@@ -71304,6 +71308,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 bizlog-gateway.myrealtrip.com
+0.0.0.0 api-ktm.kkday.com
+0.0.0.0 riskpoc.trip.com
+0.0.0.0 chloro.trip.com
+0.0.0.0 ubt-sgp.trip.com
 0.0.0.0 events.asurion.com
 0.0.0.0 collector.moderntv.eu
 0.0.0.0 ipm.adblockplus.dev
@@ -121731,6 +121740,7 @@
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
 0.0.0.0 absentairport.com
+0.0.0.0 absolutering.com
 0.0.0.0 absorbingband.com
 0.0.0.0 absorbingprison.com
 0.0.0.0 abstractedamount.com
@@ -122630,6 +122640,7 @@
 0.0.0.0 limepeal.com
 0.0.0.0 linkedleg.com
 0.0.0.0 linksoutside.com
+0.0.0.0 linkstable.com
 0.0.0.0 livelumber.com
 0.0.0.0 livelylaugh.com
 0.0.0.0 livingsleet.com
@@ -122963,6 +122974,7 @@
 0.0.0.0 quietknowledge.com
 0.0.0.0 quillkick.com
 0.0.0.0 quiltquick.com
+0.0.0.0 quiltruler.com
 0.0.0.0 quirkybliss.com
 0.0.0.0 quirkybodega.com
 0.0.0.0 quirkysugar.com
