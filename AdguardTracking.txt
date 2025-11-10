@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 09 Nov 2025 02:17:51 +0000
+# Last converted - Mon, 10 Nov 2025 02:19:13 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.bomiv.com
+0.0.0.0 track.bomiv.com
 0.0.0.0 delog.nestads.com
 0.0.0.0 deapi.nestads.com
 0.0.0.0 event.marketap.io
@@ -71335,7 +71337,6 @@
 0.0.0.0 hbrcv.adobe.com
 0.0.0.0 hbrt.adobe.com
 0.0.0.0 leo.tridge.com
-0.0.0.0 haystack.wavve.com
 0.0.0.0 user-event-log.aminer.cn
 0.0.0.0 pixel.dashfi.dev
 0.0.0.0 c.quackr.io
@@ -122039,6 +122040,7 @@
 0.0.0.0 coinsyouneed.com
 0.0.0.0 coldbalance.com
 0.0.0.0 coloradoserves.com
+0.0.0.0 colorfulpet.com
 0.0.0.0 coloringisland.com
 0.0.0.0 colossalclouds.com
 0.0.0.0 colossalcoat.com
@@ -122787,6 +122789,7 @@
 0.0.0.0 needyneedle.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 networklast.com
 0.0.0.0 newarkdriving.com
 0.0.0.0 newartreview.com
 0.0.0.0 niftygraphs.com
@@ -123352,6 +123355,7 @@
 0.0.0.0 stomachscience.com
 0.0.0.0 stonechin.com
 0.0.0.0 stopstomach.com
+0.0.0.0 stormyflower.com
 0.0.0.0 straightnest.com
 0.0.0.0 straindrinks.com
 0.0.0.0 strangeclocks.com
