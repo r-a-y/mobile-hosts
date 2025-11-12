@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 11 Nov 2025 02:15:34 +0000
+# Last converted - Wed, 12 Nov 2025 02:14:26 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 beacon.coofis.com
+0.0.0.0 aditude.prebid-server.com
+0.0.0.0 cache.prebid-server.com
+0.0.0.0 cdnm.techpump.com
 0.0.0.0 analytics.bomiv.com
 0.0.0.0 track.bomiv.com
 0.0.0.0 delog.nestads.com
@@ -72498,6 +72502,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tdum.alibaba.com
 0.0.0.0 webpushstat-sgp.engagelab.com
 0.0.0.0 analytics.simpler.so
 0.0.0.0 bizlog-gateway.myrealtrip.com
@@ -114152,6 +114157,8 @@
 0.0.0.0 rnengage.com
 0.0.0.0 nexeps.com
 0.0.0.0 exactag.com
+0.0.0.0 mailgun-tracking.ridi.com
+0.0.0.0 client-data.knak.io
 0.0.0.0 tk.seasungame.com
 0.0.0.0 production.k-trk.com
 0.0.0.0 tracking.srv2.de
@@ -114358,6 +114365,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tnc16-normal-us-ttp.capcutapi.us
+0.0.0.0 mcs16-normal-us-ttp.capcutapi.us
 0.0.0.0 appcpi.net
 0.0.0.0 event.aimailhome.io
 0.0.0.0 mon.capcutapi.us
@@ -115517,6 +115526,7 @@
 0.0.0.0 crafthenry.com
 0.0.0.0 crashchance.com
 0.0.0.0 cratecamera.com
+0.0.0.0 createdip.com
 0.0.0.0 creatorcherry.com
 0.0.0.0 creatorpassenger.com
 0.0.0.0 creatorsnote.com
@@ -115582,6 +115592,7 @@
 0.0.0.0 deliciousducks.com
 0.0.0.0 deltafault.com
 0.0.0.0 deluxecrate.com
+0.0.0.0 demorewards.com
 0.0.0.0 dependenttrip.com
 0.0.0.0 deployinput.com
 0.0.0.0 desertgates.com
@@ -115788,6 +115799,7 @@
 0.0.0.0 freezeassets.com
 0.0.0.0 freezingbuilding.com
 0.0.0.0 frequentflesh.com
+0.0.0.0 freshlyhuman.com
 0.0.0.0 friedone.com
 0.0.0.0 friendlycrayon.com
 0.0.0.0 friendlyfold.com
@@ -116190,6 +116202,7 @@
 0.0.0.0 muteknife.com
 0.0.0.0 mutemailbox.com
 0.0.0.0 mutualhappy.com
+0.0.0.0 mysketchpad.com
 0.0.0.0 mysticalagoon.com
 0.0.0.0 naivestatement.com
 0.0.0.0 nappyattack.com
@@ -116794,6 +116807,7 @@
 0.0.0.0 stupidscene.com
 0.0.0.0 stupidsnake.com
 0.0.0.0 sturdysnail.com
+0.0.0.0 stylelockers.com
 0.0.0.0 stylishbuds.com
 0.0.0.0 subjectivepoint.com
 0.0.0.0 sublimequartz.com
