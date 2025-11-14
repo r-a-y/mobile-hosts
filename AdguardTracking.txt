@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 13 Nov 2025 02:16:47 +0000
+# Last converted - Fri, 14 Nov 2025 02:14:57 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 nlog.instajob.ai
 0.0.0.0 data.pendo.io
 0.0.0.0 api.statsigcdn.com
 0.0.0.0 beacon.coofis.com
@@ -72504,6 +72505,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 sp.aviasales.ru
+0.0.0.0 darnuid.netflix.com
+0.0.0.0 analytics.thekrazycouponlady.com
 0.0.0.0 usage.trackjs.com
 0.0.0.0 coll.lovense.com
 0.0.0.0 bilog.lovense-api.com
@@ -114372,6 +114376,13 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 fcm-collect-api.alyac.com
+0.0.0.0 service-api.flarelane.com
+0.0.0.0 mossturbo.com
+0.0.0.0 collect.wehearfm.com
+0.0.0.0 itracking.ikameglobal.com
+0.0.0.0 client-events-ingress.bookbub.com
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 xz.fbcdn.net
 0.0.0.0 xy.fbcdn.net
 0.0.0.0 data.eu.pendo.io
@@ -115468,6 +115479,7 @@
 0.0.0.0 cleanhaircut.com
 0.0.0.0 climbingright.com
 0.0.0.0 cloisteredcurve.com
+0.0.0.0 cloudchickens.com
 0.0.0.0 cloudguppy.com
 0.0.0.0 cloudhustles.com
 0.0.0.0 cloudjumbo.com
@@ -115639,6 +115651,7 @@
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 doggieshome.com
 0.0.0.0 dollardelta.com
+0.0.0.0 dollarthrill.com
 0.0.0.0 doubledefend.com
 0.0.0.0 doubtdrawer.com
 0.0.0.0 dq95d35.com
