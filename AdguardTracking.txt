@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 18 Nov 2025 02:14:22 +0000
+# Last converted - Wed, 19 Nov 2025 02:13:57 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46746,6 +46746,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.adjust.io
 0.0.0.0 jitsu.ixbt.site
 0.0.0.0 sgtm.ixbt.site
 0.0.0.0 sp.aviasales.ru
@@ -70670,6 +70671,22 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logreport-global-dual.coolhcloud.com
+0.0.0.0 detaillog-global-dual.coolhcloud.com
+0.0.0.0 stat.dp.vocalbeats.com
+0.0.0.0 tycollectproxy.tiyalive.com
+0.0.0.0 logz.tekiusa.com
+0.0.0.0 log.lnk.events
+0.0.0.0 app-log-oversea.immomo.com
+0.0.0.0 app-monitor.spacecape.com
+0.0.0.0 hlog.hiido.com
+0.0.0.0 logcollection.ronghub.com
+0.0.0.0 log.wigoliv.work
+0.0.0.0 tracking.affattr.com
+0.0.0.0 log.suddenclean.com
+0.0.0.0 infinario.com
+0.0.0.0 log.phonefreshfix.live
+0.0.0.0 log-mediation.easemobi.net
 0.0.0.0 trkapi.impact.com
 0.0.0.0 lw-c-log.lastwarapp.com
 0.0.0.0 bi-tracker-global.rivergame.net
