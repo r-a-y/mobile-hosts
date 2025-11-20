@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 19 Nov 2025 02:13:57 +0000
+# Last converted - Thu, 20 Nov 2025 02:07:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 lc.recopick.com
+0.0.0.0 cv.aedi.ai
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 prebid.loopmertb.com
 0.0.0.0 nlog.instajob.ai
@@ -46746,6 +46748,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ebm.lfmall.co.kr
 0.0.0.0 analytics.adjust.io
 0.0.0.0 jitsu.ixbt.site
 0.0.0.0 sgtm.ixbt.site
@@ -70671,6 +70674,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log.stickflow.xyz
+0.0.0.0 stats.us-light-edge.com
+0.0.0.0 log2.ihubgo.info
 0.0.0.0 logreport-global-dual.coolhcloud.com
 0.0.0.0 detaillog-global-dual.coolhcloud.com
 0.0.0.0 stat.dp.vocalbeats.com
@@ -71638,6 +71644,7 @@
 0.0.0.0 billowybelief.com
 0.0.0.0 billtable.com
 0.0.0.0 binarycrest.com
+0.0.0.0 binarykite.com
 0.0.0.0 binspiredtees.com
 0.0.0.0 birthdaybelief.com
 0.0.0.0 blackbrake.com
@@ -71845,6 +71852,7 @@
 0.0.0.0 copyfranchise.com
 0.0.0.0 copyrightaccesscontrols.com
 0.0.0.0 copyvibes.com
+0.0.0.0 coralcranes.com
 0.0.0.0 coralreverie.com
 0.0.0.0 corgibeachday.com
 0.0.0.0 cornershirts.com
@@ -71994,6 +72002,7 @@
 0.0.0.0 effervescentvista.com
 0.0.0.0 effulgentnook.com
 0.0.0.0 effulgenttempest.com
+0.0.0.0 eightgreens.com
 0.0.0.0 elasticchange.com
 0.0.0.0 elderlybean.com
 0.0.0.0 elderlytown.com
@@ -72109,6 +72118,7 @@
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
 0.0.0.0 flippedfunnel.com
+0.0.0.0 floodedpixel.com
 0.0.0.0 floodprincipal.com
 0.0.0.0 flourishingcollaboration.com
 0.0.0.0 flourishingendeavor.com
