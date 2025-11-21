@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 20 Nov 2025 02:07:01 +0000
+# Last converted - Fri, 21 Nov 2025 02:09:25 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 data.thoughtmetric.io
+0.0.0.0 assets.9gtb.com
+0.0.0.0 cdn.logbase.io
 0.0.0.0 lc.recopick.com
 0.0.0.0 cv.aedi.ai
 0.0.0.0 tags.tiqcdn.com
@@ -46748,6 +46751,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 conversionsapigateway.com
 0.0.0.0 ebm.lfmall.co.kr
 0.0.0.0 analytics.adjust.io
 0.0.0.0 jitsu.ixbt.site
@@ -70674,6 +70678,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 datarangers-event.myrightone.com
+0.0.0.0 stats.rong-edge.com
+0.0.0.0 config.toto.zipoapps.com
+0.0.0.0 tracking.ksztone.com
 0.0.0.0 log.stickflow.xyz
 0.0.0.0 stats.us-light-edge.com
 0.0.0.0 log2.ihubgo.info
@@ -71503,6 +71511,7 @@
 0.0.0.0 4jnzhl0d0.com
 0.0.0.0 82o9v830.com
 0.0.0.0 abilityscale.com
+0.0.0.0 abilitytoucan.com
 0.0.0.0 abjectattempt.com
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
@@ -72608,6 +72617,7 @@
 0.0.0.0 oafishobservation.com
 0.0.0.0 objecthero.com
 0.0.0.0 objectsnetwork.com
+0.0.0.0 oblivionfleet.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 octaneblood.com
 0.0.0.0 offerniche.com
