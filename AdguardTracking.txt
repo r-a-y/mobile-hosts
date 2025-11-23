@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 22 Nov 2025 02:03:39 +0000
+# Last converted - Sun, 23 Nov 2025 02:29:14 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -70679,6 +70679,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 statistic.live.126.net
+0.0.0.0 report.1-1.io
 0.0.0.0 sensor.emolm.com
 0.0.0.0 detaillog-global-dual.coolbcloud.com
 0.0.0.0 wslog-global-dual.coolccloud.com
@@ -72150,6 +72152,7 @@
 0.0.0.0 flutteringfireman.com
 0.0.0.0 foambench.com
 0.0.0.0 followborder.com
+0.0.0.0 fontserif.com
 0.0.0.0 foodczar.com
 0.0.0.0 foodfunfestivals.com
 0.0.0.0 forecasttiger.com
@@ -72508,6 +72511,7 @@
 0.0.0.0 materialparcel.com
 0.0.0.0 materialplayground.com
 0.0.0.0 maxcruisers.com
+0.0.0.0 maybetony.com
 0.0.0.0 meadowlullaby.com
 0.0.0.0 measlymiddle.com
 0.0.0.0 meatydime.com
@@ -72781,6 +72785,7 @@
 0.0.0.0 quantumshine.com
 0.0.0.0 queenjam.com
 0.0.0.0 queenskart.com
+0.0.0.0 questionate.com
 0.0.0.0 quicklyedit.com
 0.0.0.0 quicksandear.com
 0.0.0.0 quietknowledge.com
