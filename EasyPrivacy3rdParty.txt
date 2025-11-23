@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 20 Nov 2025 02:07:02 +0000
+# Last converted - Sun, 23 Nov 2025 02:29:15 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -246,9 +246,9 @@
 0.0.0.0 botdetection.hbrsd.com
 0.0.0.0 browser-intake-datadoghq.com
 0.0.0.0 browser.covatic.io
-0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 buffet.identityservices.io
 0.0.0.0 bundle.9gtb.com
 0.0.0.0 bundle.dyn-rev.app
 0.0.0.0 bundle.ppas.monster
