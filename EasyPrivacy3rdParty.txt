@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 23 Nov 2025 02:29:15 +0000
+# Last converted - Mon, 24 Nov 2025 02:22:51 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -185,6 +185,7 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 analyticsplusdev.clientify.net
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 ape-tagit.timeinc.net
@@ -1053,6 +1054,7 @@
 0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
+0.0.0.0 tag.getamigo.io
 0.0.0.0 tag.imagino.com
 0.0.0.0 tag.lexer.io
 0.0.0.0 tag.mtrcs.samba.tv
