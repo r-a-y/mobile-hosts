@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 26 Nov 2025 02:16:16 +0000
+# Last converted - Thu, 27 Nov 2025 02:12:38 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46386,6 +46386,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics-prod.readtheory.org
+0.0.0.0 y194.asics.com
+0.0.0.0 analytics.cosmicstack.org
+0.0.0.0 mgs.instacart.com
+0.0.0.0 c.ypcdn.com
 0.0.0.0 ac2.tnaflix.com
 0.0.0.0 web.analytics.metrobyt-mobile.com
 0.0.0.0 conversionsapigateway.com
@@ -68309,6 +68314,7 @@
 0.0.0.0 hellounbox.com
 0.0.0.0 helpcollar.com
 0.0.0.0 helpflame.com
+0.0.0.0 helpingbits.com
 0.0.0.0 hertechlife.com
 0.0.0.0 hfc195b.com
 0.0.0.0 highfalutinbox.com
@@ -68749,6 +68755,7 @@
 0.0.0.0 precisear.com
 0.0.0.0 predictplate.com
 0.0.0.0 prepareplanes.com
+0.0.0.0 prepaymint.net
 0.0.0.0 presetrabbits.com
 0.0.0.0 presscoder.com
 0.0.0.0 prettyeasycafe.com
