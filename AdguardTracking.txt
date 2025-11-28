@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 27 Nov 2025 02:12:38 +0000
+# Last converted - Fri, 28 Nov 2025 02:07:59 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tncid.app
+0.0.0.0 l5id.com
+0.0.0.0 evorra.net
 0.0.0.0 track.aimroas.com
 0.0.0.0 assetsconfigcdn.org
 0.0.0.0 aeg.offerup-apis.com
@@ -68160,6 +68163,7 @@
 0.0.0.0 floweryoperation.com
 0.0.0.0 flushingbeast.com
 0.0.0.0 flutteringfireman.com
+0.0.0.0 flystranger.com
 0.0.0.0 foambench.com
 0.0.0.0 followborder.com
 0.0.0.0 fontserif.com
