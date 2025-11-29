@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 28 Nov 2025 02:07:59 +0000
+# Last converted - Sat, 29 Nov 2025 02:07:19 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46389,6 +46389,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 valencia-beacons.xumo.com
+0.0.0.0 sync.getpublica.com
+0.0.0.0 events-tracker.deliveroo.net
 0.0.0.0 analytics-prod.readtheory.org
 0.0.0.0 y194.asics.com
 0.0.0.0 analytics.cosmicstack.org
@@ -66689,6 +66692,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 statistic.live.126.net
 0.0.0.0 report.1-1.io
@@ -67768,6 +67772,7 @@
 0.0.0.0 captivatingillusion.com
 0.0.0.0 captivatingpanorama.com
 0.0.0.0 captivatingperformance.com
+0.0.0.0 carbongarden.net
 0.0.0.0 cardmethod.com
 0.0.0.0 carefuldolls.com
 0.0.0.0 caringcast.com
@@ -68129,6 +68134,7 @@
 0.0.0.0 fewjuice.com
 0.0.0.0 fewkittens.com
 0.0.0.0 fieldconfig.com
+0.0.0.0 figsprotein.com
 0.0.0.0 fillthemap.com
 0.0.0.0 filtercutter.com
 0.0.0.0 finalizeforce.com
@@ -69057,6 +69063,7 @@
 0.0.0.0 slackpod.com
 0.0.0.0 slaysweater.com
 0.0.0.0 slickcontent.com
+0.0.0.0 slimesupplies.net
 0.0.0.0 slinksuggestion.com
 0.0.0.0 slopesoap.com
 0.0.0.0 smallershops.com
@@ -69476,6 +69483,7 @@
 0.0.0.0 worldrealize.com
 0.0.0.0 worriednumber.com
 0.0.0.0 worriedwine.com
+0.0.0.0 wowfunnow.com
 0.0.0.0 wrapstretch.com
 0.0.0.0 wretchedfloor.com
 0.0.0.0 writerhubs.com
