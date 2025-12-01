@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 30 Nov 2025 02:28:08 +0000
+# Last converted - Mon, 01 Dec 2025 02:37:23 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -48782,7 +48782,6 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.download.xunlei.com
 0.0.0.0 stat.eagleplatform.com
-0.0.0.0 stat.i3.dmm.com
 0.0.0.0 stat.kbs.co.kr
 0.0.0.0 stat.kununu.cz
 0.0.0.0 stat.mydaddy.cc
@@ -68268,6 +68267,7 @@
 0.0.0.0 gravitykick.com
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
+0.0.0.0 grayscaleart.com
 0.0.0.0 greasegarden.com
 0.0.0.0 greasysquare.com
 0.0.0.0 gridbelow.com
@@ -68978,6 +68978,7 @@
 0.0.0.0 scrollservice.com
 0.0.0.0 scrubswim.com
 0.0.0.0 sealtravels.com
+0.0.0.0 seamlesssalon.com
 0.0.0.0 seatsmoke.com
 0.0.0.0 secondhandfall.com
 0.0.0.0 secretivesheep.com
