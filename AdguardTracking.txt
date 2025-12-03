@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 02 Dec 2025 02:18:26 +0000
+# Last converted - Wed, 03 Dec 2025 02:18:10 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tags.mlytics.com
 0.0.0.0 tncid.app
 0.0.0.0 l5id.com
 0.0.0.0 evorra.net
@@ -46800,6 +46801,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 advancedanalytics-websocket-pri-001.hexaglobe.net
 0.0.0.0 valencia-beacons.xumo.com
 0.0.0.0 sync.getpublica.com
 0.0.0.0 events-tracker.deliveroo.net
@@ -47151,7 +47153,6 @@
 0.0.0.0 web-sdk-cdn.singular.net
 0.0.0.0 tracking.ringieraxelspringer.tech
 0.0.0.0 aidsvc.netflix.com
-0.0.0.0 sensor.grubhub.com
 0.0.0.0 kloggyr-service.kyruus.com
 0.0.0.0 geo.justwatch.com
 0.0.0.0 sspnm.emol.com
@@ -67291,6 +67292,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 stats.cn.ronghub.com
 0.0.0.0 statistic.live.126.net
@@ -68369,6 +68371,7 @@
 0.0.0.0 canvasandsocks.com
 0.0.0.0 capablecup.com
 0.0.0.0 capriciouscorn.com
+0.0.0.0 captainstick.com
 0.0.0.0 captivatingcanyon.com
 0.0.0.0 captivatingillusion.com
 0.0.0.0 captivatingpanorama.com
@@ -68859,6 +68862,7 @@
 0.0.0.0 gorgeousedge.com
 0.0.0.0 gorillapage.com
 0.0.0.0 gossamerwing.com
+0.0.0.0 gotlunched.com
 0.0.0.0 gracefulmilk.com
 0.0.0.0 grainmass.com
 0.0.0.0 grandfatherguitar.com
