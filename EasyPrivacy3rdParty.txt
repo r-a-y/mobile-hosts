@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 02 Dec 2025 02:18:26 +0000
+# Last converted - Wed, 03 Dec 2025 02:18:11 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -437,6 +437,7 @@
 0.0.0.0 error-analytics-production.shopifysvc.com
 0.0.0.0 error-analytics-sessions-production.shopifysvc.com
 0.0.0.0 errors.snackly.co
+0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 et.educationdynamics.com
 0.0.0.0 etl.springbot.com
 0.0.0.0 eu-mobile.events.data.microsoft.com
