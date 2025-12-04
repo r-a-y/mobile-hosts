@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 03 Dec 2025 02:18:10 +0000
+# Last converted - Thu, 04 Dec 2025 02:18:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 tags.mlytics.com
 0.0.0.0 tncid.app
 0.0.0.0 l5id.com
@@ -46801,6 +46802,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tagbridge.vlp.cz
 0.0.0.0 advancedanalytics-websocket-pri-001.hexaglobe.net
 0.0.0.0 valencia-beacons.xumo.com
 0.0.0.0 sync.getpublica.com
@@ -68599,6 +68601,7 @@
 0.0.0.0 dinnerquartz.com
 0.0.0.0 direfuldesk.com
 0.0.0.0 disagreeabledrop.com
+0.0.0.0 discopond.com
 0.0.0.0 discreetfield.com
 0.0.0.0 discreetquarter.com
 0.0.0.0 distributionpocket.com
@@ -68756,6 +68759,7 @@
 0.0.0.0 fixedfold.com
 0.0.0.0 flakyfeast.com
 0.0.0.0 flameuncle.com
+0.0.0.0 flashtexting.com
 0.0.0.0 fleetbegin.com
 0.0.0.0 flimsycircle.com
 0.0.0.0 flimsythought.com
@@ -69188,6 +69192,7 @@
 0.0.0.0 modularmental.com
 0.0.0.0 momentfilter.com
 0.0.0.0 monacobeatles.com
+0.0.0.0 monkeyapes.com
 0.0.0.0 monkeystyping.com
 0.0.0.0 monstermemes.com
 0.0.0.0 monthlyhat.com
