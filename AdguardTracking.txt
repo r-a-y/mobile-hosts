@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 04 Dec 2025 02:18:46 +0000
+# Last converted - Fri, 05 Dec 2025 02:19:04 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46802,6 +46802,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.claudelog.com
+0.0.0.0 i.go.sohu.com
 0.0.0.0 tagbridge.vlp.cz
 0.0.0.0 advancedanalytics-websocket-pri-001.hexaglobe.net
 0.0.0.0 valencia-beacons.xumo.com
@@ -68991,6 +68993,7 @@
 0.0.0.0 inputicicle.com
 0.0.0.0 inquisitiveice.com
 0.0.0.0 inquisitiveinvention.com
+0.0.0.0 insectmacros.com
 0.0.0.0 inspirebees.com
 0.0.0.0 insulatech.com
 0.0.0.0 intelligentscissors.com
