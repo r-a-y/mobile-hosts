@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 03 Dec 2025 02:18:11 +0000
+# Last converted - Sat, 06 Dec 2025 02:06:32 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -902,6 +902,7 @@
 0.0.0.0 snowplowjs.darwin.cx
 0.0.0.0 solutions.invocacdn.com
 0.0.0.0 sp-wukong-tracker.b-cdn.net
+0.0.0.0 sp.pcid.ca
 0.0.0.0 sp.tinymce.com
 0.0.0.0 spa-tracker.spapi.io
 0.0.0.0 speedtrap.shopdirect.com
