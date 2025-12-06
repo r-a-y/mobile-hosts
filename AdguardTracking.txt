@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 05 Dec 2025 02:19:04 +0000
+# Last converted - Sat, 06 Dec 2025 02:06:31 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sp.pcid.ca
 0.0.0.0 tracker.zmaticoo.com
 0.0.0.0 tags.mlytics.com
 0.0.0.0 tncid.app
@@ -46802,6 +46803,14 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
+0.0.0.0 events.gfe.nvidia.com
+0.0.0.0 prod.otel.kaizen.nvidia.com
+0.0.0.0 telemetry.gfe.nvidia.com
+0.0.0.0 telegraph.prd.api.discoveryplus.com
+0.0.0.0 telegraph.prd.api.hbomax.com
+0.0.0.0 click.lenovo.com
+0.0.0.0 phaseshift.almagrow.com
 0.0.0.0 analytics.claudelog.com
 0.0.0.0 i.go.sohu.com
 0.0.0.0 tagbridge.vlp.cz
@@ -47047,7 +47056,7 @@
 0.0.0.0 j0v36abmdj.execute-api.us-east-1.amazonaws.com
 0.0.0.0 lumberjack-metrics.razorpay.com
 0.0.0.0 statistics-collector-api.listglobally.com
-0.0.0.0 telegraph.prd.api.bleacherreport.com
+0.0.0.0 prd.api.bleacherreport.com
 0.0.0.0 events.shoplift.ai
 0.0.0.0 flxr.myplan-c.com
 0.0.0.0 imgsct.cookiebot.com
