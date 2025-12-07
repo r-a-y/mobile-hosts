@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 06 Dec 2025 02:06:31 +0000
+# Last converted - Sun, 07 Dec 2025 02:28:19 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46803,6 +46803,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tracking-live.kr3m.com
 0.0.0.0 gx-target-experiments-frontend-api.gx.nvidia.com
 0.0.0.0 events.gfe.nvidia.com
 0.0.0.0 prod.otel.kaizen.nvidia.com
