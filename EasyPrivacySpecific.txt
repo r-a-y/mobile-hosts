@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 24 Nov 2025 02:22:51 +0000
+# Last converted - Tue, 09 Dec 2025 02:18:35 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -452,6 +452,7 @@
 0.0.0.0 optimizely.techtarget.com
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 p.codio.com
+0.0.0.0 p.controld.com
 0.0.0.0 p.hentaiforce.net
 0.0.0.0 p.minds.com
 0.0.0.0 p.spotidownloader.com
