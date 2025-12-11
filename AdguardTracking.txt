@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 10 Dec 2025 02:21:19 +0000
+# Last converted - Thu, 11 Dec 2025 02:22:50 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46853,6 +46853,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 fls-na.amazon.com
+0.0.0.0 tag.poomang.com
 0.0.0.0 counter.tldw.me
 0.0.0.0 analytics.blender.org
 0.0.0.0 d.nordprotect.com
@@ -66267,6 +66269,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log.cleansweepplu.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 logrcv.adseyeservice.com
 0.0.0.0 stats.cn.ronghub.com
