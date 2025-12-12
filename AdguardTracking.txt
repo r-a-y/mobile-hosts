@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 11 Dec 2025 02:22:50 +0000
+# Last converted - Fri, 12 Dec 2025 02:22:36 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -46853,6 +46853,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metis.truecaller.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 tag.poomang.com
 0.0.0.0 counter.tldw.me
@@ -66269,6 +66270,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 events-api.lyrebirdstudio.net
+0.0.0.0 log.pdfbookeditor.live
+0.0.0.0 mob2.cactus-bp.com
 0.0.0.0 log.cleansweepplu.com
 0.0.0.0 tc.vbnmhjlp.com
 0.0.0.0 logrcv.adseyeservice.com
@@ -67251,6 +67255,7 @@
 0.0.0.0 bewilderedblade.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bidpapers.com
+0.0.0.0 bigfishapparel.com
 0.0.0.0 bigworldfashion.com
 0.0.0.0 bikepaws.com
 0.0.0.0 bikesboard.com
@@ -67274,6 +67279,7 @@
 0.0.0.0 blitzcampaigns.com
 0.0.0.0 blockdial.com
 0.0.0.0 blueeyedblow.com
+0.0.0.0 bluenest.net
 0.0.0.0 bluevinebooks.com
 0.0.0.0 blushingbeast.com
 0.0.0.0 blushingbread.com
@@ -67442,6 +67448,7 @@
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commonalmanac.com
 0.0.0.0 comparereaction.com
+0.0.0.0 compilework.com
 0.0.0.0 complexpixel.com
 0.0.0.0 concretetom.com
 0.0.0.0 condemnedcomb.com
@@ -67570,6 +67577,7 @@
 0.0.0.0 detourgame.com
 0.0.0.0 devilishdinner.com
 0.0.0.0 dewdroplagoon.com
+0.0.0.0 dicecandies.com
 0.0.0.0 dicemoments.com
 0.0.0.0 difficultfog.com
 0.0.0.0 digestiondrawer.com
