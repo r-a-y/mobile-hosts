@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 12 Dec 2025 02:22:36 +0000
+# Last converted - Sat, 13 Dec 2025 02:15:42 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 dsp.groupminteraction.ru
+0.0.0.0 oneid.live
 0.0.0.0 aim.loc.kr
 0.0.0.0 sp.pcid.ca
 0.0.0.0 tracker.zmaticoo.com
@@ -28,7 +30,6 @@
 0.0.0.0 cdn.logbase.io
 0.0.0.0 lc.recopick.com
 0.0.0.0 cv.aedi.ai
-0.0.0.0 tags.tiqcdn.com
 0.0.0.0 prebid.loopmertb.com
 0.0.0.0 nlog.instajob.ai
 0.0.0.0 data.pendo.io
@@ -46853,6 +46854,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metrics.media-amazon.com
 0.0.0.0 metis.truecaller.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 tag.poomang.com
@@ -66270,6 +66272,12 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 live.ravelin.click
+0.0.0.0 perseus-productanalytics.deliveryhero.net
+0.0.0.0 iguazu.doordash.com
+0.0.0.0 otel-mobile.doordash.com
+0.0.0.0 stat.apfgexfusion.com
+0.0.0.0 event.bigkeyboardeasyphone.com
 0.0.0.0 events-api.lyrebirdstudio.net
 0.0.0.0 log.pdfbookeditor.live
 0.0.0.0 mob2.cactus-bp.com
