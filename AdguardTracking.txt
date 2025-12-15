@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 14 Dec 2025 02:29:31 +0000
+# Last converted - Mon, 15 Dec 2025 02:27:03 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 ma-tag.com
 0.0.0.0 dsp.groupminteraction.ru
 0.0.0.0 oneid.live
 0.0.0.0 aim.loc.kr
@@ -67481,6 +67482,7 @@
 0.0.0.0 coolestcatcare.com
 0.0.0.0 coolguesthouse.com
 0.0.0.0 coordinatedcoat.com
+0.0.0.0 copperstills.net
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyfranchise.com
 0.0.0.0 copyrightaccesscontrols.com
@@ -67496,6 +67498,7 @@
 0.0.0.0 costwinner.com
 0.0.0.0 courageousbaby.com
 0.0.0.0 coverlayer.com
+0.0.0.0 cowbelltime.com
 0.0.0.0 cozydusk.com
 0.0.0.0 cozyhillside.com
 0.0.0.0 cozytryst.com
