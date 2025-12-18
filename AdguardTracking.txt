@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 17 Dec 2025 02:18:29 +0000
+# Last converted - Thu, 18 Dec 2025 02:19:12 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -43455,6 +43455,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 mp.imgur.com
 0.0.0.0 a.apkeditor.io
 0.0.0.0 log.goodnovel.com
 0.0.0.0 d2qxmykuaro8s3.cloudfront.net
@@ -63980,6 +63981,7 @@
 0.0.0.0 alikeaddition.com
 0.0.0.0 aliveachiever.com
 0.0.0.0 alloutdubstep.com
+0.0.0.0 allsunflowers.com
 0.0.0.0 alltypo.com
 0.0.0.0 alluringbucket.com
 0.0.0.0 almondbuns.com
@@ -64096,6 +64098,7 @@
 0.0.0.0 blissfullagoon.com
 0.0.0.0 blitzcampaigns.com
 0.0.0.0 blockdial.com
+0.0.0.0 bloomsend.com
 0.0.0.0 blueeyedblow.com
 0.0.0.0 bluenest.net
 0.0.0.0 bluevinebooks.com
@@ -64159,6 +64162,7 @@
 0.0.0.0 butterburst.com
 0.0.0.0 buttonladybug.com
 0.0.0.0 buzzaoutlet.com
+0.0.0.0 buzzfry.com
 0.0.0.0 cafefrench.com
 0.0.0.0 cafescampfires.com
 0.0.0.0 cakeagenda.com
@@ -64275,6 +64279,7 @@
 0.0.0.0 confesschairs.com
 0.0.0.0 confidencetalks.com
 0.0.0.0 configchain.com
+0.0.0.0 configcontrol.com
 0.0.0.0 confirmglobal.com
 0.0.0.0 confusedcart.com
 0.0.0.0 connectashelf.com
@@ -64845,6 +64850,7 @@
 0.0.0.0 jubilantwhisper.com
 0.0.0.0 juicebard.com
 0.0.0.0 juiceblocks.com
+0.0.0.0 juicingoasis.com
 0.0.0.0 justconfig.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justpickaname.com
@@ -65303,6 +65309,7 @@
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remixslot.com
 0.0.0.0 rentinfinity.com
+0.0.0.0 rentpenny.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 replaceroute.com
 0.0.0.0 rescuerhino.com
