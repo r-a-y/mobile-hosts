@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 18 Dec 2025 02:19:12 +0000
+# Last converted - Fri, 19 Dec 2025 02:22:13 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -43455,6 +43455,12 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metrics-ingress-web.svc.vinted.com
+0.0.0.0 metrics.vinted.lt
+0.0.0.0 d.nordvpn.com
+0.0.0.0 ingress.linktr.ee
+0.0.0.0 browser-fp.production.linktr.ee
+0.0.0.0 app-performance.music.amazon.dev
 0.0.0.0 mp.imgur.com
 0.0.0.0 a.apkeditor.io
 0.0.0.0 log.goodnovel.com
@@ -63080,6 +63086,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 events.backtrace.io
+0.0.0.0 logs.classdojo.com
 0.0.0.0 api.arity.com
 0.0.0.0 mob2.bpt.apprevork.com
 0.0.0.0 cpatrk.net
@@ -64293,6 +64301,7 @@
 0.0.0.0 controlswim.com
 0.0.0.0 convertbatch.com
 0.0.0.0 cooingcoal.com
+0.0.0.0 cookiestorybook.com
 0.0.0.0 coolestcatcare.com
 0.0.0.0 coolguesthouse.com
 0.0.0.0 coordinatedcoat.com
@@ -64300,6 +64309,7 @@
 0.0.0.0 copycarpenter.com
 0.0.0.0 copyfranchise.com
 0.0.0.0 copyrightaccesscontrols.com
+0.0.0.0 copytweaks.com
 0.0.0.0 copyvibes.com
 0.0.0.0 coralcranes.com
 0.0.0.0 coralreverie.com
