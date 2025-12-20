@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 19 Dec 2025 02:22:13 +0000
+# Last converted - Sat, 20 Dec 2025 02:15:13 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 boldmetrics.io
 0.0.0.0 cdn.trakkr.ai
 0.0.0.0 track.trakkr.ai
 0.0.0.0 pzapi-nb.com
@@ -402,7 +403,6 @@
 0.0.0.0 fndrsp.net
 0.0.0.0 positional.ai
 0.0.0.0 positional-bucket.com
-0.0.0.0 collector-pxebumdlwe.px-cloud.net
 0.0.0.0 collector-pxebumdlwe.px-cdn.net
 0.0.0.0 s2s.adjust.com
 0.0.0.0 view.adjust.com
@@ -43455,6 +43455,14 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 telemetry.microsoft.us
+0.0.0.0 stats.urban-vpn.com
+0.0.0.0 analytics.urban-vpn.com
+0.0.0.0 analytics.heistotron.uk
+0.0.0.0 metrics-config.icloud.com
+0.0.0.0 fingerprint.incodesmile.com
+0.0.0.0 fluffy-analytics.vercel.app
+0.0.0.0 stats.renet.io
 0.0.0.0 metrics-ingress-web.svc.vinted.com
 0.0.0.0 metrics.vinted.lt
 0.0.0.0 d.nordvpn.com
@@ -43599,7 +43607,6 @@
 0.0.0.0 analytics.shutterstock.com
 0.0.0.0 plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 0.0.0.0 collector-pxdojv695v.protechts.net
-0.0.0.0 collector-pxdojv695v.px-cloud.net
 0.0.0.0 collector1.sooplive.co.kr
 0.0.0.0 exlogcollector.sooplive.co.kr
 0.0.0.0 snowflake.qq.com
@@ -63086,6 +63093,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 onegg.site
+0.0.0.0 log.smartclearpro.com
+0.0.0.0 analytics.artworkout.net
+0.0.0.0 event.mwm-bs.com
 0.0.0.0 events.backtrace.io
 0.0.0.0 logs.classdojo.com
 0.0.0.0 api.arity.com
@@ -64356,6 +64367,7 @@
 0.0.0.0 cumbersomecake.com
 0.0.0.0 cumbersomecarpenter.com
 0.0.0.0 cupcakegem.com
+0.0.0.0 curatedtea.com
 0.0.0.0 curbminers.com
 0.0.0.0 curbneon.com
 0.0.0.0 curiouschalk.com
@@ -64445,6 +64457,7 @@
 0.0.0.0 dreamycanyon.com
 0.0.0.0 driftingchef.com
 0.0.0.0 driftpizza.com
+0.0.0.0 droidwiz.com
 0.0.0.0 drollwharf.com
 0.0.0.0 dustydime.com
 0.0.0.0 dustyhammer.com
