@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 20 Dec 2025 02:15:13 +0000
+# Last converted - Sun, 21 Dec 2025 02:29:12 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 elitebidder.com
+0.0.0.0 adstk.io
 0.0.0.0 boldmetrics.io
 0.0.0.0 cdn.trakkr.ai
 0.0.0.0 track.trakkr.ai
@@ -43455,6 +43457,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 android-tv-beacons.xumo.com
+0.0.0.0 ams-beacons.xumo.com
+0.0.0.0 rtb-trk4.linkedin.com
+0.0.0.0 rtb-us-east.linkedin.com
+0.0.0.0 adservices.brandcdn.com
 0.0.0.0 telemetry.microsoft.us
 0.0.0.0 stats.urban-vpn.com
 0.0.0.0 analytics.urban-vpn.com
@@ -64466,6 +64473,7 @@
 0.0.0.0 eagerflame.com
 0.0.0.0 eagerknight.com
 0.0.0.0 earnbaht.com
+0.0.0.0 earthlybuzz.com
 0.0.0.0 earthups.com
 0.0.0.0 eatablesquare.com
 0.0.0.0 echoacloud.com
@@ -64570,6 +64578,7 @@
 0.0.0.0 fearlesstramp.com
 0.0.0.0 featherstage.com
 0.0.0.0 feeblestamp.com
+0.0.0.0 feedandpurr.com
 0.0.0.0 feedten.com
 0.0.0.0 feignedfaucet.com
 0.0.0.0 fewjuice.com
