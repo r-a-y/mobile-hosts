@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 23 Dec 2025 02:23:43 +0000
+# Last converted - Wed, 24 Dec 2025 02:21:30 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,12 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 conduit-beacon-usw2.mtvnservices.com
+0.0.0.0 tvp.tv
+0.0.0.0 px.mountain.com
+0.0.0.0 adsximg.com
+0.0.0.0 static.terratraf.io
+0.0.0.0 matomo.stackvaults.com
 0.0.0.0 rum-ingress-coralogix.com
 0.0.0.0 elitebidder.com
 0.0.0.0 adstk.io
@@ -761,7 +767,6 @@
 0.0.0.0 tr.vitals.co
 0.0.0.0 predataclient.b-cdn.net
 0.0.0.0 sofire.bdstatic.com
-0.0.0.0 px.mountain.com
 0.0.0.0 gs.mountain.com
 0.0.0.0 dx.mountain.com
 0.0.0.0 track.rheinpfalz.de
@@ -43339,6 +43344,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 uxlog-api.danawa.com
+0.0.0.0 matomo-prod.cgorod.pw
 0.0.0.0 a.tampermonkey.net
 0.0.0.0 event.kr.karrotmarket.com
 0.0.0.0 log-bridge-mobile.kr.karrotmarket.com
@@ -64303,6 +64310,7 @@
 0.0.0.0 forwardslashetc.com
 0.0.0.0 fossilzero.com
 0.0.0.0 fourpawsahead.com
+0.0.0.0 foxlagoon.com
 0.0.0.0 foxtrotdata.com
 0.0.0.0 frailfruit.com
 0.0.0.0 framebanana.com
@@ -64391,6 +64399,7 @@
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
 0.0.0.0 grayscaleart.com
+0.0.0.0 graywords.net
 0.0.0.0 greasegarden.com
 0.0.0.0 greasysquare.com
 0.0.0.0 gridbelow.com
