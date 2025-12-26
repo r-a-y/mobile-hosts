@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 25 Dec 2025 02:24:09 +0000
+# Last converted - Fri, 26 Dec 2025 02:22:37 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 t.jibeno.xyz
+0.0.0.0 fullrestore.net
 0.0.0.0 ctxcollect.com
 0.0.0.0 conduit-beacon-usw2.mtvnservices.com
 0.0.0.0 tvp.tv
@@ -43345,6 +43347,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 apistats.rg.ru
 0.0.0.0 analytics.t-mobile.com
 0.0.0.0 raw.vidyard.com
 0.0.0.0 pushd-android-logs.s3.amazonaws.com
@@ -63169,7 +63172,6 @@
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 tracking.purchasely.io
-0.0.0.0 uts-front.line-apps.com
 0.0.0.0 ts.line-apps.com
 0.0.0.0 log-music-data.line-apps.com
 0.0.0.0 events-api.soundcloud.com
@@ -64477,6 +64479,7 @@
 0.0.0.0 highnoongear.com
 0.0.0.0 hikingbars.com
 0.0.0.0 hilariouszinc.com
+0.0.0.0 hippojump.com
 0.0.0.0 historicalbeam.com
 0.0.0.0 historytrade.com
 0.0.0.0 hocgeese.com
@@ -64537,6 +64540,7 @@
 0.0.0.0 intricateberry.com
 0.0.0.0 inventorycache.com
 0.0.0.0 inventtango.com
+0.0.0.0 invoicetick.com
 0.0.0.0 iotapool.com
 0.0.0.0 irelandroad.com
 0.0.0.0 iridescentdusk.com
