@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 26 Dec 2025 02:22:37 +0000
+# Last converted - Sat, 27 Dec 2025 02:20:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,8 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 b-sing.com
+0.0.0.0 client-sdk.hackle.io
 0.0.0.0 t.jibeno.xyz
-0.0.0.0 fullrestore.net
 0.0.0.0 ctxcollect.com
 0.0.0.0 conduit-beacon-usw2.mtvnservices.com
 0.0.0.0 tvp.tv
@@ -43347,6 +43348,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 pftk.temu.com
+0.0.0.0 thtk.temu.com
 0.0.0.0 apistats.rg.ru
 0.0.0.0 analytics.t-mobile.com
 0.0.0.0 raw.vidyard.com
@@ -63970,6 +63973,7 @@
 0.0.0.0 coloradoserves.com
 0.0.0.0 colorfulpet.com
 0.0.0.0 coloringisland.com
+0.0.0.0 coloroptimizer.com
 0.0.0.0 colossalclouds.com
 0.0.0.0 colossalcoat.com
 0.0.0.0 colossalcry.com
@@ -64344,6 +64348,7 @@
 0.0.0.0 frozekitchen.com
 0.0.0.0 frugalfiestas.com
 0.0.0.0 fuelinspector.com
+0.0.0.0 fullrestore.net
 0.0.0.0 fumblingform.com
 0.0.0.0 functionalcrown.com
 0.0.0.0 functionalfeather.com
@@ -64579,6 +64584,7 @@
 0.0.0.0 juicingoasis.com
 0.0.0.0 justconfig.com
 0.0.0.0 justicejudo.com
+0.0.0.0 justlagoon.com
 0.0.0.0 justpickaname.com
 0.0.0.0 justwebcards.com
 0.0.0.0 justwowjars.com
