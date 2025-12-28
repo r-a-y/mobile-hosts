@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 23 Dec 2025 02:23:44 +0000
+# Last converted - Sun, 28 Dec 2025 02:36:19 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -198,6 +198,7 @@
 0.0.0.0 api.june.so
 0.0.0.0 api.wipmania.com
 0.0.0.0 app.optibase.io
+0.0.0.0 app.partnerboost.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 applets.ebxcdn.com
 0.0.0.0 apps-pbd.ctraffic.io
@@ -1261,6 +1262,7 @@
 0.0.0.0 trafficfuelpixel.s3-us-west-2.amazonaws.com
 0.0.0.0 trap.skype.com
 0.0.0.0 traxex.gannettdigital.com
+0.0.0.0 trck.digiteka.com
 0.0.0.0 trends.newsmaxwidget.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 triplewhale-pixel.web.app
@@ -1280,8 +1282,6 @@
 0.0.0.0 uid.mediacorp.sg
 0.0.0.0 uilogging.tcdevops.com
 0.0.0.0 uim.tifbs.net
-0.0.0.0 umami.aigenerations.net
-0.0.0.0 umami.heroku.uk
 0.0.0.0 units.knotch.it
 0.0.0.0 uptime.fastrr.com
 0.0.0.0 uptime2.fastrr.com
