@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 28 Dec 2025 02:36:19 +0000
+# Last converted - Mon, 29 Dec 2025 02:34:17 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -455,7 +455,6 @@
 0.0.0.0 merchant-center-analytics.goog
 0.0.0.0 pxl.knam.pro
 0.0.0.0 manalyticshub.com
-0.0.0.0 metrics.streaks.jp
 0.0.0.0 track.mailerlite.com
 0.0.0.0 a11ybar.com
 0.0.0.0 trackszn.median.eu
@@ -64635,6 +64634,7 @@
 0.0.0.0 linkedleg.com
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
+0.0.0.0 littlesun.net
 0.0.0.0 livelumber.com
 0.0.0.0 livelylaugh.com
 0.0.0.0 livingsleet.com
@@ -64644,6 +64644,7 @@
 0.0.0.0 loadsurprise.com
 0.0.0.0 locateskill.com
 0.0.0.0 lockuplookup.com
+0.0.0.0 logicalminds.net
 0.0.0.0 logoshutter.com
 0.0.0.0 lonelyflavor.com
 0.0.0.0 longingtrees.com
