@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 30 Dec 2025 02:24:37 +0000
+# Last converted - Wed, 31 Dec 2025 02:24:49 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 pingpong.us
 0.0.0.0 protected-api.branch.io
 0.0.0.0 pixel.visitiq.io
 0.0.0.0 b-sing.com
@@ -44119,6 +44120,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics-webhook.doximity.com
 0.0.0.0 crs.pa.br.de
 0.0.0.0 app-analysislog.sto.cn
 0.0.0.0 pftk.temu.com
@@ -63893,6 +63895,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log.eufylife.com
+0.0.0.0 dts-log.anker.com
+0.0.0.0 perf.bblmw.com
+0.0.0.0 event.bblmw.com
 0.0.0.0 vsn-analytics.aparentmedia.com
 0.0.0.0 ihmonitor.luckincoffee.us
 0.0.0.0 use-trk.monetune.com
@@ -65121,6 +65127,7 @@
 0.0.0.0 cookiestorybook.com
 0.0.0.0 coolestcatcare.com
 0.0.0.0 coolguesthouse.com
+0.0.0.0 coolkidsdistrict.com
 0.0.0.0 coordinatedcoat.com
 0.0.0.0 copperstills.net
 0.0.0.0 copycarpenter.com
@@ -65775,6 +65782,7 @@
 0.0.0.0 lumpygnome.com
 0.0.0.0 lumpylumber.com
 0.0.0.0 lumpywood.com
+0.0.0.0 lunarcave.com
 0.0.0.0 lunchroomlock.com
 0.0.0.0 lustroushaven.com
 0.0.0.0 luxformula.com
@@ -65782,6 +65790,7 @@
 0.0.0.0 maddeningpowder.com
 0.0.0.0 madebyintent.com
 0.0.0.0 madlysuccessful.com
+0.0.0.0 madnessbuzz.com
 0.0.0.0 madoverrice.com
 0.0.0.0 magicaljoin.com
 0.0.0.0 magicminibox.com
