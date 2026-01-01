@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 31 Dec 2025 02:24:49 +0000
+# Last converted - Thu, 01 Jan 2026 02:37:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -44120,6 +44120,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.inquirernetwork.net
 0.0.0.0 analytics-webhook.doximity.com
 0.0.0.0 crs.pa.br.de
 0.0.0.0 app-analysislog.sto.cn
@@ -65801,6 +65802,8 @@
 0.0.0.0 managedpush.com
 0.0.0.0 manamoment.com
 0.0.0.0 mantrafox.com
+0.0.0.0 manydiamonds.com
+0.0.0.0 manyfishes.com
 0.0.0.0 mapbasin.com
 0.0.0.0 mapcommand.com
 0.0.0.0 marblediscussion.com
