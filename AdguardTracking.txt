@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 02 Jan 2026 02:26:54 +0000
+# Last converted - Sat, 03 Jan 2026 02:20:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 rtbuniverse.com
+0.0.0.0 imp_track.zmaticoo.com
+0.0.0.0 gw-usa-tracker.zmaticoo.com
+0.0.0.0 data.deep-content.io
 0.0.0.0 pingpong.us
 0.0.0.0 protected-api.branch.io
 0.0.0.0 pixel.visitiq.io
@@ -44120,6 +44124,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 use.hetzner.com
+0.0.0.0 t.jasper.ai
+0.0.0.0 a.streamed.pk
+0.0.0.0 corfu.blogvault.net
 0.0.0.0 analytics.inquirernetwork.net
 0.0.0.0 analytics-webhook.doximity.com
 0.0.0.0 crs.pa.br.de
@@ -63896,6 +63904,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log.hotweathers.live
 0.0.0.0 log.eufylife.com
 0.0.0.0 dts-log.anker.com
 0.0.0.0 perf.bblmw.com
