@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 30 Dec 2025 02:24:38 +0000
+# Last converted - Wed, 07 Jan 2026 02:26:24 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -70,6 +70,7 @@
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.bestreviews.com
 0.0.0.0 analytics.bitrix.info
+0.0.0.0 analytics.bomiv.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.carbaselive.com
 0.0.0.0 analytics.chegg.com
@@ -1129,6 +1130,7 @@
 0.0.0.0 track.360playvid.info
 0.0.0.0 track.91app.io
 0.0.0.0 track.bannedcelebs.com
+0.0.0.0 track.bomiv.com
 0.0.0.0 track.btdmp.com
 0.0.0.0 track.coherentpath.com
 0.0.0.0 track.contently.com
