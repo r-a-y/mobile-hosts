@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 06 Jan 2026 02:26:07 +0000
+# Last converted - Wed, 07 Jan 2026 02:26:23 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 gm.mmstat.com
+0.0.0.0 yazio-analytics.com
+0.0.0.0 hightouch-events.com
 0.0.0.0 rtbuniverse.com
 0.0.0.0 imp_track.zmaticoo.com
 0.0.0.0 gw-usa-tracker.zmaticoo.com
@@ -1116,6 +1119,7 @@
 0.0.0.0 rt.flix360.com
 0.0.0.0 fout.jp
 0.0.0.0 getclicky.com
+0.0.0.0 heapanalytics.com
 0.0.0.0 krxd.net
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 localytics.com
@@ -44689,6 +44693,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 eventcom.api.np.km.playstation.net
+0.0.0.0 pulsar.ebay.com
+0.0.0.0 pixel-conversion.apps.seabroadnet.com
+0.0.0.0 analytics.apps.seabroadnet.com
+0.0.0.0 etx.indiatimes.com
 0.0.0.0 tracing.yelp.com
 0.0.0.0 conversions-config.reddit.com
 0.0.0.0 dns-clientinfo.vtg.paramount.tech
@@ -64269,7 +64278,6 @@
 0.0.0.0 ablink.hi.channel4.com
 0.0.0.0 email.budovideos.com
 0.0.0.0 t1.mp1.tripadvisor.com
-0.0.0.0 gm.mmstat.com
 0.0.0.0 hubspotlinks.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 mail.nationalgeographic.com
@@ -64440,6 +64448,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 bstream.kzhi.tech
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 amplitude.thepure.app
 0.0.0.0 amplilab.thepure.app
@@ -66513,6 +66523,7 @@
 0.0.0.0 oldfashionedoffer.com
 0.0.0.0 oldportcoffee.com
 0.0.0.0 omgthink.com
+0.0.0.0 onecrow.net
 0.0.0.0 onedropocean.com
 0.0.0.0 onlinestarten.net
 0.0.0.0 onlywoofs.com
@@ -66537,6 +66548,7 @@
 0.0.0.0 owlreporter.com
 0.0.0.0 owlsr.us
 0.0.0.0 owlstwo.com
+0.0.0.0 owltin.com
 0.0.0.0 oxygenfuse.com
 0.0.0.0 pailcrime.com
 0.0.0.0 pailpatch.com
