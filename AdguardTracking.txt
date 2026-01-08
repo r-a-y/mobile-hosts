@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 07 Jan 2026 02:26:23 +0000
+# Last converted - Thu, 08 Jan 2026 02:26:41 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 api.eventbus.me
+0.0.0.0 rumt-sg.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 yazio-analytics.com
 0.0.0.0 hightouch-events.com
@@ -44693,6 +44695,12 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 prd-collect-llm.xverse.cn
+0.0.0.0 securemetrics.apple.com
+0.0.0.0 graffiti-tags.apple.com
+0.0.0.0 fem.gprod.postmedia.digital
+0.0.0.0 t.hentaivox.com
+0.0.0.0 tk.jtbc.co.kr
 0.0.0.0 eventcom.api.np.km.playstation.net
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pixel-conversion.apps.seabroadnet.com
@@ -64448,6 +64456,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 sensorsdata-datasink.stardust-tv.com
+0.0.0.0 event-api-cs.stardust-tv.com
+0.0.0.0 mebed.dm-event.net
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 mob2.welltastic-app.com
@@ -66553,6 +66564,7 @@
 0.0.0.0 pailcrime.com
 0.0.0.0 pailpatch.com
 0.0.0.0 painstakingpickle.com
+0.0.0.0 paintmogul.com
 0.0.0.0 paintpear.com
 0.0.0.0 paleleaf.com
 0.0.0.0 palmytree.com
@@ -66576,6 +66588,7 @@
 0.0.0.0 perceivequarter.com
 0.0.0.0 perfectfetch.com
 0.0.0.0 perkyjade.com
+0.0.0.0 petitechili.com
 0.0.0.0 phonecup.com
 0.0.0.0 phoneresult.com
 0.0.0.0 photohints.com
