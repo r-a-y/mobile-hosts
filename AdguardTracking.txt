@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 08 Jan 2026 02:26:41 +0000
+# Last converted - Fri, 09 Jan 2026 02:27:05 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cse.rakanto.com
+0.0.0.0 repo.rakanto.com
+0.0.0.0 aim-tag.hcn.health
+0.0.0.0 wstats.ageverif.com
 0.0.0.0 api.eventbus.me
 0.0.0.0 rumt-sg.com
 0.0.0.0 gm.mmstat.com
@@ -44695,6 +44699,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 hw-t.hypers.com.cn
 0.0.0.0 prd-collect-llm.xverse.cn
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 graffiti-tags.apple.com
@@ -66595,6 +66600,7 @@
 0.0.0.0 physicstees.com
 0.0.0.0 pickmicro.com
 0.0.0.0 pietexture.com
+0.0.0.0 pigeonkit.com
 0.0.0.0 pigeonsetc.com
 0.0.0.0 pigmentpaper.com
 0.0.0.0 pinchsquirrel.com
@@ -66692,6 +66698,7 @@
 0.0.0.0 questionate.com
 0.0.0.0 quicklyedit.com
 0.0.0.0 quicksandear.com
+0.0.0.0 quicktrick.net
 0.0.0.0 quietknowledge.com
 0.0.0.0 quillkick.com
 0.0.0.0 quiltquick.com
