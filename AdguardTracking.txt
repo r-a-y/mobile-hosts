@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 10 Jan 2026 02:22:45 +0000
+# Last converted - Sun, 11 Jan 2026 02:38:13 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -66803,8 +66803,10 @@
 0.0.0.0 roseincome.com
 0.0.0.0 rottenray.com
 0.0.0.0 rovememoirs.com
+0.0.0.0 royalsbagels.com
 0.0.0.0 royalsweeper.com
 0.0.0.0 ruralrobin.com
+0.0.0.0 rusticfrench.com
 0.0.0.0 rusticprice.com
 0.0.0.0 ruthlessdegree.com
 0.0.0.0 sableshelf.com
