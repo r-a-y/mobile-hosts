@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 11 Jan 2026 02:38:13 +0000
+# Last converted - Mon, 12 Jan 2026 02:33:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cpu-api.infor.pl
 0.0.0.0 cse.rakanto.com
 0.0.0.0 repo.rakanto.com
 0.0.0.0 aim-tag.hcn.health
@@ -66827,6 +66828,7 @@
 0.0.0.0 samuraibots.com
 0.0.0.0 sandboxbid.com
 0.0.0.0 sandstrophies.com
+0.0.0.0 sapnest.com
 0.0.0.0 satisfycork.com
 0.0.0.0 savoryink.com
 0.0.0.0 savoryorange.com
@@ -66850,6 +66852,7 @@
 0.0.0.0 scenicapparel.com
 0.0.0.0 scenicchicago.com
 0.0.0.0 scenicdrops.com
+0.0.0.0 scentedkindly.com
 0.0.0.0 sciencedart.com
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
