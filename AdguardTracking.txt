@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 12 Jan 2026 02:33:46 +0000
+# Last converted - Tue, 13 Jan 2026 02:24:42 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -44700,6 +44700,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 events.insiad.com
 0.0.0.0 hw-t.hypers.com.cn
 0.0.0.0 prd-collect-llm.xverse.cn
 0.0.0.0 securemetrics.apple.com
@@ -45312,7 +45313,6 @@
 0.0.0.0 stats.bunkr.ru
 0.0.0.0 logs.netflix.com
 0.0.0.0 mst.rnd.de
-0.0.0.0 cza.crazygames.com
 0.0.0.0 event-dot-procolor-backend.appspot.com
 0.0.0.0 prod.event.mwm-asset-manager.mwmwebapis.com
 0.0.0.0 api.amplitudeexperiment.com
@@ -45553,7 +45553,6 @@
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 stats.indianpornempire.com
-0.0.0.0 lp.spac.me
 0.0.0.0 analytics.verfacto.com
 0.0.0.0 flask.us.nextdoor.com
 0.0.0.0 newsstat.dallasnews.com
@@ -64462,6 +64461,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 track.applicaster.com
+0.0.0.0 hb-mob2.optiword.com
+0.0.0.0 telemetry.doxo.com
 0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 mebed.dm-event.net
@@ -65916,6 +65918,7 @@
 0.0.0.0 etherealpinnacle.com
 0.0.0.0 evanescentedge.com
 0.0.0.0 evasivejar.com
+0.0.0.0 evencoating.com
 0.0.0.0 eventexistence.com
 0.0.0.0 eventsmall.com
 0.0.0.0 exampleshake.com
@@ -66853,6 +66856,7 @@
 0.0.0.0 scenicchicago.com
 0.0.0.0 scenicdrops.com
 0.0.0.0 scentedkindly.com
+0.0.0.0 scholarloop.com
 0.0.0.0 sciencedart.com
 0.0.0.0 scientificshirt.com
 0.0.0.0 scintillatingscissors.com
@@ -66877,6 +66881,7 @@
 0.0.0.0 secretturtle.com
 0.0.0.0 seedscissors.com
 0.0.0.0 seekmyshop.com
+0.0.0.0 seekremote.com
 0.0.0.0 seenvault.com
 0.0.0.0 seespice.com
 0.0.0.0 selectivesummer.com
