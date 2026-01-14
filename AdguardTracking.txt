@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 13 Jan 2026 02:24:42 +0000
+# Last converted - Wed, 14 Jan 2026 02:32:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 telemetry.tataritv.com
 0.0.0.0 cpu-api.infor.pl
 0.0.0.0 cse.rakanto.com
 0.0.0.0 repo.rakanto.com
@@ -44700,6 +44701,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 r.anime-go.cc
+0.0.0.0 doppler.hulu.com
 0.0.0.0 events.insiad.com
 0.0.0.0 hw-t.hypers.com.cn
 0.0.0.0 prd-collect-llm.xverse.cn
@@ -46759,7 +46762,6 @@
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.enuri.com
 0.0.0.0 log.g-enews.com
-0.0.0.0 log.go.com
 0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
 0.0.0.0 log.mappy.net
@@ -64406,6 +64408,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 attr.appsflyersdk.com
 0.0.0.0 dynamic-report-api.appsflyersdk.com
 0.0.0.0 privacy-sandbox.appsflyersdk.com
@@ -64461,6 +64464,10 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 mab-mob2.websearchapp.com
+0.0.0.0 news-events.apple.com
+0.0.0.0 news-app-events.apple.com
+0.0.0.0 news-sports-events.apple.com
 0.0.0.0 track.applicaster.com
 0.0.0.0 hb-mob2.optiword.com
 0.0.0.0 telemetry.doxo.com
