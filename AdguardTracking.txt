@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 14 Jan 2026 02:32:11 +0000
+# Last converted - Thu, 15 Jan 2026 02:26:29 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,12 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.vinovo.si
+0.0.0.0 cs.media.net
+0.0.0.0 bidder.doceree.com
+0.0.0.0 fpcdn.io
+0.0.0.0 fpjs.io
+0.0.0.0 winsurbox.com
 0.0.0.0 telemetry.tataritv.com
 0.0.0.0 cpu-api.infor.pl
 0.0.0.0 cse.rakanto.com
@@ -44701,6 +44707,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 st.freedom24.com
+0.0.0.0 rum.api.intuit.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 r.anime-go.cc
 0.0.0.0 doppler.hulu.com
 0.0.0.0 events.insiad.com
@@ -46762,6 +46771,7 @@
 0.0.0.0 log.ecgh.dk
 0.0.0.0 log.enuri.com
 0.0.0.0 log.g-enews.com
+0.0.0.0 log.go.com
 0.0.0.0 log.iyunmai.com
 0.0.0.0 log.krs-ix.ru
 0.0.0.0 log.mappy.net
@@ -64464,6 +64474,9 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 events-stream-svc.cordial.io
+0.0.0.0 events.gonative.io
+0.0.0.0 matomo.podslink.net
 0.0.0.0 mab-mob2.websearchapp.com
 0.0.0.0 news-events.apple.com
 0.0.0.0 news-app-events.apple.com
@@ -66922,10 +66935,12 @@
 0.0.0.0 shallowblade.com
 0.0.0.0 shamerain.com
 0.0.0.0 shapecomb.com
+0.0.0.0 sharedswap.com
 0.0.0.0 sheargovernor.com
 0.0.0.0 sheideal.com
 0.0.0.0 shesubscriptions.com
 0.0.0.0 shinypond.com
+0.0.0.0 shirtseasons.com
 0.0.0.0 shirtsidewalk.com
 0.0.0.0 shiveringspot.com
 0.0.0.0 shiverscissors.com
