@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 15 Jan 2026 02:26:29 +0000
+# Last converted - Fri, 16 Jan 2026 02:28:06 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -44707,6 +44707,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.launcherleaks.net
+0.0.0.0 ingest.webcol.sdp.peacocktv.com
+0.0.0.0 t.collectiveaudience.co
 0.0.0.0 st.freedom24.com
 0.0.0.0 rum.api.intuit.com
 0.0.0.0 trafficmanager.anyclip.com
@@ -64474,6 +64477,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 app.siteperformancetest.net
 0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events.gonative.io
 0.0.0.0 matomo.podslink.net
@@ -66981,6 +66985,7 @@
 0.0.0.0 skillsresults.com
 0.0.0.0 skisofa.com
 0.0.0.0 skullmagnets.com
+0.0.0.0 skullteeth.com
 0.0.0.0 skylightdata.com
 0.0.0.0 slackpod.com
 0.0.0.0 slaysweater.com
@@ -67071,6 +67076,7 @@
 0.0.0.0 spurioussquirrel.com
 0.0.0.0 spuriousstranger.com
 0.0.0.0 spysubstance.com
+0.0.0.0 squadtee.net
 0.0.0.0 squalidscrew.com
 0.0.0.0 squarecamel.com
 0.0.0.0 squeakzinc.com
