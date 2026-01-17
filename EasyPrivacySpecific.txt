@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 16 Jan 2026 02:28:07 +0000
+# Last converted - Sat, 17 Jan 2026 02:21:14 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -245,6 +245,7 @@
 0.0.0.0 espy.boehs.org
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.tidal.com
+0.0.0.0 eta.animenewsnetwork.com
 0.0.0.0 etracker.noon.com
 0.0.0.0 etui.fs.ml.com
 0.0.0.0 etx.indiatimes.com
@@ -876,3 +877,4 @@
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 vg247-uk.vg247.com
+0.0.0.0 gyrovague.com
