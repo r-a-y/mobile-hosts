@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 16 Jan 2026 02:28:06 +0000
+# Last converted - Sat, 17 Jan 2026 02:21:14 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 heap-api.com
 0.0.0.0 analytics.vinovo.si
 0.0.0.0 cs.media.net
 0.0.0.0 bidder.doceree.com
@@ -44707,6 +44708,13 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 sp.pluto.tv
+0.0.0.0 service-ad-image-ga-weighted.prd.pluto.tv
+0.0.0.0 tracking.carfax.com
+0.0.0.0 analytics.carvana.io
+0.0.0.0 analytics.ticketmaster.com
+0.0.0.0 track.opentable.com
+0.0.0.0 mixpanel.tigocloud.net
 0.0.0.0 analytics.launcherleaks.net
 0.0.0.0 ingest.webcol.sdp.peacocktv.com
 0.0.0.0 t.collectiveaudience.co
@@ -45251,7 +45259,6 @@
 0.0.0.0 pixels.argusplatform.com
 0.0.0.0 egg.afisha.ru
 0.0.0.0 tracking-app.diginetica.net
-0.0.0.0 c.us.heap-api.com
 0.0.0.0 logging.g.sst.secureserver.net
 0.0.0.0 metricreceiver.cellrebel.com
 0.0.0.0 events.app-performance.music.amazon.dev
@@ -64477,6 +64484,14 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 ir-sdk.guardease.com
+0.0.0.0 verifysession.uxcam.com
+0.0.0.0 analytics.wachanga.app
+0.0.0.0 usage.digitalconcerthall.com
+0.0.0.0 report.starshort.online
+0.0.0.0 clarity.ms
+0.0.0.0 engagelab.cc
+0.0.0.0 global-sis.engagelab.com
 0.0.0.0 app.siteperformancetest.net
 0.0.0.0 events-stream-svc.cordial.io
 0.0.0.0 events.gonative.io
@@ -67085,6 +67100,7 @@
 0.0.0.0 squishybears.com
 0.0.0.0 stageschine.com
 0.0.0.0 stakedances.com
+0.0.0.0 stakeschips.com
 0.0.0.0 stakingbasket.com
 0.0.0.0 stakingshock.com
 0.0.0.0 stakingsmile.com
