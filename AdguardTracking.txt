@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 17 Jan 2026 02:21:14 +0000
+# Last converted - Sun, 18 Jan 2026 02:36:56 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -67263,6 +67263,8 @@
 0.0.0.0 tidymitten.com
 0.0.0.0 tidysprite.com
 0.0.0.0 tightpowder.com
+0.0.0.0 tiltonbots.com
+0.0.0.0 timecrossed.com
 0.0.0.0 tinybluewhale.com
 0.0.0.0 tinyswans.com
 0.0.0.0 tinytendency.com
