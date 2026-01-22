@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 21 Jan 2026 02:30:41 +0000
+# Last converted - Thu, 22 Jan 2026 02:33:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 d1dxoqu0t5mb7j.cloudfront.net
 0.0.0.0 js.pulseinsights.com
 0.0.0.0 console.data4.net
 0.0.0.0 heap-api.com
@@ -57003,6 +57004,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.insighttimer.com
+0.0.0.0 trackinglibrary.prodperfect.com
+0.0.0.0 stats.sirdata.eu
 0.0.0.0 events-sandbox.data.msn.com
 0.0.0.0 event-storage.netmonet.co
 0.0.0.0 neviju.netmonet.co
@@ -93736,6 +93740,15 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log.clearcleanerpro.live
+0.0.0.0 client-telemetry-preauth.hingeprod.net
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
+0.0.0.0 event-log-api-ipv6.gryphline.com
+0.0.0.0 eventlog.gryphline.com
+0.0.0.0 native-log-collect.gryphline.com
+0.0.0.0 data-p.gryphline.com
+0.0.0.0 fp-sa-it.fengkongcloud.com
+0.0.0.0 api-fp-retry-sa.fengkongcloud.com
 0.0.0.0 ir-sdk.guardease.com
 0.0.0.0 verifysession.uxcam.com
 0.0.0.0 analytics.wachanga.app
@@ -94617,6 +94630,7 @@
 0.0.0.0 ulogs1.ksapisrv.com
 0.0.0.0 ulogs2.ksapisrv.com
 0.0.0.0 wlog.ksapisrv.com
+0.0.0.0 log-va.tiktokv.com
 0.0.0.0 mcs.tiktokw.us
 0.0.0.0 sf16-telemetry-proxy-oci.tiktokcdn-us.com
 0.0.0.0 log.tiktokv.com
@@ -96312,6 +96326,7 @@
 0.0.0.0 sortstructure.com
 0.0.0.0 soulclicking.com
 0.0.0.0 soundstocking.com
+0.0.0.0 sourcecodeinfo.com
 0.0.0.0 sourceoak.com
 0.0.0.0 sowlettuce.com
 0.0.0.0 spaceaffinity.com
@@ -96560,6 +96575,7 @@
 0.0.0.0 tritebadge.com
 0.0.0.0 tritethunder.com
 0.0.0.0 tritetongue.com
+0.0.0.0 triumphbull.com
 0.0.0.0 tropicalpal.com
 0.0.0.0 troubleshade.com
 0.0.0.0 truckstomatoes.com
