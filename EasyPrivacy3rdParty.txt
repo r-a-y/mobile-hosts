@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 21 Jan 2026 02:30:42 +0000
+# Last converted - Thu, 22 Jan 2026 02:33:02 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -546,6 +546,7 @@
 0.0.0.0 galileotelemetry.tencent.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gateway.foresee.com
+0.0.0.0 gcp.fasthorse.workers.dev
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 geo.bdg.com
 0.0.0.0 geo.ertya.com
