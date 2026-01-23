@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 22 Jan 2026 02:33:01 +0000
+# Last converted - Fri, 23 Jan 2026 02:28:36 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -57004,6 +57004,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 frontier.capcutw.us
+0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
+0.0.0.0 pinpoint.espn.com
+0.0.0.0 analytics.itbox.ua
 0.0.0.0 stats.insighttimer.com
 0.0.0.0 trackinglibrary.prodperfect.com
 0.0.0.0 stats.sirdata.eu
@@ -96585,6 +96589,7 @@
 0.0.0.0 tumbleicicle.com
 0.0.0.0 tuneupcoffee.com
 0.0.0.0 twistloss.com
+0.0.0.0 typepredict.com
 0.0.0.0 typewebsite.com
 0.0.0.0 typicalairplane.com
 0.0.0.0 typicalteeth.com
@@ -96620,6 +96625,7 @@
 0.0.0.0 usabilitybook.com
 0.0.0.0 uselesslumber.com
 0.0.0.0 userballot.com
+0.0.0.0 utopiaband.net
 0.0.0.0 validmemo.com
 0.0.0.0 valuebuttons.com
 0.0.0.0 vanfireworks.com
