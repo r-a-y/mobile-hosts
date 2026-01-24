@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 23 Jan 2026 02:28:36 +0000
+# Last converted - Sat, 24 Jan 2026 02:23:50 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -57004,6 +57004,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.everythingstream.com
 0.0.0.0 frontier.capcutw.us
 0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
 0.0.0.0 pinpoint.espn.com
@@ -95654,6 +95655,7 @@
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 llamavoice.com
+0.0.0.0 loaddisplay.com
 0.0.0.0 loadedhearts.com
 0.0.0.0 loadsurprise.com
 0.0.0.0 locateskill.com
@@ -95814,6 +95816,7 @@
 0.0.0.0 newarkdriving.com
 0.0.0.0 newartreview.com
 0.0.0.0 nicefollows.com
+0.0.0.0 nicehuh.com
 0.0.0.0 niftygraphs.com
 0.0.0.0 niftyhospital.com
 0.0.0.0 niftyjelly.com
