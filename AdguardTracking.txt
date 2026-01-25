@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 24 Jan 2026 02:23:50 +0000
+# Last converted - Sun, 25 Jan 2026 02:40:55 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 trackhorizon.nnmtools.com
 0.0.0.0 d1dxoqu0t5mb7j.cloudfront.net
 0.0.0.0 js.pulseinsights.com
 0.0.0.0 console.data4.net
@@ -95694,6 +95695,7 @@
 0.0.0.0 madnessbuzz.com
 0.0.0.0 madoverrice.com
 0.0.0.0 magicaljoin.com
+0.0.0.0 magicalpiano.com
 0.0.0.0 magicminibox.com
 0.0.0.0 majesticwaterscape.com
 0.0.0.0 majesticwilderness.com
@@ -96653,6 +96655,7 @@
 0.0.0.0 victoriousrequest.com
 0.0.0.0 victoryideas.com
 0.0.0.0 vilenexus.com
+0.0.0.0 viralfoodie.net
 0.0.0.0 virtualvincent.com
 0.0.0.0 visitstor.com
 0.0.0.0 vividcanopy.com
