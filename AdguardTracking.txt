@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 27 Jan 2026 02:34:59 +0000
+# Last converted - Wed, 28 Jan 2026 02:31:13 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -59019,6 +59019,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 logsk.glomancloud.gr
+0.0.0.0 insights-tag.convertkit.com
+0.0.0.0 b.trueanthem.com
 0.0.0.0 matomo.eduwill.net
 0.0.0.0 telemetry.eyeo.com
 0.0.0.0 analytics.everythingstream.com
@@ -113558,6 +113561,7 @@
 0.0.0.0 kindhush.com
 0.0.0.0 kindlereunion.com
 0.0.0.0 kitetuning.com
+0.0.0.0 kittentacos.com
 0.0.0.0 kittycatking.com
 0.0.0.0 knewpenny.com
 0.0.0.0 knifetreasury.com
