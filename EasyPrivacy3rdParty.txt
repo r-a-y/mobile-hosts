@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Mon, 26 Jan 2026 02:39:45 +0000
+# Last converted - Wed, 28 Jan 2026 02:31:14 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -654,6 +654,7 @@
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
+0.0.0.0 loader.mantis-intelligence.com
 0.0.0.0 log-pq.shopfully.cloud
 0.0.0.0 log.aimtell.com
 0.0.0.0 log.cookieyes.com
