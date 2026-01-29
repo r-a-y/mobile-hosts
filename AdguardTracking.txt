@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 28 Jan 2026 02:31:13 +0000
+# Last converted - Thu, 29 Jan 2026 02:49:20 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 hsadspixel.net
 0.0.0.0 log.grm.gsretail.com
 0.0.0.0 trackhorizon.nnmtools.com
 0.0.0.0 d1dxoqu0t5mb7j.cloudfront.net
@@ -59019,6 +59020,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 cs.avito.ru
 0.0.0.0 logsk.glomancloud.gr
 0.0.0.0 insights-tag.convertkit.com
 0.0.0.0 b.trueanthem.com
@@ -59027,7 +59029,6 @@
 0.0.0.0 analytics.everythingstream.com
 0.0.0.0 frontier.capcutw.us
 0.0.0.0 mssdk16-normal-us-ttp.capcutapi.us
-0.0.0.0 pinpoint.espn.com
 0.0.0.0 analytics.itbox.ua
 0.0.0.0 stats.insighttimer.com
 0.0.0.0 trackinglibrary.prodperfect.com
@@ -111693,6 +111694,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 track.onef.pro
 0.0.0.0 log.weathertrip.net
 0.0.0.0 log.clearcleanerpro.live
 0.0.0.0 client-telemetry-preauth.hingeprod.net
@@ -112635,6 +112637,7 @@
 0.0.0.0 actuallysnake.com
 0.0.0.0 adamantsnail.com
 0.0.0.0 addictedattention.com
+0.0.0.0 addressfriend.com
 0.0.0.0 admiral.pub
 0.0.0.0 admiralproxied.com
 0.0.0.0 admissionaudit.com
@@ -112775,6 +112778,7 @@
 0.0.0.0 blockdial.com
 0.0.0.0 bloomsend.com
 0.0.0.0 blueeyedblow.com
+0.0.0.0 bluelionlabs.net
 0.0.0.0 bluenest.net
 0.0.0.0 bluevinebooks.com
 0.0.0.0 blushingbeast.com
@@ -113238,6 +113242,7 @@
 0.0.0.0 fewkittens.com
 0.0.0.0 fieldconfig.com
 0.0.0.0 figsprotein.com
+0.0.0.0 figurehunter.net
 0.0.0.0 fillthemap.com
 0.0.0.0 filtercutter.com
 0.0.0.0 finalizeforce.com
