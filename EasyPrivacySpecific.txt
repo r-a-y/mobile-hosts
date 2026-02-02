@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 29 Jan 2026 02:49:21 +0000
+# Last converted - Mon, 02 Feb 2026 03:18:04 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -68,6 +68,7 @@
 0.0.0.0 analytics.makeitmeme.com
 0.0.0.0 analytics.maxroll.gg
 0.0.0.0 analytics.ml.homedepot.ca
+0.0.0.0 analytics.morphe.software
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.nike.com
 0.0.0.0 analytics.ovh.com
@@ -728,6 +729,7 @@
 0.0.0.0 tracker-remp.premiumtimesng.com
 0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 tracker.bang.com
+0.0.0.0 tracker.hollandandbarrett.com
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.ranker.com
 0.0.0.0 tracker.shopclues.com
