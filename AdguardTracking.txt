@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 04 Feb 2026 02:51:33 +0000
+# Last converted - Thu, 05 Feb 2026 03:09:18 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 participants.evolv.ai
+0.0.0.0 media.evolv.ai
+0.0.0.0 platform.datazoom.io
 0.0.0.0 wtb-tag.mikmak.ai
 0.0.0.0 get.civicscience.com
 0.0.0.0 perfalytics.com
@@ -62406,6 +62409,14 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ins.connatix.com
+0.0.0.0 lit.connatix.com
+0.0.0.0 tracking.shopee.com.br
+0.0.0.0 iv-datatracker.spx.shopee.sg
+0.0.0.0 livetech.shopee.com.br
+0.0.0.0 a.kupibilet.ru
+0.0.0.0 clientlog.pwsdk.com
+0.0.0.0 dlog.pwsdk.com
 0.0.0.0 cdn-px-v1.metrix.az
 0.0.0.0 event-tracker.inditex.com
 0.0.0.0 t.y8.com
@@ -119738,6 +119749,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 log1.cmpassport.com
+0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 events.production.us1.pgw-pci.klarna.net
 0.0.0.0 event-gateway.data.karrotmarket.com
 0.0.0.0 h-adashx4id.ut.taobao.com
@@ -121160,6 +121173,7 @@
 0.0.0.0 doggieshome.com
 0.0.0.0 dollardelta.com
 0.0.0.0 dollarthrill.com
+0.0.0.0 domaincolumn.com
 0.0.0.0 doomhedge.com
 0.0.0.0 doubledefend.com
 0.0.0.0 doubtdrawer.com
@@ -121795,6 +121809,7 @@
 0.0.0.0 motionlessbelief.com
 0.0.0.0 motionlessmeeting.com
 0.0.0.0 mountedbattery.com
+0.0.0.0 movableobject.com
 0.0.0.0 movemeal.com
 0.0.0.0 mowgoats.com
 0.0.0.0 muddledaftermath.com
@@ -121861,6 +121876,7 @@
 0.0.0.0 objectsnetwork.com
 0.0.0.0 oblivionfleet.com
 0.0.0.0 obscenesidewalk.com
+0.0.0.0 obscurespace.com
 0.0.0.0 obsidiangems.com
 0.0.0.0 octaneblood.com
 0.0.0.0 offerniche.com
@@ -121895,6 +121911,7 @@
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
 0.0.0.0 overratedchalk.com
+0.0.0.0 owlbees.com
 0.0.0.0 owlreporter.com
 0.0.0.0 owlsr.us
 0.0.0.0 owlstwo.com
@@ -121923,6 +121940,7 @@
 0.0.0.0 pawsnug.com
 0.0.0.0 peacefullimit.com
 0.0.0.0 pedropanther.com
+0.0.0.0 peeringhost.net
 0.0.0.0 pegsbuttons.com
 0.0.0.0 perceivequarter.com
 0.0.0.0 perfectfetch.com
