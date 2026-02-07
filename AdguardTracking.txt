@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 06 Feb 2026 03:08:46 +0000
+# Last converted - Sat, 07 Feb 2026 02:49:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 atomictrackercollector-i5adxi4wfq-uc.a.run.app
+0.0.0.0 iconmediapixel-ipv4.com
+0.0.0.0 iconmediapixel.com
+0.0.0.0 whale.camera
 0.0.0.0 log.ablyft.com
 0.0.0.0 participants.evolv.ai
 0.0.0.0 media.evolv.ai
@@ -62410,6 +62414,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 dd.g2.com
+0.0.0.0 event.tradedealer.ru
+0.0.0.0 analytics.editorialedomani.it
+0.0.0.0 pixel.scoring.ru
 0.0.0.0 minimetrika.xsolla.com
 0.0.0.0 um.merinfo.se
 0.0.0.0 ins.connatix.com
