@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 09 Feb 2026 03:19:46 +0000
+# Last converted - Tue, 10 Feb 2026 03:27:16 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 lgrckt-in.com
+0.0.0.0 snssdk.gatedata.org
+0.0.0.0 targetads.io
+0.0.0.0 tp88trk.com
 0.0.0.0 atomictrackercollector-i5adxi4wfq-uc.a.run.app
 0.0.0.0 iconmediapixel-ipv4.com
 0.0.0.0 iconmediapixel.com
@@ -62414,6 +62418,15 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 dwh-prod.moz.de
+0.0.0.0 affiliate.hrkgame.com
+0.0.0.0 counter.reddigital.ru
+0.0.0.0 pixel.udpauto.ru
+0.0.0.0 tag.perx.ru
+0.0.0.0 datadog-log.clovergames.io
+0.0.0.0 counter.powr.io
+0.0.0.0 events1.avantisvideo.com
+0.0.0.0 prebid.tapatalk.com
 0.0.0.0 dd.g2.com
 0.0.0.0 event.tradedealer.ru
 0.0.0.0 analytics.editorialedomani.it
@@ -122132,6 +122145,7 @@
 0.0.0.0 rentpenny.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 replaceroute.com
+0.0.0.0 rescueothers.com
 0.0.0.0 rescuerhino.com
 0.0.0.0 resonantbrush.com
 0.0.0.0 resonantrock.com
@@ -122679,6 +122693,7 @@
 0.0.0.0 valuebuttons.com
 0.0.0.0 vanfireworks.com
 0.0.0.0 vanishmemory.com
+0.0.0.0 vastmillions.com
 0.0.0.0 velvetquasar.com
 0.0.0.0 vengefulgrass.com
 0.0.0.0 venomousvessel.com
