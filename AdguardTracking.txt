@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 10 Feb 2026 03:27:16 +0000
+# Last converted - Wed, 11 Feb 2026 03:24:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 lighthouselabs.eu
+0.0.0.0 adgeek.net
 0.0.0.0 lgrckt-in.com
 0.0.0.0 snssdk.gatedata.org
 0.0.0.0 targetads.io
@@ -62418,6 +62420,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 totem.tvmaze.com
+0.0.0.0 mt.9gag.com
 0.0.0.0 dwh-prod.moz.de
 0.0.0.0 affiliate.hrkgame.com
 0.0.0.0 counter.reddigital.ru
@@ -122207,6 +122211,7 @@
 0.0.0.0 samuraibots.com
 0.0.0.0 sandboxbid.com
 0.0.0.0 sandstrophies.com
+0.0.0.0 sandypocket.com
 0.0.0.0 sapnest.com
 0.0.0.0 satisfycork.com
 0.0.0.0 savoryink.com
@@ -122740,6 +122745,7 @@
 0.0.0.0 wavesmachine.com
 0.0.0.0 waxsirens.com
 0.0.0.0 wayjoyfarm.com
+0.0.0.0 weatherbytes.net
 0.0.0.0 websitesdude.com
 0.0.0.0 weeklybanner.com
 0.0.0.0 wellgroomedapparel.com
