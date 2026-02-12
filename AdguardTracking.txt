@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 11 Feb 2026 03:24:11 +0000
+# Last converted - Thu, 12 Feb 2026 03:20:01 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -62420,6 +62420,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.jkdesa.com
 0.0.0.0 totem.tvmaze.com
 0.0.0.0 mt.9gag.com
 0.0.0.0 dwh-prod.moz.de
@@ -119778,6 +119779,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 stats.norton.com
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 bi-report.maxnapps.com
 0.0.0.0 events.production.us1.pgw-pci.klarna.net
@@ -120751,6 +120753,7 @@
 0.0.0.0 aliasanvil.com
 0.0.0.0 alikeaddition.com
 0.0.0.0 aliveachiever.com
+0.0.0.0 allnewhost.com
 0.0.0.0 alloutdubstep.com
 0.0.0.0 allsunflowers.com
 0.0.0.0 alltypo.com
@@ -120945,6 +120948,7 @@
 0.0.0.0 callousbrake.com
 0.0.0.0 calmcactus.com
 0.0.0.0 calmstudent.com
+0.0.0.0 calvarycards.com
 0.0.0.0 calypsocapsule.com
 0.0.0.0 cannonchange.com
 0.0.0.0 canvasandsocks.com
