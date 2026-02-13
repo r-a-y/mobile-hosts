@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 12 Feb 2026 03:20:01 +0000
+# Last converted - Fri, 13 Feb 2026 03:20:21 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 at.artistchai.co.kr
+0.0.0.0 data.artistchai.co.kr
 0.0.0.0 lighthouselabs.eu
 0.0.0.0 adgeek.net
 0.0.0.0 lgrckt-in.com
@@ -62420,6 +62422,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 player-analytics.mp.lura.live
+0.0.0.0 dls-account.di.atlas.samsung.com
+0.0.0.0 karrot-pixel.business.daangn.com
+0.0.0.0 lgecokr.api.useinsider.com
 0.0.0.0 stats.jkdesa.com
 0.0.0.0 totem.tvmaze.com
 0.0.0.0 mt.9gag.com
@@ -119779,6 +119785,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 trkcliq.com
 0.0.0.0 stats.norton.com
 0.0.0.0 log1.cmpassport.com
 0.0.0.0 bi-report.maxnapps.com
@@ -120862,6 +120869,7 @@
 0.0.0.0 binarykite.com
 0.0.0.0 binspiredtees.com
 0.0.0.0 birthdaybelief.com
+0.0.0.0 blackbelted.com
 0.0.0.0 blackbrake.com
 0.0.0.0 bleachbubble.com
 0.0.0.0 bleachscarecrow.com
@@ -120950,6 +120958,7 @@
 0.0.0.0 calmstudent.com
 0.0.0.0 calvarycards.com
 0.0.0.0 calypsocapsule.com
+0.0.0.0 cannonborough.com
 0.0.0.0 cannonchange.com
 0.0.0.0 canvasandsocks.com
 0.0.0.0 capablecup.com
