@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 08 Feb 2026 03:33:32 +0000
+# Last converted - Sat, 14 Feb 2026 02:51:18 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -599,7 +599,6 @@
 0.0.0.0 hop.clickbank.net
 0.0.0.0 hydro-ma-proxy.akamaized.net
 0.0.0.0 i.compendium.com
-0.0.0.0 i.posthog.com
 0.0.0.0 i.viafoura.co
 0.0.0.0 iabusprivacy.pmc.com
 0.0.0.0 id.a-mx.com
@@ -870,6 +869,7 @@
 0.0.0.0 query1.petametrics.com
 0.0.0.0 r.mail.ru
 0.0.0.0 r.skimresources.com
+0.0.0.0 r.winf.site
 0.0.0.0 ramp.purch.com
 0.0.0.0 rampjs-cdn.system1.com
 0.0.0.0 raven.adeptmind.ai
