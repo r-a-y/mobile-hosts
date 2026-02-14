@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 08 Feb 2026 03:33:31 +0000
+# Last converted - Sat, 14 Feb 2026 02:51:18 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -9,6 +9,7 @@
 0.0.0.0 a-da.invideo.io
 0.0.0.0 a-reporting.nytimes.com
 0.0.0.0 a.apkeditor.io
+0.0.0.0 a.boredpanda.bio
 0.0.0.0 a.electerious.com
 0.0.0.0 a.tellonym.me
 0.0.0.0 a10.nationalreview.com
@@ -259,6 +260,7 @@
 0.0.0.0 eurogamer-uk.eurogamer.net
 0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.moviesanywhere.com
+0.0.0.0 event-log-api-data-platform-data-lake-prod.gryphline.com
 0.0.0.0 event-router.olympics.com
 0.0.0.0 event.platform.autotrader.com.au
 0.0.0.0 event.platform.tunein.com
