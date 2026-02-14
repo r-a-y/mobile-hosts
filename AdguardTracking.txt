@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 13 Feb 2026 03:20:21 +0000
+# Last converted - Sat, 14 Feb 2026 02:51:17 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,6 +11,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 measureadv.com
 0.0.0.0 at.artistchai.co.kr
 0.0.0.0 data.artistchai.co.kr
 0.0.0.0 lighthouselabs.eu
@@ -62422,6 +62423,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 token.awswaf.com
+0.0.0.0 trace.shengshu-ai.com
 0.0.0.0 player-analytics.mp.lura.live
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 karrot-pixel.business.daangn.com
@@ -121100,6 +121103,7 @@
 0.0.0.0 cosplaygalaxy.com
 0.0.0.0 costumeoffers.com
 0.0.0.0 costwinner.com
+0.0.0.0 couponrail.com
 0.0.0.0 courageousbaby.com
 0.0.0.0 coverlayer.com
 0.0.0.0 cowbelltime.com
@@ -121152,6 +121156,7 @@
 0.0.0.0 cutechin.com
 0.0.0.0 cyclinghere.com
 0.0.0.0 cyclopsdial.com
+0.0.0.0 dailydomino.com
 0.0.0.0 damagedadvice.com
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
