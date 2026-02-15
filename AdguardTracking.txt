@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 14 Feb 2026 02:51:17 +0000
+# Last converted - Sun, 15 Feb 2026 03:21:04 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -62423,7 +62423,6 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
-0.0.0.0 token.awswaf.com
 0.0.0.0 trace.shengshu-ai.com
 0.0.0.0 player-analytics.mp.lura.live
 0.0.0.0 dls-account.di.atlas.samsung.com
@@ -121646,6 +121645,7 @@
 0.0.0.0 jetskiscovers.com
 0.0.0.0 jewelryforest.com
 0.0.0.0 jewelrysprings.com
+0.0.0.0 jigsawlucky.com
 0.0.0.0 joblessdrum.com
 0.0.0.0 jobmist.com
 0.0.0.0 joyfulharbor.com
@@ -121939,6 +121939,7 @@
 0.0.0.0 omgthink.com
 0.0.0.0 onecrow.net
 0.0.0.0 onedropocean.com
+0.0.0.0 onespecify.com
 0.0.0.0 onlinestarten.net
 0.0.0.0 onlywoofs.com
 0.0.0.0 opalquill.com
