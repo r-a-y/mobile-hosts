@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 17 Feb 2026 03:12:34 +0000
+# Last converted - Wed, 18 Feb 2026 03:15:41 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -61592,6 +61592,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tg.minfin.com.ua
+0.0.0.0 static-mon.yandex.net
+0.0.0.0 analytex-us.userpilot.io
 0.0.0.0 player-analytics.mp.lura.live
 0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 karrot-pixel.business.daangn.com
