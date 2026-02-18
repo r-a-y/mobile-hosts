@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 14 Feb 2026 02:51:18 +0000
+# Last converted - Wed, 18 Feb 2026 20:05:15 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -137,7 +137,6 @@
 0.0.0.0 c.wired.com
 0.0.0.0 c.wort-suche.com
 0.0.0.0 c.xbox.com
-0.0.0.0 c.ypcdn.com
 0.0.0.0 capital.com
 0.0.0.0 cdapi.collegedunia.com
 0.0.0.0 chloro.trip.com
@@ -288,7 +287,6 @@
 0.0.0.0 evs.sgmt.loom.com
 0.0.0.0 exp.notion.so
 0.0.0.0 exr-mms.expertreviews.co.uk
-0.0.0.0 f.cdngeek.com
 0.0.0.0 f.pie.org
 0.0.0.0 f362.nola.com
 0.0.0.0 fathom.app.silverbeak.com
@@ -313,7 +311,6 @@
 0.0.0.0 ga.nsimg.net
 0.0.0.0 gak.webtoons.com
 0.0.0.0 gct.americanexpress.com
-0.0.0.0 generic-function-log-data-7il2midpaa-nn.a.run.app
 0.0.0.0 geo.brobible.com
 0.0.0.0 geo.nbcsports.com
 0.0.0.0 geo.yahoo.com
@@ -436,7 +433,6 @@
 0.0.0.0 midas.chase.com
 0.0.0.0 mixpanel-proxy.coingecko.com
 0.0.0.0 mixpanel-proxy.ted.com
-0.0.0.0 mixproxy.epoch.cloud
 0.0.0.0 mktcs.cloudapps.cisco.com
 0.0.0.0 mon.us.tiktokv.com
 0.0.0.0 monitor.channel4.com
@@ -762,7 +758,6 @@
 0.0.0.0 trends.privacywall.org
 0.0.0.0 trk.decido.io
 0.0.0.0 trk.tirto.id
-0.0.0.0 trusty-shovel-1234.paul-f22.workers.dev
 0.0.0.0 trx3.famousfix.com
 0.0.0.0 ts.delfi.lt
 0.0.0.0 two.cm.com
@@ -812,7 +807,6 @@
 0.0.0.0 zion-telemetry-nonprod.api.cnn.io
 0.0.0.0 zion-telemetry.api.cnn.io
 0.0.0.0 substation.confection.io
-0.0.0.0 onesignal.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 cfa.fidelity.com
@@ -894,4 +888,3 @@
 0.0.0.0 sourcepoint-mms.history.com
 0.0.0.0 sourcepoint-mms.mylifetime.com
 0.0.0.0 vg247-uk.vg247.com
-0.0.0.0 gyrovague.com
