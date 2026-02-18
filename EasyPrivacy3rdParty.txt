@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 14 Feb 2026 02:51:18 +0000
+# Last converted - Wed, 18 Feb 2026 20:05:16 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -201,7 +201,6 @@
 0.0.0.0 ao-freegeoip.herokuapp.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api-analytics-prd.pelcro.com
-0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.croct.io
 0.0.0.0 api.june.so
@@ -516,7 +515,6 @@
 0.0.0.0 events.shareably.net
 0.0.0.0 events.shoplift.ai
 0.0.0.0 events.splash-screen.net
-0.0.0.0 events.split.io
 0.0.0.0 events.storifyme.com
 0.0.0.0 events.tryamped.com
 0.0.0.0 events.tubecup.org
@@ -659,6 +657,7 @@
 0.0.0.0 literally-analytics.appspot.com
 0.0.0.0 live.exchangesolutions.com
 0.0.0.0 livecounter.theyosh.nl
+0.0.0.0 livesearch-metrics.magento-ds.com
 0.0.0.0 livestats.kaltura.com
 0.0.0.0 lma.npaw.com
 0.0.0.0 loader-cdn.azureedge.net
@@ -987,7 +986,6 @@
 0.0.0.0 stats.datahjaelp.net
 0.0.0.0 stats.edicy.com
 0.0.0.0 stats.esecured.net
-0.0.0.0 stats.externulls.com
 0.0.0.0 stats.flixhq.live
 0.0.0.0 stats.fluorescent.co
 0.0.0.0 stats.fomo.com
@@ -998,7 +996,6 @@
 0.0.0.0 stats.itweb.co.za
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.ksearchnet.com
-0.0.0.0 stats.live-video.net
 0.0.0.0 stats.lmofficial.to
 0.0.0.0 stats.locallabs.com
 0.0.0.0 stats.lotlinx.com
@@ -1539,8 +1536,6 @@
 0.0.0.0 st.mapleranks.com
 0.0.0.0 stats.boringproxy.io
 0.0.0.0 stats.how.wtf
-0.0.0.0 firebase.googleapis.com
-0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 ascpqnj-oam.global.ssl.fastly.net
 0.0.0.0 fpcn.bpsgameserver.com
 0.0.0.0 fyrsbckgi-c.global.ssl.fastly.net
