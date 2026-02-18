@@ -95,10 +95,8 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
-		// For $domain syntax, strip domain rules.
-		if ( false !== strpos( $filter, '$domain' ) && false === strpos( $filter, '@@' ) ) {
-			$filter = substr( $filter, 0, strpos( $filter, '$domain' ) );
-		} elseif ( false !== strpos( $filter, '=' ) ) {
+		// Skip domain rules.
+		if ( false !== strpos( $filter, '$domain' ) || false !== strpos( $filter, ',domain' ) ) {
 			continue;
 		}
 
