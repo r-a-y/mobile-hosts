@@ -1,26 +1,13 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 20 Feb 2026 03:09:24 +0000
+# Last converted - Fri, 20 Feb 2026 19:42:49 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 do-not-tracker.org
 0.0.0.0 eviltracker.net
 0.0.0.0 trackersimulator.org
-0.0.0.0 tracking.ibotta-classic.ipn-ops.net$app=com.ibotta.android
-0.0.0.0 firebaselogging-pa.googleapis.com$app=com.sampleapp
-0.0.0.0 ads-api.twitter.com$app=com.twitter.android
-0.0.0.0 tags.tiqcdn.com$app=uk.co.thetimes|com.hulu.plus|com.booking
-0.0.0.0 ljc.coupang.com$app=com.coupang.mobile
-0.0.0.0 api-track.linke.ai$app=com.aigc.ushow.ichat
-0.0.0.0 assets.adobedtm.com$app=com.aa.android|uk.co.thetimes|de.spiegel.android.app.spon|com.hilton.android.hhonors
-0.0.0.0 $app=com.miui.systemadsolution
-0.0.0.0 $app=com.fiberhome.wifiserver
-0.0.0.0 $app=com.miui.analytics
-0.0.0.0 bilanx.dcard.tw$app=com.sparkslab.dcardreader
-0.0.0.0 bilanx.dtto.com$app=com.dtto.app
-0.0.0.0 cdn.branch.io$app=app.extra.android|com.spotify.music
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ace.naver.com
 0.0.0.0 authbe.sec.intl.miui.com
@@ -120,6 +107,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 tracking.twelveapp.sh
 0.0.0.0 trkcliq.com
 0.0.0.0 stats.norton.com
 0.0.0.0 log1.cmpassport.com
@@ -164,7 +152,6 @@
 0.0.0.0 sensorsdata-datasink.stardust-tv.com
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 mebed.dm-event.net
-0.0.0.0 clck.yandex.ru$app=com.edadeal.android
 0.0.0.0 bstream.kzhi.tech
 0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 mob2.welltastic-app.com
@@ -308,7 +295,6 @@
 0.0.0.0 regi.di.atlas.samsung.com
 0.0.0.0 stg-apigw.samsungdmroute.com
 0.0.0.0 log-pub-hk.aoshitang.com
-0.0.0.0 plausible.io$app=jp.gocro.smartnews.android
 0.0.0.0 logs.dradis.netflix.com
 0.0.0.0 analytics-stg.samsungknox.com
 0.0.0.0 event.flareflow.tv
@@ -336,7 +322,6 @@
 0.0.0.0 usstat.icocofun.com
 0.0.0.0 usdiagnosis.icocofun.com
 0.0.0.0 eats-ads-event-capture.coupang.com
-0.0.0.0 googletagmanager.com$app=app.shinagawa.listentonovels.androidapp|com.edadeal.android|com.mysticsense.androidapp
 0.0.0.0 clientlog.perfectworldgames.com
 0.0.0.0 log1.perfectworldgames.com
 0.0.0.0 log2.perfectworldgames.com
@@ -351,15 +336,8 @@
 0.0.0.0 logs-sg.rebxgame.com
 0.0.0.0 talog-eu.rebxgame.com
 0.0.0.0 data-detect.nie.easebar.com
-0.0.0.0 tapi.axcadsf.cfd$app=com.apkpure.aegon
-0.0.0.0 tr.acobt.tech$app=com.apkpure.aegon
-0.0.0.0 api.onegg.site$app=com.apkpure.aegon
-0.0.0.0 gdl.youngle.tech$app=com.apkpure.aegon
-0.0.0.0 tc.weszxdrf.com$app=com.apkpure.aegon
-0.0.0.0 ip.chinaz.com$app=com.apkpure.aegon
 0.0.0.0 hz-telemetry.adobe.io
 0.0.0.0 smartcard.apps.coloros.com
-0.0.0.0 log-boot.capcutapi.com$app=com.xt.retouchoversea
 0.0.0.0 fp-it.fengkongcloud.com
 0.0.0.0 api-fp-retry-bj.fengkongcloud.com
 0.0.0.0 app-tracking.hlogo.de
@@ -404,11 +382,6 @@
 0.0.0.0 cnlogs.umengcloud.com
 0.0.0.0 logservice.dbankcloud.cn
 0.0.0.0 logs.nebulahoroscope.com
-0.0.0.0 gateway.bingviz.microsoftapp.net$app=com.microsoft.bing
-0.0.0.0 app.adjust.com$app=com.microsoft.bing|jp.gocro.smartnews.android|com.daily.health.tracker.monitor|com.glovo|com.edadeal.android|com.dailymotion.dailymotion|com.novoda.dch|com.jotform.v2|com.location.track.proxy.gps|com.magical.smart.alban
-0.0.0.0 sapphire.api.microsoftapp.net$app=com.microsoft.bing
-0.0.0.0 browser.events.data.microsoft.com$app=com.microsoft.bing
-0.0.0.0 mobile.events.data.microsoft.com$app=com.microsoft.bing
 0.0.0.0 braveglobal.tv
 0.0.0.0 mssdk-boot.cpacutapi.com
 0.0.0.0 collect.ureca-lab.com
