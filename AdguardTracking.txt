@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 20 Feb 2026 19:42:54 +0000
+# Last converted - Fri, 20 Feb 2026 19:56:21 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -123344,9 +123344,6 @@
 0.0.0.0 zdactzl96snkye37.click.s11.sfmc-osl.com
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 zmail.mtrl.me
-0.0.0.0 &ep.analytics_storage=
-0.0.0.0 &sst.sw_exp=
-0.0.0.0 id.x5.ru$referrerpolicy=origin
 0.0.0.0 an.gr-wcon.com
 0.0.0.0 web-perf.booking.com
 0.0.0.0 cdn.branch.io
@@ -124524,8 +124521,6 @@
 0.0.0.0 upoll.umengcloud.com
 0.0.0.0 utop.umengcloud.com
 0.0.0.0 analy.qq.com
-0.0.0.0 mechacomic.jp$referrerpolicy=origin
-0.0.0.0 industrivarer.no$referrerpolicy=origin
 0.0.0.0 form.info-morimoto-real.jp
 0.0.0.0 connect.telstrawholesale.com
 0.0.0.0 login.eki-net.com
