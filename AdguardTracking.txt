@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 18 Feb 2026 20:05:14 +0000
+# Last converted - Fri, 20 Feb 2026 03:09:29 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sigmob.cn
+0.0.0.0 sdk.beizi.biz
 0.0.0.0 measureadv.com
 0.0.0.0 at.artistchai.co.kr
 0.0.0.0 data.artistchai.co.kr
@@ -61594,6 +61596,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 alloy-web.zvuk.com
 0.0.0.0 tg.minfin.com.ua
 0.0.0.0 static-mon.yandex.net
 0.0.0.0 analytex-us.userpilot.io
@@ -123530,6 +123533,7 @@
 0.0.0.0 =sophitrackerid.a05e
 0.0.0.0 =sophitrackerses.a05e
 0.0.0.0 =sp_tgamid.a05e
+0.0.0.0 zvuk.com=device_id
 0.0.0.0 exodus.com=cfz_zaraz-analytics
 0.0.0.0 tracktollywood.com=uid-s
 0.0.0.0 newspicks.com=np_uuid
@@ -124616,7 +124620,6 @@
 0.0.0.0 cloudconf.fengkongcloud.com
 0.0.0.0 tracker.fengkongcloud.com
 0.0.0.0 dm.pstatp.com
-0.0.0.0 countly.globaldelight.net
 0.0.0.0 log.game.qcplay.com
 0.0.0.0 report-stats.ad.jiguang.cn
 0.0.0.0 config.jpush.cn
