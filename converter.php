@@ -171,6 +171,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// If ending with '=', skip.
+		if ( '=' === substr( $filter, -1 ) ) {
+			continue;
+		}
+
 		// Strip trailing |.
 		if ( '|' === substr( $filter, -1 ) ) {
 			$filter = str_replace( '|', '', $filter );
