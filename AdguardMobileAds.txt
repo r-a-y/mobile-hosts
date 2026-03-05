@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 24 Feb 2026 03:13:28 +0000
+# Last converted - Thu, 05 Mar 2026 02:51:27 +0000
 #
 
 0.0.0.0 banner.bet365partners.com
@@ -88,6 +88,8 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 afs.googlesyndication.com
+0.0.0.0 pob-mob2.websearchbrowser.com
 0.0.0.0 ucads.ucweb.com
 0.0.0.0 ad-api.maxnapps.com
 0.0.0.0 d3vgkjyuhp91nc.cloudfront.net
