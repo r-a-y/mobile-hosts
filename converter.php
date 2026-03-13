@@ -176,6 +176,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// If contains a comma, skip.
+		if ( false !== strpos( $filter, ',' ) ) {
+			continue;
+		}
+
 		// Strip trailing |.
 		if ( '|' === substr( $filter, -1 ) ) {
 			$filter = str_replace( '|', '', $filter );
