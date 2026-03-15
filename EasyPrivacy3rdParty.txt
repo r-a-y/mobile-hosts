@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 13 Mar 2026 23:54:10 +0000
+# Last converted - Sun, 15 Mar 2026 03:29:43 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -874,6 +874,7 @@
 0.0.0.0 qubitanalytics.appspot.com
 0.0.0.0 query1.petametrics.com
 0.0.0.0 r.mail.ru
+0.0.0.0 r.sdiapi.net
 0.0.0.0 r.skimresources.com
 0.0.0.0 r.winf.site
 0.0.0.0 ramp.purch.com
@@ -1108,6 +1109,7 @@
 0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
+0.0.0.0 tag.gendiscover.com
 0.0.0.0 tag.getamigo.io
 0.0.0.0 tag.imagino.com
 0.0.0.0 tag.lexer.io
