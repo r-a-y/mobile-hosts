@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 12 Mar 2026 03:10:28 +0000
+# Last converted - Tue, 17 Mar 2026 03:11:15 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -360,8 +360,6 @@
 0.0.0.0 intent.pcworld.idg.com.au
 0.0.0.0 intent.techadvisor.com
 0.0.0.0 internal-analytics.odoo.com
-0.0.0.0 internal-e.posthog.com
-0.0.0.0 internal-t.posthog.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intuitvisitorid.api.intuit.com
 0.0.0.0 ip.cliphunter.com
@@ -481,6 +479,7 @@
 0.0.0.0 papi.stylar.ai
 0.0.0.0 pappagallu.onefootball.com
 0.0.0.0 pcp.coupert.com
+0.0.0.0 pepin.padlet.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 perr.hola.org
