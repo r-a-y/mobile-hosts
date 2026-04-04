@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 31 Mar 2026 03:28:15 +0000
+# Last converted - Sat, 04 Apr 2026 03:14:18 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -374,6 +374,7 @@
 0.0.0.0 count.me.uk
 0.0.0.0 count.paycounter.com
 0.0.0.0 count.xxxssk.com
+0.0.0.0 counter-growthbook.minute-ly.com
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cam-content.com
 0.0.0.0 counter.hyipexplorer.com
@@ -631,7 +632,6 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 invite.leanlab.co
 0.0.0.0 invitejs.trustpilot.com
-0.0.0.0 ip-check-perf.radar.cloudflare.com
 0.0.0.0 ip.lovely-app.com
 0.0.0.0 ip.momentummedia.com.au
 0.0.0.0 iq.sixaxisllc.com
