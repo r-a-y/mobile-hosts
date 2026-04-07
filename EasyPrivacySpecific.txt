@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sun, 05 Apr 2026 03:35:32 +0000
+# Last converted - Tue, 07 Apr 2026 03:28:56 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -423,6 +423,7 @@
 0.0.0.0 metrics.audius.co
 0.0.0.0 metrics.bangbros.com
 0.0.0.0 metrics.camsoda.com
+0.0.0.0 metrics.documentfoundation.org
 0.0.0.0 metrics.freemake.com
 0.0.0.0 metrics.hackerrank.com
 0.0.0.0 metrics.hyperliquid.xyz
