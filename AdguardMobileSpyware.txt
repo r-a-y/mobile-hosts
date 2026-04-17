@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Wed, 15 Apr 2026 03:37:29 +0000
+# Last converted - Fri, 17 Apr 2026 03:43:40 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -134,7 +134,7 @@
 0.0.0.0 reporttk.com
 0.0.0.0 track.hily.com
 0.0.0.0 ntus.bidease.com
-0.0.0.0 thinkingdata.cn
+0.0.0.0 global-receiver-ta.thinkingdata.cn
 0.0.0.0 mixpanel-proxy-ivbdkvonca-uc.a.run.app
 0.0.0.0 tc.zxcvbnml.com
 0.0.0.0 fpconfig.net
