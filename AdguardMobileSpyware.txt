@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 23 Apr 2026 03:44:33 +0000
+# Last converted - Sat, 25 Apr 2026 03:30:25 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -393,6 +393,7 @@
 0.0.0.0 log2.perfectworldgames.com
 0.0.0.0 dlog.perfectworldgames.com
 0.0.0.0 ads-img-al.xhscdn.com
+0.0.0.0 ads-img-bak.xhscdn.com
 0.0.0.0 apm-native.xiaohongshu.com
 0.0.0.0 apm-fe.xiaohongshu.com
 0.0.0.0 apm-track.xiaohongshu.com
