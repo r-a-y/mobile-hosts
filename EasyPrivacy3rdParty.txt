@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sat, 25 Apr 2026 03:30:31 +0000
+# Last converted - Sun, 26 Apr 2026 03:54:24 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -866,6 +866,7 @@
 0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-platform.ex.co
 0.0.0.0 prf.vagnt.com
+0.0.0.0 privacy-analytics-proxy.cookiebot.com
 0.0.0.0 privacy.outdoorsg.com
 0.0.0.0 processor.asccommunications.com
 0.0.0.0 prod.ew.srp.navigacloud.com
