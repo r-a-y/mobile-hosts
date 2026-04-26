@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Sat, 25 Apr 2026 03:30:25 +0000
+# Last converted - Sun, 26 Apr 2026 03:54:19 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -736,7 +736,6 @@
 0.0.0.0 ys-log-upload-os.hoyoverse.com
 0.0.0.0 analytics.studiodesignapp.com
 0.0.0.0 misc.api.snaptube.app
-0.0.0.0 dig.bdurl.net
 0.0.0.0 trusted-collector-bk.tmocce.com
 0.0.0.0 collect.babybus.com
 0.0.0.0 log.apkomega.com
