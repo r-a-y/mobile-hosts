@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Fri, 01 May 2026 04:14:00 +0000
+# Last converted - Tue, 05 May 2026 03:47:41 +0000
 #
 
 0.0.0.0 yodo1.com
@@ -213,7 +213,6 @@
 0.0.0.0 nbcollect.kugou.com
 0.0.0.0 nbcollectretry.kugou.com
 0.0.0.0 dl-adx.op-mobile.opera.com
-0.0.0.0 dsp-api.moloco.com
 0.0.0.0 ads.smrtbid.com
 0.0.0.0 bidjora.com
 0.0.0.0 aomsitf.com
@@ -370,6 +369,7 @@
 0.0.0.0 mobondhrd.appspot.com
 0.0.0.0 api.ads.newsdigest.jp
 0.0.0.0 mobi.yanosik.pl
+0.0.0.0 mobileadvertiser.yanosik.pl
 0.0.0.0 videoads-cloud.rovio.com
 0.0.0.0 vmap.v.ad-generation.jp
 0.0.0.0 iyes.youku.com
