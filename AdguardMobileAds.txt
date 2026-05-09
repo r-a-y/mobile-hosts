@@ -1,7 +1,7 @@
 # AdguardMobileAds
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt
-# Last converted - Tue, 05 May 2026 03:47:41 +0000
+# Last converted - Sat, 09 May 2026 03:53:08 +0000
 #
 
 0.0.0.0 yodo1.com
@@ -89,6 +89,7 @@
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 startup.mobile.webvisor.com
 0.0.0.0 startup-mobile.ap.yandex-net.ru
+0.0.0.0 kw0xlh4wig.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 p3-ad-sign.byteimg.com
 0.0.0.0 p3-ad-sign.byteimg.com.queniusy.com
