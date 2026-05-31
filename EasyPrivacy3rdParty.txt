@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 31 May 2026 04:48:33 +0000
+# Last converted - Sun, 31 May 2026 21:10:37 +0100
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -662,7 +662,6 @@
 0.0.0.0 l.player.ooyala.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 l.typesquare.com
-0.0.0.0 lambda-url.eu-west-1.on.aws
 0.0.0.0 launch-analytics-plugin.launchpotato.com
 0.0.0.0 laurel.macrovision.com
 0.0.0.0 laurel.rovicorp.com
@@ -790,7 +789,6 @@
 0.0.0.0 onelinksmartscript.appsflyer.com
 0.0.0.0 onelinksmartscript.appsflyersdk.com
 0.0.0.0 onespot-tracking.herokuapp.com
-0.0.0.0 onetrust.com
 0.0.0.0 onsitestats.bluecore.com
 0.0.0.0 oply.hearstapps.com
 0.0.0.0 optimeeze.appspot.com
@@ -1409,7 +1407,6 @@
 0.0.0.0 wf.typesquare.com
 0.0.0.0 wgs.wgs-static.com
 0.0.0.0 widget-pixels.outbrain.com
-0.0.0.0 widget.civey.com
 0.0.0.0 widget.educationdynamics.com
 0.0.0.0 win.staticstuff.net
 0.0.0.0 wl-pixel.index.digital
