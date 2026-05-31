@@ -18,31 +18,31 @@ if ( ! empty( $_GET['url'] ) && ! empty( $_GET['name'] ) ) {
 	$lists = array(
 		// Mobile Ads
 		'AdguardMobileAds' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_11_Mobile/filter.txt',
-	
+
 		// Mobile Tracking + Spyware
 		'AdguardMobileSpyware' => 'https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt',
-	
+
 		// Adguard DNS
 		'AdguardDNS' => 'https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt',
-	
+
 		// Adguard CNAME Ads
 		'AdguardCNAMEAds' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_ads.txt',
-	
+
 		// Adguard CNAME Clickthroughs
 		'AdguardCNAMEClickthroughs' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_clickthroughs.txt',
-	
+
 		// Adguard CNAME Microsites
 		'AdguardCNAMEMicrosites' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_microsites.txt',
-	
+
 		// Adguard CNAME Trackers
 		'AdguardCNAME' => 'https://raw.githubusercontent.com/AdguardTeam/cname-trackers/master/data/combined_disguised_trackers.txt',
-	
+
 		// Adguard Tracking
 		'AdguardTracking' => 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt',
-	
+
 		// EasyPrivacy Specific
 		'EasyPrivacySpecific' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt',
-	
+
 		// EasyPrivacy Third-Party
 		'EasyPrivacy3rdParty' => 'https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt',
 	);
