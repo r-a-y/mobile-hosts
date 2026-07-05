@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 01 Jul 2026 04:51:46 +0000
+# Last converted - Sun, 05 Jul 2026 04:17:42 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -55,6 +55,7 @@
 0.0.0.0 analytics-cms.whitebeard.me
 0.0.0.0 analytics-consent-manager-v2-prod.azureedge.net
 0.0.0.0 analytics-fe.digital-cloud-prem.medallia.com
+0.0.0.0 analytics-fe.digital-cloud-prem.medallia.eu
 0.0.0.0 analytics-fe.digital-cloud.medallia.ca
 0.0.0.0 analytics-fe.digital-cloud.medallia.com
 0.0.0.0 analytics-ipv6.tiktokw.us
