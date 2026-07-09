@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 05 Jul 2026 04:17:42 +0000
+# Last converted - Thu, 09 Jul 2026 04:10:54 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -653,6 +653,7 @@
 0.0.0.0 ingress.trendii.com
 0.0.0.0 ins.connatix.com
 0.0.0.0 insights.algolia.io
+0.0.0.0 insights.playpilot.net
 0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 intake-analytics.wikimedia.org
