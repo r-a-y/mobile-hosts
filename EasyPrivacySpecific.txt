@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Mon, 13 Jul 2026 03:56:31 +0000
+# Last converted - Fri, 17 Jul 2026 03:33:56 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -385,6 +385,7 @@
 0.0.0.0 kape.dataplane.rudderstack.com
 0.0.0.0 kinesis.us-east-1.analytics.edmentum.com
 0.0.0.0 kqefj.clearstem.com
+0.0.0.0 lc-event.pixiv.net
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
 0.0.0.0 link2.strawberrynet.com
