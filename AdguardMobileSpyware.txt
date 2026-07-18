@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Fri, 10 Jul 2026 04:11:26 +0000
+# Last converted - Sat, 18 Jul 2026 03:28:12 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -690,7 +690,6 @@
 0.0.0.0 logs.gshopper.com
 0.0.0.0 airlytics.airlock.twcmobile.weather.com
 0.0.0.0 track.midway.run
-0.0.0.0 tdid.m.qq.com
 0.0.0.0 d.reddit.com
 0.0.0.0 clog.mirrativ.com
 0.0.0.0 teleport.soom.la
