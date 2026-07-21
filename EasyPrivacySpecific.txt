@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 17 Jul 2026 03:33:56 +0000
+# Last converted - Tue, 21 Jul 2026 03:41:21 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -234,7 +234,6 @@
 0.0.0.0 dd.auspost.com.au
 0.0.0.0 dd.g2.com
 0.0.0.0 dd.nytimes.com
-0.0.0.0 dd.qwant.com
 0.0.0.0 dd.viator.com
 0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 discover-metrics.cloud.seek.com.au
@@ -350,6 +349,7 @@
 0.0.0.0 h5log.joybuy.com
 0.0.0.0 health-metrics-api.setapp.com
 0.0.0.0 heap.drop.com
+0.0.0.0 helios.g2a.com
 0.0.0.0 hlogger.heraldcorp.com
 0.0.0.0 htrace.wetvinfo.com
 0.0.0.0 i.pokernews.com
