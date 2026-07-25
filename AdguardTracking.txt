@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 24 Jul 2026 03:39:34 +0000
+# Last converted - Sat, 25 Jul 2026 03:34:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -75630,6 +75630,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 athena.archive.org
 0.0.0.0 s1.bss.2gis.com
 0.0.0.0 t.mmganalytics.com
 0.0.0.0 stat.ip.sb
@@ -179377,7 +179378,6 @@
 0.0.0.0 functionalfeather.com
 0.0.0.0 funoverbored.com
 0.0.0.0 funoverflow.com
-0.0.0.0 funtoyplanet.com
 0.0.0.0 furryfork.com
 0.0.0.0 fusedcontent.com
 0.0.0.0 futuristicfifth.com
@@ -179959,6 +179959,7 @@
 0.0.0.0 planebasin.com
 0.0.0.0 plantcourse.com
 0.0.0.0 playerhappy.com
+0.0.0.0 playerscache.com
 0.0.0.0 playfulriver.com
 0.0.0.0 pleasantpump.com
 0.0.0.0 plotparent.com
@@ -180019,6 +180020,7 @@
 0.0.0.0 propsynergy.com
 0.0.0.0 protectpool.com
 0.0.0.0 protestcopy.com
+0.0.0.0 provingmagic.com
 0.0.0.0 psychedelicarithmetic.com
 0.0.0.0 pubfs.com
 0.0.0.0 pubimgs.com
@@ -180055,6 +180057,7 @@
 0.0.0.0 quixoticnebula.com
 0.0.0.0 quizzicalpartner.com
 0.0.0.0 quizzicalzephyr.com
+0.0.0.0 rabbitboots.com
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
 0.0.0.0 rackforstorage.com
@@ -180285,6 +180288,7 @@
 0.0.0.0 signaturepod.com
 0.0.0.0 silentcredit.com
 0.0.0.0 silentjackal.com
+0.0.0.0 silentsingle.com
 0.0.0.0 siliconslow.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 simplenaming.com
