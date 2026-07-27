@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 25 Jul 2026 03:34:11 +0000
+# Last converted - Mon, 27 Jul 2026 03:58:54 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -178762,6 +178762,7 @@
 0.0.0.0 bentengine.com
 0.0.0.0 berserkhydrant.com
 0.0.0.0 bestboundary.com
+0.0.0.0 bestclimbers.net
 0.0.0.0 bestshoesboot.com
 0.0.0.0 betazebra.com
 0.0.0.0 bewilderedbattle.com
@@ -179302,6 +179303,7 @@
 0.0.0.0 finalizeforce.com
 0.0.0.0 finaloptics.com
 0.0.0.0 financefear.com
+0.0.0.0 findcalculator.com
 0.0.0.0 findyourdelight.com
 0.0.0.0 firecatfilms.com
 0.0.0.0 fireworkcamp.com
