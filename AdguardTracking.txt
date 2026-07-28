@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 27 Jul 2026 03:58:54 +0000
+# Last converted - Tue, 28 Jul 2026 03:31:22 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 acv.mira-dsp.com
 0.0.0.0 snippet.affilimate.io
 0.0.0.0 mtag.markopolo.ai
 0.0.0.0 external-tag.mysquadbeyond.com
@@ -75630,6 +75631,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 d3lw7s0briwuoi.cloudfront.net
+0.0.0.0 analytics.sutochno.ru
 0.0.0.0 athena.archive.org
 0.0.0.0 s1.bss.2gis.com
 0.0.0.0 t.mmganalytics.com
@@ -179337,6 +179340,7 @@
 0.0.0.0 floweryoperation.com
 0.0.0.0 flushingbeast.com
 0.0.0.0 flutteringfireman.com
+0.0.0.0 flyflightstar.com
 0.0.0.0 flystranger.com
 0.0.0.0 foambench.com
 0.0.0.0 focusfitwear.com
@@ -179344,6 +179348,7 @@
 0.0.0.0 followborder.com
 0.0.0.0 foodczar.com
 0.0.0.0 foodfunfestivals.com
+0.0.0.0 footballmedal.com
 0.0.0.0 forecasttiger.com
 0.0.0.0 foretellfifth.com
 0.0.0.0 forevergears.com
@@ -179414,6 +179419,7 @@
 0.0.0.0 glisteningguide.com
 0.0.0.0 glisteningsign.com
 0.0.0.0 glitteringbrook.com
+0.0.0.0 globalorders.net
 0.0.0.0 gloomyseason.com
 0.0.0.0 gloriousbeef.com
 0.0.0.0 glowingmeadow.com
