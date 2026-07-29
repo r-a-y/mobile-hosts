@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 28 Jul 2026 03:31:22 +0000
+# Last converted - Wed, 29 Jul 2026 03:35:21 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 aladinia.app
+0.0.0.0 cdp.customer.io
+0.0.0.0 cloud.monolytics.app
 0.0.0.0 acv.mira-dsp.com
 0.0.0.0 snippet.affilimate.io
 0.0.0.0 mtag.markopolo.ai
@@ -75631,6 +75634,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analyticsehnwe.servicebus.windows.net
+0.0.0.0 flow-control.profitroom.net
+0.0.0.0 e2.sy-d.io
+0.0.0.0 analytics.crewly.pl
 0.0.0.0 d3lw7s0briwuoi.cloudfront.net
 0.0.0.0 analytics.sutochno.ru
 0.0.0.0 athena.archive.org
@@ -178902,6 +178909,7 @@
 0.0.0.0 carefuldolls.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
+0.0.0.0 carpoolmatch.com
 0.0.0.0 carpoolqueen.com
 0.0.0.0 carsarace.com
 0.0.0.0 cartelsalsa.com
@@ -179430,6 +179438,7 @@
 0.0.0.0 golfcartlaws.com
 0.0.0.0 golfersrow.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 goodfoodtours.com
 0.0.0.0 gorgeousedge.com
 0.0.0.0 gorillapage.com
 0.0.0.0 gossamerwing.com
@@ -179827,6 +179836,7 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 nestbuyers.com
 0.0.0.0 netandbytes.com
+0.0.0.0 netsurfconsult.com
 0.0.0.0 networklast.com
 0.0.0.0 newarkdriving.com
 0.0.0.0 newsbotnet.com
@@ -179868,6 +179878,7 @@
 0.0.0.0 obsidiangems.com
 0.0.0.0 offerniche.com
 0.0.0.0 offgridcrops.com
+0.0.0.0 officestylist.com
 0.0.0.0 offshoreassets.com
 0.0.0.0 offshorecyclone.com
 0.0.0.0 offshoregeology.com
