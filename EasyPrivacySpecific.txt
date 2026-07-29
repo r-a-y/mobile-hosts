@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 21 Jul 2026 03:41:21 +0000
+# Last converted - Wed, 29 Jul 2026 03:35:23 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -337,6 +337,7 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.thegrocer.co.uk
 0.0.0.0 go.theregister.com
+0.0.0.0 goatcounter.ssp.sh
 0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
 0.0.0.0 gtm.lercio.it
