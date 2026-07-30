@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 29 Jul 2026 03:35:21 +0000
+# Last converted - Thu, 30 Jul 2026 03:24:25 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.xxcontent.lol
 0.0.0.0 aladinia.app
 0.0.0.0 cdp.customer.io
 0.0.0.0 cloud.monolytics.app
@@ -179528,6 +179529,7 @@
 0.0.0.0 homeslick.com
 0.0.0.0 honestharbor.com
 0.0.0.0 honeybulb.com
+0.0.0.0 honeybutterbliss.com
 0.0.0.0 honorablehydrant.com
 0.0.0.0 honorableland.com
 0.0.0.0 hookconference.com
@@ -179999,6 +180001,7 @@
 0.0.0.0 politeplanes.com
 0.0.0.0 politicalporter.com
 0.0.0.0 poolcushions.com
+0.0.0.0 poolprochem.com
 0.0.0.0 popliquids.com
 0.0.0.0 popmixradio.com
 0.0.0.0 popplantation.com
@@ -180223,6 +180226,7 @@
 0.0.0.0 scenicdrops.com
 0.0.0.0 scentedkindly.com
 0.0.0.0 scholarloop.com
+0.0.0.0 schoolpaws.com
 0.0.0.0 sciencedart.com
 0.0.0.0 sciencevault.net
 0.0.0.0 scientificshirt.com
@@ -180313,6 +180317,7 @@
 0.0.0.0 simplenaming.com
 0.0.0.0 simplesafari.com
 0.0.0.0 simplesidewalk.com
+0.0.0.0 simplyradon.com
 0.0.0.0 simulateswing.com
 0.0.0.0 sincerebuffalo.com
 0.0.0.0 sincerepelican.com
@@ -180366,6 +180371,7 @@
 0.0.0.0 soilcontent.com
 0.0.0.0 soilphotos.com
 0.0.0.0 solarislabyrinth.com
+0.0.0.0 solarrecharge.net
 0.0.0.0 soleblinds.com
 0.0.0.0 solidsub.com
 0.0.0.0 solosduetstrios.com
