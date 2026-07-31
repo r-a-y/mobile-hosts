@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 30 Jul 2026 03:24:25 +0000
+# Last converted - Fri, 31 Jul 2026 03:47:02 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -11,7 +11,6 @@
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 analytics.xxcontent.lol
-0.0.0.0 aladinia.app
 0.0.0.0 cdp.customer.io
 0.0.0.0 cloud.monolytics.app
 0.0.0.0 acv.mira-dsp.com
@@ -75635,6 +75634,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats-cdn.polyspeak.ai
+0.0.0.0 dap.hindustantimes.com
 0.0.0.0 analyticsehnwe.servicebus.windows.net
 0.0.0.0 flow-control.profitroom.net
 0.0.0.0 e2.sy-d.io
@@ -178635,6 +178636,7 @@
 0.0.0.0 abjectattempt.com
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
+0.0.0.0 aboutcorgis.com
 0.0.0.0 abovechat.com
 0.0.0.0 abruptroad.com
 0.0.0.0 absentairport.com
@@ -178684,6 +178686,7 @@
 0.0.0.0 allthelogs.com
 0.0.0.0 alltypo.com
 0.0.0.0 alluringbucket.com
+0.0.0.0 allycoop.com
 0.0.0.0 almondbuns.com
 0.0.0.0 alohamiles.com
 0.0.0.0 aloofmetal.com
@@ -180399,7 +180402,9 @@
 0.0.0.0 sparkgoal.com
 0.0.0.0 sparklingshelf.com
 0.0.0.0 specialscissors.com
+0.0.0.0 specialtypin.com
 0.0.0.0 spectacularstamp.com
+0.0.0.0 speedysteaks.com
 0.0.0.0 spellingthoughts.com
 0.0.0.0 spellknight.com
 0.0.0.0 spellmist.com
