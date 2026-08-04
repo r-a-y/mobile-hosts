@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 01 Aug 2026 03:46:42 +0000
+# Last converted - Tue, 04 Aug 2026 03:33:33 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -41,13 +41,10 @@
 0.0.0.0 analytics.ekonsilio.io
 0.0.0.0 insights.xyba.dev
 0.0.0.0 sts.marketingsuite.jp
-0.0.0.0 umami.vidup.to
-0.0.0.0 umami.vidfast.pro
-0.0.0.0 umami.vidcore.net
 0.0.0.0 g10498469755.co
 0.0.0.0 handler.rgstats.com
 0.0.0.0 identity.treeumapp.net
-0.0.0.0 umommy.online
+0.0.0.0 umommy.cyou
 0.0.0.0 marcuscash.one
 0.0.0.0 vm.target-video.com
 0.0.0.0 tagmanager.andata.ru
@@ -574,7 +571,6 @@
 0.0.0.0 tr.dec-connect.decsuite.com
 0.0.0.0 yatr.ru
 0.0.0.0 analytics-fe.digital-cloud.medallia.eu
-0.0.0.0 umami.aigenerations.net
 0.0.0.0 pixeltrack.clientgear.com
 0.0.0.0 event.clientgear.com
 0.0.0.0 nkdyzf.com
@@ -75783,7 +75779,6 @@
 0.0.0.0 static-rmr.reworldmediafactory.com
 0.0.0.0 cca-lite.coinbase.com
 0.0.0.0 roas-service.store-services-prod.remarkable.com
-0.0.0.0 umami.syg.ma
 0.0.0.0 event.dxmdp.com
 0.0.0.0 beacon.cdnpure.com
 0.0.0.0 r.cdnpure.com
@@ -76097,7 +76092,6 @@
 0.0.0.0 analytics.edaily.co.kr
 0.0.0.0 adgbb.io.naver.com
 0.0.0.0 sp.justwatch.com
-0.0.0.0 umami.spencerdevs.xyz
 0.0.0.0 data.client.openweb.bid
 0.0.0.0 launch-analytics-plugin.launchpotato.com
 0.0.0.0 d2zd0wa1vpt7j9.cloudfront.net
@@ -76572,7 +76566,6 @@
 0.0.0.0 track.hydro.online
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 plausible.pronouns.cc
-0.0.0.0 umami.subdavis.com
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 sks.mrkhub.com
 0.0.0.0 measuring-pixel-service.alza.cz
@@ -179288,6 +179281,7 @@
 0.0.0.0 fancycolorlist.net
 0.0.0.0 fancydune.com
 0.0.0.0 fangfeeling.com
+0.0.0.0 fanless.net
 0.0.0.0 farethief.com
 0.0.0.0 farmergoldfish.com
 0.0.0.0 farshake.com
@@ -179558,6 +179552,7 @@
 0.0.0.0 hystericalfinger.com
 0.0.0.0 icywinter.com
 0.0.0.0 idlecollect.com
+0.0.0.0 idsmodules.com
 0.0.0.0 illinvention.com
 0.0.0.0 illustriousoatmeal.com
 0.0.0.0 imagebuffer.com
