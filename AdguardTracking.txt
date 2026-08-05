@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 04 Aug 2026 03:33:33 +0000
+# Last converted - Wed, 05 Aug 2026 03:28:58 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 gsitrix.com
 0.0.0.0 analytics.xxcontent.lol
 0.0.0.0 cdp.customer.io
 0.0.0.0 cloud.monolytics.app
@@ -179778,6 +179779,7 @@
 0.0.0.0 messyoranges.com
 0.0.0.0 metajaws.com
 0.0.0.0 metawelcome.com
+0.0.0.0 metricfresh.com
 0.0.0.0 midnightmead.com
 0.0.0.0 mightyspiders.com
 0.0.0.0 millswell.com
@@ -179943,6 +179945,7 @@
 0.0.0.0 parsimoniouspolice.com
 0.0.0.0 partnerhut.com
 0.0.0.0 partplanes.com
+0.0.0.0 partycharge.com
 0.0.0.0 passivepolo.com
 0.0.0.0 passwordbyte.com
 0.0.0.0 pastoralroad.com
@@ -180367,6 +180370,7 @@
 0.0.0.0 sneezecovers.com
 0.0.0.0 snoresmile.com
 0.0.0.0 snowmentor.com
+0.0.0.0 snowpeaksoftware.com
 0.0.0.0 socialsend.net
 0.0.0.0 sockpacks.com
 0.0.0.0 soggysponge.com
@@ -180377,6 +180381,7 @@
 0.0.0.0 soleblinds.com
 0.0.0.0 solidsub.com
 0.0.0.0 solosduetstrios.com
+0.0.0.0 solsticeblack.com
 0.0.0.0 solvebots.com
 0.0.0.0 somberscarecrow.com
 0.0.0.0 sombersea.com
@@ -180384,6 +180389,7 @@
 0.0.0.0 sombersticks.com
 0.0.0.0 sombersurprise.com
 0.0.0.0 songsterritory.com
+0.0.0.0 sonicsessions.net
 0.0.0.0 soothingglade.com
 0.0.0.0 sophisticatedstove.com
 0.0.0.0 sorebear.com
