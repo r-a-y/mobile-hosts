@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 05 Aug 2026 03:28:58 +0000
+# Last converted - Thu, 06 Aug 2026 03:32:48 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -177622,6 +177622,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 logs.profi.ru
 0.0.0.0 w.inmobi.com
 0.0.0.0 pbs.inmobi.com
 0.0.0.0 stats-sdk.tange365.com
@@ -180517,12 +180518,14 @@
 0.0.0.0 stylishbuds.com
 0.0.0.0 subjectivepoint.com
 0.0.0.0 sublimequartz.com
+0.0.0.0 subscriberlists.com
 0.0.0.0 subseaagent.com
 0.0.0.0 subseacare.com
 0.0.0.0 subseasecurity.com
 0.0.0.0 subsequentstew.com
 0.0.0.0 substantialgrade.com
 0.0.0.0 successbuffet.com
+0.0.0.0 successmenu.com
 0.0.0.0 suggestionbridge.com
 0.0.0.0 sulkycook.com
 0.0.0.0 summerobject.com
@@ -180561,7 +180564,6 @@
 0.0.0.0 tangletrace.com
 0.0.0.0 tangyamount.com
 0.0.0.0 tangycover.com
-0.0.0.0 targetfax.com
 0.0.0.0 tarttendency.com
 0.0.0.0 taskdelight.com
 0.0.0.0 tasksimplify.com
@@ -180619,6 +180621,7 @@
 0.0.0.0 ticketjolly.com
 0.0.0.0 ticketssponge.com
 0.0.0.0 ticklesign.com
+0.0.0.0 tidaldrops.com
 0.0.0.0 tidymitten.com
 0.0.0.0 tidysprite.com
 0.0.0.0 tightpowder.com
