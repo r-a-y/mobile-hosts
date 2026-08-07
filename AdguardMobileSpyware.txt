@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Thu, 06 Aug 2026 03:32:43 +0000
+# Last converted - Fri, 07 Aug 2026 03:12:48 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -51,6 +51,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 tfpodf.ars.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 attr.appsflyersdk.com
@@ -58,6 +59,7 @@
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api2.appsflyer.com
@@ -233,7 +235,6 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 mebed.dm-event.net
 0.0.0.0 bstream.kzhi.tech
-0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 amplitude.thepure.app
 0.0.0.0 amplilab.thepure.app
