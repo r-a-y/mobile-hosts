@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 06 Aug 2026 03:32:48 +0000
+# Last converted - Fri, 07 Aug 2026 03:12:52 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -75631,6 +75631,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 posthog.russpass.ru
+0.0.0.0 api.analytics.dobrosvyaz.com
 0.0.0.0 stats-cdn.polyspeak.ai
 0.0.0.0 dap.hindustantimes.com
 0.0.0.0 analyticsehnwe.servicebus.windows.net
@@ -177565,6 +177567,7 @@
 0.0.0.0 analytics-sprint.qoqa.com
 0.0.0.0 analytics.qoqa.ch
 0.0.0.0 analytics.qoqa.com
+0.0.0.0 tfpodf.ars.appsflyersdk.com
 0.0.0.0 inapps.appsflyersdk.com
 0.0.0.0 skadsdk.appsflyersdk.com
 0.0.0.0 attr.appsflyersdk.com
@@ -177572,6 +177575,7 @@
 0.0.0.0 privacy-sandbox.appsflyersdk.com
 0.0.0.0 gcdsdk.appsflyersdk.com
 0.0.0.0 dlsdk.appsflyersdk.com
+0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 adrevenue.appsflyer.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api2.appsflyer.com
@@ -177746,7 +177750,6 @@
 0.0.0.0 event-api-cs.stardust-tv.com
 0.0.0.0 mebed.dm-event.net
 0.0.0.0 bstream.kzhi.tech
-0.0.0.0 lklfwu-inapps.appsflyersdk.com
 0.0.0.0 mob2.welltastic-app.com
 0.0.0.0 amplitude.thepure.app
 0.0.0.0 amplilab.thepure.app
@@ -179152,6 +179155,7 @@
 0.0.0.0 discopond.com
 0.0.0.0 discreetfield.com
 0.0.0.0 discreetquarter.com
+0.0.0.0 distantflame.com
 0.0.0.0 distilltable.com
 0.0.0.0 distributionpocket.com
 0.0.0.0 distributiontomatoes.com
@@ -179632,6 +179636,7 @@
 0.0.0.0 kidpowers.com
 0.0.0.0 kindlereunion.com
 0.0.0.0 kingsealed.com
+0.0.0.0 kitchenbasin.com
 0.0.0.0 kitetuning.com
 0.0.0.0 kittentacos.com
 0.0.0.0 kittycatking.com
@@ -179971,6 +179976,7 @@
 0.0.0.0 pinchsquirrel.com
 0.0.0.0 pincourse.com
 0.0.0.0 pingsurvey.com
+0.0.0.0 pipadvance.com
 0.0.0.0 piquantgrove.com
 0.0.0.0 piquantmeadow.com
 0.0.0.0 piquantpigs.com
