@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 07 Aug 2026 03:12:52 +0000
+# Last converted - Sat, 08 Aug 2026 02:18:59 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cdn.seline.com
 0.0.0.0 gsitrix.com
 0.0.0.0 analytics.xxcontent.lol
 0.0.0.0 cdp.customer.io
@@ -178631,6 +178632,7 @@
 0.0.0.0 82o9v830.com
 0.0.0.0 abilityscale.com
 0.0.0.0 abilitytoucan.com
+0.0.0.0 abilityworkout.com
 0.0.0.0 abjectattempt.com
 0.0.0.0 aboardamusement.com
 0.0.0.0 aboardlevel.com
@@ -178778,6 +178780,7 @@
 0.0.0.0 bestboundary.com
 0.0.0.0 bestclimbers.net
 0.0.0.0 bestshoesboot.com
+0.0.0.0 bestsportsbra.com
 0.0.0.0 betazebra.com
 0.0.0.0 bewilderedbattle.com
 0.0.0.0 bewilderedblade.com
@@ -179155,6 +179158,7 @@
 0.0.0.0 discopond.com
 0.0.0.0 discreetfield.com
 0.0.0.0 discreetquarter.com
+0.0.0.0 dispeldesign.com
 0.0.0.0 distantflame.com
 0.0.0.0 distilltable.com
 0.0.0.0 distributionpocket.com
