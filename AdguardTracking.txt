@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 08 Aug 2026 02:18:59 +0000
+# Last converted - Sun, 09 Aug 2026 02:26:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -178700,6 +178700,7 @@
 0.0.0.0 ambrosialsummit.com
 0.0.0.0 amethystzenith.com
 0.0.0.0 amidsttruly.com
+0.0.0.0 ampscamp.net
 0.0.0.0 amuckafternoon.com
 0.0.0.0 amusedbucket.com
 0.0.0.0 analyzecorona.com
