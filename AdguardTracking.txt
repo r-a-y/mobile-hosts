@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 09 Aug 2026 02:26:11 +0000
+# Last converted - Tue, 11 Aug 2026 02:24:52 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.autoodb.com
 0.0.0.0 cdn.seline.com
 0.0.0.0 gsitrix.com
 0.0.0.0 analytics.xxcontent.lol
@@ -179517,6 +179518,7 @@
 0.0.0.0 hearthow.com
 0.0.0.0 heavydetail.com
 0.0.0.0 heavyplayground.com
+0.0.0.0 hellospur.com
 0.0.0.0 hellounbox.com
 0.0.0.0 helpcollar.com
 0.0.0.0 helpflame.com
@@ -179549,6 +179551,7 @@
 0.0.0.0 hospitablehall.com
 0.0.0.0 hospitablehat.com
 0.0.0.0 howdoesthislook.com
+0.0.0.0 humbleroots.net
 0.0.0.0 humdrumhobbies.com
 0.0.0.0 humdrumtouch.com
 0.0.0.0 humourspot.com
@@ -179636,6 +179639,7 @@
 0.0.0.0 justpickaname.com
 0.0.0.0 justwebcards.com
 0.0.0.0 justwowjars.com
+0.0.0.0 kartbarriersystem.com
 0.0.0.0 keenquill.com
 0.0.0.0 kernellife.com
 0.0.0.0 kidpowers.com
@@ -179752,6 +179756,7 @@
 0.0.0.0 marriedvalue.com
 0.0.0.0 marrowleaves.com
 0.0.0.0 marsnextdoor.com
+0.0.0.0 masseurexpress.com
 0.0.0.0 massivemark.com
 0.0.0.0 masterenter.com
 0.0.0.0 materialisticmoon.com
@@ -179847,6 +179852,7 @@
 0.0.0.0 nebulajubilee.com
 0.0.0.0 nebulousgarden.com
 0.0.0.0 nebulousquasar.com
+0.0.0.0 nectarbytes.com
 0.0.0.0 needleaf.com
 0.0.0.0 needyneedle.com
 0.0.0.0 neighborlywatch.com
