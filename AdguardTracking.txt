@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 11 Aug 2026 02:24:52 +0000
+# Last converted - Wed, 12 Aug 2026 02:41:06 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 assets.onedollarstats.com
+0.0.0.0 u.lessbutbetter.studio
 0.0.0.0 analytics.autoodb.com
 0.0.0.0 cdn.seline.com
 0.0.0.0 gsitrix.com
@@ -75633,6 +75635,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 console-telemetry.oci.oraclecloud.com
+0.0.0.0 stats.jerkmotion.com
+0.0.0.0 v.voltmail.io
+0.0.0.0 stats.divee.ai
 0.0.0.0 posthog.russpass.ru
 0.0.0.0 api.analytics.dobrosvyaz.com
 0.0.0.0 stats-cdn.polyspeak.ai
@@ -180391,6 +180397,7 @@
 0.0.0.0 snowpeaksoftware.com
 0.0.0.0 socialsend.net
 0.0.0.0 sockpacks.com
+0.0.0.0 softscales.com
 0.0.0.0 soggysponge.com
 0.0.0.0 soilcontent.com
 0.0.0.0 soilphotos.com
@@ -180443,6 +180450,7 @@
 0.0.0.0 spookystitch.com
 0.0.0.0 spoonballoon.com
 0.0.0.0 spoonsilk.com
+0.0.0.0 sportsclubstat.com
 0.0.0.0 sportsnearby.com
 0.0.0.0 sportyforum.com
 0.0.0.0 spotlessstamp.com
@@ -180673,6 +180681,7 @@
 0.0.0.0 trappush.com
 0.0.0.0 travelerpic.com
 0.0.0.0 treadbun.com
+0.0.0.0 treatmentforgout.com
 0.0.0.0 treatoceans.com
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
@@ -180688,6 +180697,7 @@
 0.0.0.0 truebackpack.com
 0.0.0.0 truejasmine.com
 0.0.0.0 trueselfkeys.com
+0.0.0.0 trustmodule.com
 0.0.0.0 tumbleicicle.com
 0.0.0.0 tuneupcoffee.com
 0.0.0.0 tuplebar.com
