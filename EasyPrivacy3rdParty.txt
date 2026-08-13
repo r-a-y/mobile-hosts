@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 12 Aug 2026 02:41:07 +0000
+# Last converted - Thu, 13 Aug 2026 02:44:02 +0000
 #
 
 0.0.0.0 1558334541.rsc.cdn77.org
@@ -445,6 +445,7 @@
 0.0.0.0 data.emb-api.com
 0.0.0.0 data.embeddables.com
 0.0.0.0 data.gosquared.com
+0.0.0.0 data.hailuo.ai
 0.0.0.0 data.jaytuckwell.com
 0.0.0.0 data.minute.ly
 0.0.0.0 data.nexxt.com
@@ -961,6 +962,7 @@
 0.0.0.0 rtxpx-a.akamaihd.net
 0.0.0.0 rudder-tracking.rudderstack.com
 0.0.0.0 rum-collector.leaderint.workers.dev
+0.0.0.0 rum-openway.guance.com
 0.0.0.0 rum.aliyuncs.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
