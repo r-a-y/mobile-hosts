@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 13 Aug 2026 02:44:01 +0000
+# Last converted - Fri, 14 Aug 2026 02:42:48 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 api.firwinds.site
+0.0.0.0 geniuslinkcdn.com
 0.0.0.0 assets.onedollarstats.com
 0.0.0.0 u.lessbutbetter.studio
 0.0.0.0 analytics.autoodb.com
@@ -177634,6 +177636,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 adashx.m.taobao.com
 0.0.0.0 logs.profi.ru
 0.0.0.0 w.inmobi.com
 0.0.0.0 pbs.inmobi.com
@@ -179090,7 +179093,6 @@
 0.0.0.0 cumbersomecarpenter.com
 0.0.0.0 curatedtea.com
 0.0.0.0 curbminers.com
-0.0.0.0 curbneon.com
 0.0.0.0 curiouschalk.com
 0.0.0.0 curiousmetal.com
 0.0.0.0 curioussuccess.com
@@ -180779,7 +180781,9 @@
 0.0.0.0 voidgoo.com
 0.0.0.0 volatileprofit.com
 0.0.0.0 volatilevessel.com
+0.0.0.0 volumesystem.com
 0.0.0.0 voraciousgrip.com
+0.0.0.0 wafflemakers.net
 0.0.0.0 waitingnumber.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 warmafterthought.com
@@ -180794,9 +180798,11 @@
 0.0.0.0 waylowrates.net
 0.0.0.0 weatherbytes.net
 0.0.0.0 weatherpush.net
+0.0.0.0 webpagekit.com
 0.0.0.0 websitesdude.com
 0.0.0.0 wellgroomedapparel.com
 0.0.0.0 wellgroomedhydrant.com
+0.0.0.0 westsideglobe.com
 0.0.0.0 whimsicalcanyon.com
 0.0.0.0 whimsicalgrove.com
 0.0.0.0 whimsicalvantage.com
