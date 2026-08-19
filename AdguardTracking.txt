@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 18 Aug 2026 01:48:05 +0000
+# Last converted - Wed, 19 Aug 2026 01:50:39 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96845,6 +96845,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.netronline.dev
+0.0.0.0 analytics.7reels.cc
+0.0.0.0 analytics.streamvaultsrc.click
 0.0.0.0 cat.pexels.com
 0.0.0.0 affiliate.unisender.com
 0.0.0.0 ling.willowmovies.com
@@ -311368,6 +311371,7 @@
 0.0.0.0 coastersim.com
 0.0.0.0 coatfood.com
 0.0.0.0 cobaltoverture.com
+0.0.0.0 cocoacafes.com
 0.0.0.0 coddledcats.com
 0.0.0.0 codingunlocked.com
 0.0.0.0 coffeefire.net
@@ -311493,6 +311497,7 @@
 0.0.0.0 damageddistance.com
 0.0.0.0 damdoor.com
 0.0.0.0 dampdock.com
+0.0.0.0 dancingmarmot.com
 0.0.0.0 dandydune.com
 0.0.0.0 dandyglow.com
 0.0.0.0 dapperdiscussion.com
@@ -311588,6 +311593,7 @@
 0.0.0.0 eagerknight.com
 0.0.0.0 earnbaht.com
 0.0.0.0 earthlybuzz.com
+0.0.0.0 earthsauce.com
 0.0.0.0 earthups.com
 0.0.0.0 earthyfarm.com
 0.0.0.0 eastcapelots.com
@@ -311737,6 +311743,7 @@
 0.0.0.0 fishersfinds.com
 0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fishspies.com
+0.0.0.0 fitgreatest.com
 0.0.0.0 fitnessmapper.com
 0.0.0.0 fitwithalpine.com
 0.0.0.0 fivesidedsquare.com
@@ -312549,7 +312556,6 @@
 0.0.0.0 queenskart.com
 0.0.0.0 questionate.com
 0.0.0.0 quicklyedit.com
-0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quietknowledge.com
 0.0.0.0 quillkick.com
