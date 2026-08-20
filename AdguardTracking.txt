@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 19 Aug 2026 01:50:39 +0000
+# Last converted - Thu, 20 Aug 2026 01:49:04 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.talentegy.com
+0.0.0.0 cdn.mgln.ai
 0.0.0.0 api.firwinds.site
 0.0.0.0 geniuslinkcdn.com
 0.0.0.0 assets.onedollarstats.com
@@ -96845,6 +96847,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 beacon.errorception.com
+0.0.0.0 analytics.byub.org
+0.0.0.0 analytics-api.byub.org
 0.0.0.0 analytics.netronline.dev
 0.0.0.0 analytics.7reels.cc
 0.0.0.0 analytics.streamvaultsrc.click
@@ -311135,6 +311140,7 @@
 0.0.0.0 bawdybalance.com
 0.0.0.0 beamvolcano.com
 0.0.0.0 beancontrol.com
+0.0.0.0 beandelight.com
 0.0.0.0 beautifulrope.com
 0.0.0.0 beautylulu.com
 0.0.0.0 becomemummy.com
@@ -311941,6 +311947,7 @@
 0.0.0.0 hazmatworkshop.com
 0.0.0.0 headydegree.com
 0.0.0.0 healflowers.com
+0.0.0.0 healthyclad.com
 0.0.0.0 heartbreakingmind.com
 0.0.0.0 hearthow.com
 0.0.0.0 heavydetail.com
@@ -311982,6 +311989,7 @@
 0.0.0.0 hospitablehall.com
 0.0.0.0 hospitablehat.com
 0.0.0.0 howdoesthislook.com
+0.0.0.0 hubcapcafe.net
 0.0.0.0 humbleroots.net
 0.0.0.0 humdrumhobbies.com
 0.0.0.0 humdrumtouch.com
@@ -312112,6 +312120,7 @@
 0.0.0.0 lazypecan.com
 0.0.0.0 leafpilot.com
 0.0.0.0 leaplunchroom.com
+0.0.0.0 leapquick.com
 0.0.0.0 leftliquid.com
 0.0.0.0 lemonsandjoy.com
 0.0.0.0 lessonsnetwork.com
@@ -312147,6 +312156,7 @@
 0.0.0.0 looseunits.com
 0.0.0.0 lorenzourban.com
 0.0.0.0 losslace.com
+0.0.0.0 lostwaxlab.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lovelydrum.com
 0.0.0.0 loveseashore.com
@@ -312339,6 +312349,7 @@
 0.0.0.0 notrealcat.com
 0.0.0.0 noundictionary.com
 0.0.0.0 novaseekers.com
+0.0.0.0 novazen.net
 0.0.0.0 nowaymail.com
 0.0.0.0 nucleararea.com
 0.0.0.0 nudgeduck.com
@@ -312438,6 +312449,7 @@
 0.0.0.0 phonecup.com
 0.0.0.0 phoneresult.com
 0.0.0.0 photohints.com
+0.0.0.0 photosubscribe.com
 0.0.0.0 physicstees.com
 0.0.0.0 pickmicro.com
 0.0.0.0 pigeonkit.com
@@ -312478,6 +312490,7 @@
 0.0.0.0 pointdigestion.com
 0.0.0.0 pointlesspocket.com
 0.0.0.0 pointlessprofit.com
+0.0.0.0 pointsshare.com
 0.0.0.0 poisedfuel.com
 0.0.0.0 poisedpig.com
 0.0.0.0 poisonoussnakes.com
