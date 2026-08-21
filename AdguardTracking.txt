@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 20 Aug 2026 01:49:04 +0000
+# Last converted - Fri, 21 Aug 2026 01:55:15 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96847,6 +96847,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 scollect.17173.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 analytics.byub.org
 0.0.0.0 analytics-api.byub.org
@@ -311022,6 +311023,7 @@
 0.0.0.0 adorableattention.com
 0.0.0.0 adventurousamount.com
 0.0.0.0 aerialapps.com
+0.0.0.0 afeteforfood.com
 0.0.0.0 affectionknit.com
 0.0.0.0 afraidlanguage.com
 0.0.0.0 agencysignals.com
@@ -311125,6 +311127,7 @@
 0.0.0.0 bananabarrel.com
 0.0.0.0 bandborder.com
 0.0.0.0 bandboxprints.com
+0.0.0.0 bannerave.com
 0.0.0.0 barbarousbase.com
 0.0.0.0 barbershirts.com
 0.0.0.0 barcodetool.com
@@ -311257,6 +311260,7 @@
 0.0.0.0 bungeesleeves.com
 0.0.0.0 burgersalt.com
 0.0.0.0 burnbubble.com
+0.0.0.0 burningclock.com
 0.0.0.0 businessupdater.com
 0.0.0.0 bustlingbook.com
 0.0.0.0 busybabybee.com
@@ -311294,6 +311298,7 @@
 0.0.0.0 captivatingperformance.com
 0.0.0.0 carbongarden.net
 0.0.0.0 cardmethod.com
+0.0.0.0 cardproducer.com
 0.0.0.0 carefuldolls.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
@@ -312595,7 +312600,6 @@
 0.0.0.0 rainyhand.com
 0.0.0.0 rainyrule.com
 0.0.0.0 rambunctiousflock.com
-0.0.0.0 randisphotos.com
 0.0.0.0 rangecake.com
 0.0.0.0 rangeplayground.com
 0.0.0.0 rangergustav.com
