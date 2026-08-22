@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 21 Aug 2026 01:55:15 +0000
+# Last converted - Sat, 22 Aug 2026 01:47:53 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 sumetrika.com
 0.0.0.0 analytics.talentegy.com
 0.0.0.0 cdn.mgln.ai
 0.0.0.0 api.firwinds.site
@@ -96847,6 +96848,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.sportera.fans
+0.0.0.0 analytics.sen.go.kr
 0.0.0.0 scollect.17173.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 analytics.byub.org
@@ -97800,7 +97803,6 @@
 0.0.0.0 track.hydro.online
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 plausible.pronouns.cc
-0.0.0.0 lptag.liveperson.net
 0.0.0.0 sks.mrkhub.com
 0.0.0.0 measuring-pixel-service.alza.cz
 0.0.0.0 analytics.valotool.com
@@ -311144,6 +311146,7 @@
 0.0.0.0 beamvolcano.com
 0.0.0.0 beancontrol.com
 0.0.0.0 beandelight.com
+0.0.0.0 beastbook.net
 0.0.0.0 beautifulrope.com
 0.0.0.0 beautylulu.com
 0.0.0.0 becomemummy.com
@@ -311477,6 +311480,7 @@
 0.0.0.0 crypticgenius.com
 0.0.0.0 crystalboulevard.com
 0.0.0.0 cubchannel.com
+0.0.0.0 cubeface.com
 0.0.0.0 cubeglobal.net
 0.0.0.0 cubepins.com
 0.0.0.0 cubicmandarin.com
@@ -311532,6 +311536,7 @@
 0.0.0.0 deerbeginner.com
 0.0.0.0 defeatedbadge.com
 0.0.0.0 defensevest.com
+0.0.0.0 defyingbelief.com
 0.0.0.0 degreechariot.com
 0.0.0.0 delicatecascade.com
 0.0.0.0 deliciousducks.com
@@ -311578,6 +311583,7 @@
 0.0.0.0 dodgebugs.com
 0.0.0.0 dogcollarfavourbluff.com
 0.0.0.0 dollardelta.com
+0.0.0.0 dollarpuzzle.com
 0.0.0.0 dollarthrill.com
 0.0.0.0 dolphinsrule.com
 0.0.0.0 domaincolumn.com
@@ -311887,6 +311893,7 @@
 0.0.0.0 goldstudies.com
 0.0.0.0 golfcartlaws.com
 0.0.0.0 golfersrow.com
+0.0.0.0 golfinglounge.com
 0.0.0.0 gondolagnome.com
 0.0.0.0 goodfoodtours.com
 0.0.0.0 gorgeousedge.com
@@ -312389,6 +312396,7 @@
 0.0.0.0 onesimpleweek.com
 0.0.0.0 onespecify.com
 0.0.0.0 onioncomic.com
+0.0.0.0 onlinemediahelper.com
 0.0.0.0 onlinestarten.net
 0.0.0.0 onlystreets.com
 0.0.0.0 onlywoofs.com
