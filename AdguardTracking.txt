@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 22 Aug 2026 01:47:53 +0000
+# Last converted - Sun, 23 Aug 2026 01:57:45 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -311601,6 +311601,7 @@
 0.0.0.0 driftpizza.com
 0.0.0.0 droidwiz.com
 0.0.0.0 drollwharf.com
+0.0.0.0 drumfills.com
 0.0.0.0 drydrum.com
 0.0.0.0 dualping.com
 0.0.0.0 dustydime.com
@@ -313319,6 +313320,7 @@
 0.0.0.0 vividplume.com
 0.0.0.0 vocalsure.com
 0.0.0.0 voicepins.com
+0.0.0.0 voicewinds.com
 0.0.0.0 voidgoo.com
 0.0.0.0 volatileprofit.com
 0.0.0.0 volatilevessel.com
