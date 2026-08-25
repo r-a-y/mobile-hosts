@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 21 Aug 2026 01:55:18 +0000
+# Last converted - Tue, 25 Aug 2026 01:49:53 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -864,7 +864,9 @@
 0.0.0.0 substation.confection.io
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
+0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 cfa.fidelity.com
+0.0.0.0 check2.bankofscotland.co.uk
 0.0.0.0 check3.tiaa.org
 0.0.0.0 clear.wallapop.com
 0.0.0.0 content.canadiantire.ca
@@ -895,6 +897,7 @@
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
 0.0.0.0 u46.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
 0.0.0.0 w-profiling.simplii.com
 0.0.0.0 wup-185a61e7.bendigobank.com.au
