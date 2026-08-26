@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 25 Aug 2026 01:49:50 +0000
+# Last converted - Wed, 26 Aug 2026 01:56:03 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 beaconimages.netflix.net
 0.0.0.0 sumetrika.com
 0.0.0.0 analytics.talentegy.com
 0.0.0.0 cdn.mgln.ai
@@ -96848,6 +96849,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 excess-ga.duolingo.com
+0.0.0.0 excess.duolingo.com
 0.0.0.0 p.softmedia.cz
 0.0.0.0 analytics.sportera.fans
 0.0.0.0 analytics.sen.go.kr
@@ -309840,7 +309843,6 @@
 0.0.0.0 wc.yahoodns.net
 0.0.0.0 cerebro.edna.yahoo.net
 0.0.0.0 o.techmaniak.pl
-0.0.0.0 beaconimages.netflix.net
 0.0.0.0 jsv3.recruitics.com
 0.0.0.0 dygassets.dygdigital.com
 0.0.0.0 click.aliexpress.com
@@ -311088,6 +311090,7 @@
 0.0.0.0 arclet.net
 0.0.0.0 aromamirror.com
 0.0.0.0 arrivegrowth.com
+0.0.0.0 artbranch.net
 0.0.0.0 articledemon.com
 0.0.0.0 arubahello.com
 0.0.0.0 askdriver.com
@@ -311104,6 +311107,7 @@
 0.0.0.0 attractionbanana.com
 0.0.0.0 attractivecap.com
 0.0.0.0 audioarctic.com
+0.0.0.0 autoappearancetraining.com
 0.0.0.0 automaticside.com
 0.0.0.0 automaticturkey.com
 0.0.0.0 availablerest.com
@@ -311167,6 +311171,7 @@
 0.0.0.0 betazebra.com
 0.0.0.0 bewilderedbattle.com
 0.0.0.0 bewilderedblade.com
+0.0.0.0 beyondgoodness.com
 0.0.0.0 bhcumsc.com
 0.0.0.0 bidpapers.com
 0.0.0.0 bigfishapparel.com
@@ -311198,6 +311203,7 @@
 0.0.0.0 blitzcampaigns.com
 0.0.0.0 blockdial.com
 0.0.0.0 bloomsend.com
+0.0.0.0 bluecollarmuse.com
 0.0.0.0 blueeyedblow.com
 0.0.0.0 bluelionlabs.net
 0.0.0.0 bluenest.net
