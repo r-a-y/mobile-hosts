@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 26 Aug 2026 01:56:03 +0000
+# Last converted - Thu, 27 Aug 2026 09:43:06 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,11 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 bidscube.com
+0.0.0.0 eu-stsdk.vivoglobal.com
+0.0.0.0 eu-onrt-stsdk.vivoglobal.com
+0.0.0.0 eu-ort-stsdk.vivoglobal.com
+0.0.0.0 ex-adreq-asia.vivoglobal.com
 0.0.0.0 beaconimages.netflix.net
 0.0.0.0 sumetrika.com
 0.0.0.0 analytics.talentegy.com
@@ -96849,6 +96854,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.watchott.org
+0.0.0.0 bat.bing.net
 0.0.0.0 excess-ga.duolingo.com
 0.0.0.0 excess.duolingo.com
 0.0.0.0 p.softmedia.cz
@@ -311749,6 +311756,7 @@
 0.0.0.0 feedten.com
 0.0.0.0 feelwarmth.com
 0.0.0.0 feignedfaucet.com
+0.0.0.0 felinesocial.com
 0.0.0.0 femalecook.com
 0.0.0.0 fencesync.com
 0.0.0.0 fewjuice.com
@@ -311858,6 +311866,7 @@
 0.0.0.0 fuzzybasketball.com
 0.0.0.0 fuzzyerror.com
 0.0.0.0 gadgetboy.net
+0.0.0.0 gamerone.net
 0.0.0.0 gammamaximum.com
 0.0.0.0 gardenovens.com
 0.0.0.0 gaslessgrapes.com
@@ -311898,7 +311907,6 @@
 0.0.0.0 glowingmeadow.com
 0.0.0.0 goatbillions.com
 0.0.0.0 goblinindex.com
-0.0.0.0 goddesslamps.com
 0.0.0.0 godseedband.com
 0.0.0.0 goldfishgrowth.com
 0.0.0.0 goldstudies.com
@@ -311906,6 +311914,7 @@
 0.0.0.0 golfersrow.com
 0.0.0.0 golfinglounge.com
 0.0.0.0 gondolagnome.com
+0.0.0.0 goodandwild.com
 0.0.0.0 goodfoodtours.com
 0.0.0.0 gorgeousedge.com
 0.0.0.0 gorillapage.com
@@ -312046,6 +312055,7 @@
 0.0.0.0 infinityhedge.com
 0.0.0.0 informalbook.com
 0.0.0.0 infrafood.com
+0.0.0.0 inkcoupon.com
 0.0.0.0 innocentlamp.com
 0.0.0.0 inputicicle.com
 0.0.0.0 inquisitiveinvention.com
@@ -312097,6 +312107,7 @@
 0.0.0.0 jubilantwhisper.com
 0.0.0.0 juicebard.com
 0.0.0.0 juiceblocks.com
+0.0.0.0 juicemovement.com
 0.0.0.0 juicingoasis.com
 0.0.0.0 jumbochalk.com
 0.0.0.0 justconfig.com
