@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 27 Aug 2026 09:43:06 +0000
+# Last converted - Fri, 28 Aug 2026 11:19:51 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 thinkingdata.cn
 0.0.0.0 bidscube.com
 0.0.0.0 eu-stsdk.vivoglobal.com
 0.0.0.0 eu-onrt-stsdk.vivoglobal.com
@@ -96854,6 +96855,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 posthog.worldshopping.global
+0.0.0.0 aka.asiae.co.kr
 0.0.0.0 analytics.watchott.org
 0.0.0.0 bat.bing.net
 0.0.0.0 excess-ga.duolingo.com
@@ -311198,6 +311201,7 @@
 0.0.0.0 binspiredtees.com
 0.0.0.0 biologylog.com
 0.0.0.0 birthdaybelief.com
+0.0.0.0 biscuitbox.net
 0.0.0.0 biztoolsbrief.com
 0.0.0.0 blackbelted.com
 0.0.0.0 bleachbubble.com
@@ -312284,6 +312288,7 @@
 0.0.0.0 metricfresh.com
 0.0.0.0 midnightmead.com
 0.0.0.0 mightyspiders.com
+0.0.0.0 millhouses.com
 0.0.0.0 millswell.com
 0.0.0.0 mimosamajor.com
 0.0.0.0 mincharge.com
@@ -312296,6 +312301,7 @@
 0.0.0.0 miscreantmoon.com
 0.0.0.0 missionrewards.com
 0.0.0.0 missvent.com
+0.0.0.0 mistertees.net
 0.0.0.0 mistervillas.com
 0.0.0.0 mistyhorizon.com
 0.0.0.0 mittencattle.com
@@ -312351,6 +312357,7 @@
 0.0.0.0 needleaf.com
 0.0.0.0 needyneedle.com
 0.0.0.0 neighborlywatch.com
+0.0.0.0 neonsites.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 nestbuyers.com
 0.0.0.0 netandbytes.com
@@ -312369,6 +312376,7 @@
 0.0.0.0 niftyjelly.com
 0.0.0.0 nightwound.com
 0.0.0.0 nimbleplot.com
+0.0.0.0 nimbuswatersystem.com
 0.0.0.0 ninjatravels.com
 0.0.0.0 noblecables.com
 0.0.0.0 noblefellow.com
@@ -312443,6 +312451,7 @@
 0.0.0.0 outdoorsoil.com
 0.0.0.0 outdoorthingy.com
 0.0.0.0 outerwords.com
+0.0.0.0 outletpeople.com
 0.0.0.0 outsidevibe.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
