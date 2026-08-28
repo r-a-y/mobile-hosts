@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 25 Aug 2026 01:49:45 +0000
+# Last converted - Fri, 28 Aug 2026 11:19:44 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -727,6 +727,7 @@
 0.0.0.0 vgs-collect-keeper.apps.verygood.systems
 0.0.0.0 g.analytics.versa-ai.com
 0.0.0.0 analytics.rayjump.com
+0.0.0.0 analytics-ios-tcp.rayjump.com
 0.0.0.0 events.ifunny.co
 0.0.0.0 telemetry.navigatorapp.net
 0.0.0.0 pathfinder.analytics.komoot.net
