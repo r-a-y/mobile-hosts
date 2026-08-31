@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 29 Aug 2026 07:00:41 +0000
+# Last converted - Mon, 31 Aug 2026 05:28:45 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96856,6 +96856,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.reanime.to
+0.0.0.0 stats.flixcloud.cc
 0.0.0.0 posthog.worldshopping.global
 0.0.0.0 aka.asiae.co.kr
 0.0.0.0 analytics.watchott.org
@@ -98404,8 +98406,6 @@
 0.0.0.0 analytics.aklamio.com
 0.0.0.0 collect.hollisterco.com
 0.0.0.0 d17tqr44y57o31.cloudfront.net
-0.0.0.0 analytics-mkt.wemakeprice.com
-0.0.0.0 ad-log.wemakeprice.com
 0.0.0.0 analytics.ubports.com
 0.0.0.0 tracker.dcdn.baidu.com
 0.0.0.0 apetite.index.hr
@@ -99967,7 +99967,6 @@
 0.0.0.0 webvitals.luxnet.ua
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 wl.yna.co.kr
-0.0.0.0 wlog.tmon.co.kr
 0.0.0.0 wstat.ozon.ru
 0.0.0.0 wt.soundestlink.com
 0.0.0.0 wtbevents.pricespider.com
@@ -311178,6 +311177,7 @@
 0.0.0.0 berserkhydrant.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestclimbers.net
+0.0.0.0 bestcoffeemachine.net
 0.0.0.0 bestshoesboot.com
 0.0.0.0 bestsportsbra.com
 0.0.0.0 betazebra.com
@@ -312119,6 +312119,7 @@
 0.0.0.0 juicingoasis.com
 0.0.0.0 jumbochalk.com
 0.0.0.0 justconfig.com
+0.0.0.0 justfordocs.com
 0.0.0.0 justicejudo.com
 0.0.0.0 justlagoon.com
 0.0.0.0 justpickaname.com
