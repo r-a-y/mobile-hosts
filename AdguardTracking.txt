@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 31 Aug 2026 05:28:45 +0000
+# Last converted - Tue, 01 Sep 2026 05:03:02 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cdnet.nasmob.com
+0.0.0.0 rtbscale.com
 0.0.0.0 northstar.cr
 0.0.0.0 thinkingdata.cn
 0.0.0.0 bidscube.com
@@ -96856,6 +96858,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ue.a-bly.com
+0.0.0.0 pixel-frontend.avito.ru
+0.0.0.0 pausible.flaq.ai
 0.0.0.0 stats.reanime.to
 0.0.0.0 stats.flixcloud.cc
 0.0.0.0 posthog.worldshopping.global
@@ -97396,7 +97401,6 @@
 0.0.0.0 analytics.org.coveo.com
 0.0.0.0 analytics.zdassets.com
 0.0.0.0 analytics.flexclip.com
-0.0.0.0 iws2.io.naver.com
 0.0.0.0 clog.tanshudata.com
 0.0.0.0 gw.stape.fr
 0.0.0.0 analytics-ipv6.tiktokw.us
@@ -98991,7 +98995,6 @@
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 data-collector.wefi.com
 0.0.0.0 data.mob.com
-0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 dct.mango-office.ru
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
@@ -99230,7 +99233,6 @@
 0.0.0.0 logcollect.totalcms.ncloud.or.kr
 0.0.0.0 logconfig.polarisoffice.com
 0.0.0.0 logger.applovefrom.com
-0.0.0.0 logger.bzu.kr
 0.0.0.0 logger.goeuro.com
 0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.snackly.co
@@ -99578,8 +99580,6 @@
 0.0.0.0 sp.yorkdispatch.com
 0.0.0.0 sp.zanesvilletimesrecorder.com
 0.0.0.0 spade.twitch.tv
-0.0.0.0 spanids.dictionary.com
-0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spixel.socy.es
 0.0.0.0 spoods.rce.veeseo.com
 0.0.0.0 spr.bild.de
@@ -99623,7 +99623,6 @@
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.parsely.com
 0.0.0.0 statistics.11880.com
-0.0.0.0 statistics.crowdynews.com
 0.0.0.0 statistics.daktilo.com
 0.0.0.0 statistics.fppressa.ru
 0.0.0.0 statistics.mailerlite.com
@@ -309889,7 +309888,6 @@
 0.0.0.0 statistic.gamona.de
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 web-t.9gag.com
-0.0.0.0 webmetrics.nintendo-europe.com
 0.0.0.0 webstat.freaks4u.com
 0.0.0.0 https-filtering-check.adtidy.org
 0.0.0.0 adeventtracker.spotify.com
@@ -312559,9 +312557,11 @@
 0.0.0.0 popliquids.com
 0.0.0.0 popmixradio.com
 0.0.0.0 popplantation.com
+0.0.0.0 porksoda.com
 0.0.0.0 possibleboats.com
 0.0.0.0 possiblepencil.com
 0.0.0.0 potatoinvention.com
+0.0.0.0 potentmagic.com
 0.0.0.0 powerfulblends.com
 0.0.0.0 powerfulcopper.com
 0.0.0.0 powertoolwiki.com
@@ -312588,6 +312588,7 @@
 0.0.0.0 pristinegale.com
 0.0.0.0 probablepartner.com
 0.0.0.0 processplantation.com
+0.0.0.0 procollecting.com
 0.0.0.0 producecopy.com
 0.0.0.0 producepickle.com
 0.0.0.0 productsurfer.com
