@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 01 Sep 2026 05:03:02 +0000
+# Last converted - Wed, 02 Sep 2026 04:28:16 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 kameleoon.io
 0.0.0.0 cdnet.nasmob.com
 0.0.0.0 rtbscale.com
 0.0.0.0 northstar.cr
@@ -96858,6 +96859,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 emergency.zeta-ai.io
+0.0.0.0 carmen2.golem.de
 0.0.0.0 ue.a-bly.com
 0.0.0.0 pixel-frontend.avito.ru
 0.0.0.0 pausible.flaq.ai
@@ -309842,6 +309845,7 @@
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 zmail.mtrl.me
 0.0.0.0 zonedirector.avadacom.com
+0.0.0.0 o11y-proxy-otel-frontend.meli.com
 0.0.0.0 lighthouselabs.eu
 0.0.0.0 mon.avito.ru
 0.0.0.0 analytics-fe.digital-cloud-west.medallia.com
@@ -312608,6 +312612,7 @@
 0.0.0.0 puffypaste.com
 0.0.0.0 puffypull.com
 0.0.0.0 puffypurpose.com
+0.0.0.0 pugspress.com
 0.0.0.0 pulsaredit.com
 0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pumpedpancake.com
@@ -312675,6 +312680,7 @@
 0.0.0.0 receiptcent.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recessrain.com
+0.0.0.0 recipepile.net
 0.0.0.0 recipepin.com
 0.0.0.0 reconditeprison.com
 0.0.0.0 reconditerespect.com
@@ -312682,6 +312688,7 @@
 0.0.0.0 recycleweights.com
 0.0.0.0 redbasketball.com
 0.0.0.0 redbricksoap.com
+0.0.0.0 redexecs.com
 0.0.0.0 reflectpaint.com
 0.0.0.0 refundradar.com
 0.0.0.0 regenergize.com
