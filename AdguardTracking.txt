@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 02 Sep 2026 04:28:16 +0000
+# Last converted - Thu, 03 Sep 2026 04:19:25 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -1169,7 +1169,6 @@
 0.0.0.0 urbanairship.com
 0.0.0.0 dw-eu.com.com
 0.0.0.0 i.viafoura.co
-0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 pre.glotgrx.com
 0.0.0.0 msg.qy.net
 0.0.0.0 events.mapbox.com
@@ -96859,6 +96858,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 clientlog.wanmei.com
+0.0.0.0 jnt.welt.de
 0.0.0.0 emergency.zeta-ai.io
 0.0.0.0 carmen2.golem.de
 0.0.0.0 ue.a-bly.com
@@ -311443,6 +311444,7 @@
 0.0.0.0 consciouschairs.com
 0.0.0.0 consciouscheese.com
 0.0.0.0 constructioncans.com
+0.0.0.0 consumerdebtnegotiation.com
 0.0.0.0 consumerknowhow.com
 0.0.0.0 consumerzero.com
 0.0.0.0 contentwiki.com
@@ -312702,9 +312704,11 @@
 0.0.0.0 remixbistro.com
 0.0.0.0 remixslot.com
 0.0.0.0 rentinfinity.com
+0.0.0.0 rentinfrared.com
 0.0.0.0 rentpenny.com
 0.0.0.0 repeatsweater.com
 0.0.0.0 replaceroute.com
+0.0.0.0 republicfarm.net
 0.0.0.0 rescueothers.com
 0.0.0.0 rescuerhino.com
 0.0.0.0 resonantbrush.com
@@ -312715,6 +312719,7 @@
 0.0.0.0 restructureinvention.com
 0.0.0.0 retrievemint.com
 0.0.0.0 retrocrypt.com
+0.0.0.0 retrorays.com
 0.0.0.0 reversetickets.com
 0.0.0.0 revivalvoice.com
 0.0.0.0 rhetoricalactivity.com
