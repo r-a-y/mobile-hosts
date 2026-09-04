@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 03 Sep 2026 04:19:25 +0000
+# Last converted - Fri, 04 Sep 2026 04:27:27 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 migstat.com
 0.0.0.0 kameleoon.io
 0.0.0.0 cdnet.nasmob.com
 0.0.0.0 rtbscale.com
@@ -413,7 +414,6 @@
 0.0.0.0 tuhesok.com
 0.0.0.0 track.iegcom.com
 0.0.0.0 af.click.ru
-0.0.0.0 treconeanalytics.com
 0.0.0.0 analytics.ly200.com
 0.0.0.0 wearemiq.com
 0.0.0.0 analizador.dphuesca.es
@@ -96860,6 +96860,7 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 clientlog.wanmei.com
 0.0.0.0 jnt.welt.de
+0.0.0.0 agrau.aii.sh
 0.0.0.0 emergency.zeta-ai.io
 0.0.0.0 carmen2.golem.de
 0.0.0.0 ue.a-bly.com
@@ -311587,6 +311588,7 @@
 0.0.0.0 dicecandies.com
 0.0.0.0 difficultfog.com
 0.0.0.0 digestiondrawer.com
+0.0.0.0 digitalatticnewsletter.com
 0.0.0.0 digitalblend.net
 0.0.0.0 digithalo.com
 0.0.0.0 digitizedcopy.com
@@ -312607,6 +312609,7 @@
 0.0.0.0 protestcopy.com
 0.0.0.0 provingmagic.com
 0.0.0.0 psychedelicarithmetic.com
+0.0.0.0 pubbug.com
 0.0.0.0 pubfs.com
 0.0.0.0 pubimgs.com
 0.0.0.0 publicsofa.com
@@ -312745,6 +312748,7 @@
 0.0.0.0 robotrefinery.com
 0.0.0.0 robotsrefinery.com
 0.0.0.0 rockagainst.com
+0.0.0.0 rockcarving.com
 0.0.0.0 rocketmonitor.com
 0.0.0.0 rockstarwriter.com
 0.0.0.0 rollconnection.com
@@ -312757,6 +312761,7 @@
 0.0.0.0 royalrabbit.net
 0.0.0.0 royalsbagels.com
 0.0.0.0 royalsweeper.com
+0.0.0.0 rubouthunger.com
 0.0.0.0 rubyswinehouse.com
 0.0.0.0 ruralrobin.com
 0.0.0.0 rusticfrench.com
@@ -312767,6 +312772,7 @@
 0.0.0.0 sablesong.com
 0.0.0.0 sadloaf.com
 0.0.0.0 saffronrefuge.com
+0.0.0.0 sagetrack.net
 0.0.0.0 saladbarrel.com
 0.0.0.0 saladfuel.com
 0.0.0.0 salmonfin.com
@@ -312780,6 +312786,7 @@
 0.0.0.0 sandboxbid.com
 0.0.0.0 sandstrophies.com
 0.0.0.0 sandypocket.com
+0.0.0.0 sandytaco.com
 0.0.0.0 sapnest.com
 0.0.0.0 satisfycork.com
 0.0.0.0 savoryink.com
@@ -312819,6 +312826,7 @@
 0.0.0.0 screechingfurniture.com
 0.0.0.0 screechingstocking.com
 0.0.0.0 screechingstove.com
+0.0.0.0 screenphotos.com
 0.0.0.0 scribblestring.com
 0.0.0.0 scrollservice.com
 0.0.0.0 scrubswim.com
