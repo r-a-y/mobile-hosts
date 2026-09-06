@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 05 Sep 2026 04:22:12 +0000
+# Last converted - Sun, 06 Sep 2026 04:33:40 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -313142,9 +313142,11 @@
 0.0.0.0 substantialgrade.com
 0.0.0.0 successbuffet.com
 0.0.0.0 successmenu.com
+0.0.0.0 successoutcome.com
 0.0.0.0 suggestionbridge.com
 0.0.0.0 sulkycook.com
 0.0.0.0 summerobject.com
+0.0.0.0 sunflaggroup.com
 0.0.0.0 sunsetcampfires.com
 0.0.0.0 sunsetstatic.com
 0.0.0.0 sunshinegates.com
