@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 06 Sep 2026 04:33:40 +0000
+# Last converted - Tue, 08 Sep 2026 04:30:40 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96859,6 +96859,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 sogu.tripster.ru
+0.0.0.0 a2.cineflix.st
 0.0.0.0 tracker.bigl.ua
 0.0.0.0 bigfluffycatexchange.crabdance.com
 0.0.0.0 tracking.vivareal.com.br
