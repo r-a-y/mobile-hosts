@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 09 Sep 2026 04:37:16 +0000
+# Last converted - Thu, 10 Sep 2026 04:37:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cloudx.io
+0.0.0.0 lndrsapi.com
 0.0.0.0 ac.conel.jp
 0.0.0.0 migstat.com
 0.0.0.0 kameleoon.io
@@ -96859,6 +96861,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metrics.earlygame.com
+0.0.0.0 pla.uqload.vc
 0.0.0.0 rta2.newscientist.com
 0.0.0.0 ureca.samsungapps.com
 0.0.0.0 orsdls.di.runestone.samsung.com
@@ -313224,6 +313228,7 @@
 0.0.0.0 terriblethumb.com
 0.0.0.0 test2.uat.mundi.work
 0.0.0.0 testadmiral.com
+0.0.0.0 texturehunt.com
 0.0.0.0 texturetrick.com
 0.0.0.0 thebestpaints.com
 0.0.0.0 thebigvan.com
@@ -313281,6 +313286,7 @@
 0.0.0.0 toolforthought.com
 0.0.0.0 topcrazypress.com
 0.0.0.0 topicalcartel.com
+0.0.0.0 topicjungle.com
 0.0.0.0 topsecretapp.net
 0.0.0.0 topthrowbacks.com
 0.0.0.0 tortoisepage.com
@@ -313320,11 +313326,13 @@
 0.0.0.0 tuneupcoffee.com
 0.0.0.0 tuplebar.com
 0.0.0.0 turtleface.net
+0.0.0.0 tutorshelf.com
 0.0.0.0 twelvedawn.com
 0.0.0.0 twentyerr.com
 0.0.0.0 twistloss.com
 0.0.0.0 twisty.net
 0.0.0.0 twochihuahuas.com
+0.0.0.0 twofishweb.com
 0.0.0.0 typepredict.com
 0.0.0.0 typewebsite.com
 0.0.0.0 typicalairplane.com
@@ -313358,6 +313366,7 @@
 0.0.0.0 upsidebeauty.com
 0.0.0.0 upsidehair.com
 0.0.0.0 urbanlaurel.com
+0.0.0.0 urbanopus.net
 0.0.0.0 usabilitybook.com
 0.0.0.0 uselesslumber.com
 0.0.0.0 userballot.com
