@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 10 Sep 2026 04:37:11 +0000
+# Last converted - Fri, 11 Sep 2026 04:35:02 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 disutgh7q0ncc.cloudfront.net
+0.0.0.0 zodalt.com
+0.0.0.0 rer4.com
 0.0.0.0 cloudx.io
 0.0.0.0 lndrsapi.com
 0.0.0.0 ac.conel.jp
@@ -96861,6 +96864,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 events.plutus.ninja
 0.0.0.0 metrics.earlygame.com
 0.0.0.0 pla.uqload.vc
 0.0.0.0 rta2.newscientist.com
@@ -311186,6 +311190,7 @@
 0.0.0.0 beautifulrope.com
 0.0.0.0 beautylulu.com
 0.0.0.0 becomemummy.com
+0.0.0.0 beddingdownbaby.com
 0.0.0.0 bedsberry.com
 0.0.0.0 beelinecolor.com
 0.0.0.0 beewhispering.com
@@ -311208,8 +311213,10 @@
 0.0.0.0 bigfishapparel.com
 0.0.0.0 biggerbling.com
 0.0.0.0 bighornbasin.net
+0.0.0.0 bigpicframing.com
 0.0.0.0 bigwetbrush.com
 0.0.0.0 bigworldfashion.com
+0.0.0.0 bijouxbee.com
 0.0.0.0 bikeexerciser.com
 0.0.0.0 bikepaws.com
 0.0.0.0 bikesboard.com
@@ -311221,6 +311228,7 @@
 0.0.0.0 binarykite.com
 0.0.0.0 binspiredtees.com
 0.0.0.0 biologylog.com
+0.0.0.0 biotechnologysciences.com
 0.0.0.0 birthdaybelief.com
 0.0.0.0 biscuitbox.net
 0.0.0.0 biztoolsbrief.com
