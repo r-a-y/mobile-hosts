@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 11 Sep 2026 04:35:02 +0000
+# Last converted - Sat, 12 Sep 2026 04:30:05 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 mydatascript.bubbleup.com
+0.0.0.0 getads.ru
+0.0.0.0 idsequoia.ai
 0.0.0.0 disutgh7q0ncc.cloudfront.net
 0.0.0.0 zodalt.com
 0.0.0.0 rer4.com
@@ -1294,6 +1297,7 @@
 0.0.0.0 target.ukr.net
 0.0.0.0 theadex.com
 0.0.0.0 thetrafficstat.net
+0.0.0.0 tns-counter.ru
 0.0.0.0 top-staging.mail.ru
 0.0.0.0 trace-flow.ru
 0.0.0.0 upalytics.com
@@ -96864,6 +96868,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 7lzwgj.donaukurier.de
 0.0.0.0 events.plutus.ninja
 0.0.0.0 metrics.earlygame.com
 0.0.0.0 pla.uqload.vc
@@ -310021,6 +310026,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 bid.ctv.house
+0.0.0.0 log.calomeal.com
 0.0.0.0 visit-server.inmobi-choice.io
 0.0.0.0 adashx.m.taobao.com
 0.0.0.0 logs.profi.ru
@@ -311243,6 +311250,8 @@
 0.0.0.0 blitzcampaigns.com
 0.0.0.0 blockdial.com
 0.0.0.0 bloomsend.com
+0.0.0.0 bluebellbooks.com
+0.0.0.0 bluebirdteam.com
 0.0.0.0 bluecollarmuse.com
 0.0.0.0 blueeyedblow.com
 0.0.0.0 bluelionlabs.net
@@ -311293,6 +311302,7 @@
 0.0.0.0 broadborder.com
 0.0.0.0 broadcastbed.com
 0.0.0.0 broaddoor.com
+0.0.0.0 broflask.com
 0.0.0.0 brotherslocket.com
 0.0.0.0 brownboxgroup.com
 0.0.0.0 browndogmanor.com
