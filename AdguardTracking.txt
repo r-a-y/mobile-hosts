@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 12 Sep 2026 04:30:05 +0000
+# Last converted - Mon, 14 Sep 2026 04:50:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 inmobicdn.net
 0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 getads.ru
 0.0.0.0 idsequoia.ai
@@ -311538,6 +311539,7 @@
 0.0.0.0 crunchcontrol.com
 0.0.0.0 crypticgenius.com
 0.0.0.0 crystalboulevard.com
+0.0.0.0 crystaldewfarm.com
 0.0.0.0 cubchannel.com
 0.0.0.0 cubeface.com
 0.0.0.0 cubeglobal.net
@@ -311586,6 +311588,7 @@
 0.0.0.0 debonairdust.com
 0.0.0.0 debonairtree.com
 0.0.0.0 decidedrum.com
+0.0.0.0 decimalnet.com
 0.0.0.0 decisionhut.com
 0.0.0.0 decisivebase.com
 0.0.0.0 decisivedrawer.com
@@ -313205,6 +313208,7 @@
 0.0.0.0 swordblock.com
 0.0.0.0 swordgoose.com
 0.0.0.0 syllablesight.com
+0.0.0.0 synccache.com
 0.0.0.0 synonymoussticks.com
 0.0.0.0 synthesizescarecrow.com
 0.0.0.0 systemssummit.com
