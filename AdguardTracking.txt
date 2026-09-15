@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 14 Sep 2026 04:50:46 +0000
+# Last converted - Tue, 15 Sep 2026 04:50:14 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,19 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 a.ussp.io
+0.0.0.0 bidderstack.com
+0.0.0.0 cs.ifedata.ru
+0.0.0.0 myweb3id.io
+0.0.0.0 targetrtb.com
+0.0.0.0 mpartner.digital
+0.0.0.0 onetarget.ru
+0.0.0.0 intent.ai
+0.0.0.0 rtb.dynotech.io
+0.0.0.0 sp.linkssp.ru
+0.0.0.0 sync.adsp.io
+0.0.0.0 sync.gonet-ads.com
+0.0.0.0 smartcallback.ru
 0.0.0.0 inmobicdn.net
 0.0.0.0 mydatascript.bubbleup.com
 0.0.0.0 getads.ru
@@ -96869,6 +96882,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 p.food.ru
 0.0.0.0 7lzwgj.donaukurier.de
 0.0.0.0 events.plutus.ninja
 0.0.0.0 metrics.earlygame.com
@@ -311661,6 +311675,7 @@
 0.0.0.0 drainpaste.com
 0.0.0.0 dramaticdirection.com
 0.0.0.0 dreamsdome.com
+0.0.0.0 driedwheat.com
 0.0.0.0 driftingchef.com
 0.0.0.0 driftpizza.com
 0.0.0.0 droidwiz.com
@@ -311762,6 +311777,7 @@
 0.0.0.0 extramonies.com
 0.0.0.0 exuberantedge.com
 0.0.0.0 fabcharting.com
+0.0.0.0 fabledglory.com
 0.0.0.0 fabledsoul.com
 0.0.0.0 fabulousbooking.com
 0.0.0.0 facilitatebreakfast.com
@@ -311793,6 +311809,7 @@
 0.0.0.0 fatcoil.com
 0.0.0.0 faucetfoot.com
 0.0.0.0 faultycanvas.com
+0.0.0.0 faxardent.net
 0.0.0.0 faxcoupons.com
 0.0.0.0 fearfulfish.com
 0.0.0.0 fearfulmint.com
@@ -311824,6 +311841,7 @@
 0.0.0.0 findyourdelight.com
 0.0.0.0 firecatfilms.com
 0.0.0.0 fireworkcamp.com
+0.0.0.0 firmasset.com
 0.0.0.0 firstendpoint.com
 0.0.0.0 firstscreenshot.com
 0.0.0.0 fishersfinds.com
@@ -313255,6 +313273,7 @@
 0.0.0.0 thebestpaints.com
 0.0.0.0 thebigvan.com
 0.0.0.0 thebrainybulb.com
+0.0.0.0 thecodingpad.com
 0.0.0.0 thecounter.net
 0.0.0.0 thecrazychili.com
 0.0.0.0 thefishstops.com
