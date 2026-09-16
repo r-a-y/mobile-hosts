@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 15 Sep 2026 04:50:14 +0000
+# Last converted - Wed, 16 Sep 2026 04:45:25 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 justice.maybeoneday.ch
 0.0.0.0 a.ussp.io
 0.0.0.0 bidderstack.com
 0.0.0.0 cs.ifedata.ru
@@ -96882,6 +96883,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 gadata.motorpresse.de
 0.0.0.0 p.food.ru
 0.0.0.0 7lzwgj.donaukurier.de
 0.0.0.0 events.plutus.ninja
@@ -311843,6 +311845,7 @@
 0.0.0.0 fireworkcamp.com
 0.0.0.0 firmasset.com
 0.0.0.0 firstendpoint.com
+0.0.0.0 firsthoughtstudios.com
 0.0.0.0 firstscreenshot.com
 0.0.0.0 fishersfinds.com
 0.0.0.0 fishingtoolsbox.com
@@ -312123,6 +312126,7 @@
 0.0.0.0 infinityhedge.com
 0.0.0.0 informalbook.com
 0.0.0.0 infrafood.com
+0.0.0.0 inkcarts.net
 0.0.0.0 inkcoupon.com
 0.0.0.0 innocentlamp.com
 0.0.0.0 inputicicle.com
@@ -312216,6 +312220,7 @@
 0.0.0.0 lasttaco.com
 0.0.0.0 laughcloth.com
 0.0.0.0 launchjack.com
+0.0.0.0 launchkite.com
 0.0.0.0 lavaorganic.com
 0.0.0.0 lazychord.com
 0.0.0.0 lazyexplore.com
@@ -312239,6 +312244,7 @@
 0.0.0.0 limepeal.com
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
+0.0.0.0 littlegeese.com
 0.0.0.0 littlesun.net
 0.0.0.0 livelumber.com
 0.0.0.0 livelylaugh.com
@@ -312263,6 +312269,7 @@
 0.0.0.0 lostwaxlab.com
 0.0.0.0 loudlunch.com
 0.0.0.0 lovelydrum.com
+0.0.0.0 lovesbooks.com
 0.0.0.0 loveseashore.com
 0.0.0.0 lowercases.com
 0.0.0.0 lowerthewatts.net
@@ -312690,6 +312697,7 @@
 0.0.0.0 queenskart.com
 0.0.0.0 questionate.com
 0.0.0.0 quicklyedit.com
+0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quietknowledge.com
 0.0.0.0 quillkick.com
