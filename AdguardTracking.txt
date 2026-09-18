@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 17 Sep 2026 04:48:33 +0000
+# Last converted - Fri, 18 Sep 2026 04:38:53 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -1208,7 +1208,7 @@
 0.0.0.0 tracker.durasite.net
 0.0.0.0 logs.juspay.in
 0.0.0.0 http-intake.logs.datadoghq.com
-0.0.0.0 logs.browser-intake-datadoghq.eu
+0.0.0.0 browser-intake-datadoghq.eu
 0.0.0.0 logs.datadoghq.eu
 0.0.0.0 advangelists.com
 0.0.0.0 bfmio.com
@@ -96883,6 +96883,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 jnt.bild.de
+0.0.0.0 otl.minefun.io
 0.0.0.0 counter.wargamings.net
 0.0.0.0 analyticssec.overwolf.com
 0.0.0.0 gadata.motorpresse.de
@@ -96903,7 +96905,6 @@
 0.0.0.0 lms.roblox.com
 0.0.0.0 clientlog.wanmei.com
 0.0.0.0 jnt.welt.de
-0.0.0.0 agrau.aii.sh
 0.0.0.0 emergency.zeta-ai.io
 0.0.0.0 carmen2.golem.de
 0.0.0.0 ue.a-bly.com
@@ -311851,6 +311852,7 @@
 0.0.0.0 firsthoughtstudios.com
 0.0.0.0 firstscreenshot.com
 0.0.0.0 fishersfinds.com
+0.0.0.0 fishingrodsgalore.com
 0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fishspies.com
 0.0.0.0 fitgreatest.com
@@ -312411,6 +312413,7 @@
 0.0.0.0 mowgoats.com
 0.0.0.0 muddledaftermath.com
 0.0.0.0 muddledmemory.com
+0.0.0.0 muddlingthroughcode.com
 0.0.0.0 mundanenail.com
 0.0.0.0 mushywaste.com
 0.0.0.0 musicflashcard.com
@@ -312436,6 +312439,7 @@
 0.0.0.0 nectarbytes.com
 0.0.0.0 needleaf.com
 0.0.0.0 needyneedle.com
+0.0.0.0 neighborhoodbiketours.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 neonsites.com
 0.0.0.0 nervoussummer.com
@@ -312448,6 +312452,7 @@
 0.0.0.0 newsbotnet.com
 0.0.0.0 newscompiler.com
 0.0.0.0 newsuccesssecret.com
+0.0.0.0 newsvehicles.com
 0.0.0.0 nexttopchef.com
 0.0.0.0 nicefollows.com
 0.0.0.0 nicehuh.com
@@ -312765,6 +312770,7 @@
 0.0.0.0 redbasketball.com
 0.0.0.0 redbricksoap.com
 0.0.0.0 redexecs.com
+0.0.0.0 redmillgroup.com
 0.0.0.0 reflectpaint.com
 0.0.0.0 refundradar.com
 0.0.0.0 regenergize.com
@@ -312781,6 +312787,7 @@
 0.0.0.0 rentinfrared.com
 0.0.0.0 rentpenny.com
 0.0.0.0 repeatsweater.com
+0.0.0.0 repfineart.com
 0.0.0.0 replaceroute.com
 0.0.0.0 republicfarm.net
 0.0.0.0 rescueothers.com
