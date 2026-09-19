@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 18 Sep 2026 04:38:53 +0000
+# Last converted - Sat, 19 Sep 2026 04:33:40 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96883,6 +96883,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.stellar.rip
+0.0.0.0 dtam.thrive.today
 0.0.0.0 jnt.bild.de
 0.0.0.0 otl.minefun.io
 0.0.0.0 counter.wargamings.net
@@ -311146,6 +311148,7 @@
 0.0.0.0 anxiousapples.com
 0.0.0.0 applocus.com
 0.0.0.0 applyless.com
+0.0.0.0 appsecstudio.com
 0.0.0.0 aquaticowl.com
 0.0.0.0 archswimming.com
 0.0.0.0 arclet.net
@@ -311304,6 +311307,7 @@
 0.0.0.0 boundlessargument.com
 0.0.0.0 boundlessbrake.com
 0.0.0.0 boundlessveil.com
+0.0.0.0 bowlershut.com
 0.0.0.0 boxandcover.com
 0.0.0.0 brainybasin.com
 0.0.0.0 branchborder.com
@@ -311568,6 +311572,7 @@
 0.0.0.0 cuddlycake.com
 0.0.0.0 cuddlylab.com
 0.0.0.0 cuddlylunchroom.com
+0.0.0.0 cuisinevoyager.com
 0.0.0.0 culturedcamera.com
 0.0.0.0 culturedfeather.com
 0.0.0.0 cumbersomecarpenter.com
@@ -312312,6 +312317,7 @@
 0.0.0.0 makesimpact.com
 0.0.0.0 maliciousmusic.com
 0.0.0.0 manamoment.com
+0.0.0.0 manateemotors.com
 0.0.0.0 manydiamonds.com
 0.0.0.0 manyfishes.com
 0.0.0.0 mapbasin.com
