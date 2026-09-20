@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 19 Sep 2026 04:33:40 +0000
+# Last converted - Sun, 20 Sep 2026 04:50:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -313094,6 +313094,7 @@
 0.0.0.0 spareapp.com
 0.0.0.0 sparkgoal.com
 0.0.0.0 sparklingshelf.com
+0.0.0.0 specialreview.net
 0.0.0.0 specialscissors.com
 0.0.0.0 specialtypin.com
 0.0.0.0 spectacularstamp.com
