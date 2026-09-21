@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 20 Sep 2026 04:50:46 +0000
+# Last converted - Mon, 21 Sep 2026 04:51:04 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96883,6 +96883,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 n.nstbrowser.io
 0.0.0.0 stats.stellar.rip
 0.0.0.0 dtam.thrive.today
 0.0.0.0 jnt.bild.de
@@ -312448,6 +312449,7 @@
 0.0.0.0 neighborhoodbiketours.com
 0.0.0.0 neighborlywatch.com
 0.0.0.0 neonsites.com
+0.0.0.0 nerdworldcon.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 nestbuyers.com
 0.0.0.0 netandbytes.com
@@ -312607,6 +312609,7 @@
 0.0.0.0 piquantprice.com
 0.0.0.0 piquantvortex.com
 0.0.0.0 pixeledhub.com
+0.0.0.0 pixelmoonstudio.com
 0.0.0.0 pixeltrouble.com
 0.0.0.0 pixelvariety.com
 0.0.0.0 pizzasnut.com
@@ -313237,6 +313240,7 @@
 0.0.0.0 superficialeyes.com
 0.0.0.0 superficialspring.com
 0.0.0.0 superficialsquare.com
+0.0.0.0 superstarorganizer.com
 0.0.0.0 supplyreward.com
 0.0.0.0 supportwaves.com
 0.0.0.0 surfacesmedia.com
