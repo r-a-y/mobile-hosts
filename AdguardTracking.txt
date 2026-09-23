@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 22 Sep 2026 04:50:15 +0000
+# Last converted - Wed, 23 Sep 2026 04:41:16 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 bzr.openai.com
 0.0.0.0 rlog.baifentan.com
 0.0.0.0 analytics.laxamentum.tech
 0.0.0.0 u.omgjav.com
@@ -312808,6 +312809,7 @@
 0.0.0.0 repeatsweater.com
 0.0.0.0 repfineart.com
 0.0.0.0 replaceroute.com
+0.0.0.0 replantable.com
 0.0.0.0 republicfarm.net
 0.0.0.0 rescueothers.com
 0.0.0.0 rescuerhino.com
@@ -313010,6 +313012,7 @@
 0.0.0.0 silentjackal.com
 0.0.0.0 silentsingle.com
 0.0.0.0 siliconslow.com
+0.0.0.0 siliconuser.com
 0.0.0.0 sillyscrew.com
 0.0.0.0 simplenaming.com
 0.0.0.0 simplesafari.com
@@ -313047,6 +313050,7 @@
 0.0.0.0 slinksuggestion.com
 0.0.0.0 slopesoap.com
 0.0.0.0 smallershops.com
+0.0.0.0 smartbuildnow.com
 0.0.0.0 smashquartz.com
 0.0.0.0 smashshoe.com
 0.0.0.0 smashsurprise.com
@@ -313206,6 +313210,7 @@
 0.0.0.0 stomachscience.com
 0.0.0.0 stonepole.com
 0.0.0.0 stonetumble.com
+0.0.0.0 stopcast.net
 0.0.0.0 stopstomach.com
 0.0.0.0 stormyflower.com
 0.0.0.0 straightnest.com
