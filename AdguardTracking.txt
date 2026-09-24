@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 23 Sep 2026 04:41:16 +0000
+# Last converted - Thu, 24 Sep 2026 04:44:35 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.sportigio.com
 0.0.0.0 bzr.openai.com
 0.0.0.0 rlog.baifentan.com
 0.0.0.0 analytics.laxamentum.tech
@@ -309904,6 +309905,9 @@
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 zmail.mtrl.me
 0.0.0.0 zonedirector.avadacom.com
+0.0.0.0 tracker.telegram.hr
+0.0.0.0 beam.telegram.hr
+0.0.0.0 campaign.telegram.hr
 0.0.0.0 o11y-proxy-otel-frontend.meli.com
 0.0.0.0 lighthouselabs.eu
 0.0.0.0 mon.avito.ru
@@ -312825,6 +312829,7 @@
 0.0.0.0 reversetickets.com
 0.0.0.0 reviewacousticguitar.com
 0.0.0.0 revivalvoice.com
+0.0.0.0 rewardangels.com
 0.0.0.0 rhetoricalactivity.com
 0.0.0.0 rhetoricalloss.com
 0.0.0.0 rhetoricalveil.com
@@ -313384,6 +313389,7 @@
 0.0.0.0 topcrazypress.com
 0.0.0.0 topicalcartel.com
 0.0.0.0 topicjungle.com
+0.0.0.0 toplaunch.net
 0.0.0.0 topsecretapp.net
 0.0.0.0 topthrowbacks.com
 0.0.0.0 tortoisepage.com
@@ -313393,6 +313399,7 @@
 0.0.0.0 tracecontent.com
 0.0.0.0 traderbyte.com
 0.0.0.0 tradetooth.com
+0.0.0.0 trainingreality.com
 0.0.0.0 tranquilcan.com
 0.0.0.0 tranquilplume.com
 0.0.0.0 tranquilveil.com
@@ -313479,6 +313486,7 @@
 0.0.0.0 velvetquasar.com
 0.0.0.0 vengefulgrass.com
 0.0.0.0 venomousvessel.com
+0.0.0.0 venturemen.com
 0.0.0.0 venusgloria.com
 0.0.0.0 verbacademy.com
 0.0.0.0 verdantanswer.com
@@ -313522,6 +313530,7 @@
 0.0.0.0 wackysketch.com
 0.0.0.0 wafflemakers.net
 0.0.0.0 waitingnumber.com
+0.0.0.0 walkourworld.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 warmafterthought.com
 0.0.0.0 warnwing.com
@@ -313537,6 +313546,7 @@
 0.0.0.0 weatherbytes.net
 0.0.0.0 weatherpush.net
 0.0.0.0 webbyword.net
+0.0.0.0 webclarion.com
 0.0.0.0 webfountains.com
 0.0.0.0 webpagekit.com
 0.0.0.0 websitesdude.com
