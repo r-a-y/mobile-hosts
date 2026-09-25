@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 24 Sep 2026 04:44:35 +0000
+# Last converted - Fri, 25 Sep 2026 04:53:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -16,7 +16,7 @@
 0.0.0.0 oz70ba58w25c.com
 0.0.0.0 1epc8o1tg9zz.com
 0.0.0.0 4tm4ezb2lqlx.com
-0.0.0.0 justice.maybeoneday.ch
+0.0.0.0 justice.hls.lol
 0.0.0.0 a.ussp.io
 0.0.0.0 bidderstack.com
 0.0.0.0 cs.ifedata.ru
@@ -96889,6 +96889,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 eventlog.setka.ru
+0.0.0.0 metrics.temptcdn.com
+0.0.0.0 analytics.click-or-die.ru
 0.0.0.0 analytics.sportigio.com
 0.0.0.0 bzr.openai.com
 0.0.0.0 rlog.baifentan.com
@@ -311873,7 +311876,6 @@
 0.0.0.0 firstscreenshot.com
 0.0.0.0 fishersfinds.com
 0.0.0.0 fishingrodsgalore.com
-0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fishspies.com
 0.0.0.0 fitgreatest.com
 0.0.0.0 fitnessmapper.com
@@ -312308,6 +312310,7 @@
 0.0.0.0 luckysportsgear.com
 0.0.0.0 ludicrousarch.com
 0.0.0.0 lumberamount.com
+0.0.0.0 lumengaming.com
 0.0.0.0 luminousboulevard.com
 0.0.0.0 luminouscatalyst.com
 0.0.0.0 luminoussculptor.com
@@ -313091,6 +313094,7 @@
 0.0.0.0 soilphotos.com
 0.0.0.0 solarislabyrinth.com
 0.0.0.0 solarrecharge.net
+0.0.0.0 soldoutstubs.com
 0.0.0.0 soleblinds.com
 0.0.0.0 solidfiles.net
 0.0.0.0 solidsub.com
@@ -313256,6 +313260,7 @@
 0.0.0.0 sulkycook.com
 0.0.0.0 summerobject.com
 0.0.0.0 sunflaggroup.com
+0.0.0.0 sunlong.net
 0.0.0.0 sunnylettings.com
 0.0.0.0 sunsetcampfires.com
 0.0.0.0 sunsetstatic.com
@@ -313550,7 +313555,9 @@
 0.0.0.0 webfountains.com
 0.0.0.0 webpagekit.com
 0.0.0.0 websitesdude.com
+0.0.0.0 webspa.net
 0.0.0.0 webspires.net
+0.0.0.0 weeklycurrents.com
 0.0.0.0 wellgroomedapparel.com
 0.0.0.0 wellgroomedhydrant.com
 0.0.0.0 westsideglobe.com
