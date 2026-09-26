@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 24 Sep 2026 04:44:38 +0000
+# Last converted - Sat, 26 Sep 2026 04:53:01 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -725,6 +725,7 @@
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logs-api.shoprunner.com
+0.0.0.0 logs-ingester.prod.zuddl.com
 0.0.0.0 logs.animaapp.com
 0.0.0.0 logs.betterstack.com
 0.0.0.0 logs.dynamicauth.com
