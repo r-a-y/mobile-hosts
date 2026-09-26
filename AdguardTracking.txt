@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 25 Sep 2026 04:53:08 +0000
+# Last converted - Sat, 26 Sep 2026 04:52:59 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -310066,6 +310066,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 metrics.li
 0.0.0.0 bid.ctv.house
 0.0.0.0 log.calomeal.com
 0.0.0.0 visit-server.inmobi-choice.io
@@ -311173,6 +311174,8 @@
 0.0.0.0 aromamirror.com
 0.0.0.0 arrivegrowth.com
 0.0.0.0 artbranch.net
+0.0.0.0 artcat.net
+0.0.0.0 artfulsavage.com
 0.0.0.0 articledemon.com
 0.0.0.0 arubahello.com
 0.0.0.0 askdriver.com
@@ -311608,6 +311611,7 @@
 0.0.0.0 cushiondrum.com
 0.0.0.0 cutecalculator.com
 0.0.0.0 cutechin.com
+0.0.0.0 cutsmarter.net
 0.0.0.0 cyclinghere.com
 0.0.0.0 cyclopsdial.com
 0.0.0.0 dailydivision.com
