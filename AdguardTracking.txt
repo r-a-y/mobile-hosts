@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 26 Sep 2026 04:52:59 +0000
+# Last converted - Sun, 27 Sep 2026 05:14:30 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 data-www-weaver.wanted.co.kr
 0.0.0.0 eventlog.setka.ru
 0.0.0.0 metrics.temptcdn.com
 0.0.0.0 analytics.click-or-die.ru
@@ -311144,6 +311145,7 @@
 0.0.0.0 aloofmetal.com
 0.0.0.0 aloofvest.com
 0.0.0.0 alpineactor.com
+0.0.0.0 amazinglea.com
 0.0.0.0 ambientdusk.com
 0.0.0.0 ambiguousafternoon.com
 0.0.0.0 ambiguousanger.com
