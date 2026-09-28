@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 27 Sep 2026 05:14:30 +0000
+# Last converted - Mon, 28 Sep 2026 05:18:18 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -311765,6 +311765,7 @@
 0.0.0.0 enchantingtundra.com
 0.0.0.0 enchantingvalley.com
 0.0.0.0 encouragingthread.com
+0.0.0.0 endhairfall.com
 0.0.0.0 endlesstrust.com
 0.0.0.0 endurablebulb.com
 0.0.0.0 energeticexample.com
