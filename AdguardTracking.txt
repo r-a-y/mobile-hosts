@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 28 Sep 2026 05:18:18 +0000
+# Last converted - Tue, 29 Sep 2026 05:39:50 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 beam.telegram.hr
+0.0.0.0 tracker.telegram.hr
+0.0.0.0 campaign.telegram.hr
 0.0.0.0 data-www-weaver.wanted.co.kr
 0.0.0.0 eventlog.setka.ru
 0.0.0.0 metrics.temptcdn.com
@@ -309909,9 +309912,6 @@
 0.0.0.0 zjjz6lpv44aguszo.cloud.s11.sfmc-osl.com
 0.0.0.0 zmail.mtrl.me
 0.0.0.0 zonedirector.avadacom.com
-0.0.0.0 tracker.telegram.hr
-0.0.0.0 beam.telegram.hr
-0.0.0.0 campaign.telegram.hr
 0.0.0.0 o11y-proxy-otel-frontend.meli.com
 0.0.0.0 lighthouselabs.eu
 0.0.0.0 mon.avito.ru
@@ -311105,6 +311105,7 @@
 0.0.0.0 actuallysnake.com
 0.0.0.0 adamantsnail.com
 0.0.0.0 addictedattention.com
+0.0.0.0 addmoves.com
 0.0.0.0 addressfriend.com
 0.0.0.0 admiral.pub
 0.0.0.0 admiralproxied.com
@@ -311178,6 +311179,7 @@
 0.0.0.0 artbranch.net
 0.0.0.0 artcat.net
 0.0.0.0 artfulsavage.com
+0.0.0.0 arthustler.net
 0.0.0.0 articledemon.com
 0.0.0.0 arubahello.com
 0.0.0.0 askdriver.com
@@ -311719,6 +311721,7 @@
 0.0.0.0 drydrum.com
 0.0.0.0 dryerwasher.com
 0.0.0.0 dualping.com
+0.0.0.0 dusthorses.com
 0.0.0.0 dustydime.com
 0.0.0.0 dustyhammer.com
 0.0.0.0 dyecloud.com
