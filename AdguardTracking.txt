@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 29 Sep 2026 05:39:50 +0000
+# Last converted - Wed, 30 Sep 2026 05:28:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 nao.kagane.to
+0.0.0.0 hits.letras.mus.br
+0.0.0.0 tracking.dpmlol.com
 0.0.0.0 beam.telegram.hr
 0.0.0.0 tracker.telegram.hr
 0.0.0.0 campaign.telegram.hr
@@ -97551,7 +97554,6 @@
 0.0.0.0 web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 0.0.0.0 log.realelements.live
 0.0.0.0 metrics.cs.money
-0.0.0.0 counter-mdpr.freetls.fastly.net
 0.0.0.0 vortex-dual.hulu.com
 0.0.0.0 alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com
 0.0.0.0 xpu.samsungelectronics.com
@@ -311206,6 +311208,7 @@
 0.0.0.0 awaybound.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axiomaticanger.com
+0.0.0.0 axonsite.com
 0.0.0.0 azuremystique.com
 0.0.0.0 azurestealth.com
 0.0.0.0 backupcat.com
@@ -312139,6 +312142,7 @@
 0.0.0.0 hybridburst.com
 0.0.0.0 hydraconcept.com
 0.0.0.0 hypercarart.com
+0.0.0.0 hyperfrost.net
 0.0.0.0 hyperlegend.com
 0.0.0.0 hypnoticwound.com
 0.0.0.0 hystericalcloth.com
