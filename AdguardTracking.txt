@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 30 Sep 2026 05:28:08 +0000
+# Last converted - Thu, 01 Oct 2026 05:46:48 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -96889,6 +96889,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 scout.data.funkedigital.de
+0.0.0.0 sp.data.funkedigital.de
 0.0.0.0 nao.kagane.to
 0.0.0.0 hits.letras.mus.br
 0.0.0.0 tracking.dpmlol.com
@@ -310442,7 +310444,6 @@
 0.0.0.0 impression.link
 0.0.0.0 rm.aarki.net
 0.0.0.0 use-cr.svr-algorix.com
-0.0.0.0 gnsnpaw.com
 0.0.0.0 log.jackpotmasterslots.com
 0.0.0.0 jpush.io
 0.0.0.0 datacollector-drru.dt.dbankcloud.ru
@@ -311745,6 +311746,7 @@
 0.0.0.0 echotop.com
 0.0.0.0 echoturkey.com
 0.0.0.0 economysoil.com
+0.0.0.0 edshowpigs.com
 0.0.0.0 educationcar.com
 0.0.0.0 effervescentcoral.com
 0.0.0.0 effervescentvista.com
@@ -313351,6 +313353,7 @@
 0.0.0.0 texturehunt.com
 0.0.0.0 texturetrick.com
 0.0.0.0 thebestpaints.com
+0.0.0.0 thebicyclehut.com
 0.0.0.0 thebigvan.com
 0.0.0.0 thebrainybulb.com
 0.0.0.0 thecodingpad.com
