@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 01 Oct 2026 05:46:48 +0000
+# Last converted - Fri, 02 Oct 2026 05:31:33 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 ymzu9eeo1y.ru
 0.0.0.0 a3kvau184uea.com
 0.0.0.0 ck4hkyq3myt6.com
 0.0.0.0 y5kvsuy8wr7c.com
@@ -310071,6 +310072,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 api-sdk.beaconbank.jp
+0.0.0.0 stream-log.profilepassport.jp
 0.0.0.0 metrics.li
 0.0.0.0 bid.ctv.house
 0.0.0.0 log.calomeal.com
@@ -312358,6 +312361,7 @@
 0.0.0.0 mapbasin.com
 0.0.0.0 mapcommand.com
 0.0.0.0 marblediscussion.com
+0.0.0.0 marbleseeds.com
 0.0.0.0 marinechurch.com
 0.0.0.0 markedmeasure.com
 0.0.0.0 marketspiders.com
