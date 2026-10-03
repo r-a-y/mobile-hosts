@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 02 Oct 2026 05:31:33 +0000
+# Last converted - Sat, 03 Oct 2026 05:13:42 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -312943,6 +312943,7 @@
 0.0.0.0 scenicdrops.com
 0.0.0.0 scentedkindly.com
 0.0.0.0 scholarloop.com
+0.0.0.0 scholarsark.com
 0.0.0.0 schoolpaws.com
 0.0.0.0 sciencedart.com
 0.0.0.0 sciencevault.net
