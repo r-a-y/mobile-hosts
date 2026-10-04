@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 03 Oct 2026 05:13:42 +0000
+# Last converted - Sun, 04 Oct 2026 05:48:07 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 0.0.0.0 ymzu9eeo1y.ru
 0.0.0.0 a3kvau184uea.com
 0.0.0.0 ck4hkyq3myt6.com
@@ -313325,6 +313326,7 @@
 0.0.0.0 tangibleteam.com
 0.0.0.0 tangyamount.com
 0.0.0.0 tangycover.com
+0.0.0.0 tapoutmusic.com
 0.0.0.0 taskdelight.com
 0.0.0.0 tasselapp.com
 0.0.0.0 tastelesstrees.com
