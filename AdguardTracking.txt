@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 04 Oct 2026 05:48:07 +0000
+# Last converted - Mon, 05 Oct 2026 05:33:33 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -220,7 +220,6 @@
 0.0.0.0 ctxcollect.com
 0.0.0.0 conduit-beacon-usw2.mtvnservices.com
 0.0.0.0 tvp.tv
-0.0.0.0 px.mountain.com
 0.0.0.0 adsximg.com
 0.0.0.0 static.terratraf.io
 0.0.0.0 matomo.stackvaults.com
@@ -967,6 +966,7 @@
 0.0.0.0 tr.vitals.co
 0.0.0.0 predataclient.b-cdn.net
 0.0.0.0 sofire.bdstatic.com
+0.0.0.0 px.mountain.com
 0.0.0.0 gs.mountain.com
 0.0.0.0 dx.mountain.com
 0.0.0.0 track.rheinpfalz.de
@@ -96891,6 +96891,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 evs.segwww.incident.io
 0.0.0.0 scout.data.funkedigital.de
 0.0.0.0 sp.data.funkedigital.de
 0.0.0.0 nao.kagane.to
@@ -97137,7 +97138,6 @@
 0.0.0.0 h.n11.com
 0.0.0.0 pulse.perfmetrics.netflix.com
 0.0.0.0 eu-south-2.alb.pulse.perfmetrics.netflix.com
-0.0.0.0 analytics.shutterstock.com
 0.0.0.0 stats.gastronom.ru
 0.0.0.0 dd.leboncoin.fr
 0.0.0.0 audience-pccw.viu.com
@@ -97329,7 +97329,6 @@
 0.0.0.0 sp.aviasales.ru
 0.0.0.0 darnuid.netflix.com
 0.0.0.0 analytics.thekrazycouponlady.com
-0.0.0.0 usage.trackjs.com
 0.0.0.0 coll.lovense.com
 0.0.0.0 bilog.lovense-api.com
 0.0.0.0 log.lovense-api.com
@@ -97410,6 +97409,7 @@
 0.0.0.0 bdvmetricas.banvenez.com.ve
 0.0.0.0 ek-tracker.ekitan.com
 0.0.0.0 leo.hepsiburada.com
+0.0.0.0 usage.trackjs.com
 0.0.0.0 rainbow-prod-jdlog.ldoverseas.com
 0.0.0.0 posthog.lingvanex.com
 0.0.0.0 bee.tc.easebar.com
@@ -97418,6 +97418,7 @@
 0.0.0.0 mobile.slgnt.eu
 0.0.0.0 cvt1.sibnet.ru
 0.0.0.0 analytics.egdata.app
+0.0.0.0 analytics.shutterstock.com
 0.0.0.0 plw6buurmlxhrlkm6wy3uk7cia0mprkq.lambda-url.ap-south-1.on.aws
 0.0.0.0 collector-pxdojv695v.protechts.net
 0.0.0.0 collector1.sooplive.com
@@ -97601,20 +97602,17 @@
 0.0.0.0 tagging.argentorshop.be
 0.0.0.0 tagging.avetica.nl
 0.0.0.0 tagging.bedrijventekoop.nl
-0.0.0.0 tagging.boataround.com
 0.0.0.0 tagging.bourbon-sleeckx.com
 0.0.0.0 tagging.debontewever.nl
 0.0.0.0 tagging.dekeij.nl
 0.0.0.0 tagging.egveranda.nl
 0.0.0.0 tagging.eric-bompard.com
-0.0.0.0 tagging.hansimglueck-burgergrill.de
 0.0.0.0 tagging.ifa-formation.fr
 0.0.0.0 tagging.in-garden.nl
 0.0.0.0 tagging.innopet.nl
 0.0.0.0 tagging.kersbergen.nl
 0.0.0.0 tagging.kroftman.com
 0.0.0.0 tagging.la-toulousaine.com
-0.0.0.0 tagging.lei-manager.com
 0.0.0.0 tagging.loonserviceburo.nl
 0.0.0.0 tagging.medexs.com
 0.0.0.0 tagging.michelonfray.com
@@ -97773,7 +97771,6 @@
 0.0.0.0 csp-report.marketing.aws.dev
 0.0.0.0 telemetry.svc.transifex.net
 0.0.0.0 cpu.baidu.com
-0.0.0.0 analytics-ingestion-production.tubitv.com
 0.0.0.0 pixel.web.roku.com
 0.0.0.0 analytics.cloudevo.ai
 0.0.0.0 intake-analytics.wikimedia.org
@@ -97842,6 +97839,7 @@
 0.0.0.0 relay-event.talkie-ai.com
 0.0.0.0 data-ingestion.flowgpt.com
 0.0.0.0 tianji.flowgpt.com
+0.0.0.0 analytics-ingestion-production.tubitv.com
 0.0.0.0 retail-client-events-service.internal.salsify.com
 0.0.0.0 metrics.imdb.com
 0.0.0.0 tag.aftvnews.com
@@ -97889,7 +97887,6 @@
 0.0.0.0 metrics.camsoda.com
 0.0.0.0 to.torrentfreak.com
 0.0.0.0 l.premium.naver.com
-0.0.0.0 analytics.raenonx.cc
 0.0.0.0 chocolatine.apexlegendsstatus.com
 0.0.0.0 prod.tahoe-analytics.publishers.advertising.a2z.com
 0.0.0.0 x.trvdp.com
@@ -97898,6 +97895,7 @@
 0.0.0.0 sapi.tremendous.com
 0.0.0.0 services.haaretz.com
 0.0.0.0 track.hydro.online
+0.0.0.0 analytics.raenonx.cc
 0.0.0.0 analytics.vixcloud.co
 0.0.0.0 plausible.pronouns.cc
 0.0.0.0 sks.mrkhub.com
@@ -98014,7 +98012,6 @@
 0.0.0.0 analytics.sonjj.com
 0.0.0.0 ephemeralcounters.api.roblox.com
 0.0.0.0 px.adfulplatform.com
-0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 logs.openbank.com
 0.0.0.0 plausible.omgapi.org
 0.0.0.0 geo.wpforms.com
@@ -98150,8 +98147,11 @@
 0.0.0.0 eldoradottfha.dataplane.rudderstack.com
 0.0.0.0 analytics.castel.jp
 0.0.0.0 tagging.anaxago.com
+0.0.0.0 tagging.boataround.com
 0.0.0.0 tagging.bokus.com
 0.0.0.0 tagging.eqs.com
+0.0.0.0 tagging.hansimglueck-burgergrill.de
+0.0.0.0 tagging.lei-manager.com
 0.0.0.0 tagging.src-reizen.nl
 0.0.0.0 tagging.swat.io
 0.0.0.0 tracking.di.se
@@ -98219,6 +98219,7 @@
 0.0.0.0 analytics.theta360.com
 0.0.0.0 log.ifood.tv
 0.0.0.0 analytics.pangle-ads.com
+0.0.0.0 d9jj3mjthpub.cloudfront.net
 0.0.0.0 wwwstat.rz.uni-leipzig.de
 0.0.0.0 analytics.fap.bar
 0.0.0.0 analytics-batch.blitz.gg
@@ -310512,9 +310513,6 @@
 0.0.0.0 events-api.towneers.prod.data.krmt.io
 0.0.0.0 event.karrotmarket.com
 0.0.0.0 iot-in-logser.realme.com
-0.0.0.0 push-api.topaz-analytics.com
-0.0.0.0 analytics.wildlifestudios.com
-0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 rabbit.meitustat.com
 0.0.0.0 mediation.mwmadnetworks.com
 0.0.0.0 meitustat.com
@@ -310524,6 +310522,9 @@
 0.0.0.0 stats.rustore.ru
 0.0.0.0 vk-analytics.ru
 0.0.0.0 tracking.iwhop.cn
+0.0.0.0 push-api.topaz-analytics.com
+0.0.0.0 analytics.wildlifestudios.com
+0.0.0.0 opentelemetry-collector.shared-services.us-east-1.general.prod.wildlife.io
 0.0.0.0 log-verify.mob.com
 0.0.0.0 app-analytics-services.com
 0.0.0.0 sg.log.ulivetv.net
@@ -311056,10 +311057,10 @@
 0.0.0.0 mcs-va.tiktokv.com
 0.0.0.0 analytics.tiktok.com
 0.0.0.0 woodpecker.uc.cn
-0.0.0.0 track.uc.cn
 0.0.0.0 applog.uc.cn
 0.0.0.0 dispatcher.upmc.uc.cn
 0.0.0.0 gjapplog.uc.cn
+0.0.0.0 track.uc.cn
 0.0.0.0 uc9.ucweb.com
 0.0.0.0 ucus.ucweb.com
 0.0.0.0 logssug.ucweb.com
@@ -313419,6 +313420,7 @@
 0.0.0.0 topicalcartel.com
 0.0.0.0 topicjungle.com
 0.0.0.0 toplaunch.net
+0.0.0.0 topratedwaterfilter.com
 0.0.0.0 topsecretapp.net
 0.0.0.0 topthrowbacks.com
 0.0.0.0 tortoisepage.com
