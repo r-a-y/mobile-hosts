@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 05 Oct 2026 05:33:33 +0000
+# Last converted - Tue, 06 Oct 2026 06:15:26 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 buballmighty.com
 0.0.0.0 heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 0.0.0.0 ymzu9eeo1y.ru
 0.0.0.0 a3kvau184uea.com
@@ -96891,6 +96892,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 analytics.infomaniak.com
+0.0.0.0 biprx.n12.co.il
+0.0.0.0 apm.volccdn.com
+0.0.0.0 apmplus.volces.com
 0.0.0.0 evs.segwww.incident.io
 0.0.0.0 scout.data.funkedigital.de
 0.0.0.0 sp.data.funkedigital.de
@@ -313544,6 +313549,7 @@
 0.0.0.0 viowrel.com
 0.0.0.0 viralfoodie.net
 0.0.0.0 virtualvincent.com
+0.0.0.0 visualcommservices.com
 0.0.0.0 vividcache.com
 0.0.0.0 vividcanopy.com
 0.0.0.0 vividfrost.com
