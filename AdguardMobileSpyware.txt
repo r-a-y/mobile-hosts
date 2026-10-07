@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Mon, 05 Oct 2026 05:33:28 +0000
+# Last converted - Wed, 07 Oct 2026 05:53:44 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -113,6 +113,9 @@
 0.0.0.0 tok.vaicore.xyz
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 stream-log.profilepassport.jp
+0.0.0.0 nt-stream-log.profilepassport.jp
+0.0.0.0 pp3-sdk-api.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 metrics.li
 0.0.0.0 bid.ctv.house
 0.0.0.0 log.calomeal.com
