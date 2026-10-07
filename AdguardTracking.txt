@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 06 Oct 2026 06:15:26 +0000
+# Last converted - Wed, 07 Oct 2026 05:53:50 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -60,7 +60,7 @@
 0.0.0.0 cdn.mgln.ai
 0.0.0.0 api.firwinds.site
 0.0.0.0 geniuslinkcdn.com
-0.0.0.0 assets.onedollarstats.com
+0.0.0.0 lilstts.com
 0.0.0.0 u.lessbutbetter.studio
 0.0.0.0 analytics.autoodb.com
 0.0.0.0 cdn.seline.com
@@ -96892,6 +96892,12 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 data.petri.com
+0.0.0.0 c3.wildwolf.name
+0.0.0.0 tips.delt.io
+0.0.0.0 unami.delt.io
+0.0.0.0 servt.ergadx.com
+0.0.0.0 one01.stright.bizris.com
 0.0.0.0 analytics.infomaniak.com
 0.0.0.0 biprx.n12.co.il
 0.0.0.0 apm.volccdn.com
@@ -310081,6 +310087,9 @@
 0.0.0.0 tok.vaicore.xyz
 0.0.0.0 api-sdk.beaconbank.jp
 0.0.0.0 stream-log.profilepassport.jp
+0.0.0.0 nt-stream-log.profilepassport.jp
+0.0.0.0 pp3-sdk-api.profilepassport.jp
+0.0.0.0 pp3-sdkdata-v2-ut.profilepassport.jp
 0.0.0.0 metrics.li
 0.0.0.0 bid.ctv.house
 0.0.0.0 log.calomeal.com
@@ -311303,6 +311312,7 @@
 0.0.0.0 biscuitbox.net
 0.0.0.0 biztoolsbrief.com
 0.0.0.0 blackbelted.com
+0.0.0.0 blackrednecks.com
 0.0.0.0 bleachbubble.com
 0.0.0.0 bleachscarecrow.com
 0.0.0.0 bleedlight.com
@@ -312468,6 +312478,7 @@
 0.0.0.0 muddlingthroughcode.com
 0.0.0.0 mundanenail.com
 0.0.0.0 mushywaste.com
+0.0.0.0 musicenforcer.com
 0.0.0.0 musicflashcard.com
 0.0.0.0 muteknife.com
 0.0.0.0 mutemailbox.com
