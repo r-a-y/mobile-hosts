@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 08 Oct 2026 05:57:42 +0000
+# Last converted - Fri, 09 Oct 2026 06:04:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics-event.com
+0.0.0.0 integrations-itbl.co
 0.0.0.0 buballmighty.com
 0.0.0.0 heatmap-tracking-do-to-s3-worker-prod.flipdesk.workers.dev
 0.0.0.0 ymzu9eeo1y.ru
@@ -96892,6 +96894,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stat.s.ee
+0.0.0.0 anonymous.qub.ca
+0.0.0.0 tracker.mida-app.io
+0.0.0.0 m-chromadrone.prod.suno.com
+0.0.0.0 track.esteban.fr
 0.0.0.0 tag.flvcdn.net
 0.0.0.0 r-tag.coeteco.jp
 0.0.0.0 gtm.ground.news
@@ -311307,6 +311314,7 @@
 0.0.0.0 bikepaws.com
 0.0.0.0 bikesboard.com
 0.0.0.0 bilingualgeek.com
+0.0.0.0 billionpet.com
 0.0.0.0 billowybead.com
 0.0.0.0 billowybelief.com
 0.0.0.0 billtable.com
@@ -311356,6 +311364,7 @@
 0.0.0.0 boomboomcloud.com
 0.0.0.0 boostbehavior.com
 0.0.0.0 boredcrown.com
+0.0.0.0 borefee.com
 0.0.0.0 boringberry.com
 0.0.0.0 boringpirate.com
 0.0.0.0 bouncyproperty.com
@@ -311522,6 +311531,7 @@
 0.0.0.0 cloudninefresh.com
 0.0.0.0 cloverkeys.com
 0.0.0.0 clumsycar.com
+0.0.0.0 clutchcourses.com
 0.0.0.0 coalkitchen.com
 0.0.0.0 coastersim.com
 0.0.0.0 coatfood.com
