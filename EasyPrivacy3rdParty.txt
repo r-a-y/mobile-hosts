@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 09 Oct 2026 06:04:14 +0000
+# Last converted - Sat, 10 Oct 2026 05:47:04 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -1000,6 +1000,7 @@
 0.0.0.0 secure-stats.pingdom.com
 0.0.0.0 secure.merchantadvantage.com
 0.0.0.0 seg.sharethis.com
+0.0.0.0 session.bugsnag.kindle.amazon.dev
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessions.embeddables.com
 0.0.0.0 sftrack.searchforce.net
