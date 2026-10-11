@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 09 Oct 2026 06:04:14 +0000
+# Last converted - Sun, 11 Oct 2026 05:41:05 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -886,7 +886,8 @@
 0.0.0.0 content22.citibank.com.au
 0.0.0.0 content22.citibank.com.sg
 0.0.0.0 content22.citibankonline.com
-0.0.0.0 content22.online.citi.com
+0.0.0.0 contents1.00110.citi.com
+0.0.0.0 contents2.00110.citi.com
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
