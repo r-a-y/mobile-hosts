@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sun, 11 Oct 2026 05:41:02 +0000
+# Last converted - Mon, 12 Oct 2026 05:51:14 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -98764,9 +98764,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 metrics.elcomercio.es
 0.0.0.0 ad-manager.matsukiyococokara-online.com
 0.0.0.0 stat.s.ee
-0.0.0.0 anonymous.qub.ca
 0.0.0.0 tracker.mida-app.io
 0.0.0.0 m-chromadrone.prod.suno.com
 0.0.0.0 track.esteban.fr
@@ -322033,6 +322033,7 @@
 0.0.0.0 coastersim.com
 0.0.0.0 coatfood.com
 0.0.0.0 cobaltoverture.com
+0.0.0.0 cockatielcafe.com
 0.0.0.0 cocoacafes.com
 0.0.0.0 coddledcats.com
 0.0.0.0 codingunlocked.com
@@ -322125,6 +322126,7 @@
 0.0.0.0 critictruck.com
 0.0.0.0 crochetdivas.com
 0.0.0.0 crookedcreature.com
+0.0.0.0 crossseasent.com
 0.0.0.0 crowdedmass.com
 0.0.0.0 cruisetourist.com
 0.0.0.0 crunchcontrol.com
@@ -322172,12 +322174,14 @@
 0.0.0.0 dandyglow.com
 0.0.0.0 dapperdiscussion.com
 0.0.0.0 darkartsyoga.com
+0.0.0.0 darngavel.com
 0.0.0.0 dashingdrop.com
 0.0.0.0 datapickles.com
 0.0.0.0 datastoried.com
 0.0.0.0 daybreaklights.com
 0.0.0.0 dazzlescript.com
 0.0.0.0 dazzlingbook.com
+0.0.0.0 dblarson.com
 0.0.0.0 dealchocolate.com
 0.0.0.0 debonairdust.com
 0.0.0.0 debonairtree.com
