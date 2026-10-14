@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 13 Oct 2026 06:44:13 +0000
+# Last converted - Wed, 14 Oct 2026 04:48:10 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -100355,6 +100355,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tracking.broadpeak.io
 0.0.0.0 a.wing.st
 0.0.0.0 metrics.elcomercio.es
 0.0.0.0 ad-manager.matsukiyococokara-online.com
@@ -333701,6 +333702,7 @@
 0.0.0.0 combcompetition.com
 0.0.0.0 cometquote.com
 0.0.0.0 comfortablecheese.com
+0.0.0.0 commitlogs.com
 0.0.0.0 comparereaction.com
 0.0.0.0 compilework.com
 0.0.0.0 condemnedcomb.com
@@ -333915,6 +333917,7 @@
 0.0.0.0 drydrum.com
 0.0.0.0 dryerwasher.com
 0.0.0.0 dualping.com
+0.0.0.0 duetcode.com
 0.0.0.0 dusthorses.com
 0.0.0.0 dustydime.com
 0.0.0.0 dustyhammer.com
