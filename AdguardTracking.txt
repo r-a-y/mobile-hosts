@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 14 Oct 2026 04:48:10 +0000
+# Last converted - Thu, 15 Oct 2026 04:32:34 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 rt.buzzni.com
 0.0.0.0 tracking.trickbyte.com
 0.0.0.0 analytics-event.com
 0.0.0.0 integrations-itbl.co
@@ -529,7 +530,7 @@
 0.0.0.0 identitypxl.com
 0.0.0.0 geotags.refinery89.com
 0.0.0.0 logg9r.io
-0.0.0.0 api.statsig.com
+0.0.0.0 events.statsigapi.net
 0.0.0.0 beyondwickedmapping.org
 0.0.0.0 gw.conversionsapigateway.com
 0.0.0.0 bicp-analytics.postscript.io
@@ -101215,7 +101216,6 @@
 0.0.0.0 e.fomo.com
 0.0.0.0 iq.afterpay.com
 0.0.0.0 events.attentivemobile.com
-0.0.0.0 events.statsigapi.net
 0.0.0.0 fourier.taobao.com
 0.0.0.0 fourier.alibaba.com
 0.0.0.0 fourier.aliexpress.com
@@ -333899,6 +333899,7 @@
 0.0.0.0 dolphinsrule.com
 0.0.0.0 domaincolumn.com
 0.0.0.0 doomhedge.com
+0.0.0.0 dorsalapp.com
 0.0.0.0 dotdotlab.com
 0.0.0.0 dotshellmain.com
 0.0.0.0 doubtdrawer.com
@@ -333911,6 +333912,7 @@
 0.0.0.0 driedwheat.com
 0.0.0.0 driftingchef.com
 0.0.0.0 driftpizza.com
+0.0.0.0 drivenmove.com
 0.0.0.0 droidwiz.com
 0.0.0.0 drollwharf.com
 0.0.0.0 drumfills.com
@@ -333930,6 +333932,7 @@
 0.0.0.0 earthups.com
 0.0.0.0 earthyfarm.com
 0.0.0.0 eastcapelots.com
+0.0.0.0 eastpalms.com
 0.0.0.0 easysecurity.net
 0.0.0.0 easysyncnews.com
 0.0.0.0 eatablesquare.com
@@ -334009,6 +334012,7 @@
 0.0.0.0 exitblocked.com
 0.0.0.0 expansioneggnog.com
 0.0.0.0 exportdialog.com
+0.0.0.0 extracover.net
 0.0.0.0 extractobservation.com
 0.0.0.0 extralocker.com
 0.0.0.0 extramonies.com
