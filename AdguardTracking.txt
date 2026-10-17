@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 16 Oct 2026 04:25:51 +0000
+# Last converted - Sat, 17 Oct 2026 04:20:14 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 g.rtbrain.app
 0.0.0.0 manus-analytics.com
 0.0.0.0 rt.buzzni.com
 0.0.0.0 tracking.trickbyte.com
@@ -334308,6 +334309,7 @@
 0.0.0.0 exportdialog.com
 0.0.0.0 extracover.net
 0.0.0.0 extractobservation.com
+0.0.0.0 extraliner.com
 0.0.0.0 extralocker.com
 0.0.0.0 extramonies.com
 0.0.0.0 exuberantedge.com
@@ -334386,6 +334388,7 @@
 0.0.0.0 fishspies.com
 0.0.0.0 fitgreatest.com
 0.0.0.0 fitnessmapper.com
+0.0.0.0 fitnesssponsor.com
 0.0.0.0 fitwithalpine.com
 0.0.0.0 fivesidedsquare.com
 0.0.0.0 fixedfold.com
@@ -334454,6 +334457,7 @@
 0.0.0.0 fronttoad.com
 0.0.0.0 frozekitchen.com
 0.0.0.0 frugalfiestas.com
+0.0.0.0 ftpmagic.com
 0.0.0.0 fudgegenie.com
 0.0.0.0 fuelfever.net
 0.0.0.0 fuelinspector.com
