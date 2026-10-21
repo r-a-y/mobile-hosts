@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Tue, 20 Oct 2026 04:43:50 +0000
+# Last converted - Wed, 21 Oct 2026 04:40:39 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -314,6 +314,7 @@
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 fp.bizjournals.com
 0.0.0.0 fp.measure.office.com
+0.0.0.0 fp.uncensored.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
 0.0.0.0 fpc.fingerprint.com
@@ -582,6 +583,7 @@
 0.0.0.0 react-admin-telemetry.marmelab.com
 0.0.0.0 rec.banggood.com
 0.0.0.0 relay.fiverr.com
+0.0.0.0 report.senzia.cc
 0.0.0.0 reports.tunein.com
 0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 rfk.biglots.com
@@ -717,6 +719,7 @@
 0.0.0.0 t.prageru.com
 0.0.0.0 t.producthunt.com
 0.0.0.0 t.regionsjob.com
+0.0.0.0 t.venice.ai
 0.0.0.0 t.wayfair.ca
 0.0.0.0 t.wayfair.co.uk
 0.0.0.0 t.wayfair.com
@@ -897,6 +900,7 @@
 0.0.0.0 idstatus.sky.com
 0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
+0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
 0.0.0.0 olacontent.schwab.com
