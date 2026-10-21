@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 21 Oct 2026 04:40:39 +0000
+# Last converted - Thu, 22 Oct 2026 00:29:40 +0100
 #
 
 0.0.0.0 1rer.hummel.net
@@ -134,7 +134,6 @@
 0.0.0.0 c.fingerprint.com
 0.0.0.0 c.gq.com
 0.0.0.0 c.newyorker.com
-0.0.0.0 c.paypal.com
 0.0.0.0 c.thredup.com
 0.0.0.0 c.vanityfair.com
 0.0.0.0 c.vogue.com
@@ -151,7 +150,6 @@
 0.0.0.0 cl.t3n.de
 0.0.0.0 clanker-events.squarespace.com
 0.0.0.0 clarice.streema.com
-0.0.0.0 click.aliexpress.com
 0.0.0.0 click.nudevista.com
 0.0.0.0 clickins.slixa.com
 0.0.0.0 client-log.box.com
@@ -341,7 +339,6 @@
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.pardot.com
 0.0.0.0 go.thegrocer.co.uk
-0.0.0.0 go.theregister.com
 0.0.0.0 goatcounter.ssp.sh
 0.0.0.0 graylog.prod.cams.run
 0.0.0.0 grgnsht.nzxt.com
@@ -395,8 +392,6 @@
 0.0.0.0 lc-event.pixiv.net
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 link.kogan.com
-0.0.0.0 link2.strawberrynet.com
-0.0.0.0 links.strava.com
 0.0.0.0 lists.ccmbg.com
 0.0.0.0 lizard.donald.cat
 0.0.0.0 lms.roblox.com
@@ -466,7 +461,6 @@
 0.0.0.0 mp.sintra.ai
 0.0.0.0 mp.theepochtimes.com
 0.0.0.0 mr.homedepot.ca
-0.0.0.0 msg-intl.qy.net
 0.0.0.0 mstm.motorsport.com
 0.0.0.0 mtg.macpaw.com
 0.0.0.0 mtm.bondagevalley.cc
@@ -488,6 +482,7 @@
 0.0.0.0 nvrmd.novaramedia.com
 0.0.0.0 observe.metarouter.io
 0.0.0.0 ocular.hotukdeals.com
+0.0.0.0 ocular.pepperdeals.com
 0.0.0.0 ohm-dot-hackster-io.appspot.com
 0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 op.dragonfru.it
@@ -712,7 +707,6 @@
 0.0.0.0 t.nypost.com
 0.0.0.0 t.optiwizehealth.com
 0.0.0.0 t.pagesix.com
-0.0.0.0 t.paypal.com
 0.0.0.0 t.perigold.com
 0.0.0.0 t.pie.org
 0.0.0.0 t.poki.io
@@ -859,7 +853,6 @@
 0.0.0.0 wal.wolfram.com
 0.0.0.0 wapn1.flosports.tv
 0.0.0.0 wart.val.town
-0.0.0.0 wc.yahoodns.net
 0.0.0.0 web-perf.booking.com
 0.0.0.0 web.analytics.metrobyt-mobile.com
 0.0.0.0 webapi.3cx.com
@@ -903,6 +896,7 @@
 0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
+0.0.0.0 o-api.hotukdeals.com
 0.0.0.0 olacontent.schwab.com
 0.0.0.0 qfp.intuit.com
 0.0.0.0 rba-screen.healthsafe-id.com
