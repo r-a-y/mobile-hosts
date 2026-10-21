@@ -105,6 +105,11 @@ foreach ( $lists as $name => $list ) {
 			continue;
 		}
 
+		// Skip image rules. See #46.
+		if ( false !== strpos( $filter, '$image' ) || false !== strpos( $filter, ',image' ) ) {
+			continue;
+		}
+
 		// Skip ping rules.
 		if ( false !== strpos( $filter, '$ping' ) || false !== strpos( $filter, ',ping' ) ) {
 			continue;
@@ -131,8 +136,8 @@ foreach ( $lists as $name => $list ) {
 		}
 
 		// Replace filter syntax with HOSTS syntax.
-		// @todo Perhaps skip $image and $popup?
-		$filter = str_replace( array( '||', '^', '$all', ',all', '$image', ',image', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$important', '$badfilter', ',badfilter', '$websocket', '$other' ), '', $filter );
+		// @todo Perhaps skip $popup?
+		$filter = str_replace( array( '||', '^', '$all', ',all', ',important', '$script', ',script', '$object', ',object', '$popup', ',popup', '$empty', '$object-subrequest', '$document', '$subdocument', ',subdocument', '$important', '$badfilter', ',badfilter', '$websocket', '$other' ), '', $filter );
 
 		// Skip rules matching 'xmlhttprequest' for now.
 		if ( false !== strpos( $filter, 'xmlhttprequest' ) ) {
