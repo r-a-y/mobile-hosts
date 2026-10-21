@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 20 Oct 2026 04:43:40 +0000
+# Last converted - Wed, 21 Oct 2026 04:40:29 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -680,7 +680,6 @@
 0.0.0.0 h-adashx4ae.ut.taobao.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 analytics.ff.avast.com
-0.0.0.0 node.aibeacon.jp
 0.0.0.0 wsmetrics.batch.com
 0.0.0.0 log.isnssdk.com
 0.0.0.0 log-tb.isnssdk.com
