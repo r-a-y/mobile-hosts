@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 22 Oct 2026 00:29:39 +0100
+# Last converted - Fri, 23 Oct 2026 04:43:45 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 stats.curd.io
 0.0.0.0 jisao12.cyou
 0.0.0.0 ptrack.xyz
 0.0.0.0 atlas.atsptp.com
@@ -102487,6 +102488,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 data.vzhh.de
+0.0.0.0 applytics.zwyr157wwiu6eior.com
 0.0.0.0 zwjvbnvhnzme.heise.de
 0.0.0.0 b.allegrocdp.com
 0.0.0.0 metrics.shasetsu.jp
@@ -109569,6 +109572,7 @@
 0.0.0.0 maliciousmusic.com
 0.0.0.0 manamoment.com
 0.0.0.0 manateemotors.com
+0.0.0.0 manawell.net
 0.0.0.0 manydiamonds.com
 0.0.0.0 manyfishes.com
 0.0.0.0 mapbasin.com
@@ -110401,6 +110405,7 @@
 0.0.0.0 spuriousair.com
 0.0.0.0 spurioussquirrel.com
 0.0.0.0 spuriousstranger.com
+0.0.0.0 spyrep.com
 0.0.0.0 spysubstance.com
 0.0.0.0 squadtee.net
 0.0.0.0 squalidscrew.com
@@ -110804,6 +110809,7 @@
 0.0.0.0 webspa.net
 0.0.0.0 webspires.net
 0.0.0.0 weeklycurrents.com
+0.0.0.0 wellbeingforce.com
 0.0.0.0 wellgroomedapparel.com
 0.0.0.0 wellgroomedhydrant.com
 0.0.0.0 westsideglobe.com
@@ -110843,6 +110849,7 @@
 0.0.0.0 wistfulwaste.com
 0.0.0.0 withsharks.com
 0.0.0.0 withsounds.com
+0.0.0.0 wittyfamous.com
 0.0.0.0 wittypopcorn.com
 0.0.0.0 wittyshack.com
 0.0.0.0 wizardbuck.com
