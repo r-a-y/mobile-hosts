@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 23 Oct 2026 04:43:45 +0000
+# Last converted - Sat, 24 Oct 2026 04:30:55 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 a.cdn-lab.shop
 0.0.0.0 stats.curd.io
 0.0.0.0 jisao12.cyou
 0.0.0.0 ptrack.xyz
@@ -109572,7 +109573,6 @@
 0.0.0.0 maliciousmusic.com
 0.0.0.0 manamoment.com
 0.0.0.0 manateemotors.com
-0.0.0.0 manawell.net
 0.0.0.0 manydiamonds.com
 0.0.0.0 manyfishes.com
 0.0.0.0 mapbasin.com
@@ -109819,6 +109819,7 @@
 0.0.0.0 painstakingpickle.com
 0.0.0.0 paintmogul.com
 0.0.0.0 paintpear.com
+0.0.0.0 pajamabrand.com
 0.0.0.0 paleleaf.com
 0.0.0.0 pamelarandom.com
 0.0.0.0 panickypancake.com
@@ -110708,7 +110709,6 @@
 0.0.0.0 unequalbrake.com
 0.0.0.0 unequaltrail.com
 0.0.0.0 unicornprices.com
-0.0.0.0 unifybots.com
 0.0.0.0 uninterestedquarter.com
 0.0.0.0 unitedscans.com
 0.0.0.0 unknowncrate.com
