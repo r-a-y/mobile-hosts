@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Sat, 24 Oct 2026 04:30:55 +0000
+# Last converted - Sun, 25 Oct 2026 04:35:32 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -109859,6 +109859,7 @@
 0.0.0.0 pigmentpaper.com
 0.0.0.0 pinchsquirrel.com
 0.0.0.0 pincourse.com
+0.0.0.0 pingprove.com
 0.0.0.0 pingsurvey.com
 0.0.0.0 pinsearcher.com
 0.0.0.0 pipadvance.com
