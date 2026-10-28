@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 27 Oct 2026 04:58:13 +0000
+# Last converted - Wed, 28 Oct 2026 05:34:23 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 metrics.selectel.ru
+0.0.0.0 collect.pravdastat.com
 0.0.0.0 search-monitor.11st.co.kr
 0.0.0.0 a.cdn-lab.shop
 0.0.0.0 stats.curd.io
@@ -105949,7 +105951,12 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 umami.vidfast.vc
+0.0.0.0 umami.vidup.to
+0.0.0.0 bigdata.downza.com
+0.0.0.0 zenstats.yzhy19.cn
 0.0.0.0 data.vzhh.de
+0.0.0.0 telemetry.paypay.ne.jp
 0.0.0.0 applytics.zwyr157wwiu6eior.com
 0.0.0.0 zwjvbnvhnzme.heise.de
 0.0.0.0 b.allegrocdp.com
@@ -112717,6 +112724,7 @@
 0.0.0.0 granlite.com
 0.0.0.0 gravitygive.com
 0.0.0.0 gravitykick.com
+0.0.0.0 gravitypics.com
 0.0.0.0 graychalk.com
 0.0.0.0 grayoranges.com
 0.0.0.0 grayreceipt.com
@@ -112728,6 +112736,7 @@
 0.0.0.0 gripcorn.com
 0.0.0.0 grocerycrew.com
 0.0.0.0 grocerydog.com
+0.0.0.0 groglog.com
 0.0.0.0 groovespacing.com
 0.0.0.0 groovyornament.com
 0.0.0.0 grouchybrothers.com
@@ -112768,6 +112777,7 @@
 0.0.0.0 harmonywing.com
 0.0.0.0 hayweb.net
 0.0.0.0 hazmatworkshop.com
+0.0.0.0 headbandeau.com
 0.0.0.0 headydegree.com
 0.0.0.0 healflowers.com
 0.0.0.0 healthyclad.com
@@ -113445,6 +113455,7 @@
 0.0.0.0 queenskart.com
 0.0.0.0 questionate.com
 0.0.0.0 quicklyedit.com
+0.0.0.0 quickpints.com
 0.0.0.0 quicktattoo.com
 0.0.0.0 quicktrick.net
 0.0.0.0 quietknowledge.com
