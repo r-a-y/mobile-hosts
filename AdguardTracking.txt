@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 28 Oct 2026 05:34:23 +0000
+# Last converted - Thu, 29 Oct 2026 05:41:56 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -105951,6 +105951,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.spidersense.xyz
+0.0.0.0 umami.vidcore.net
 0.0.0.0 umami.vidfast.vc
 0.0.0.0 umami.vidup.to
 0.0.0.0 bigdata.downza.com
@@ -112783,6 +112785,7 @@
 0.0.0.0 healthyclad.com
 0.0.0.0 heartbreakingmind.com
 0.0.0.0 hearthow.com
+0.0.0.0 heatrave.com
 0.0.0.0 heavydetail.com
 0.0.0.0 heavyplayground.com
 0.0.0.0 hellospur.com
@@ -112790,7 +112793,9 @@
 0.0.0.0 helpcollar.com
 0.0.0.0 helpflame.com
 0.0.0.0 helpingbits.com
+0.0.0.0 hensonempire.com
 0.0.0.0 heycomputers.com
+0.0.0.0 heyhotshots.com
 0.0.0.0 hfc195b.com
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
@@ -113470,6 +113475,7 @@
 0.0.0.0 rabbitboots.com
 0.0.0.0 rabbitbreath.com
 0.0.0.0 rabbitrifle.com
+0.0.0.0 racerpets.com
 0.0.0.0 rackforstorage.com
 0.0.0.0 radexports.com
 0.0.0.0 radiantcanopy.com
@@ -113493,6 +113499,7 @@
 0.0.0.0 reactjspdf.com
 0.0.0.0 reactwizard.com
 0.0.0.0 readingguilt.com
+0.0.0.0 readourminds.com
 0.0.0.0 readymoon.com
 0.0.0.0 readysetcard.com
 0.0.0.0 readysnails.com
@@ -113524,6 +113531,7 @@
 0.0.0.0 regularplants.com
 0.0.0.0 regulatesleet.com
 0.0.0.0 rehabilitatereason.com
+0.0.0.0 reignfans.com
 0.0.0.0 relationrest.com
 0.0.0.0 releasepath.com
 0.0.0.0 rememberdiscussion.com
