@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 29 Oct 2026 05:41:56 +0000
+# Last converted - Fri, 30 Oct 2026 05:41:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,8 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 analytics.searchspring.net
+0.0.0.0 apmginternational.matomo.cloud
 0.0.0.0 metrics.selectel.ru
 0.0.0.0 collect.pravdastat.com
 0.0.0.0 search-monitor.11st.co.kr
@@ -105951,6 +105953,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 s.igen.fr
+0.0.0.0 op.fintables.com
 0.0.0.0 stats.spidersense.xyz
 0.0.0.0 umami.vidcore.net
 0.0.0.0 umami.vidfast.vc
@@ -111856,6 +111860,7 @@
 0.0.0.0 axonsite.com
 0.0.0.0 azuremystique.com
 0.0.0.0 azurestealth.com
+0.0.0.0 babelfreak.com
 0.0.0.0 backupcat.com
 0.0.0.0 baconbags.com
 0.0.0.0 badgeboat.com
@@ -111989,6 +111994,7 @@
 0.0.0.0 boxandcover.com
 0.0.0.0 brainybasin.com
 0.0.0.0 branchborder.com
+0.0.0.0 brandcasters.com
 0.0.0.0 brandsfive.com
 0.0.0.0 brandybison.com
 0.0.0.0 bravebone.com
@@ -112036,6 +112042,7 @@
 0.0.0.0 cafefrench.com
 0.0.0.0 cafejunior.net
 0.0.0.0 cafescampfires.com
+0.0.0.0 cageylogic.com
 0.0.0.0 cakeagenda.com
 0.0.0.0 cakesdrum.com
 0.0.0.0 calculatingcircle.com
@@ -112234,6 +112241,7 @@
 0.0.0.0 crabbychin.com
 0.0.0.0 craftessays.com
 0.0.0.0 crafthenry.com
+0.0.0.0 crashbamboo.com
 0.0.0.0 crashchance.com
 0.0.0.0 crashpandas.com
 0.0.0.0 cratecamera.com
@@ -112823,6 +112831,7 @@
 0.0.0.0 honeyscene.com
 0.0.0.0 honorablehydrant.com
 0.0.0.0 honorableland.com
+0.0.0.0 hoofersailing.com
 0.0.0.0 hookconference.com
 0.0.0.0 hoorayplay.com
 0.0.0.0 hospitablehall.com
