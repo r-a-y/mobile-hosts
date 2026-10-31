@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 30 Oct 2026 05:41:08 +0000
+# Last converted - Sat, 31 Oct 2026 05:33:38 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 radar.snitcher.com
+0.0.0.0 cdn.snitcher.com
+0.0.0.0 claydar.com
 0.0.0.0 analytics.searchspring.net
 0.0.0.0 apmginternational.matomo.cloud
 0.0.0.0 metrics.selectel.ru
@@ -105953,6 +105956,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.cleanip.io
 0.0.0.0 s.igen.fr
 0.0.0.0 op.fintables.com
 0.0.0.0 stats.spidersense.xyz
@@ -110712,6 +110716,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 api-abtest-cdn.learnings.ai
 0.0.0.0 mobile-telemetry.multiball.forzafootball.net
 0.0.0.0 gpskeeper.popinfo.jp
 0.0.0.0 api-sdk-tracking.beaconbank.jp
@@ -111912,6 +111917,7 @@
 0.0.0.0 bestboundary.com
 0.0.0.0 bestclimbers.net
 0.0.0.0 bestcoffeemachine.net
+0.0.0.0 bestpriceonly.com
 0.0.0.0 bestshoesboot.com
 0.0.0.0 bestsportsbra.com
 0.0.0.0 betazebra.com
@@ -112071,6 +112077,7 @@
 0.0.0.0 cardmethod.com
 0.0.0.0 cardproducer.com
 0.0.0.0 carefuldolls.com
+0.0.0.0 cargrasp.com
 0.0.0.0 caringcast.com
 0.0.0.0 carloforward.com
 0.0.0.0 carpoolmatch.com
@@ -112607,6 +112614,7 @@
 0.0.0.0 floweryfact.com
 0.0.0.0 floweryflavor.com
 0.0.0.0 floweryoperation.com
+0.0.0.0 fluffybirds.com
 0.0.0.0 flushingbeast.com
 0.0.0.0 flutteringfireman.com
 0.0.0.0 flyflightstar.com
@@ -112805,6 +112813,7 @@
 0.0.0.0 heycomputers.com
 0.0.0.0 heyhotshots.com
 0.0.0.0 hfc195b.com
+0.0.0.0 higherhub.com
 0.0.0.0 highfalutinbox.com
 0.0.0.0 highfalutinhoney.com
 0.0.0.0 highnoongear.com
@@ -112869,6 +112878,7 @@
 0.0.0.0 incomehippo.com
 0.0.0.0 incompetentjoke.com
 0.0.0.0 inconclusiveaction.com
+0.0.0.0 indscout.com
 0.0.0.0 infamousstream.com
 0.0.0.0 infinityhedge.com
 0.0.0.0 informalbook.com
