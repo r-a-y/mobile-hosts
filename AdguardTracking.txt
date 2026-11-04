@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 03 Nov 2026 06:42:05 +0000
+# Last converted - Wed, 04 Nov 2026 06:09:44 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -107024,6 +107024,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 api-node.corvexa.cloud
+0.0.0.0 collector.wawlabs.com
+0.0.0.0 telemetry.ecosoft.group
 0.0.0.0 stats.cleanip.io
 0.0.0.0 s.igen.fr
 0.0.0.0 op.fintables.com
@@ -108340,7 +108343,6 @@
 0.0.0.0 cs.avito.ru
 0.0.0.0 logsk.glomancloud.gr
 0.0.0.0 insights-tag.convertkit.com
-0.0.0.0 b.trueanthem.com
 0.0.0.0 matomo.eduwill.net
 0.0.0.0 telemetry.eyeo.com
 0.0.0.0 analytics.everythingstream.com
