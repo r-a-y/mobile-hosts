@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Sat, 31 Oct 2026 05:33:40 +0000
+# Last converted - Wed, 04 Nov 2026 06:09:46 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -415,6 +415,7 @@
 0.0.0.0 logs.netflix.com
 0.0.0.0 logx-experimentation.iherb.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 loki-ingest.fox.com
 0.0.0.0 love.vidora.su
 0.0.0.0 ma.gamersnexus.net
 0.0.0.0 ma.redhat.com
@@ -550,6 +551,7 @@
 0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 private.wccftech.com
 0.0.0.0 prod-events.nykaa.com
+0.0.0.0 prod-foxkit.kts.fox
 0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 proxima.midjourney.com
 0.0.0.0 pt.blubrry.com
