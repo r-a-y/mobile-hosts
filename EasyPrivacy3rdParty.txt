@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Sun, 01 Nov 2026 05:56:52 +0000
+# Last converted - Thu, 05 Nov 2026 06:38:28 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -755,6 +755,7 @@
 0.0.0.0 metrics.doppiostreams.com
 0.0.0.0 metrics.futureplc.engineering
 0.0.0.0 metrics.gs-chat.com
+0.0.0.0 metrics.kapa.ai
 0.0.0.0 metrics.kmsmep.com
 0.0.0.0 metrics.mdstrm.com
 0.0.0.0 metrics.nsureapi.com
