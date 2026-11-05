@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 04 Nov 2026 06:09:44 +0000
+# Last converted - Thu, 05 Nov 2026 06:38:26 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -1459,6 +1459,8 @@
 0.0.0.0 ws-goguardian.pusher.com
 0.0.0.0 x3-policy-maker.goguardian.com
 0.0.0.0 x3-predictor.goguardian.com
+0.0.0.0 post.eyepinnews.com
+0.0.0.0 news.post.at
 0.0.0.0 a.popin.cc
 0.0.0.0 trace.popin.cc
 0.0.0.0 rlog.popin.cc
@@ -113388,6 +113390,7 @@
 0.0.0.0 darkartsyoga.com
 0.0.0.0 darngavel.com
 0.0.0.0 dashingdrop.com
+0.0.0.0 dataconsumed.com
 0.0.0.0 datapickles.com
 0.0.0.0 datastoried.com
 0.0.0.0 daybreaklights.com
@@ -113434,6 +113437,7 @@
 0.0.0.0 dewdroplagoon.com
 0.0.0.0 dharmabrats.com
 0.0.0.0 dicecandies.com
+0.0.0.0 dicezing.com
 0.0.0.0 difficultfog.com
 0.0.0.0 digestiondrawer.com
 0.0.0.0 digitalatticnewsletter.com
@@ -114303,6 +114307,7 @@
 0.0.0.0 nexttopchef.com
 0.0.0.0 nicefollows.com
 0.0.0.0 nicehuh.com
+0.0.0.0 nicemenswear.com
 0.0.0.0 niftygraphs.com
 0.0.0.0 niftyhospital.com
 0.0.0.0 niftyjelly.com
@@ -114338,6 +114343,7 @@
 0.0.0.0 oafishchance.com
 0.0.0.0 oafishobservation.com
 0.0.0.0 objecthero.com
+0.0.0.0 objsoftware.com
 0.0.0.0 oblivionfleet.com
 0.0.0.0 obscenesidewalk.com
 0.0.0.0 obscurespace.com
@@ -114356,6 +114362,7 @@
 0.0.0.0 olivedaystee.com
 0.0.0.0 omegaroutes.com
 0.0.0.0 omgthink.com
+0.0.0.0 ominousmusic.com
 0.0.0.0 onecrow.net
 0.0.0.0 onedropocean.com
 0.0.0.0 onekindmarket.com
@@ -114370,6 +114377,7 @@
 0.0.0.0 opalquill.com
 0.0.0.0 operationchicken.com
 0.0.0.0 operationnail.com
+0.0.0.0 operawise.com
 0.0.0.0 optimallimit.com
 0.0.0.0 optionsnomad.com
 0.0.0.0 opulentsylvan.com
@@ -114417,10 +114425,12 @@
 0.0.0.0 passwordbyte.com
 0.0.0.0 pastoralroad.com
 0.0.0.0 pawsnug.com
+0.0.0.0 payiris.com
 0.0.0.0 peacefullimit.com
 0.0.0.0 peakcreator.com
 0.0.0.0 pearpouch.com
 0.0.0.0 peatfarming.com
+0.0.0.0 pedaldudes.com
 0.0.0.0 pedropanther.com
 0.0.0.0 peeringhost.net
 0.0.0.0 pegsbuttons.com
