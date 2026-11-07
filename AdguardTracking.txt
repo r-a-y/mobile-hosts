@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 06 Nov 2026 06:34:31 +0000
+# Last converted - Sat, 07 Nov 2026 05:53:08 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -107939,6 +107939,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 visor.sbrf.ru
+0.0.0.0 visor.sberbank.ru
 0.0.0.0 fluid-player-analytics.sky.it
 0.0.0.0 pbs.yahoo.com
 0.0.0.0 pbd.yahoo.com
@@ -114077,6 +114079,7 @@
 0.0.0.0 cartjoint.com
 0.0.0.0 cartlug.com
 0.0.0.0 carvecakes.com
+0.0.0.0 castlereach.com
 0.0.0.0 casualphysics.com
 0.0.0.0 catalogcake.com
 0.0.0.0 catlanguage.net
@@ -115481,6 +115484,7 @@
 0.0.0.0 pulsatingmeadow.com
 0.0.0.0 pumpedpancake.com
 0.0.0.0 pumpedpurpose.com
+0.0.0.0 puncherr.com
 0.0.0.0 punyplant.com
 0.0.0.0 puppetcorp.com
 0.0.0.0 puppiesart.com
