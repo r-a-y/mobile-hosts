@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 09 Nov 2026 06:16:29 +0000
+# Last converted - Tue, 10 Nov 2026 07:10:45 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -107939,6 +107939,10 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 tracklet.prod.tech.as-nmt.de
+0.0.0.0 stats.vidbolt.pro
+0.0.0.0 analytics.redflix.ac
+0.0.0.0 t.games.gg
 0.0.0.0 visor.sbrf.ru
 0.0.0.0 visor.sberbank.ru
 0.0.0.0 fluid-player-analytics.sky.it
@@ -112706,6 +112710,8 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
+0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 mkt.supercell.com
 0.0.0.0 collector.snowplow.supercell.com
 0.0.0.0 api-abtest-cdn.learnings.ai
@@ -114883,6 +114889,7 @@
 0.0.0.0 incomehippo.com
 0.0.0.0 incompetentjoke.com
 0.0.0.0 inconclusiveaction.com
+0.0.0.0 indieskills.com
 0.0.0.0 indscout.com
 0.0.0.0 infamousstream.com
 0.0.0.0 infinityhedge.com
@@ -114896,6 +114903,7 @@
 0.0.0.0 insectmacros.com
 0.0.0.0 insideinspire.com
 0.0.0.0 insidepsych.net
+0.0.0.0 insidercorp.net
 0.0.0.0 inspirebees.com
 0.0.0.0 insulatech.com
 0.0.0.0 intelligentscissors.com
@@ -115540,6 +115548,7 @@
 0.0.0.0 rangecake.com
 0.0.0.0 rangeplayground.com
 0.0.0.0 rangergustav.com
+0.0.0.0 rankaddict.com
 0.0.0.0 rarelyfans.com
 0.0.0.0 raresummer.com
 0.0.0.0 razzweb.com
@@ -115573,6 +115582,7 @@
 0.0.0.0 redbricksoap.com
 0.0.0.0 redexecs.com
 0.0.0.0 redmillgroup.com
+0.0.0.0 reelcombat.com
 0.0.0.0 reflectpaint.com
 0.0.0.0 refundradar.com
 0.0.0.0 regenergize.com
@@ -115583,6 +115593,7 @@
 0.0.0.0 reignfans.com
 0.0.0.0 relationrest.com
 0.0.0.0 releasepath.com
+0.0.0.0 relexpert.com
 0.0.0.0 rememberdiscussion.com
 0.0.0.0 remixbistro.com
 0.0.0.0 remixslot.com
@@ -115634,6 +115645,7 @@
 0.0.0.0 rockagainst.com
 0.0.0.0 rockcarving.com
 0.0.0.0 rocketmonitor.com
+0.0.0.0 rockspreading.com
 0.0.0.0 rockstarwriter.com
 0.0.0.0 roguephilosopher.com
 0.0.0.0 rollconnection.com
