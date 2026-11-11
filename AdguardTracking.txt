@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 10 Nov 2026 07:10:45 +0000
+# Last converted - Wed, 11 Nov 2026 06:06:42 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -107939,6 +107939,11 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ip-info.ff.avast.com
+0.0.0.0 ncc.avast.com
+0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 shepherd.ff.avast.com
+0.0.0.0 analytics.datacite.org
 0.0.0.0 tracklet.prod.tech.as-nmt.de
 0.0.0.0 stats.vidbolt.pro
 0.0.0.0 analytics.redflix.ac
@@ -112562,6 +112567,7 @@
 0.0.0.0 essential-apps-analytics.herokuapp.com
 0.0.0.0 d10vy5gom1ed53.cloudfront.net
 0.0.0.0 um-public-panel-prod.s3.amazonaws.com
+0.0.0.0 pisano.com.tr
 0.0.0.0 emrld.cc
 0.0.0.0 o11y-proxy-otel-frontend.meli.com
 0.0.0.0 mon.avito.ru
@@ -114910,6 +114916,7 @@
 0.0.0.0 intentlens.com
 0.0.0.0 internalcondition.com
 0.0.0.0 internalsink.com
+0.0.0.0 intobuddy.com
 0.0.0.0 intricateberry.com
 0.0.0.0 introjava.com
 0.0.0.0 inventtango.com
@@ -115020,6 +115027,7 @@
 0.0.0.0 lilydreamer.com
 0.0.0.0 limecodesign.com
 0.0.0.0 limepeal.com
+0.0.0.0 limitowl.com
 0.0.0.0 linksoutside.com
 0.0.0.0 linkstable.com
 0.0.0.0 littlegeese.com
@@ -115660,6 +115668,8 @@
 0.0.0.0 royalsbagels.com
 0.0.0.0 royalsweeper.com
 0.0.0.0 rubouthunger.com
+0.0.0.0 rubwonders.com
+0.0.0.0 rubymoonwinery.com
 0.0.0.0 rubyswinehouse.com
 0.0.0.0 ruralrobin.com
 0.0.0.0 rusticfrench.com
@@ -115729,6 +115739,7 @@
 0.0.0.0 screenphotos.com
 0.0.0.0 scribblestring.com
 0.0.0.0 scrollservice.com
+0.0.0.0 scrubchi.com
 0.0.0.0 scrubswim.com
 0.0.0.0 sealtravels.com
 0.0.0.0 seamlesssalon.com
