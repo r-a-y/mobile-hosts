@@ -1,7 +1,7 @@
 # AdguardMobileSpyware
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/SpywareFilter/sections/mobile.txt
-# Last converted - Tue, 10 Nov 2026 07:10:38 +0000
+# Last converted - Fri, 13 Nov 2026 06:35:36 +0000
 #
 
 0.0.0.0 adeventtracker.spotify.com
@@ -12,6 +12,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ace.naver.com
+0.0.0.0 fxltsbl.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
