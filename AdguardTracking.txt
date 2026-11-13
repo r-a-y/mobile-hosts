@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 12 Nov 2026 07:04:45 +0000
+# Last converted - Fri, 13 Nov 2026 06:35:43 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -114019,6 +114019,7 @@
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 ntracker-collector.naver.com
 0.0.0.0 ace.naver.com
+0.0.0.0 fxltsbl.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 flash.sec.intl.miui.com
 0.0.0.0 api.setting.intl.miui.com
@@ -116750,6 +116751,7 @@
 0.0.0.0 owlthegoodies.com
 0.0.0.0 owltin.com
 0.0.0.0 oxygenfuse.com
+0.0.0.0 paidjourneys.com
 0.0.0.0 pailcrime.com
 0.0.0.0 pailpatch.com
 0.0.0.0 painstakingpickle.com
@@ -116980,6 +116982,7 @@
 0.0.0.0 rebelswing.com
 0.0.0.0 rebootrewire.com
 0.0.0.0 receiptcent.com
+0.0.0.0 recenc.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recessrain.com
 0.0.0.0 recipearena.com
@@ -117124,6 +117127,7 @@
 0.0.0.0 scenicchicago.com
 0.0.0.0 scenicdrops.com
 0.0.0.0 scentedkindly.com
+0.0.0.0 scentsquare.com
 0.0.0.0 scholarloop.com
 0.0.0.0 scholarsark.com
 0.0.0.0 schoolpaws.com
@@ -117164,6 +117168,7 @@
 0.0.0.0 seenvault.com
 0.0.0.0 seespice.com
 0.0.0.0 selectivesummer.com
+0.0.0.0 selectscholars.com
 0.0.0.0 selfishsea.com
 0.0.0.0 selfishsnake.com
 0.0.0.0 sendinblast.com
@@ -117259,6 +117264,7 @@
 0.0.0.0 skylightdata.com
 0.0.0.0 slackpod.com
 0.0.0.0 slaysweater.com
+0.0.0.0 sleepfrankly.com
 0.0.0.0 slickcontent.com
 0.0.0.0 slimesupplies.net
 0.0.0.0 slimsense.net
@@ -117335,6 +117341,7 @@
 0.0.0.0 specialreview.net
 0.0.0.0 specialscissors.com
 0.0.0.0 specialtypin.com
+0.0.0.0 speciesjewelry.com
 0.0.0.0 spectacularstamp.com
 0.0.0.0 speedmethod.com
 0.0.0.0 speedysteaks.com
@@ -117380,6 +117387,7 @@
 0.0.0.0 squishybears.com
 0.0.0.0 squishykiosk.com
 0.0.0.0 stableapp.net
+0.0.0.0 stableparty.com
 0.0.0.0 stadiumzoo.net
 0.0.0.0 stakedances.com
 0.0.0.0 stakeschips.com
