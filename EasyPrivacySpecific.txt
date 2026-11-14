@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Thu, 12 Nov 2026 07:04:46 +0000
+# Last converted - Sat, 14 Nov 2026 06:13:13 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -143,6 +143,7 @@
 0.0.0.0 c.xbox.com
 0.0.0.0 cactus.joybuy.com
 0.0.0.0 cdapi.collegedunia.com
+0.0.0.0 cdid.trip.com
 0.0.0.0 cdn.eaec.fpfis.tech.ec.europa.eu
 0.0.0.0 cdp.howtotrade.com
 0.0.0.0 chloro.trip.com
@@ -317,6 +318,7 @@
 0.0.0.0 fp.uncensored.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-events.theintercept.com
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -491,6 +493,7 @@
 0.0.0.0 op.dragonfru.it
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 optimizely.techtarget.com
+0.0.0.0 otel-gw.booking.com
 0.0.0.0 otel-mobile.doordash.com
 0.0.0.0 p.codio.com
 0.0.0.0 p.controld.com
@@ -587,6 +590,7 @@
 0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 rfk.biglots.com
 0.0.0.0 ring.staticmoly.me
+0.0.0.0 riskpoc.trip.com
 0.0.0.0 roas-service.store-services-prod.remarkable.com
 0.0.0.0 rps-p2.rockpapershotgun.com
 0.0.0.0 rps-uk.rockpapershotgun.com
@@ -619,6 +623,7 @@
 0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
+0.0.0.0 sink.gw.booking.com
 0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 smetrics.couponcabin.com
