@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Thu, 12 Nov 2026 07:04:46 +0000
+# Last converted - Sat, 14 Nov 2026 06:13:13 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -68,6 +68,7 @@
 0.0.0.0 analytics.agoda.com
 0.0.0.0 analytics.aimtell.com
 0.0.0.0 analytics.algolia.com
+0.0.0.0 analytics.alvarezrosa.com
 0.0.0.0 analytics.amakings.com
 0.0.0.0 analytics.api.justeattakeaway.com
 0.0.0.0 analytics.apnewsregistry.com
@@ -80,6 +81,7 @@
 0.0.0.0 analytics.bhaskarsaikia.in
 0.0.0.0 analytics.bitrix.info
 0.0.0.0 analytics.bomiv.com
+0.0.0.0 analytics.bucks.helixo.co
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.carbaselive.com
 0.0.0.0 analytics.chegg.com
@@ -324,6 +326,7 @@
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdn.seonintelligence.com
 0.0.0.0 cdn.usefathom.com
+0.0.0.0 cdn.visits.dqapis.com
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cf-pixelfront-analytics.widencdn.net
 0.0.0.0 cf.api.instant.one
@@ -484,6 +487,7 @@
 0.0.0.0 ecommerce-events.adscale.com
 0.0.0.0 ecommstats.s3.amazonaws.com
 0.0.0.0 edge.venatusmedia.com
+0.0.0.0 edge.wingify.net
 0.0.0.0 eel.transistor.fm
 0.0.0.0 emrld.cc
 0.0.0.0 enc-90128738.b-cdn.net
@@ -793,6 +797,7 @@
 0.0.0.0 native-ads-events-api2.c4s-rd.services
 0.0.0.0 neocounter.neoworx-blog-tools.net
 0.0.0.0 netlify-rum.netlify.app
+0.0.0.0 nexus.firecrown.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
 0.0.0.0 noa.yahoo.com
@@ -990,6 +995,7 @@
 0.0.0.0 rum.uptime.com
 0.0.0.0 rumstat.cdnvideo.ru
 0.0.0.0 rw.marchex.io
+0.0.0.0 rybbit-analytics.livecounts.io
 0.0.0.0 rybbit.sg-app.com
 0.0.0.0 s.autopilotapp.com
 0.0.0.0 s.axon.ai
@@ -1186,6 +1192,7 @@
 0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 tag.aumago.com
 0.0.0.0 tag.brandcdn.com
+0.0.0.0 tag.decentriq.com
 0.0.0.0 tag.digops.sincro.io
 0.0.0.0 tag.elevaate.io
 0.0.0.0 tag.flagship.io
