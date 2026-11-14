@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 13 Nov 2026 06:35:43 +0000
+# Last converted - Sat, 14 Nov 2026 06:13:11 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 viewanalitycs.org
 0.0.0.0 stats.raiansar.com
 0.0.0.0 actone.app
 0.0.0.0 anakhoki168.com
@@ -107963,6 +107964,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 events.plus.yandex.net
 0.0.0.0 20251117mix.zgstongji.vip
 0.0.0.0 2702.anglicanledger.org
 0.0.0.0 98f316a886735460.pornfans.st
@@ -108865,7 +108867,6 @@
 0.0.0.0 s2.gameanswers.net
 0.0.0.0 server-side-tagging-ycy2jyrtma-uc.a.run.app
 0.0.0.0 serverside.myticket.de
-0.0.0.0 sgimage.netmarble.com
 0.0.0.0 sgtm.arezki.cloud
 0.0.0.0 sgtm.ebikecenter.fi
 0.0.0.0 sgtm.rhenus-office.pl
@@ -117060,6 +117061,7 @@
 0.0.0.0 rockagainst.com
 0.0.0.0 rockcarving.com
 0.0.0.0 rocketmonitor.com
+0.0.0.0 rocketserver.net
 0.0.0.0 rockspreading.com
 0.0.0.0 rockstarwriter.com
 0.0.0.0 roguephilosopher.com
@@ -117338,6 +117340,7 @@
 0.0.0.0 spareapp.com
 0.0.0.0 sparkgoal.com
 0.0.0.0 sparklingshelf.com
+0.0.0.0 spasmgame.com
 0.0.0.0 specialreview.net
 0.0.0.0 specialscissors.com
 0.0.0.0 specialtypin.com
@@ -117528,6 +117531,7 @@
 0.0.0.0 tastesnake.com
 0.0.0.0 tawdryson.com
 0.0.0.0 taxisubsea.com
+0.0.0.0 taxiwear.com
 0.0.0.0 tealjewel.com
 0.0.0.0 teamstatus.net
 0.0.0.0 tearfulglass.com
@@ -117546,6 +117550,7 @@
 0.0.0.0 teeshining.com
 0.0.0.0 telephoneapparatus.com
 0.0.0.0 tempertrick.com
+0.0.0.0 tempowraps.com
 0.0.0.0 temptteam.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenhourweek.com
@@ -117852,6 +117857,7 @@
 0.0.0.0 wtaccesscontrol.com
 0.0.0.0 yachtloft.com
 0.0.0.0 yellowscissors.com
+0.0.0.0 yetiminis.com
 0.0.0.0 yieldingwoman.com
 0.0.0.0 youcandrawanything.com
 0.0.0.0 yourgiftedbaby.com
