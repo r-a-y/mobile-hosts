@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Mon, 16 Nov 2026 06:19:55 +0000
+# Last converted - Tue, 17 Nov 2026 07:49:32 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -107964,6 +107964,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 stats.proxypurity.com
+0.0.0.0 cast-imp.jtbc.co.kr
 0.0.0.0 beacon.viafoura.io
 0.0.0.0 events.plus.yandex.net
 0.0.0.0 20251117mix.zgstongji.vip
@@ -117369,6 +117371,7 @@
 0.0.0.0 spoonsilk.com
 0.0.0.0 sportsclubstat.com
 0.0.0.0 sportsnearby.com
+0.0.0.0 sportswidows.com
 0.0.0.0 sportybrains.com
 0.0.0.0 sportyforum.com
 0.0.0.0 spotlessstamp.com
@@ -117622,6 +117625,7 @@
 0.0.0.0 topcrazypress.com
 0.0.0.0 topicalcartel.com
 0.0.0.0 topicjungle.com
+0.0.0.0 topicspin.com
 0.0.0.0 toplaunch.net
 0.0.0.0 topratedwaterfilter.com
 0.0.0.0 topsecretapp.net
@@ -117649,6 +117653,7 @@
 0.0.0.0 treatoceans.com
 0.0.0.0 tremendousplastic.com
 0.0.0.0 tremendoustime.com
+0.0.0.0 trendcone.com
 0.0.0.0 trialowl.com
 0.0.0.0 trickfile.com
 0.0.0.0 triplelarge.com
@@ -117754,6 +117759,7 @@
 0.0.0.0 viowrel.com
 0.0.0.0 viralfoodie.net
 0.0.0.0 virtualvincent.com
+0.0.0.0 vistacool.net
 0.0.0.0 visualcommservices.com
 0.0.0.0 vividcache.com
 0.0.0.0 vividcanopy.com
@@ -117773,15 +117779,18 @@
 0.0.0.0 wafflemakers.net
 0.0.0.0 waitingnumber.com
 0.0.0.0 walkourworld.com
+0.0.0.0 wanmatures.com
 0.0.0.0 wantingwindow.com
 0.0.0.0 warmafterthought.com
 0.0.0.0 warnwing.com
 0.0.0.0 warpedwaffle.com
 0.0.0.0 washbanana.com
+0.0.0.0 waterloco.com
 0.0.0.0 waterywave.com
 0.0.0.0 waveinverter.com
 0.0.0.0 wavesimple.com
 0.0.0.0 wavesmachine.com
+0.0.0.0 waxguide.com
 0.0.0.0 waxsirens.com
 0.0.0.0 wayjoyfarm.com
 0.0.0.0 waylowrates.net
