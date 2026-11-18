@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Tue, 17 Nov 2026 07:49:33 +0000
+# Last converted - Wed, 18 Nov 2026 07:19:47 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -523,6 +523,7 @@
 0.0.0.0 event.api.instant.one
 0.0.0.0 event.collector.scopely.io
 0.0.0.0 event.instiengage.com
+0.0.0.0 event.prod.asgard.hullabalook.com
 0.0.0.0 event.syftdata.com
 0.0.0.0 event.syndigo.cloud
 0.0.0.0 event.webcollage.net
