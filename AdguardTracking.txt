@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 17 Nov 2026 07:49:32 +0000
+# Last converted - Wed, 18 Nov 2026 07:19:45 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,9 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 bianopixel.com
+0.0.0.0 connect.liblynx.com
+0.0.0.0 badge.dimensions.ai
 0.0.0.0 viewanalitycs.org
 0.0.0.0 stats.raiansar.com
 0.0.0.0 actone.app
@@ -115577,6 +115580,7 @@
 0.0.0.0 clumsycar.com
 0.0.0.0 clutchcourses.com
 0.0.0.0 coalkitchen.com
+0.0.0.0 coalmerchants.com
 0.0.0.0 coastersim.com
 0.0.0.0 coatfood.com
 0.0.0.0 cobaltoverture.com
@@ -117831,12 +117835,14 @@
 0.0.0.0 wildcommittee.com
 0.0.0.0 wildpetalfarm.com
 0.0.0.0 wildwoodavenue.com
+0.0.0.0 willcollect.com
 0.0.0.0 windbeetle.com
 0.0.0.0 windflamesky.com
 0.0.0.0 windwardhollow.com
 0.0.0.0 windyclaim.com
 0.0.0.0 wingstowheels.com
 0.0.0.0 wirecomic.com
+0.0.0.0 wiredcarts.com
 0.0.0.0 wiredforcoffee.com
 0.0.0.0 wirenewsletter.com
 0.0.0.0 wisedotcom.com
@@ -117850,6 +117856,7 @@
 0.0.0.0 wizardbuck.com
 0.0.0.0 wizardstrategy.com
 0.0.0.0 wondermakings.com
+0.0.0.0 woodstockcustom.com
 0.0.0.0 woofweather.com
 0.0.0.0 woolstapler.com
 0.0.0.0 wordchip.com
@@ -117879,6 +117886,7 @@
 0.0.0.0 youcandrawanything.com
 0.0.0.0 yourgiftedbaby.com
 0.0.0.0 yourlifedream.com
+0.0.0.0 yourownexpert.com
 0.0.0.0 zanyapps.com
 0.0.0.0 zapandmake.com
 0.0.0.0 zephyrcatalyst.com
