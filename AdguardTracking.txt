@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 18 Nov 2026 07:19:45 +0000
+# Last converted - Thu, 19 Nov 2026 07:17:19 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cognitivlabs.com
 0.0.0.0 bianopixel.com
 0.0.0.0 connect.liblynx.com
 0.0.0.0 badge.dimensions.ai
@@ -110078,6 +110079,7 @@
 0.0.0.0 r.melius.com
 0.0.0.0 r.planerange.com
 0.0.0.0 r.typesafe.ai
+0.0.0.0 rainbow.sheepesports.com
 0.0.0.0 ramen.nomorenames.studio
 0.0.0.0 relay.artdecoded.app
 0.0.0.0 relay.talking-avatar.dev
@@ -115273,6 +115275,7 @@
 0.0.0.0 awarealley.com
 0.0.0.0 awaybound.com
 0.0.0.0 awzbijw.com
+0.0.0.0 axcii.com
 0.0.0.0 axiomaticanger.com
 0.0.0.0 axonsite.com
 0.0.0.0 azuremystique.com
@@ -115324,6 +115327,7 @@
 0.0.0.0 beginnerpancake.com
 0.0.0.0 beholdthyson.com
 0.0.0.0 benchlamp.com
+0.0.0.0 benefitboys.com
 0.0.0.0 benefitssense.com
 0.0.0.0 bentengine.com
 0.0.0.0 berserkhydrant.com
@@ -115458,6 +115462,7 @@
 0.0.0.0 buttonladybug.com
 0.0.0.0 buzzaoutlet.com
 0.0.0.0 buzzfry.com
+0.0.0.0 cabstrategy.com
 0.0.0.0 cafefrench.com
 0.0.0.0 cafejunior.net
 0.0.0.0 cafescampfires.com
@@ -115592,6 +115597,7 @@
 0.0.0.0 coffeesidehustle.com
 0.0.0.0 coldbalance.com
 0.0.0.0 coldcallpro.com
+0.0.0.0 coldcrucible.com
 0.0.0.0 coloradoserves.com
 0.0.0.0 colorandnoise.com
 0.0.0.0 colorfulneon.com
@@ -115609,6 +115615,7 @@
 0.0.0.0 cometquote.com
 0.0.0.0 comfortablecheese.com
 0.0.0.0 commitlogs.com
+0.0.0.0 commswap.com
 0.0.0.0 comparereaction.com
 0.0.0.0 compilework.com
 0.0.0.0 condemnedcomb.com
@@ -116747,6 +116754,7 @@
 0.0.0.0 outdoorthingy.com
 0.0.0.0 outerwords.com
 0.0.0.0 outletpeople.com
+0.0.0.0 outpro.net
 0.0.0.0 outsidevibe.com
 0.0.0.0 overconfidentfood.com
 0.0.0.0 overkick.com
@@ -117807,6 +117815,7 @@
 0.0.0.0 websitesdude.com
 0.0.0.0 webspa.net
 0.0.0.0 webspires.net
+0.0.0.0 webworksworld.com
 0.0.0.0 weeklycurrents.com
 0.0.0.0 wellbeingforce.com
 0.0.0.0 wellgroomedapparel.com
@@ -117883,6 +117892,7 @@
 0.0.0.0 yellowscissors.com
 0.0.0.0 yetiminis.com
 0.0.0.0 yieldingwoman.com
+0.0.0.0 youanonymous.com
 0.0.0.0 youcandrawanything.com
 0.0.0.0 yourgiftedbaby.com
 0.0.0.0 yourlifedream.com
