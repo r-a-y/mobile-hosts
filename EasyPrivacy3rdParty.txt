@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Wed, 18 Nov 2026 07:19:47 +0000
+# Last converted - Thu, 19 Nov 2026 07:17:22 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -610,6 +610,7 @@
 0.0.0.0 galileotelemetry.tencent.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 gateway.foresee.com
+0.0.0.0 gator.volces.com
 0.0.0.0 gcp.fasthorse.workers.dev
 0.0.0.0 genesis.malwarebytes.com
 0.0.0.0 geo.bdg.com
@@ -804,6 +805,7 @@
 0.0.0.0 nexus.firecrown.com
 0.0.0.0 ninja.onap.io
 0.0.0.0 nitrous-analytics.s3.amazonaws.com
+0.0.0.0 nlog.instajob.ai
 0.0.0.0 noa.yahoo.com
 0.0.0.0 noflake-aggregator-http.narvar.com
 0.0.0.0 nol.yahoo.com
@@ -945,6 +947,7 @@
 0.0.0.0 pulse.ecmapps.com
 0.0.0.0 pulse.shopflo.com
 0.0.0.0 pv-track.pxtrkapp.com
+0.0.0.0 pv-track.venatus.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.mountain.com
 0.0.0.0 px.owneriq.net
@@ -1023,6 +1026,7 @@
 0.0.0.0 session.timecommerce.net
 0.0.0.0 sessions.embeddables.com
 0.0.0.0 sftrack.searchforce.net
+0.0.0.0 sg-fp.apitd.net
 0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 sgm-w.jd.com
 0.0.0.0 shared.65twenty.com
