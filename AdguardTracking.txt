@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 20 Nov 2026 07:06:33 +0000
+# Last converted - Sat, 21 Nov 2026 06:59:17 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -286,7 +286,7 @@
 0.0.0.0 api.eventbus.me
 0.0.0.0 rumt-sg.com
 0.0.0.0 gm.mmstat.com
-0.0.0.0 yazio-analytics.com
+0.0.0.0 event-ingestion.yazio-analytics.com
 0.0.0.0 hightouch-events.com
 0.0.0.0 rtbuniverse.com
 0.0.0.0 imp_track.zmaticoo.com
@@ -111155,7 +111155,6 @@
 0.0.0.0 fxgate.baidu.com
 0.0.0.0 p.controld.com
 0.0.0.0 collector.bsg.brave.com
-0.0.0.0 sy.ameba.jp
 0.0.0.0 tracker.uira.live
 0.0.0.0 col.surfside.io
 0.0.0.0 tsn.dmcmedia.co.kr
@@ -115601,6 +115600,7 @@
 0.0.0.0 coldcrucible.com
 0.0.0.0 coloradoserves.com
 0.0.0.0 colorandnoise.com
+0.0.0.0 colorfilter.net
 0.0.0.0 colorfulneon.com
 0.0.0.0 colorfulpet.com
 0.0.0.0 coloroptimizer.com
@@ -116281,6 +116281,7 @@
 0.0.0.0 hospitablehall.com
 0.0.0.0 hospitablehat.com
 0.0.0.0 hostchutney.com
+0.0.0.0 housewheels.com
 0.0.0.0 howdoesthislook.com
 0.0.0.0 hubcapcafe.net
 0.0.0.0 humbleroots.net
@@ -116534,6 +116535,7 @@
 0.0.0.0 marsnextdoor.com
 0.0.0.0 mascguys.com
 0.0.0.0 maskedadmin.com
+0.0.0.0 masondown.com
 0.0.0.0 masseurexpress.com
 0.0.0.0 massivemark.com
 0.0.0.0 masterenter.com
@@ -116680,6 +116682,7 @@
 0.0.0.0 nimbleplot.com
 0.0.0.0 nimbuswatersystem.com
 0.0.0.0 ninjatravels.com
+0.0.0.0 nitrojiveband.com
 0.0.0.0 noblecables.com
 0.0.0.0 noblefellow.com
 0.0.0.0 nodenotify.com
@@ -116750,6 +116753,7 @@
 0.0.0.0 orangebirdie.com
 0.0.0.0 orchidgenius.com
 0.0.0.0 orderjumper.com
+0.0.0.0 ordinalzero.com
 0.0.0.0 orgbackups.com
 0.0.0.0 orientedargument.com
 0.0.0.0 originblocks.com
@@ -116983,6 +116987,7 @@
 0.0.0.0 rangeplayground.com
 0.0.0.0 rangergustav.com
 0.0.0.0 rankaddict.com
+0.0.0.0 rapidscraper.com
 0.0.0.0 rarelyfans.com
 0.0.0.0 raresummer.com
 0.0.0.0 razzweb.com
