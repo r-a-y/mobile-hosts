@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Fri, 20 Nov 2026 07:06:35 +0000
+# Last converted - Sun, 22 Nov 2026 06:39:51 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -20,7 +20,6 @@
 0.0.0.0 acjs.aliyun.com
 0.0.0.0 activity.fiverr.com
 0.0.0.0 adc-js.nine.com.au
-0.0.0.0 adl.bankofthewest.com
 0.0.0.0 adtech-events.bookmyshow.com
 0.0.0.0 adv.drtuber.com
 0.0.0.0 aegis.trovo.live
@@ -45,7 +44,6 @@
 0.0.0.0 analytics.3c5.com
 0.0.0.0 analytics.academy.com
 0.0.0.0 analytics.ahrefs.dev
-0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.atom.com
 0.0.0.0 analytics.bitchute.com
 0.0.0.0 analytics.brave.com
@@ -108,6 +106,7 @@
 0.0.0.0 aptoide-mmp.aptoide.com
 0.0.0.0 arc.msn.com
 0.0.0.0 asanalytics.booking.com
+0.0.0.0 athena.archive.org
 0.0.0.0 ats.alot.com
 0.0.0.0 aurum.tirto.id
 0.0.0.0 b2c-unleash-proxy.fresha.com
@@ -320,7 +319,11 @@
 0.0.0.0 fp.uncensored.com
 0.0.0.0 fpa-cdn.adweek.com
 0.0.0.0 fpa-cdn.arstechnica.com
+0.0.0.0 fpa-cdn.nbcnews.com
+0.0.0.0 fpa-cdn.today.com
+0.0.0.0 fpa-events.nbcnews.com
 0.0.0.0 fpa-events.theintercept.com
+0.0.0.0 fpa-events.today.com
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpt.microsoft.com
 0.0.0.0 fresnel-events.vimeocdn.com
@@ -628,6 +631,7 @@
 0.0.0.0 sherlock-events-sampler.ebay.com
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 sid.nordstrom.com
+0.0.0.0 sink.archive.org
 0.0.0.0 sink.gw.booking.com
 0.0.0.0 sjc.cloud.optable.co
 0.0.0.0 slipstream.skyscanner.net
