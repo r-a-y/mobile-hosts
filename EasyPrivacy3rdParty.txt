@@ -1,7 +1,7 @@
 # EasyPrivacy3rdParty
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_thirdparty.txt
-# Last converted - Fri, 20 Nov 2026 07:06:35 +0000
+# Last converted - Mon, 23 Nov 2026 07:28:50 +0000
 #
 
 0.0.0.0 3j0pw4ed7uac-a.akamaihd.net
@@ -170,6 +170,7 @@
 0.0.0.0 analytics.sayprimer.com
 0.0.0.0 analytics.scorpion.co
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analytics.shelbyklein.com
 0.0.0.0 analytics.shorte.st
 0.0.0.0 analytics.shorthand.com
 0.0.0.0 analytics.sitewit.com
@@ -587,6 +588,7 @@
 0.0.0.0 fcmatch.youtube.com
 0.0.0.0 fgip.rosehosting.com
 0.0.0.0 filament-stats.herokuapp.com
+0.0.0.0 fingerprint.blockifyapp.com
 0.0.0.0 fingerprinter-production.herokuapp.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 fkrkkmxsqeb5bj9r.s3.amazonaws.com
@@ -677,6 +679,7 @@
 0.0.0.0 ingesteer.services-prod.nsvcs.net
 0.0.0.0 ingress.trendii.com
 0.0.0.0 ins.connatix.com
+0.0.0.0 insights-tag.convertkit.com
 0.0.0.0 insights.algolia.io
 0.0.0.0 insights.playpilot.net
 0.0.0.0 insights.sitesearch360.com
