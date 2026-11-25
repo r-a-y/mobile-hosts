@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Tue, 24 Nov 2026 09:48:15 +0000
+# Last converted - Wed, 25 Nov 2026 08:24:03 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -89,6 +89,8 @@
 0.0.0.0 g.rtbrain.app
 0.0.0.0 manus-analytics.com
 0.0.0.0 rt.buzzni.com
+0.0.0.0 track.did.kr
+0.0.0.0 analytics.did.kr
 0.0.0.0 tracking.trickbyte.com
 0.0.0.0 analytics-event.com
 0.0.0.0 integrations-itbl.co
@@ -110867,6 +110869,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ingest.t3.codes
 0.0.0.0 stats.proxypurity.com
 0.0.0.0 cast-imp.jtbc.co.kr
 0.0.0.0 beacon.viafoura.io
@@ -113168,6 +113171,7 @@
 0.0.0.0 track.eventail.bg
 0.0.0.0 track.solunexnexoria.vip
 0.0.0.0 track.zoacademia.club
+0.0.0.0 tracker.beam.remp.startitup.sk
 0.0.0.0 tracking.bolt.eu
 0.0.0.0 tracking.facts.hk
 0.0.0.0 tracking.joker.com
@@ -119251,6 +119255,7 @@
 0.0.0.0 itsdonelist.com
 0.0.0.0 itsmatchtime.com
 0.0.0.0 itsviral.net
+0.0.0.0 ivoryandcrow.com
 0.0.0.0 ivykiosk.com
 0.0.0.0 j93557g.com
 0.0.0.0 jackalsmovie.com
