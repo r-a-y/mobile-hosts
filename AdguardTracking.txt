@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Wed, 25 Nov 2026 08:24:03 +0000
+# Last converted - Thu, 26 Nov 2026 08:08:46 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,10 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 clerk-telemetry.com
+0.0.0.0 ghtinc.com
+0.0.0.0 download.gameanalytics.com
+0.0.0.0 stmtag.ru
 0.0.0.0 dataplane.rudderstack.com
 0.0.0.0 api.rudderstack.com
 0.0.0.0 cognitivlabs.com
@@ -110869,6 +110873,8 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 dsh-otel-collector.deepseeksvc.com
+0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 ingest.t3.codes
 0.0.0.0 stats.proxypurity.com
 0.0.0.0 cast-imp.jtbc.co.kr
@@ -118180,6 +118186,7 @@
 0.0.0.0 awaybound.com
 0.0.0.0 awzbijw.com
 0.0.0.0 axcii.com
+0.0.0.0 axedint.com
 0.0.0.0 axiomaticanger.com
 0.0.0.0 axonsite.com
 0.0.0.0 azuremystique.com
@@ -118458,6 +118465,7 @@
 0.0.0.0 chipperisle.com
 0.0.0.0 chivalrouscord.com
 0.0.0.0 choicebump.com
+0.0.0.0 choosehobby.com
 0.0.0.0 chubbycreature.com
 0.0.0.0 chunkycactus.com
 0.0.0.0 cicdserver.com
@@ -118720,6 +118728,7 @@
 0.0.0.0 dollardelta.com
 0.0.0.0 dollarpuzzle.com
 0.0.0.0 dollarthrill.com
+0.0.0.0 dolphinplate.com
 0.0.0.0 dolphinsrule.com
 0.0.0.0 domaincolumn.com
 0.0.0.0 doomhedge.com
@@ -118900,6 +118909,7 @@
 0.0.0.0 figurehunter.net
 0.0.0.0 fileshareengine.com
 0.0.0.0 fillthemap.com
+0.0.0.0 filmcomm.net
 0.0.0.0 filtercutter.com
 0.0.0.0 finalizeforce.com
 0.0.0.0 finalleague.com
@@ -120555,6 +120565,7 @@
 0.0.0.0 tiltonbots.com
 0.0.0.0 timecrossed.com
 0.0.0.0 timelessyes.com
+0.0.0.0 timeprince.com
 0.0.0.0 tinybluewhale.com
 0.0.0.0 tinybodega.com
 0.0.0.0 tinyswans.com
