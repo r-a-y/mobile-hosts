@@ -1,7 +1,7 @@
 # EasyPrivacySpecific
 #
 # Converted from - https://raw.githubusercontent.com/easylist/easylist/master/easyprivacy/easyprivacy_specific.txt
-# Last converted - Wed, 25 Nov 2026 08:24:05 +0000
+# Last converted - Thu, 26 Nov 2026 08:08:48 +0000
 #
 
 0.0.0.0 1rer.hummel.net
@@ -911,10 +911,12 @@
 0.0.0.0 customer.homedepot.com
 0.0.0.0 drfdisvc.walmart.com
 0.0.0.0 event.evtm.53.com
+0.0.0.0 gtm.mozilla.org
 0.0.0.0 idhtm.bb.com.br
 0.0.0.0 idstatus.sky.com
 0.0.0.0 img2021.navyfederal.org
 0.0.0.0 imgs.signifyd.com
+0.0.0.0 ingest.t3.codes
 0.0.0.0 l.ca.ovhcloud.com
 0.0.0.0 log-185a61e7.bendigobank.com.au
 0.0.0.0 log-2ffe60ee.westpac.com.au
@@ -929,6 +931,7 @@
 0.0.0.0 tmetrix.my.chick-fil-a.com
 0.0.0.0 tmx.bestbuy.com
 0.0.0.0 tmx.td.com
+0.0.0.0 trc-events.taboola.com
 0.0.0.0 u46.pnc.com
 0.0.0.0 u47.pnc.com
 0.0.0.0 w-profiling.cibc.com
