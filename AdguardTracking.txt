@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Thu, 26 Nov 2026 08:08:46 +0000
+# Last converted - Fri, 27 Nov 2026 08:19:31 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -110873,6 +110873,9 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ap-prd-edge-clientlog.nexon.com
+0.0.0.0 toy.log.nexon.io
+0.0.0.0 pan.pazarama.com
 0.0.0.0 dsh-otel-collector.deepseeksvc.com
 0.0.0.0 tag.atom.gamedistribution.com
 0.0.0.0 ingest.t3.codes
@@ -111118,6 +111121,7 @@
 0.0.0.0 aura.fairyaura.com
 0.0.0.0 b.csquaregrc.com
 0.0.0.0 b.dora.work
+0.0.0.0 beam.denikn.cz
 0.0.0.0 beats.churchdesk.com
 0.0.0.0 blog-analytics.hskl.me
 0.0.0.0 bmf7ct7jmk.baronrojolapelicula.com
@@ -117036,6 +117040,7 @@
 0.0.0.0 int.vlancaa.site
 0.0.0.0 int.vlancaa.fun
 0.0.0.0 tok.vaicore.xyz
+0.0.0.0 appmetrica.sovcombank.ru
 0.0.0.0 pp3-sdkdata-v2.profilepassport.jp
 0.0.0.0 lw-c-log.lastwarapp.net
 0.0.0.0 mkt.supercell.com
@@ -118241,6 +118246,7 @@
 0.0.0.0 benefitboys.com
 0.0.0.0 benefitssense.com
 0.0.0.0 bentengine.com
+0.0.0.0 berrytots.com
 0.0.0.0 berserkhydrant.com
 0.0.0.0 bestboundary.com
 0.0.0.0 bestclimbers.net
@@ -119151,6 +119157,7 @@
 0.0.0.0 healthyclad.com
 0.0.0.0 heartbreakingmind.com
 0.0.0.0 hearthow.com
+0.0.0.0 heathstyle.com
 0.0.0.0 heatrave.com
 0.0.0.0 heavydetail.com
 0.0.0.0 heavyplayground.com
@@ -119198,6 +119205,7 @@
 0.0.0.0 hostchutney.com
 0.0.0.0 housewheels.com
 0.0.0.0 howdoesthislook.com
+0.0.0.0 howglam.com
 0.0.0.0 hubcapcafe.net
 0.0.0.0 humbleroots.net
 0.0.0.0 humdrumhobbies.com
@@ -119374,6 +119382,7 @@
 0.0.0.0 littlesun.net
 0.0.0.0 livelumber.com
 0.0.0.0 livelylaugh.com
+0.0.0.0 livingoff.com
 0.0.0.0 livingsleet.com
 0.0.0.0 lizardslaugh.com
 0.0.0.0 llamavoice.com
@@ -119453,6 +119462,7 @@
 0.0.0.0 marriedvalue.com
 0.0.0.0 marsnextdoor.com
 0.0.0.0 mascguys.com
+0.0.0.0 maskdomains.com
 0.0.0.0 maskedadmin.com
 0.0.0.0 masondown.com
 0.0.0.0 masseurexpress.com
