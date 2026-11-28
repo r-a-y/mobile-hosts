@@ -1,7 +1,7 @@
 # AdguardTracking
 #
 # Converted from - https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_3_Spyware/filter.txt
-# Last converted - Fri, 27 Nov 2026 08:19:31 +0000
+# Last converted - Sat, 28 Nov 2026 07:40:30 +0000
 #
 
 0.0.0.0 mon.snssdk.com
@@ -10,6 +10,7 @@
 0.0.0.0 ib.snssdk.com
 0.0.0.0 xlog.snssdk.com
 0.0.0.0 log.snssdk.com
+0.0.0.0 cdn.diginetica.net
 0.0.0.0 clerk-telemetry.com
 0.0.0.0 ghtinc.com
 0.0.0.0 download.gameanalytics.com
@@ -110873,6 +110874,7 @@
 0.0.0.0 wz.allianz.fr
 0.0.0.0 ct.pinterest.com
 0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 ac.avito.ru
 0.0.0.0 ap-prd-edge-clientlog.nexon.com
 0.0.0.0 toy.log.nexon.io
 0.0.0.0 pan.pazarama.com
@@ -119471,6 +119473,7 @@
 0.0.0.0 materialisticmoon.com
 0.0.0.0 materialmilk.com
 0.0.0.0 materialparcel.com
+0.0.0.0 mathrevolt.com
 0.0.0.0 maxcruisers.com
 0.0.0.0 maybetony.com
 0.0.0.0 meadowlullaby.com
@@ -119486,6 +119489,7 @@
 0.0.0.0 melodiousharmony.com
 0.0.0.0 melodioussymphony.com
 0.0.0.0 melodyglobe.com
+0.0.0.0 melodyivory.com
 0.0.0.0 meltmilk.com
 0.0.0.0 membernook.com
 0.0.0.0 memeorigin.com
@@ -119504,6 +119508,7 @@
 0.0.0.0 mesaviewlodge.com
 0.0.0.0 messagelists.com
 0.0.0.0 messmonster.com
+0.0.0.0 messrod.com
 0.0.0.0 messyoranges.com
 0.0.0.0 metajaws.com
 0.0.0.0 metalsfactory.com
@@ -119566,6 +119571,7 @@
 0.0.0.0 mutualdocs.com
 0.0.0.0 mysketchpad.com
 0.0.0.0 mysticalagoon.com
+0.0.0.0 mythweaver.net
 0.0.0.0 nablounge.com
 0.0.0.0 naillearn.com
 0.0.0.0 naivestatement.com
@@ -119736,6 +119742,7 @@
 0.0.0.0 pedropanther.com
 0.0.0.0 peeringhost.net
 0.0.0.0 pegsbuttons.com
+0.0.0.0 penbuzz.com
 0.0.0.0 peoplebrain.net
 0.0.0.0 pepperrun.com
 0.0.0.0 perfectfetch.com
@@ -119764,6 +119771,7 @@
 0.0.0.0 piquantprice.com
 0.0.0.0 piquantvortex.com
 0.0.0.0 pitmanmusic.com
+0.0.0.0 pivotfresh.com
 0.0.0.0 pixeledhub.com
 0.0.0.0 pixelmoonstudio.com
 0.0.0.0 pixeltrouble.com
@@ -120688,6 +120696,7 @@
 0.0.0.0 usabilitybook.com
 0.0.0.0 uselesslumber.com
 0.0.0.0 userballot.com
+0.0.0.0 usersays.com
 0.0.0.0 utopiaband.net
 0.0.0.0 vacationsgolf.com
 0.0.0.0 validmemo.com
